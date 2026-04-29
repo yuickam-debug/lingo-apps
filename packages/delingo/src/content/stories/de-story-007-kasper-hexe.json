@@ -1,0 +1,346 @@
+{
+  "id": "de-kasper-hexe-01",
+  "title": "Kasper und die Hexe",
+  "level": "A1",
+  "genre": "kaspertheater",
+  "source": "Traditional Kaspertheater, adapted for DELingo",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Kasper geht in den dunklen Wald.",
+      "translation": "Kasper goes into the dark forest.",
+      "words": [
+        {
+          "word": "geht",
+          "definition": "goes / walks",
+          "partOfSpeech": "verb",
+          "grammar": "gehen · present tense · 3rd person singular"
+        },
+        {
+          "word": "in den dunklen Wald",
+          "definition": "into the dark forest",
+          "partOfSpeech": "prepositional phrase",
+          "grammar": "in + accusative (movement into a place) · der Wald → den Wald · dunklen = adjective with weak ending after definite article"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Dort wohnt eine alte Hexe.",
+      "translation": "There lives an old witch.",
+      "words": [
+        {
+          "word": "Dort",
+          "definition": "there",
+          "partOfSpeech": "adverb",
+          "grammar": "location adverb · sentence-opening position triggers inversion: wohnt comes before eine Hexe"
+        },
+        {
+          "word": "wohnt",
+          "definition": "lives / resides",
+          "partOfSpeech": "verb",
+          "grammar": "wohnen · present tense · 3rd person singular"
+        },
+        {
+          "word": "eine alte Hexe",
+          "definition": "an old witch",
+          "partOfSpeech": "noun phrase",
+          "grammar": "die Hexe · feminine · nominative · subject · alte = adjective with strong ending after indefinite article"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Die Hexe sieht Kasper und ruft: Komm her, kleiner Mann!",
+      "translation": "The witch sees Kasper and shouts: Come here, little man!",
+      "words": [
+        {
+          "word": "sieht",
+          "definition": "sees",
+          "partOfSpeech": "verb",
+          "grammar": "sehen · present tense · 3rd person singular · vowel change: e → ie"
+        },
+        {
+          "word": "Komm her",
+          "definition": "come here",
+          "partOfSpeech": "verb phrase",
+          "grammar": "herkommen · separable verb · imperative du-form · her goes to end: 'Komm her!' · her = toward the speaker"
+        },
+        {
+          "word": "kleiner Mann",
+          "definition": "little man",
+          "partOfSpeech": "noun phrase",
+          "grammar": "der Mann · masculine · nominative · used as direct address (Anrede) · kleiner = strong adjective ending (no article)"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Kasper antwortet: Nein! Ich kenne dich, du böse Hexe!",
+      "translation": "Kasper answers: No! I know you, you wicked witch!",
+      "words": [
+        {
+          "word": "kenne",
+          "definition": "know (a person or place)",
+          "partOfSpeech": "verb",
+          "grammar": "kennen · present tense · 1st person singular · kennen = to know someone/something (not wissen, which is for facts)"
+        },
+        {
+          "word": "dich",
+          "definition": "you (accusative)",
+          "partOfSpeech": "pronoun",
+          "grammar": "du → dich · accusative · direct object of kennen · informal singular"
+        },
+        {
+          "word": "böse Hexe",
+          "definition": "wicked witch",
+          "partOfSpeech": "noun phrase",
+          "grammar": "used as direct address · böse = strong adjective ending (no article before it) · böse = wicked / evil / naughty"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Die Hexe sagt: Ich will dich in einen Frosch verwandeln!",
+      "translation": "The witch says: I want to turn you into a frog!",
+      "words": [
+        {
+          "word": "will",
+          "definition": "want to",
+          "partOfSpeech": "verb",
+          "grammar": "wollen · modal verb · present tense · 1st person singular · modal + infinitive at end of clause"
+        },
+        {
+          "word": "dich",
+          "definition": "you (accusative)",
+          "partOfSpeech": "pronoun",
+          "grammar": "du → dich · accusative · direct object of verwandeln"
+        },
+        {
+          "word": "in einen Frosch",
+          "definition": "into a frog",
+          "partOfSpeech": "prepositional phrase",
+          "grammar": "in + accusative (transformation into something) · der Frosch → einen Frosch · masculine accusative"
+        },
+        {
+          "word": "verwandeln",
+          "definition": "to turn / to transform",
+          "partOfSpeech": "verb",
+          "grammar": "infinitive · sent to end of clause by modal verb wollen · jemanden in etwas verwandeln = to turn someone into something"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "text": "Kasper lacht laut und ruft die Kinder: Habt ihr Angst vor der Hexe?",
+      "translation": "Kasper laughs loudly and calls to the children: Are you afraid of the witch?",
+      "words": [
+        {
+          "word": "lacht",
+          "definition": "laughs",
+          "partOfSpeech": "verb",
+          "grammar": "lachen · present tense · 3rd person singular"
+        },
+        {
+          "word": "Habt ihr Angst",
+          "definition": "are you afraid / do you have fear",
+          "partOfSpeech": "verb phrase",
+          "grammar": "Angst haben = to be afraid (lit. to have fear) · question inversion: habt before ihr · 2nd person plural"
+        },
+        {
+          "word": "vor der Hexe",
+          "definition": "of the witch",
+          "partOfSpeech": "prepositional phrase",
+          "grammar": "Angst vor + dative · fixed expression · vor der Hexe = dative after vor in this idiomatic use"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "text": "Die Kinder rufen: Nein! Wir haben keine Angst!",
+      "translation": "The children shout: No! We are not afraid!",
+      "words": [
+        {
+          "word": "Wir haben",
+          "definition": "we have",
+          "partOfSpeech": "verb phrase",
+          "grammar": "haben · present tense · 1st person plural"
+        },
+        {
+          "word": "keine Angst",
+          "definition": "no fear / not afraid",
+          "partOfSpeech": "noun phrase",
+          "grammar": "kein + Angst · kein negates nouns · keine = feminine form (die Angst) · contrast: 'nicht' negates verbs/adjectives, 'kein' negates nouns"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "text": "Kasper nimmt einen großen Besen und jagt die Hexe weg.",
+      "translation": "Kasper takes a big broom and chases the witch away.",
+      "words": [
+        {
+          "word": "nimmt",
+          "definition": "takes",
+          "partOfSpeech": "verb",
+          "grammar": "nehmen · present tense · 3rd person singular · vowel change: e → i"
+        },
+        {
+          "word": "einen großen Besen",
+          "definition": "a big broom",
+          "partOfSpeech": "noun phrase",
+          "grammar": "der Besen · masculine · accusative · einen = indefinite article accusative · großen = weak adjective ending after einen"
+        },
+        {
+          "word": "jagt weg",
+          "definition": "chases away",
+          "partOfSpeech": "verb",
+          "grammar": "wegjagen · separable verb · present tense · 3rd person singular · weg goes to end of clause"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "text": "Die Hexe ruft: Ich komme wieder, weil ich dich nicht vergesse!",
+      "translation": "The witch shouts: I will come back, because I won't forget you!",
+      "words": [
+        {
+          "word": "komme wieder",
+          "definition": "come back / return",
+          "partOfSpeech": "verb phrase",
+          "grammar": "wiederkommen · separable verb · present tense · 1st person singular · wieder goes to end of clause"
+        },
+        {
+          "word": "weil",
+          "definition": "because",
+          "partOfSpeech": "conjunction",
+          "grammar": "subordinating conjunction · sends the verb to the END of its clause: 'weil ich dich nicht vergesse' (not: 'weil ich vergesse dich nicht')"
+        },
+        {
+          "word": "vergesse",
+          "definition": "forget",
+          "partOfSpeech": "verb",
+          "grammar": "vergessen · present tense · 1st person singular · pushed to end of clause by weil"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "text": "Aber Kasper ruft zurück: Du wirst mich nicht finden!",
+      "translation": "But Kasper shouts back: You will not find me!",
+      "words": [
+        {
+          "word": "ruft zurück",
+          "definition": "shouts back / calls back",
+          "partOfSpeech": "verb",
+          "grammar": "zurückrufen · separable verb · present tense · 3rd person singular · zurück goes to end"
+        },
+        {
+          "word": "wirst",
+          "definition": "will (future auxiliary)",
+          "partOfSpeech": "verb",
+          "grammar": "werden · present tense · 2nd person singular · used with infinitive to express future: du wirst + finden = you will find"
+        },
+        {
+          "word": "mich",
+          "definition": "me (accusative)",
+          "partOfSpeech": "pronoun",
+          "grammar": "ich → mich · accusative · direct object of finden"
+        },
+        {
+          "word": "finden",
+          "definition": "to find",
+          "partOfSpeech": "verb",
+          "grammar": "infinitive · sent to end of clause by werden (future construction)"
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "text": "Kasper versteckt sich hinter einem großen Baum und wartet.",
+      "translation": "Kasper hides behind a big tree and waits.",
+      "words": [
+        {
+          "word": "versteckt sich",
+          "definition": "hides (himself)",
+          "partOfSpeech": "verb",
+          "grammar": "sich verstecken · reflexive verb · present tense · 3rd person singular · sich = reflexive pronoun (accusative)"
+        },
+        {
+          "word": "hinter einem großen Baum",
+          "definition": "behind a big tree",
+          "partOfSpeech": "prepositional phrase",
+          "grammar": "hinter + dative (static location, not movement) · einem Baum · großen = weak adjective ending after einem"
+        },
+        {
+          "word": "wartet",
+          "definition": "waits",
+          "partOfSpeech": "verb",
+          "grammar": "warten · present tense · 3rd person singular"
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "text": "Die Hexe kommt nicht zurück, und alle sind froh.",
+      "translation": "The witch does not come back, and everyone is happy.",
+      "words": [
+        {
+          "word": "kommt nicht zurück",
+          "definition": "does not come back",
+          "partOfSpeech": "verb phrase",
+          "grammar": "zurückkommen · separable · negated with nicht · nicht sits before the separable prefix: 'kommt nicht zurück'"
+        },
+        {
+          "word": "alle",
+          "definition": "everyone / all",
+          "partOfSpeech": "pronoun",
+          "grammar": "alle · plural · nominative · subject of sind · used without a noun: alle = everyone present"
+        },
+        {
+          "word": "froh",
+          "definition": "happy / glad",
+          "partOfSpeech": "adjective",
+          "grammar": "predicate adjective after sein · no ending needed: 'alle sind froh' (contrast with attributive: 'frohe Kinder')"
+        }
+      ]
+    }
+  ],
+  "grammarPoints": [
+    {
+      "rule": "Modal verb 'wollen' + infinitive at end of clause",
+      "exampleSentence": "Ich will dich in einen Frosch verwandeln!",
+      "explanation": "Modal verbs like 'wollen' (to want to) change the structure of the sentence. The modal verb takes position 2 and is conjugated, while the main verb is pushed to the very end of the clause as an infinitive. 'Ich will verwandeln' is the skeleton → everything else slots in between. The same pattern applies to other modals: können (can), müssen (must), dürfen (may), sollen (should)."
+    },
+    {
+      "rule": "'Weil' sends the verb to the end of its clause",
+      "exampleSentence": "Ich komme wieder, weil ich dich nicht vergesse!",
+      "explanation": "'Weil' (because) is a subordinating conjunction → it introduces a dependent clause where the verb must go to the very end. Compare: 'Ich vergesse dich nicht' (normal order) vs 'weil ich dich nicht vergesse' (verb at end after weil). This verb-final rule applies to all subordinating conjunctions: weil, dass, wenn, obwohl, weil, da."
+    },
+    {
+      "rule": "Future tense with 'werden' + infinitive",
+      "exampleSentence": "Du wirst mich nicht finden!",
+      "explanation": "To express the future in German, use the conjugated form of 'werden' in position 2, with the main verb as an infinitive at the end. 'Du wirst finden' = you will find. Note that Germans often use the present tense instead for near-future events → 'werden + infinitive' adds emphasis or certainty, as the witch uses it here as a threat."
+    },
+    {
+      "rule": "Reflexive verbs with 'sich'",
+      "exampleSentence": "Kasper versteckt sich hinter einem großen Baum.",
+      "explanation": "'Sich verstecken' (to hide oneself) is a reflexive verb → the action reflects back onto the subject. The reflexive pronoun 'sich' is used for the 3rd person (er/sie/es/sie plural). For other persons: ich verstecke mich, du versteckst dich, wir verstecken uns. Many everyday German verbs are reflexive: sich waschen (to wash), sich setzen (to sit down), sich freuen (to be happy)."
+    },
+    {
+      "rule": "'Kein' vs 'nicht' for negation",
+      "exampleSentence": "Wir haben keine Angst!",
+      "explanation": "German has two main negation words. 'Nicht' negates verbs, adjectives, and adverbs ('kommt nicht zurück'). 'Kein' negates nouns directly and must agree with the noun's gender and case → 'keine Angst' (feminine), 'keinen Frosch' (masculine accusative), 'kein Geld' (neuter). Think of 'kein' as 'not a' or 'no': 'Wir haben keine Angst' = 'We have no fear'."
+    },
+    {
+      "rule": "Adjective endings after indefinite articles (accusative)",
+      "exampleSentence": "Kasper nimmt einen großen Besen.",
+      "explanation": "When an adjective follows an indefinite article (ein, eine, einen) in the accusative case, it takes a 'weak' ending. For masculine accusative nouns: 'einen großen Besen' → the article already shows the masculine accusative (-en), so the adjective also takes -en. This pattern → article signals the case, adjective follows with -en → is the most common adjective pattern learners encounter."
+    },
+    {
+      "rule": "Separable verbs → prefix travels to the end, including with negation",
+      "exampleSentence": "Die Hexe kommt nicht zurück.",
+      "explanation": "Separable verbs split in a main clause: the conjugated base verb stays in position 2, and the prefix goes to the end. When the sentence is also negated, 'nicht' sits just before the prefix: 'kommt nicht zurück' (does not come back). This is the fixed order: base verb → [rest of sentence] → nicht → prefix. Compare: 'kommt zurück' (comes back) vs 'kommt nicht zurück' (does not come back)."
+    }
+  ]
+}

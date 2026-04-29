@@ -1,0 +1,364 @@
+{
+  "id": "de-max-moritz-streich-01",
+  "title": "Max und Moritz: Der erste Streich",
+  "level": "A2",
+  "genre": "literary",
+  "source": "Adapted from Wilhelm Busch, Max und Moritz (1865), for DELingo",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Witwe Bolte wohnt allein in einem kleinen Haus am Rand des Dorfes.",
+      "translation": "Widow Bolte lives alone in a small house at the edge of the village.",
+      "words": [
+        {
+          "word": "Witwe",
+          "definition": "widow",
+          "partOfSpeech": "noun",
+          "grammar": "die Witwe · feminine · nominative · subject · used as a title before the name"
+        },
+        {
+          "word": "allein",
+          "definition": "alone",
+          "partOfSpeech": "adverb",
+          "grammar": "manner adverb · modifies wohnt · same form as adjective"
+        },
+        {
+          "word": "in einem kleinen Haus",
+          "definition": "in a small house",
+          "partOfSpeech": "prepositional phrase",
+          "grammar": "in + dative (static location) · das Haus → einem Haus · neuter dative · kleinen = weak adjective ending after einem"
+        },
+        {
+          "word": "am Rand des Dorfes",
+          "definition": "at the edge of the village",
+          "partOfSpeech": "prepositional phrase",
+          "grammar": "an + dem → am · dative · des Dorfes = genitive (possession): 'the edge of the village' · genitive -es ending on neuter noun"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Sie hat vier Hühner und einen stolzen Hahn im Garten.",
+      "translation": "She has four hens and a proud rooster in the garden.",
+      "words": [
+        {
+          "word": "vier Hühner",
+          "definition": "four hens / chickens",
+          "partOfSpeech": "noun phrase",
+          "grammar": "das Huhn · plural: Hühner · accusative · direct object of hat · umlaut plural"
+        },
+        {
+          "word": "einen stolzen Hahn",
+          "definition": "a proud rooster",
+          "partOfSpeech": "noun phrase",
+          "grammar": "der Hahn · masculine · accusative · einen = indefinite article accusative · stolzen = weak adjective ending"
+        },
+        {
+          "word": "im Garten",
+          "definition": "in the garden",
+          "partOfSpeech": "prepositional phrase",
+          "grammar": "in + dem → im · dative (static location) · der Garten → dem Garten · masculine dative"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Max und Moritz haben einen langen Faden gefunden und ihn in viele Stücke geschnitten.",
+      "translation": "Max and Moritz found a long piece of string and cut it into many pieces.",
+      "words": [
+        {
+          "word": "haben →¦ gefunden",
+          "definition": "found (past)",
+          "partOfSpeech": "verb",
+          "grammar": "finden · Perfekt · haben + past participle · gefunden = irregular past participle · Perfekt used for narrating past events in spoken/written German"
+        },
+        {
+          "word": "einen langen Faden",
+          "definition": "a long piece of string",
+          "partOfSpeech": "noun phrase",
+          "grammar": "der Faden · masculine · accusative · langen = weak adjective ending after einen"
+        },
+        {
+          "word": "ihn",
+          "definition": "it (him → referring to the string)",
+          "partOfSpeech": "pronoun",
+          "grammar": "er → ihn · masculine · accusative · replaces 'den Faden' · German pronoun gender follows noun gender, not natural gender"
+        },
+        {
+          "word": "in viele Stücke geschnitten",
+          "definition": "cut into many pieces",
+          "partOfSpeech": "verb phrase",
+          "grammar": "schneiden · past participle: geschnitten · irregular · in + accusative (transformation into pieces)"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Sie haben die Fadenstücke mit Brot verbunden und alles vor den Hühnerstall gelegt.",
+      "translation": "They tied the pieces of string to bread and placed everything in front of the henhouse.",
+      "words": [
+        {
+          "word": "haben →¦ verbunden",
+          "definition": "tied / connected (past)",
+          "partOfSpeech": "verb",
+          "grammar": "verbinden · Perfekt · verbunden = irregular past participle · mit + dative: 'mit Brot' = with bread"
+        },
+        {
+          "word": "alles",
+          "definition": "everything",
+          "partOfSpeech": "pronoun",
+          "grammar": "indefinite pronoun · accusative · direct object of gelegt · alles = everything, all of it"
+        },
+        {
+          "word": "vor den Hühnerstall gelegt",
+          "definition": "placed in front of the henhouse",
+          "partOfSpeech": "verb phrase",
+          "grammar": "vor + accusative (movement/placement) · legen · past participle: gelegt · regular · legen = to place/lay (transitive) vs liegen = to lie (intransitive)"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Die Hühner haben das Brot sofort gesehen und sind darauf zugelaufen.",
+      "translation": "The hens immediately spotted the bread and ran towards it.",
+      "words": [
+        {
+          "word": "sofort",
+          "definition": "immediately / at once",
+          "partOfSpeech": "adverb",
+          "grammar": "temporal adverb · A2 vocabulary · stronger than 'schnell' → implies instant reaction"
+        },
+        {
+          "word": "haben →¦ gesehen",
+          "definition": "spotted / saw (past)",
+          "partOfSpeech": "verb",
+          "grammar": "sehen · Perfekt with haben · gesehen = irregular past participle"
+        },
+        {
+          "word": "sind →¦ zugelaufen",
+          "definition": "ran towards (past)",
+          "partOfSpeech": "verb",
+          "grammar": "zulaufen · Perfekt with sein (not haben) · motion verbs with direction often take sein · zugelaufen = past participle of separable verb: zu- + laufen"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "text": "Aber die Fäden haben sich um ihre Beine gewickelt, und die Hühner sind gestürzt.",
+      "translation": "But the strings wrapped around their legs, and the hens fell over.",
+      "words": [
+        {
+          "word": "haben sich →¦ gewickelt",
+          "definition": "wrapped (themselves) around (past)",
+          "partOfSpeech": "verb phrase",
+          "grammar": "sich wickeln · reflexive · Perfekt with haben · gewickelt = regular past participle · um + accusative: 'um ihre Beine' = around their legs"
+        },
+        {
+          "word": "ihre Beine",
+          "definition": "their legs",
+          "partOfSpeech": "noun phrase",
+          "grammar": "das Bein · plural: Beine · accusative after um · ihre = possessive pronoun 3rd person plural"
+        },
+        {
+          "word": "sind gestürzt",
+          "definition": "fell over / tumbled (past)",
+          "partOfSpeech": "verb",
+          "grammar": "stürzen · Perfekt with sein · gestürzt = regular past participle · stürzen takes sein because it expresses a change of state (falling)"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "text": "Witwe Bolte hat die toten Hühner gefunden und ist sehr traurig gewesen.",
+      "translation": "Widow Bolte found the dead hens and was very sad.",
+      "words": [
+        {
+          "word": "die toten Hühner",
+          "definition": "the dead hens",
+          "partOfSpeech": "noun phrase",
+          "grammar": "toten = weak adjective ending after definite article (die) · accusative plural · tote Hühner without article would use strong ending"
+        },
+        {
+          "word": "ist →¦ gewesen",
+          "definition": "was (past)",
+          "partOfSpeech": "verb",
+          "grammar": "sein · Perfekt: ist + gewesen · sein always forms Perfekt with itself (ist gewesen) · used for states and conditions in the past"
+        },
+        {
+          "word": "traurig",
+          "definition": "sad",
+          "partOfSpeech": "adjective",
+          "grammar": "predicate adjective after sein · no ending · contrast: 'eine traurige Frau' (attributive, with ending)"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "text": "Sie hat die Hühner in der Küche gebraten, weil sie kein Futter mehr verschwenden wollte.",
+      "translation": "She roasted the hens in the kitchen, because she did not want to waste any more food.",
+      "words": [
+        {
+          "word": "hat →¦ gebraten",
+          "definition": "roasted (past)",
+          "partOfSpeech": "verb",
+          "grammar": "braten · Perfekt with haben · gebraten = irregular past participle · braten = to roast/fry"
+        },
+        {
+          "word": "weil →¦ wollte",
+          "definition": "because →¦ wanted to",
+          "partOfSpeech": "conjunction + verb",
+          "grammar": "weil = subordinating conjunction · sends verb to end of clause · wollte = Präteritum of wollen (modal verbs typically use Präteritum, not Perfekt) · modal + infinitive: wollte verschwenden"
+        },
+        {
+          "word": "kein Futter mehr",
+          "definition": "no more food / feed",
+          "partOfSpeech": "noun phrase",
+          "grammar": "das Futter · neuter · kein negates the noun · mehr = anymore · kein →¦ mehr = no more (fixed combination)"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "text": "Max und Moritz haben den Bratengeruch gerochen und sind ans Fenster geschlichen.",
+      "translation": "Max and Moritz smelled the roasting smell and crept to the window.",
+      "words": [
+        {
+          "word": "den Bratengeruch gerochen",
+          "definition": "smelled the roasting smell",
+          "partOfSpeech": "verb phrase",
+          "grammar": "riechen · past participle: gerochen · irregular · Perfekt with haben · Bratengeruch = compound noun: Braten (roast) + Geruch (smell)"
+        },
+        {
+          "word": "sind →¦ geschlichen",
+          "definition": "crept / sneaked (past)",
+          "partOfSpeech": "verb",
+          "grammar": "schleichen · Perfekt with sein · geschlichen = irregular past participle · motion verb takes sein"
+        },
+        {
+          "word": "ans Fenster",
+          "definition": "to the window",
+          "partOfSpeech": "prepositional phrase",
+          "grammar": "an + das → ans · accusative (movement toward) · das Fenster · neuter"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "text": "Sie haben die Hühner mit einer langen Stange aus dem Topf gefischt.",
+      "translation": "They fished the hens out of the pot with a long stick.",
+      "words": [
+        {
+          "word": "mit einer langen Stange",
+          "definition": "with a long stick",
+          "partOfSpeech": "prepositional phrase",
+          "grammar": "mit + dative · die Stange → einer Stange · feminine dative · langen = weak adjective ending after einer"
+        },
+        {
+          "word": "aus dem Topf",
+          "definition": "out of the pot",
+          "partOfSpeech": "prepositional phrase",
+          "grammar": "aus + dative · always takes dative · der Topf → dem Topf · masculine dative"
+        },
+        {
+          "word": "gefischt",
+          "definition": "fished out",
+          "partOfSpeech": "verb",
+          "grammar": "fischen · regular past participle · used figuratively here: 'to fish something out' of a container"
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "text": "Als Witwe Bolte zurückgekommen ist, hat sie nur den leeren Topf gesehen.",
+      "translation": "When Widow Bolte came back, she only saw the empty pot.",
+      "words": [
+        {
+          "word": "Als →¦ zurückgekommen ist",
+          "definition": "when →¦ came back",
+          "partOfSpeech": "subordinate clause",
+          "grammar": "als = subordinating conjunction for a single past event · verb goes to end: 'zurückgekommen ist' · als (single past event) vs wenn (repeated/future events)"
+        },
+        {
+          "word": "nur",
+          "definition": "only / just",
+          "partOfSpeech": "adverb",
+          "grammar": "limiting adverb · placed directly before the element it limits: 'nur den leeren Topf' = only the empty pot"
+        },
+        {
+          "word": "den leeren Topf",
+          "definition": "the empty pot",
+          "partOfSpeech": "noun phrase",
+          "grammar": "der Topf · masculine · accusative · leeren = weak adjective ending after definite article"
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "text": "Sie hat laut gerufen, aber Max und Moritz waren schon längst weg.",
+      "translation": "She called out loudly, but Max and Moritz were long gone.",
+      "words": [
+        {
+          "word": "hat →¦ gerufen",
+          "definition": "called out (past)",
+          "partOfSpeech": "verb",
+          "grammar": "rufen · Perfekt with haben · gerufen = irregular past participle"
+        },
+        {
+          "word": "aber",
+          "definition": "but",
+          "partOfSpeech": "conjunction",
+          "grammar": "coordinating conjunction · does NOT change word order · contrast with 'weil/als/dass' which send verb to end"
+        },
+        {
+          "word": "waren →¦ weg",
+          "definition": "were gone / had left",
+          "partOfSpeech": "verb phrase",
+          "grammar": "sein · Präteritum: waren · 3rd person plural · weg = gone/away · Präteritum of sein is more natural than Perfekt (ist gewesen) in everyday use"
+        },
+        {
+          "word": "schon längst",
+          "definition": "long since / long ago already",
+          "partOfSpeech": "adverb phrase",
+          "grammar": "schon = already · längst = long since · combined: 'long since already' → emphasises how far ahead they got"
+        }
+      ]
+    }
+  ],
+  "grammarPoints": [
+    {
+      "rule": "Perfekt tense for past narration → haben or sein as auxiliary",
+      "exampleSentence": "Max und Moritz haben einen langen Faden gefunden. / Die Hühner sind gestürzt.",
+      "explanation": "The Perfekt is the main past tense in spoken and written German at A2 level. It uses a conjugated auxiliary (haben or sein) in position 2, plus the past participle at the end. Most verbs take haben. Verbs of motion (laufen, schleichen, gehen) and change of state (stürzen, werden) take sein. This distinction must be learned verb by verb → there is no shortcut, but motion and change-of-state are reliable guides."
+    },
+    {
+      "rule": "Irregular past participles",
+      "exampleSentence": "Sie haben das Brot gefunden / geschnitten / gerochen / gerufen.",
+      "explanation": "Many common German verbs have irregular past participles that must be memorised: finden → gefunden, schneiden → geschnitten, riechen → gerochen, rufen → gerufen, sehen → gesehen. These are strong verbs → the vowel changes in the stem. Regular (weak) verbs simply add ge- + -t: legen → gelegt, braten → gebraten."
+    },
+    {
+      "rule": "'Als' for single past events in subordinate clauses",
+      "exampleSentence": "Als Witwe Bolte zurückgekommen ist, hat sie nur den leeren Topf gesehen.",
+      "explanation": "'Als' introduces a subordinate clause describing a single completed event in the past → it means 'when' but only for one-time past situations. The verb goes to the end of the als-clause. Compare: 'wenn' is used for repeated events ('whenever') or future events ('when/if'). Mixing up als and wenn is one of the most common A2 errors."
+    },
+    {
+      "rule": "Coordinating conjunctions do not change word order",
+      "exampleSentence": "Sie hat laut gerufen, aber Max und Moritz waren schon längst weg.",
+      "explanation": "Coordinating conjunctions (aber, und, oder, denn, sondern) join two main clauses without affecting word order → the verb stays in position 2 in both clauses. This contrasts with subordinating conjunctions (weil, als, dass, wenn) which push the verb to the end. 'Aber' (but) is one of the most useful → it introduces a contrast or contradiction."
+    },
+    {
+      "rule": "Genitive case for possession",
+      "exampleSentence": "Sie wohnt am Rand des Dorfes.",
+      "explanation": "The genitive case shows belonging or possession → equivalent to 'of the' in English. Masculine and neuter nouns add -es or -s in the genitive: 'des Dorfes' (of the village), 'des Hauses' (of the house). Feminine nouns add nothing: 'der Frau' (of the woman). The genitive is more common in written German → in speech, 'von + dative' is often used instead: 'am Rand von dem Dorf'."
+    },
+    {
+      "rule": "Legen vs liegen → transitive and intransitive pairs",
+      "exampleSentence": "Sie haben alles vor den Hühnerstall gelegt.",
+      "explanation": "German has pairs of verbs where one is transitive (takes an object) and one is intransitive (no object). 'Legen' (to lay/place something) takes an accusative object and uses haben in Perfekt. 'Liegen' (to lie/be lying) has no object and uses haben too, but means a different thing. Similar pairs: stellen/stehen, setzen/sitzen, hängen. The transitive verb always describes the action of placing; the intransitive describes the resulting state."
+    },
+    {
+      "rule": "Modal verbs use Präteritum rather than Perfekt in past narration",
+      "exampleSentence": "Sie wollte kein Futter mehr verschwenden.",
+      "explanation": "While most verbs use Perfekt for past events (hat gemacht, ist gegangen), modal verbs (wollen, können, müssen, dürfen, sollen, mögen) almost always use the Präteritum (simple past) instead: wollte, konnte, musste, durfte, sollte, mochte. Saying 'sie hat nicht verschwenden gewollt' is grammatically possible but sounds unnatural. Learning the Präteritum forms of modals is an A2 priority."
+    }
+  ]
+}

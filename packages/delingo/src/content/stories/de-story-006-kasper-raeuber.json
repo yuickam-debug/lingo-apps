@@ -1,0 +1,370 @@
+{
+  "id": "de-kasper-raeuber-01",
+  "title": "Kasper und der Räuber",
+  "level": "A1",
+  "genre": "kaspertheater",
+  "source": "Traditional Kaspertheater, adapted for DELingo",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Kasper geht allein durch den Wald.",
+      "translation": "Kasper walks alone through the forest.",
+      "words": [
+        {
+          "word": "Kasper",
+          "definition": "Kasper (the puppet character)",
+          "partOfSpeech": "noun",
+          "grammar": "proper noun · subject of sentence"
+        },
+        {
+          "word": "geht",
+          "definition": "walks / goes",
+          "partOfSpeech": "verb",
+          "grammar": "gehen · present tense · 3rd person singular"
+        },
+        {
+          "word": "allein",
+          "definition": "alone",
+          "partOfSpeech": "adverb",
+          "grammar": "manner adverb · modifies geht"
+        },
+        {
+          "word": "durch",
+          "definition": "through",
+          "partOfSpeech": "preposition",
+          "grammar": "durch + accusative · always takes accusative case"
+        },
+        {
+          "word": "den Wald",
+          "definition": "the forest",
+          "partOfSpeech": "noun",
+          "grammar": "der Wald · masculine · accusative after durch"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Plötzlich hört er ein lautes Geräusch.",
+      "translation": "Suddenly he hears a loud noise.",
+      "words": [
+        {
+          "word": "Plötzlich",
+          "definition": "suddenly",
+          "partOfSpeech": "adverb",
+          "grammar": "sentence-opening adverb · triggers verb-subject inversion: hört er"
+        },
+        {
+          "word": "hört",
+          "definition": "hears",
+          "partOfSpeech": "verb",
+          "grammar": "hören · present tense · 3rd person singular"
+        },
+        {
+          "word": "ein lautes Geräusch",
+          "definition": "a loud noise",
+          "partOfSpeech": "noun phrase",
+          "grammar": "das Geräusch · neuter · accusative · laut → lautes (strong adjective ending)"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Ein Räuber steht hinter einem Baum.",
+      "translation": "A robber is standing behind a tree.",
+      "words": [
+        {
+          "word": "Ein Räuber",
+          "definition": "a robber",
+          "partOfSpeech": "noun",
+          "grammar": "der Räuber · masculine · nominative · subject"
+        },
+        {
+          "word": "steht",
+          "definition": "stands / is standing",
+          "partOfSpeech": "verb",
+          "grammar": "stehen · present tense · 3rd person singular"
+        },
+        {
+          "word": "hinter",
+          "definition": "behind",
+          "partOfSpeech": "preposition",
+          "grammar": "two-way preposition · dative here (location, not movement)"
+        },
+        {
+          "word": "einem Baum",
+          "definition": "a tree",
+          "partOfSpeech": "noun",
+          "grammar": "der Baum · masculine · dative after hinter (location)"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Der Räuber ruft: Gib mir dein Geld!",
+      "translation": "The robber shouts: Give me your money!",
+      "words": [
+        {
+          "word": "ruft",
+          "definition": "shouts / calls out",
+          "partOfSpeech": "verb",
+          "grammar": "rufen · present tense · 3rd person singular · verb of speech introducing direct dialogue"
+        },
+        {
+          "word": "Gib",
+          "definition": "give (command)",
+          "partOfSpeech": "verb",
+          "grammar": "geben · imperative · 2nd person singular · irregular: gibt → gib"
+        },
+        {
+          "word": "mir",
+          "definition": "me / to me",
+          "partOfSpeech": "pronoun",
+          "grammar": "ich · dative · indirect object"
+        },
+        {
+          "word": "dein Geld",
+          "definition": "your money",
+          "partOfSpeech": "noun phrase",
+          "grammar": "das Geld · neuter · accusative · dein = possessive pronoun (informal)"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Kasper antwortet laut: Nein, das mache ich nicht!",
+      "translation": "Kasper answers loudly: No, I won't do that!",
+      "words": [
+        {
+          "word": "antwortet",
+          "definition": "answers / replies",
+          "partOfSpeech": "verb",
+          "grammar": "antworten · present tense · 3rd person singular"
+        },
+        {
+          "word": "laut",
+          "definition": "loudly",
+          "partOfSpeech": "adverb",
+          "grammar": "manner adverb · same word as the adjective laut (loud)"
+        },
+        {
+          "word": "das mache ich nicht",
+          "definition": "I won't do that",
+          "partOfSpeech": "clause",
+          "grammar": "nicht at end of clause negates the whole action · machen · present tense · 1st person singular"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "text": "Kasper fragt die Kinder: Habt ihr den Räuber gesehen?",
+      "translation": "Kasper asks the children: Did you see the robber?",
+      "words": [
+        {
+          "word": "fragt",
+          "definition": "asks",
+          "partOfSpeech": "verb",
+          "grammar": "fragen · present tense · 3rd person singular"
+        },
+        {
+          "word": "die Kinder",
+          "definition": "the children",
+          "partOfSpeech": "noun",
+          "grammar": "das Kind · plural · accusative · direct object of fragt"
+        },
+        {
+          "word": "Habt ihr",
+          "definition": "have you / did you",
+          "partOfSpeech": "verb phrase",
+          "grammar": "haben · present perfect auxiliary · 2nd person plural · question inversion: verb before subject"
+        },
+        {
+          "word": "gesehen",
+          "definition": "seen",
+          "partOfSpeech": "verb",
+          "grammar": "sehen · past participle · used with haben to form Perfekt (conversational past)"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "text": "Die Kinder rufen: Ja! Er ist dort drüben!",
+      "translation": "The children shout: Yes! He is over there!",
+      "words": [
+        {
+          "word": "dort drüben",
+          "definition": "over there",
+          "partOfSpeech": "adverb phrase",
+          "grammar": "dort = there · drüben = on the other side · combined = over there (pointing away)"
+        },
+        {
+          "word": "Er ist",
+          "definition": "he is",
+          "partOfSpeech": "verb phrase",
+          "grammar": "sein · present tense · 3rd person singular · er refers to der Räuber"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "text": "Kasper läuft schnell hinter den Baum.",
+      "translation": "Kasper runs quickly behind the tree.",
+      "words": [
+        {
+          "word": "läuft",
+          "definition": "runs",
+          "partOfSpeech": "verb",
+          "grammar": "laufen · present tense · 3rd person singular · vowel change: au → äu"
+        },
+        {
+          "word": "schnell",
+          "definition": "quickly / fast",
+          "partOfSpeech": "adverb",
+          "grammar": "manner adverb · same form as adjective schnell"
+        },
+        {
+          "word": "hinter den Baum",
+          "definition": "behind the tree",
+          "partOfSpeech": "prepositional phrase",
+          "grammar": "hinter + accusative here (movement toward location) · contrast with s3: hinter einem Baum (dative, static)"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "text": "Er packt den Räuber am Arm.",
+      "translation": "He grabs the robber by the arm.",
+      "words": [
+        {
+          "word": "packt",
+          "definition": "grabs / seizes",
+          "partOfSpeech": "verb",
+          "grammar": "packen · present tense · 3rd person singular · strong physical action verb"
+        },
+        {
+          "word": "den Räuber",
+          "definition": "the robber",
+          "partOfSpeech": "noun",
+          "grammar": "der Räuber · masculine · accusative · direct object"
+        },
+        {
+          "word": "am Arm",
+          "definition": "by the arm",
+          "partOfSpeech": "prepositional phrase",
+          "grammar": "an + dem → am (contraction) · dative · body part idiom: jemanden am Arm packen"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "text": "Der Räuber ruft: Lass mich los! Lass mich los!",
+      "translation": "The robber shouts: Let me go! Let me go!",
+      "words": [
+        {
+          "word": "Lass",
+          "definition": "let (command)",
+          "partOfSpeech": "verb",
+          "grammar": "lassen · imperative · 2nd person singular · irregular: lässt → lass"
+        },
+        {
+          "word": "mich los",
+          "definition": "me go / me loose",
+          "partOfSpeech": "phrase",
+          "grammar": "loslassen = separable verb (to let go) · mich = accusative of ich · repetition for dramatic effect"
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "text": "Aber Kasper hält ihn fest und ruft nach dem Polizisten.",
+      "translation": "But Kasper holds him tight and calls for the policeman.",
+      "words": [
+        {
+          "word": "hält fest",
+          "definition": "holds tight / holds firmly",
+          "partOfSpeech": "verb",
+          "grammar": "festhalten · separable verb · present tense · 3rd person singular · fest = tight, halten = to hold"
+        },
+        {
+          "word": "ihn",
+          "definition": "him",
+          "partOfSpeech": "pronoun",
+          "grammar": "er → ihn · masculine · accusative · refers to den Räuber"
+        },
+        {
+          "word": "ruft nach",
+          "definition": "calls for",
+          "partOfSpeech": "verb phrase",
+          "grammar": "rufen nach + dative · to call for someone · nach here is not directional but idiomatic"
+        },
+        {
+          "word": "dem Polizisten",
+          "definition": "the policeman",
+          "partOfSpeech": "noun",
+          "grammar": "der Polizist · masculine · dative after nach · weak noun: Polizist → Polizisten in all cases except nominative"
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "text": "Der Polizist kommt und nimmt den Räuber mit.",
+      "translation": "The policeman comes and takes the robber away.",
+      "words": [
+        {
+          "word": "kommt",
+          "definition": "comes",
+          "partOfSpeech": "verb",
+          "grammar": "kommen · present tense · 3rd person singular"
+        },
+        {
+          "word": "nimmt mit",
+          "definition": "takes away / takes along",
+          "partOfSpeech": "verb",
+          "grammar": "mitnehmen · separable verb · present tense · 3rd person singular · mit goes to end of clause"
+        },
+        {
+          "word": "den Räuber",
+          "definition": "the robber",
+          "partOfSpeech": "noun",
+          "grammar": "der Räuber · masculine · accusative · direct object of mitnehmen"
+        }
+      ]
+    }
+  ],
+  "grammarPoints": [
+    {
+      "rule": "Imperative (du-form) for commands → regular and irregular verbs",
+      "exampleSentence": "Gib mir dein Geld!",
+      "explanation": "To give a command to someone you address as 'du', use the verb stem without an ending. Most verbs are regular: 'kommen' → 'Komm!' But some are irregular: 'geben' → 'Gib!' (not 'Geb!') and 'lassen' → 'Lass!' (not 'Lass-e!'). These irregular forms must be memorised."
+    },
+    {
+      "rule": "Negation with 'nicht' at the end of a clause",
+      "exampleSentence": "Nein, das mache ich nicht!",
+      "explanation": "When 'nicht' negates the whole action of a sentence, it goes to the very end of the clause. 'Das mache ich nicht' means 'I won't do that' → the 'nicht' cancels the entire verb action, not just one word."
+    },
+    {
+      "rule": "'Hinter' as a two-way preposition → dative for location, accusative for movement",
+      "exampleSentence": "Ein Räuber steht hinter einem Baum. → Kasper läuft hinter den Baum.",
+      "explanation": "'Hinter' (behind) can take two different cases depending on meaning. When describing where something IS (static location), use dative: 'hinter einem Baum' (standing behind a tree). When describing movement TOWARD a location, use accusative: 'hinter den Baum' (running behind the tree). The same rule applies to: an, auf, in, neben, über, unter, vor, zwischen."
+    },
+    {
+      "rule": "Adverb-first sentences trigger verb-subject inversion",
+      "exampleSentence": "Plötzlich hört er ein lautes Geräusch.",
+      "explanation": "In German, the verb must always be the second element in a statement. When a sentence begins with an adverb like 'plötzlich' (suddenly), the verb comes next → before the subject. So instead of 'Er hört plötzlich...', the word order flips to 'Plötzlich hört er...'. This is called inversion and happens whenever anything other than the subject opens the sentence."
+    },
+    {
+      "rule": "Separable verbs → the prefix moves to the end of the clause",
+      "exampleSentence": "Der Polizist nimmt den Räuber mit.",
+      "explanation": "Some German verbs are made of two parts: a base verb and a prefix that carries extra meaning. 'Mitnehmen' (to take along) splits into 'nimmt' (conjugated verb, position 2) and 'mit' (prefix, sent to the end). The same happens with 'festhalten' → 'hält...fest' and 'loslassen' → 'lass...los'. The prefix always travels to the very end of its clause."
+    },
+    {
+      "rule": "Perfekt tense for spoken past → haben + past participle",
+      "exampleSentence": "Habt ihr den Räuber gesehen?",
+      "explanation": "In spoken German, past events are expressed using the Perfekt: the auxiliary verb 'haben' (conjugated) plus the past participle at the end. 'Gesehen' is the past participle of 'sehen' (to see). In questions, 'haben' inverts before the subject: 'Habt ihr...' (Have you / Did you...). This is the tense learners will hear most in everyday conversation."
+    },
+    {
+      "rule": "Verbs of speech introducing direct dialogue with a colon",
+      "exampleSentence": "Der Räuber ruft: Gib mir dein Geld!",
+      "explanation": "When a narrator introduces what someone says, a verb of speech (rufen, sagen, fragen, antworten) is followed by a colon. The spoken words then follow exactly as they were said. This construction → 'X says/shouts/asks: [speech]' → is the core pattern of the hybrid dialogue format used throughout this story."
+    }
+  ]
+}

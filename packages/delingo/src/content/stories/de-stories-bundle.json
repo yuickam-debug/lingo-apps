@@ -1038,6 +1038,1438 @@
           ]
         }
       ]
+    },
+    {
+      "id": "de-kasper-raeuber-01",
+      "title": "Kasper und der Räuber",
+      "level": "A1",
+      "genre": "kaspertheater",
+      "source": "Traditional Kaspertheater, adapted for DELingo",
+      "sentences": [
+        {
+          "id": "s1",
+          "text": "Kasper geht allein durch den Wald.",
+          "translation": "Kasper walks alone through the forest.",
+          "words": [
+            {
+              "word": "Kasper",
+              "definition": "Kasper (the puppet character)",
+              "partOfSpeech": "noun",
+              "grammar": "proper noun · subject of sentence"
+            },
+            {
+              "word": "geht",
+              "definition": "walks / goes",
+              "partOfSpeech": "verb",
+              "grammar": "gehen · present tense · 3rd person singular"
+            },
+            {
+              "word": "allein",
+              "definition": "alone",
+              "partOfSpeech": "adverb",
+              "grammar": "manner adverb · modifies geht"
+            },
+            {
+              "word": "durch",
+              "definition": "through",
+              "partOfSpeech": "preposition",
+              "grammar": "durch + accusative · always takes accusative case"
+            },
+            {
+              "word": "den Wald",
+              "definition": "the forest",
+              "partOfSpeech": "noun",
+              "grammar": "der Wald · masculine · accusative after durch"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Plötzlich hört er ein lautes Geräusch.",
+          "translation": "Suddenly he hears a loud noise.",
+          "words": [
+            {
+              "word": "Plötzlich",
+              "definition": "suddenly",
+              "partOfSpeech": "adverb",
+              "grammar": "sentence-opening adverb · triggers verb-subject inversion: hört er"
+            },
+            {
+              "word": "hört",
+              "definition": "hears",
+              "partOfSpeech": "verb",
+              "grammar": "hören · present tense · 3rd person singular"
+            },
+            {
+              "word": "ein lautes Geräusch",
+              "definition": "a loud noise",
+              "partOfSpeech": "noun phrase",
+              "grammar": "das Geräusch · neuter · accusative · laut → lautes (strong adjective ending)"
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Ein Räuber steht hinter einem Baum.",
+          "translation": "A robber is standing behind a tree.",
+          "words": [
+            {
+              "word": "Ein Räuber",
+              "definition": "a robber",
+              "partOfSpeech": "noun",
+              "grammar": "der Räuber · masculine · nominative · subject"
+            },
+            {
+              "word": "steht",
+              "definition": "stands / is standing",
+              "partOfSpeech": "verb",
+              "grammar": "stehen · present tense · 3rd person singular"
+            },
+            {
+              "word": "hinter",
+              "definition": "behind",
+              "partOfSpeech": "preposition",
+              "grammar": "two-way preposition · dative here (location, not movement)"
+            },
+            {
+              "word": "einem Baum",
+              "definition": "a tree",
+              "partOfSpeech": "noun",
+              "grammar": "der Baum · masculine · dative after hinter (location)"
+            }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "Der Räuber ruft: Gib mir dein Geld!",
+          "translation": "The robber shouts: Give me your money!",
+          "words": [
+            {
+              "word": "ruft",
+              "definition": "shouts / calls out",
+              "partOfSpeech": "verb",
+              "grammar": "rufen · present tense · 3rd person singular · verb of speech introducing direct dialogue"
+            },
+            {
+              "word": "Gib",
+              "definition": "give (command)",
+              "partOfSpeech": "verb",
+              "grammar": "geben · imperative · 2nd person singular · irregular: gibt → gib"
+            },
+            {
+              "word": "mir",
+              "definition": "me / to me",
+              "partOfSpeech": "pronoun",
+              "grammar": "ich · dative · indirect object"
+            },
+            {
+              "word": "dein Geld",
+              "definition": "your money",
+              "partOfSpeech": "noun phrase",
+              "grammar": "das Geld · neuter · accusative · dein = possessive pronoun (informal)"
+            }
+          ]
+        },
+        {
+          "id": "s5",
+          "text": "Kasper antwortet laut: Nein, das mache ich nicht!",
+          "translation": "Kasper answers loudly: No, I won't do that!",
+          "words": [
+            {
+              "word": "antwortet",
+              "definition": "answers / replies",
+              "partOfSpeech": "verb",
+              "grammar": "antworten · present tense · 3rd person singular"
+            },
+            {
+              "word": "laut",
+              "definition": "loudly",
+              "partOfSpeech": "adverb",
+              "grammar": "manner adverb · same word as the adjective laut (loud)"
+            },
+            {
+              "word": "das mache ich nicht",
+              "definition": "I won't do that",
+              "partOfSpeech": "clause",
+              "grammar": "nicht at end of clause negates the whole action · machen · present tense · 1st person singular"
+            }
+          ]
+        },
+        {
+          "id": "s6",
+          "text": "Kasper fragt die Kinder: Habt ihr den Räuber gesehen?",
+          "translation": "Kasper asks the children: Did you see the robber?",
+          "words": [
+            {
+              "word": "fragt",
+              "definition": "asks",
+              "partOfSpeech": "verb",
+              "grammar": "fragen · present tense · 3rd person singular"
+            },
+            {
+              "word": "die Kinder",
+              "definition": "the children",
+              "partOfSpeech": "noun",
+              "grammar": "das Kind · plural · accusative · direct object of fragt"
+            },
+            {
+              "word": "Habt ihr",
+              "definition": "have you / did you",
+              "partOfSpeech": "verb phrase",
+              "grammar": "haben · present perfect auxiliary · 2nd person plural · question inversion: verb before subject"
+            },
+            {
+              "word": "gesehen",
+              "definition": "seen",
+              "partOfSpeech": "verb",
+              "grammar": "sehen · past participle · used with haben to form Perfekt (conversational past)"
+            }
+          ]
+        },
+        {
+          "id": "s7",
+          "text": "Die Kinder rufen: Ja! Er ist dort drüben!",
+          "translation": "The children shout: Yes! He is over there!",
+          "words": [
+            {
+              "word": "dort drüben",
+              "definition": "over there",
+              "partOfSpeech": "adverb phrase",
+              "grammar": "dort = there · drüben = on the other side · combined = over there (pointing away)"
+            },
+            {
+              "word": "Er ist",
+              "definition": "he is",
+              "partOfSpeech": "verb phrase",
+              "grammar": "sein · present tense · 3rd person singular · er refers to der Räuber"
+            }
+          ]
+        },
+        {
+          "id": "s8",
+          "text": "Kasper läuft schnell hinter den Baum.",
+          "translation": "Kasper runs quickly behind the tree.",
+          "words": [
+            {
+              "word": "läuft",
+              "definition": "runs",
+              "partOfSpeech": "verb",
+              "grammar": "laufen · present tense · 3rd person singular · vowel change: au → äu"
+            },
+            {
+              "word": "schnell",
+              "definition": "quickly / fast",
+              "partOfSpeech": "adverb",
+              "grammar": "manner adverb · same form as adjective schnell"
+            },
+            {
+              "word": "hinter den Baum",
+              "definition": "behind the tree",
+              "partOfSpeech": "prepositional phrase",
+              "grammar": "hinter + accusative here (movement toward location) · contrast with s3: hinter einem Baum (dative, static)"
+            }
+          ]
+        },
+        {
+          "id": "s9",
+          "text": "Er packt den Räuber am Arm.",
+          "translation": "He grabs the robber by the arm.",
+          "words": [
+            {
+              "word": "packt",
+              "definition": "grabs / seizes",
+              "partOfSpeech": "verb",
+              "grammar": "packen · present tense · 3rd person singular · strong physical action verb"
+            },
+            {
+              "word": "den Räuber",
+              "definition": "the robber",
+              "partOfSpeech": "noun",
+              "grammar": "der Räuber · masculine · accusative · direct object"
+            },
+            {
+              "word": "am Arm",
+              "definition": "by the arm",
+              "partOfSpeech": "prepositional phrase",
+              "grammar": "an + dem → am (contraction) · dative · body part idiom: jemanden am Arm packen"
+            }
+          ]
+        },
+        {
+          "id": "s10",
+          "text": "Der Räuber ruft: Lass mich los! Lass mich los!",
+          "translation": "The robber shouts: Let me go! Let me go!",
+          "words": [
+            {
+              "word": "Lass",
+              "definition": "let (command)",
+              "partOfSpeech": "verb",
+              "grammar": "lassen · imperative · 2nd person singular · irregular: lässt → lass"
+            },
+            {
+              "word": "mich los",
+              "definition": "me go / me loose",
+              "partOfSpeech": "phrase",
+              "grammar": "loslassen = separable verb (to let go) · mich = accusative of ich · repetition for dramatic effect"
+            }
+          ]
+        },
+        {
+          "id": "s11",
+          "text": "Aber Kasper hält ihn fest und ruft nach dem Polizisten.",
+          "translation": "But Kasper holds him tight and calls for the policeman.",
+          "words": [
+            {
+              "word": "hält fest",
+              "definition": "holds tight / holds firmly",
+              "partOfSpeech": "verb",
+              "grammar": "festhalten · separable verb · present tense · 3rd person singular · fest = tight, halten = to hold"
+            },
+            {
+              "word": "ihn",
+              "definition": "him",
+              "partOfSpeech": "pronoun",
+              "grammar": "er → ihn · masculine · accusative · refers to den Räuber"
+            },
+            {
+              "word": "ruft nach",
+              "definition": "calls for",
+              "partOfSpeech": "verb phrase",
+              "grammar": "rufen nach + dative · to call for someone · nach here is not directional but idiomatic"
+            },
+            {
+              "word": "dem Polizisten",
+              "definition": "the policeman",
+              "partOfSpeech": "noun",
+              "grammar": "der Polizist · masculine · dative after nach · weak noun: Polizist → Polizisten in all cases except nominative"
+            }
+          ]
+        },
+        {
+          "id": "s12",
+          "text": "Der Polizist kommt und nimmt den Räuber mit.",
+          "translation": "The policeman comes and takes the robber away.",
+          "words": [
+            {
+              "word": "kommt",
+              "definition": "comes",
+              "partOfSpeech": "verb",
+              "grammar": "kommen · present tense · 3rd person singular"
+            },
+            {
+              "word": "nimmt mit",
+              "definition": "takes away / takes along",
+              "partOfSpeech": "verb",
+              "grammar": "mitnehmen · separable verb · present tense · 3rd person singular · mit goes to end of clause"
+            },
+            {
+              "word": "den Räuber",
+              "definition": "the robber",
+              "partOfSpeech": "noun",
+              "grammar": "der Räuber · masculine · accusative · direct object of mitnehmen"
+            }
+          ]
+        }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Imperative (du-form) for commands → regular and irregular verbs",
+          "exampleSentence": "Gib mir dein Geld!",
+          "explanation": "To give a command to someone you address as 'du', use the verb stem without an ending. Most verbs are regular: 'kommen' → 'Komm!' But some are irregular: 'geben' → 'Gib!' (not 'Geb!') and 'lassen' → 'Lass!' (not 'Lass-e!'). These irregular forms must be memorised."
+        },
+        {
+          "rule": "Negation with 'nicht' at the end of a clause",
+          "exampleSentence": "Nein, das mache ich nicht!",
+          "explanation": "When 'nicht' negates the whole action of a sentence, it goes to the very end of the clause. 'Das mache ich nicht' means 'I won't do that' → the 'nicht' cancels the entire verb action, not just one word."
+        },
+        {
+          "rule": "'Hinter' as a two-way preposition → dative for location, accusative for movement",
+          "exampleSentence": "Ein Räuber steht hinter einem Baum. → Kasper läuft hinter den Baum.",
+          "explanation": "'Hinter' (behind) can take two different cases depending on meaning. When describing where something IS (static location), use dative: 'hinter einem Baum' (standing behind a tree). When describing movement TOWARD a location, use accusative: 'hinter den Baum' (running behind the tree). The same rule applies to: an, auf, in, neben, über, unter, vor, zwischen."
+        },
+        {
+          "rule": "Adverb-first sentences trigger verb-subject inversion",
+          "exampleSentence": "Plötzlich hört er ein lautes Geräusch.",
+          "explanation": "In German, the verb must always be the second element in a statement. When a sentence begins with an adverb like 'plötzlich' (suddenly), the verb comes next → before the subject. So instead of 'Er hört plötzlich...', the word order flips to 'Plötzlich hört er...'. This is called inversion and happens whenever anything other than the subject opens the sentence."
+        },
+        {
+          "rule": "Separable verbs → the prefix moves to the end of the clause",
+          "exampleSentence": "Der Polizist nimmt den Räuber mit.",
+          "explanation": "Some German verbs are made of two parts: a base verb and a prefix that carries extra meaning. 'Mitnehmen' (to take along) splits into 'nimmt' (conjugated verb, position 2) and 'mit' (prefix, sent to the end). The same happens with 'festhalten' → 'hält...fest' and 'loslassen' → 'lass...los'. The prefix always travels to the very end of its clause."
+        },
+        {
+          "rule": "Perfekt tense for spoken past → haben + past participle",
+          "exampleSentence": "Habt ihr den Räuber gesehen?",
+          "explanation": "In spoken German, past events are expressed using the Perfekt: the auxiliary verb 'haben' (conjugated) plus the past participle at the end. 'Gesehen' is the past participle of 'sehen' (to see). In questions, 'haben' inverts before the subject: 'Habt ihr...' (Have you / Did you...). This is the tense learners will hear most in everyday conversation."
+        },
+        {
+          "rule": "Verbs of speech introducing direct dialogue with a colon",
+          "exampleSentence": "Der Räuber ruft: Gib mir dein Geld!",
+          "explanation": "When a narrator introduces what someone says, a verb of speech (rufen, sagen, fragen, antworten) is followed by a colon. The spoken words then follow exactly as they were said. This construction → 'X says/shouts/asks: [speech]' → is the core pattern of the hybrid dialogue format used throughout this story."
+        }
+      ]
+    },
+    {
+      "id": "de-kasper-hexe-01",
+      "title": "Kasper und die Hexe",
+      "level": "A1",
+      "genre": "kaspertheater",
+      "source": "Traditional Kaspertheater, adapted for DELingo",
+      "sentences": [
+        {
+          "id": "s1",
+          "text": "Kasper geht in den dunklen Wald.",
+          "translation": "Kasper goes into the dark forest.",
+          "words": [
+            {
+              "word": "geht",
+              "definition": "goes / walks",
+              "partOfSpeech": "verb",
+              "grammar": "gehen · present tense · 3rd person singular"
+            },
+            {
+              "word": "in den dunklen Wald",
+              "definition": "into the dark forest",
+              "partOfSpeech": "prepositional phrase",
+              "grammar": "in + accusative (movement into a place) · der Wald → den Wald · dunklen = adjective with weak ending after definite article"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Dort wohnt eine alte Hexe.",
+          "translation": "There lives an old witch.",
+          "words": [
+            {
+              "word": "Dort",
+              "definition": "there",
+              "partOfSpeech": "adverb",
+              "grammar": "location adverb · sentence-opening position triggers inversion: wohnt comes before eine Hexe"
+            },
+            {
+              "word": "wohnt",
+              "definition": "lives / resides",
+              "partOfSpeech": "verb",
+              "grammar": "wohnen · present tense · 3rd person singular"
+            },
+            {
+              "word": "eine alte Hexe",
+              "definition": "an old witch",
+              "partOfSpeech": "noun phrase",
+              "grammar": "die Hexe · feminine · nominative · subject · alte = adjective with strong ending after indefinite article"
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Die Hexe sieht Kasper und ruft: Komm her, kleiner Mann!",
+          "translation": "The witch sees Kasper and shouts: Come here, little man!",
+          "words": [
+            {
+              "word": "sieht",
+              "definition": "sees",
+              "partOfSpeech": "verb",
+              "grammar": "sehen · present tense · 3rd person singular · vowel change: e → ie"
+            },
+            {
+              "word": "Komm her",
+              "definition": "come here",
+              "partOfSpeech": "verb phrase",
+              "grammar": "herkommen · separable verb · imperative du-form · her goes to end: 'Komm her!' · her = toward the speaker"
+            },
+            {
+              "word": "kleiner Mann",
+              "definition": "little man",
+              "partOfSpeech": "noun phrase",
+              "grammar": "der Mann · masculine · nominative · used as direct address (Anrede) · kleiner = strong adjective ending (no article)"
+            }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "Kasper antwortet: Nein! Ich kenne dich, du böse Hexe!",
+          "translation": "Kasper answers: No! I know you, you wicked witch!",
+          "words": [
+            {
+              "word": "kenne",
+              "definition": "know (a person or place)",
+              "partOfSpeech": "verb",
+              "grammar": "kennen · present tense · 1st person singular · kennen = to know someone/something (not wissen, which is for facts)"
+            },
+            {
+              "word": "dich",
+              "definition": "you (accusative)",
+              "partOfSpeech": "pronoun",
+              "grammar": "du → dich · accusative · direct object of kennen · informal singular"
+            },
+            {
+              "word": "böse Hexe",
+              "definition": "wicked witch",
+              "partOfSpeech": "noun phrase",
+              "grammar": "used as direct address · böse = strong adjective ending (no article before it) · böse = wicked / evil / naughty"
+            }
+          ]
+        },
+        {
+          "id": "s5",
+          "text": "Die Hexe sagt: Ich will dich in einen Frosch verwandeln!",
+          "translation": "The witch says: I want to turn you into a frog!",
+          "words": [
+            {
+              "word": "will",
+              "definition": "want to",
+              "partOfSpeech": "verb",
+              "grammar": "wollen · modal verb · present tense · 1st person singular · modal + infinitive at end of clause"
+            },
+            {
+              "word": "dich",
+              "definition": "you (accusative)",
+              "partOfSpeech": "pronoun",
+              "grammar": "du → dich · accusative · direct object of verwandeln"
+            },
+            {
+              "word": "in einen Frosch",
+              "definition": "into a frog",
+              "partOfSpeech": "prepositional phrase",
+              "grammar": "in + accusative (transformation into something) · der Frosch → einen Frosch · masculine accusative"
+            },
+            {
+              "word": "verwandeln",
+              "definition": "to turn / to transform",
+              "partOfSpeech": "verb",
+              "grammar": "infinitive · sent to end of clause by modal verb wollen · jemanden in etwas verwandeln = to turn someone into something"
+            }
+          ]
+        },
+        {
+          "id": "s6",
+          "text": "Kasper lacht laut und ruft die Kinder: Habt ihr Angst vor der Hexe?",
+          "translation": "Kasper laughs loudly and calls to the children: Are you afraid of the witch?",
+          "words": [
+            {
+              "word": "lacht",
+              "definition": "laughs",
+              "partOfSpeech": "verb",
+              "grammar": "lachen · present tense · 3rd person singular"
+            },
+            {
+              "word": "Habt ihr Angst",
+              "definition": "are you afraid / do you have fear",
+              "partOfSpeech": "verb phrase",
+              "grammar": "Angst haben = to be afraid (lit. to have fear) · question inversion: habt before ihr · 2nd person plural"
+            },
+            {
+              "word": "vor der Hexe",
+              "definition": "of the witch",
+              "partOfSpeech": "prepositional phrase",
+              "grammar": "Angst vor + dative · fixed expression · vor der Hexe = dative after vor in this idiomatic use"
+            }
+          ]
+        },
+        {
+          "id": "s7",
+          "text": "Die Kinder rufen: Nein! Wir haben keine Angst!",
+          "translation": "The children shout: No! We are not afraid!",
+          "words": [
+            {
+              "word": "Wir haben",
+              "definition": "we have",
+              "partOfSpeech": "verb phrase",
+              "grammar": "haben · present tense · 1st person plural"
+            },
+            {
+              "word": "keine Angst",
+              "definition": "no fear / not afraid",
+              "partOfSpeech": "noun phrase",
+              "grammar": "kein + Angst · kein negates nouns · keine = feminine form (die Angst) · contrast: 'nicht' negates verbs/adjectives, 'kein' negates nouns"
+            }
+          ]
+        },
+        {
+          "id": "s8",
+          "text": "Kasper nimmt einen großen Besen und jagt die Hexe weg.",
+          "translation": "Kasper takes a big broom and chases the witch away.",
+          "words": [
+            {
+              "word": "nimmt",
+              "definition": "takes",
+              "partOfSpeech": "verb",
+              "grammar": "nehmen · present tense · 3rd person singular · vowel change: e → i"
+            },
+            {
+              "word": "einen großen Besen",
+              "definition": "a big broom",
+              "partOfSpeech": "noun phrase",
+              "grammar": "der Besen · masculine · accusative · einen = indefinite article accusative · großen = weak adjective ending after einen"
+            },
+            {
+              "word": "jagt weg",
+              "definition": "chases away",
+              "partOfSpeech": "verb",
+              "grammar": "wegjagen · separable verb · present tense · 3rd person singular · weg goes to end of clause"
+            }
+          ]
+        },
+        {
+          "id": "s9",
+          "text": "Die Hexe ruft: Ich komme wieder, weil ich dich nicht vergesse!",
+          "translation": "The witch shouts: I will come back, because I won't forget you!",
+          "words": [
+            {
+              "word": "komme wieder",
+              "definition": "come back / return",
+              "partOfSpeech": "verb phrase",
+              "grammar": "wiederkommen · separable verb · present tense · 1st person singular · wieder goes to end of clause"
+            },
+            {
+              "word": "weil",
+              "definition": "because",
+              "partOfSpeech": "conjunction",
+              "grammar": "subordinating conjunction · sends the verb to the END of its clause: 'weil ich dich nicht vergesse' (not: 'weil ich vergesse dich nicht')"
+            },
+            {
+              "word": "vergesse",
+              "definition": "forget",
+              "partOfSpeech": "verb",
+              "grammar": "vergessen · present tense · 1st person singular · pushed to end of clause by weil"
+            }
+          ]
+        },
+        {
+          "id": "s10",
+          "text": "Aber Kasper ruft zurück: Du wirst mich nicht finden!",
+          "translation": "But Kasper shouts back: You will not find me!",
+          "words": [
+            {
+              "word": "ruft zurück",
+              "definition": "shouts back / calls back",
+              "partOfSpeech": "verb",
+              "grammar": "zurückrufen · separable verb · present tense · 3rd person singular · zurück goes to end"
+            },
+            {
+              "word": "wirst",
+              "definition": "will (future auxiliary)",
+              "partOfSpeech": "verb",
+              "grammar": "werden · present tense · 2nd person singular · used with infinitive to express future: du wirst + finden = you will find"
+            },
+            {
+              "word": "mich",
+              "definition": "me (accusative)",
+              "partOfSpeech": "pronoun",
+              "grammar": "ich → mich · accusative · direct object of finden"
+            },
+            {
+              "word": "finden",
+              "definition": "to find",
+              "partOfSpeech": "verb",
+              "grammar": "infinitive · sent to end of clause by werden (future construction)"
+            }
+          ]
+        },
+        {
+          "id": "s11",
+          "text": "Kasper versteckt sich hinter einem großen Baum und wartet.",
+          "translation": "Kasper hides behind a big tree and waits.",
+          "words": [
+            {
+              "word": "versteckt sich",
+              "definition": "hides (himself)",
+              "partOfSpeech": "verb",
+              "grammar": "sich verstecken · reflexive verb · present tense · 3rd person singular · sich = reflexive pronoun (accusative)"
+            },
+            {
+              "word": "hinter einem großen Baum",
+              "definition": "behind a big tree",
+              "partOfSpeech": "prepositional phrase",
+              "grammar": "hinter + dative (static location, not movement) · einem Baum · großen = weak adjective ending after einem"
+            },
+            {
+              "word": "wartet",
+              "definition": "waits",
+              "partOfSpeech": "verb",
+              "grammar": "warten · present tense · 3rd person singular"
+            }
+          ]
+        },
+        {
+          "id": "s12",
+          "text": "Die Hexe kommt nicht zurück, und alle sind froh.",
+          "translation": "The witch does not come back, and everyone is happy.",
+          "words": [
+            {
+              "word": "kommt nicht zurück",
+              "definition": "does not come back",
+              "partOfSpeech": "verb phrase",
+              "grammar": "zurückkommen · separable · negated with nicht · nicht sits before the separable prefix: 'kommt nicht zurück'"
+            },
+            {
+              "word": "alle",
+              "definition": "everyone / all",
+              "partOfSpeech": "pronoun",
+              "grammar": "alle · plural · nominative · subject of sind · used without a noun: alle = everyone present"
+            },
+            {
+              "word": "froh",
+              "definition": "happy / glad",
+              "partOfSpeech": "adjective",
+              "grammar": "predicate adjective after sein · no ending needed: 'alle sind froh' (contrast with attributive: 'frohe Kinder')"
+            }
+          ]
+        }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Modal verb 'wollen' + infinitive at end of clause",
+          "exampleSentence": "Ich will dich in einen Frosch verwandeln!",
+          "explanation": "Modal verbs like 'wollen' (to want to) change the structure of the sentence. The modal verb takes position 2 and is conjugated, while the main verb is pushed to the very end of the clause as an infinitive. 'Ich will verwandeln' is the skeleton → everything else slots in between. The same pattern applies to other modals: können (can), müssen (must), dürfen (may), sollen (should)."
+        },
+        {
+          "rule": "'Weil' sends the verb to the end of its clause",
+          "exampleSentence": "Ich komme wieder, weil ich dich nicht vergesse!",
+          "explanation": "'Weil' (because) is a subordinating conjunction → it introduces a dependent clause where the verb must go to the very end. Compare: 'Ich vergesse dich nicht' (normal order) vs 'weil ich dich nicht vergesse' (verb at end after weil). This verb-final rule applies to all subordinating conjunctions: weil, dass, wenn, obwohl, weil, da."
+        },
+        {
+          "rule": "Future tense with 'werden' + infinitive",
+          "exampleSentence": "Du wirst mich nicht finden!",
+          "explanation": "To express the future in German, use the conjugated form of 'werden' in position 2, with the main verb as an infinitive at the end. 'Du wirst finden' = you will find. Note that Germans often use the present tense instead for near-future events → 'werden + infinitive' adds emphasis or certainty, as the witch uses it here as a threat."
+        },
+        {
+          "rule": "Reflexive verbs with 'sich'",
+          "exampleSentence": "Kasper versteckt sich hinter einem großen Baum.",
+          "explanation": "'Sich verstecken' (to hide oneself) is a reflexive verb → the action reflects back onto the subject. The reflexive pronoun 'sich' is used for the 3rd person (er/sie/es/sie plural). For other persons: ich verstecke mich, du versteckst dich, wir verstecken uns. Many everyday German verbs are reflexive: sich waschen (to wash), sich setzen (to sit down), sich freuen (to be happy)."
+        },
+        {
+          "rule": "'Kein' vs 'nicht' for negation",
+          "exampleSentence": "Wir haben keine Angst!",
+          "explanation": "German has two main negation words. 'Nicht' negates verbs, adjectives, and adverbs ('kommt nicht zurück'). 'Kein' negates nouns directly and must agree with the noun's gender and case → 'keine Angst' (feminine), 'keinen Frosch' (masculine accusative), 'kein Geld' (neuter). Think of 'kein' as 'not a' or 'no': 'Wir haben keine Angst' = 'We have no fear'."
+        },
+        {
+          "rule": "Adjective endings after indefinite articles (accusative)",
+          "exampleSentence": "Kasper nimmt einen großen Besen.",
+          "explanation": "When an adjective follows an indefinite article (ein, eine, einen) in the accusative case, it takes a 'weak' ending. For masculine accusative nouns: 'einen großen Besen' → the article already shows the masculine accusative (-en), so the adjective also takes -en. This pattern → article signals the case, adjective follows with -en → is the most common adjective pattern learners encounter."
+        },
+        {
+          "rule": "Separable verbs → prefix travels to the end, including with negation",
+          "exampleSentence": "Die Hexe kommt nicht zurück.",
+          "explanation": "Separable verbs split in a main clause: the conjugated base verb stays in position 2, and the prefix goes to the end. When the sentence is also negated, 'nicht' sits just before the prefix: 'kommt nicht zurück' (does not come back). This is the fixed order: base verb → [rest of sentence] → nicht → prefix. Compare: 'kommt zurück' (comes back) vs 'kommt nicht zurück' (does not come back)."
+        }
+      ]
+    },
+    {
+      "id": "de-max-moritz-streich-01",
+      "title": "Max und Moritz: Der erste Streich",
+      "level": "A2",
+      "genre": "literary",
+      "source": "Adapted from Wilhelm Busch, Max und Moritz (1865), for DELingo",
+      "sentences": [
+        {
+          "id": "s1",
+          "text": "Witwe Bolte wohnt allein in einem kleinen Haus am Rand des Dorfes.",
+          "translation": "Widow Bolte lives alone in a small house at the edge of the village.",
+          "words": [
+            {
+              "word": "Witwe",
+              "definition": "widow",
+              "partOfSpeech": "noun",
+              "grammar": "die Witwe · feminine · nominative · subject · used as a title before the name"
+            },
+            {
+              "word": "allein",
+              "definition": "alone",
+              "partOfSpeech": "adverb",
+              "grammar": "manner adverb · modifies wohnt · same form as adjective"
+            },
+            {
+              "word": "in einem kleinen Haus",
+              "definition": "in a small house",
+              "partOfSpeech": "prepositional phrase",
+              "grammar": "in + dative (static location) · das Haus → einem Haus · neuter dative · kleinen = weak adjective ending after einem"
+            },
+            {
+              "word": "am Rand des Dorfes",
+              "definition": "at the edge of the village",
+              "partOfSpeech": "prepositional phrase",
+              "grammar": "an + dem → am · dative · des Dorfes = genitive (possession): 'the edge of the village' · genitive -es ending on neuter noun"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Sie hat vier Hühner und einen stolzen Hahn im Garten.",
+          "translation": "She has four hens and a proud rooster in the garden.",
+          "words": [
+            {
+              "word": "vier Hühner",
+              "definition": "four hens / chickens",
+              "partOfSpeech": "noun phrase",
+              "grammar": "das Huhn · plural: Hühner · accusative · direct object of hat · umlaut plural"
+            },
+            {
+              "word": "einen stolzen Hahn",
+              "definition": "a proud rooster",
+              "partOfSpeech": "noun phrase",
+              "grammar": "der Hahn · masculine · accusative · einen = indefinite article accusative · stolzen = weak adjective ending"
+            },
+            {
+              "word": "im Garten",
+              "definition": "in the garden",
+              "partOfSpeech": "prepositional phrase",
+              "grammar": "in + dem → im · dative (static location) · der Garten → dem Garten · masculine dative"
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Max und Moritz haben einen langen Faden gefunden und ihn in viele Stücke geschnitten.",
+          "translation": "Max and Moritz found a long piece of string and cut it into many pieces.",
+          "words": [
+            {
+              "word": "haben →¦ gefunden",
+              "definition": "found (past)",
+              "partOfSpeech": "verb",
+              "grammar": "finden · Perfekt · haben + past participle · gefunden = irregular past participle · Perfekt used for narrating past events in spoken/written German"
+            },
+            {
+              "word": "einen langen Faden",
+              "definition": "a long piece of string",
+              "partOfSpeech": "noun phrase",
+              "grammar": "der Faden · masculine · accusative · langen = weak adjective ending after einen"
+            },
+            {
+              "word": "ihn",
+              "definition": "it (him → referring to the string)",
+              "partOfSpeech": "pronoun",
+              "grammar": "er → ihn · masculine · accusative · replaces 'den Faden' · German pronoun gender follows noun gender, not natural gender"
+            },
+            {
+              "word": "in viele Stücke geschnitten",
+              "definition": "cut into many pieces",
+              "partOfSpeech": "verb phrase",
+              "grammar": "schneiden · past participle: geschnitten · irregular · in + accusative (transformation into pieces)"
+            }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "Sie haben die Fadenstücke mit Brot verbunden und alles vor den Hühnerstall gelegt.",
+          "translation": "They tied the pieces of string to bread and placed everything in front of the henhouse.",
+          "words": [
+            {
+              "word": "haben →¦ verbunden",
+              "definition": "tied / connected (past)",
+              "partOfSpeech": "verb",
+              "grammar": "verbinden · Perfekt · verbunden = irregular past participle · mit + dative: 'mit Brot' = with bread"
+            },
+            {
+              "word": "alles",
+              "definition": "everything",
+              "partOfSpeech": "pronoun",
+              "grammar": "indefinite pronoun · accusative · direct object of gelegt · alles = everything, all of it"
+            },
+            {
+              "word": "vor den Hühnerstall gelegt",
+              "definition": "placed in front of the henhouse",
+              "partOfSpeech": "verb phrase",
+              "grammar": "vor + accusative (movement/placement) · legen · past participle: gelegt · regular · legen = to place/lay (transitive) vs liegen = to lie (intransitive)"
+            }
+          ]
+        },
+        {
+          "id": "s5",
+          "text": "Die Hühner haben das Brot sofort gesehen und sind darauf zugelaufen.",
+          "translation": "The hens immediately spotted the bread and ran towards it.",
+          "words": [
+            {
+              "word": "sofort",
+              "definition": "immediately / at once",
+              "partOfSpeech": "adverb",
+              "grammar": "temporal adverb · A2 vocabulary · stronger than 'schnell' → implies instant reaction"
+            },
+            {
+              "word": "haben →¦ gesehen",
+              "definition": "spotted / saw (past)",
+              "partOfSpeech": "verb",
+              "grammar": "sehen · Perfekt with haben · gesehen = irregular past participle"
+            },
+            {
+              "word": "sind →¦ zugelaufen",
+              "definition": "ran towards (past)",
+              "partOfSpeech": "verb",
+              "grammar": "zulaufen · Perfekt with sein (not haben) · motion verbs with direction often take sein · zugelaufen = past participle of separable verb: zu- + laufen"
+            }
+          ]
+        },
+        {
+          "id": "s6",
+          "text": "Aber die Fäden haben sich um ihre Beine gewickelt, und die Hühner sind gestürzt.",
+          "translation": "But the strings wrapped around their legs, and the hens fell over.",
+          "words": [
+            {
+              "word": "haben sich →¦ gewickelt",
+              "definition": "wrapped (themselves) around (past)",
+              "partOfSpeech": "verb phrase",
+              "grammar": "sich wickeln · reflexive · Perfekt with haben · gewickelt = regular past participle · um + accusative: 'um ihre Beine' = around their legs"
+            },
+            {
+              "word": "ihre Beine",
+              "definition": "their legs",
+              "partOfSpeech": "noun phrase",
+              "grammar": "das Bein · plural: Beine · accusative after um · ihre = possessive pronoun 3rd person plural"
+            },
+            {
+              "word": "sind gestürzt",
+              "definition": "fell over / tumbled (past)",
+              "partOfSpeech": "verb",
+              "grammar": "stürzen · Perfekt with sein · gestürzt = regular past participle · stürzen takes sein because it expresses a change of state (falling)"
+            }
+          ]
+        },
+        {
+          "id": "s7",
+          "text": "Witwe Bolte hat die toten Hühner gefunden und ist sehr traurig gewesen.",
+          "translation": "Widow Bolte found the dead hens and was very sad.",
+          "words": [
+            {
+              "word": "die toten Hühner",
+              "definition": "the dead hens",
+              "partOfSpeech": "noun phrase",
+              "grammar": "toten = weak adjective ending after definite article (die) · accusative plural · tote Hühner without article would use strong ending"
+            },
+            {
+              "word": "ist →¦ gewesen",
+              "definition": "was (past)",
+              "partOfSpeech": "verb",
+              "grammar": "sein · Perfekt: ist + gewesen · sein always forms Perfekt with itself (ist gewesen) · used for states and conditions in the past"
+            },
+            {
+              "word": "traurig",
+              "definition": "sad",
+              "partOfSpeech": "adjective",
+              "grammar": "predicate adjective after sein · no ending · contrast: 'eine traurige Frau' (attributive, with ending)"
+            }
+          ]
+        },
+        {
+          "id": "s8",
+          "text": "Sie hat die Hühner in der Küche gebraten, weil sie kein Futter mehr verschwenden wollte.",
+          "translation": "She roasted the hens in the kitchen, because she did not want to waste any more food.",
+          "words": [
+            {
+              "word": "hat →¦ gebraten",
+              "definition": "roasted (past)",
+              "partOfSpeech": "verb",
+              "grammar": "braten · Perfekt with haben · gebraten = irregular past participle · braten = to roast/fry"
+            },
+            {
+              "word": "weil →¦ wollte",
+              "definition": "because →¦ wanted to",
+              "partOfSpeech": "conjunction + verb",
+              "grammar": "weil = subordinating conjunction · sends verb to end of clause · wollte = Präteritum of wollen (modal verbs typically use Präteritum, not Perfekt) · modal + infinitive: wollte verschwenden"
+            },
+            {
+              "word": "kein Futter mehr",
+              "definition": "no more food / feed",
+              "partOfSpeech": "noun phrase",
+              "grammar": "das Futter · neuter · kein negates the noun · mehr = anymore · kein →¦ mehr = no more (fixed combination)"
+            }
+          ]
+        },
+        {
+          "id": "s9",
+          "text": "Max und Moritz haben den Bratengeruch gerochen und sind ans Fenster geschlichen.",
+          "translation": "Max and Moritz smelled the roasting smell and crept to the window.",
+          "words": [
+            {
+              "word": "den Bratengeruch gerochen",
+              "definition": "smelled the roasting smell",
+              "partOfSpeech": "verb phrase",
+              "grammar": "riechen · past participle: gerochen · irregular · Perfekt with haben · Bratengeruch = compound noun: Braten (roast) + Geruch (smell)"
+            },
+            {
+              "word": "sind →¦ geschlichen",
+              "definition": "crept / sneaked (past)",
+              "partOfSpeech": "verb",
+              "grammar": "schleichen · Perfekt with sein · geschlichen = irregular past participle · motion verb takes sein"
+            },
+            {
+              "word": "ans Fenster",
+              "definition": "to the window",
+              "partOfSpeech": "prepositional phrase",
+              "grammar": "an + das → ans · accusative (movement toward) · das Fenster · neuter"
+            }
+          ]
+        },
+        {
+          "id": "s10",
+          "text": "Sie haben die Hühner mit einer langen Stange aus dem Topf gefischt.",
+          "translation": "They fished the hens out of the pot with a long stick.",
+          "words": [
+            {
+              "word": "mit einer langen Stange",
+              "definition": "with a long stick",
+              "partOfSpeech": "prepositional phrase",
+              "grammar": "mit + dative · die Stange → einer Stange · feminine dative · langen = weak adjective ending after einer"
+            },
+            {
+              "word": "aus dem Topf",
+              "definition": "out of the pot",
+              "partOfSpeech": "prepositional phrase",
+              "grammar": "aus + dative · always takes dative · der Topf → dem Topf · masculine dative"
+            },
+            {
+              "word": "gefischt",
+              "definition": "fished out",
+              "partOfSpeech": "verb",
+              "grammar": "fischen · regular past participle · used figuratively here: 'to fish something out' of a container"
+            }
+          ]
+        },
+        {
+          "id": "s11",
+          "text": "Als Witwe Bolte zurückgekommen ist, hat sie nur den leeren Topf gesehen.",
+          "translation": "When Widow Bolte came back, she only saw the empty pot.",
+          "words": [
+            {
+              "word": "Als →¦ zurückgekommen ist",
+              "definition": "when →¦ came back",
+              "partOfSpeech": "subordinate clause",
+              "grammar": "als = subordinating conjunction for a single past event · verb goes to end: 'zurückgekommen ist' · als (single past event) vs wenn (repeated/future events)"
+            },
+            {
+              "word": "nur",
+              "definition": "only / just",
+              "partOfSpeech": "adverb",
+              "grammar": "limiting adverb · placed directly before the element it limits: 'nur den leeren Topf' = only the empty pot"
+            },
+            {
+              "word": "den leeren Topf",
+              "definition": "the empty pot",
+              "partOfSpeech": "noun phrase",
+              "grammar": "der Topf · masculine · accusative · leeren = weak adjective ending after definite article"
+            }
+          ]
+        },
+        {
+          "id": "s12",
+          "text": "Sie hat laut gerufen, aber Max und Moritz waren schon längst weg.",
+          "translation": "She called out loudly, but Max and Moritz were long gone.",
+          "words": [
+            {
+              "word": "hat →¦ gerufen",
+              "definition": "called out (past)",
+              "partOfSpeech": "verb",
+              "grammar": "rufen · Perfekt with haben · gerufen = irregular past participle"
+            },
+            {
+              "word": "aber",
+              "definition": "but",
+              "partOfSpeech": "conjunction",
+              "grammar": "coordinating conjunction · does NOT change word order · contrast with 'weil/als/dass' which send verb to end"
+            },
+            {
+              "word": "waren →¦ weg",
+              "definition": "were gone / had left",
+              "partOfSpeech": "verb phrase",
+              "grammar": "sein · Präteritum: waren · 3rd person plural · weg = gone/away · Präteritum of sein is more natural than Perfekt (ist gewesen) in everyday use"
+            },
+            {
+              "word": "schon längst",
+              "definition": "long since / long ago already",
+              "partOfSpeech": "adverb phrase",
+              "grammar": "schon = already · längst = long since · combined: 'long since already' → emphasises how far ahead they got"
+            }
+          ]
+        }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Perfekt tense for past narration → haben or sein as auxiliary",
+          "exampleSentence": "Max und Moritz haben einen langen Faden gefunden. / Die Hühner sind gestürzt.",
+          "explanation": "The Perfekt is the main past tense in spoken and written German at A2 level. It uses a conjugated auxiliary (haben or sein) in position 2, plus the past participle at the end. Most verbs take haben. Verbs of motion (laufen, schleichen, gehen) and change of state (stürzen, werden) take sein. This distinction must be learned verb by verb → there is no shortcut, but motion and change-of-state are reliable guides."
+        },
+        {
+          "rule": "Irregular past participles",
+          "exampleSentence": "Sie haben das Brot gefunden / geschnitten / gerochen / gerufen.",
+          "explanation": "Many common German verbs have irregular past participles that must be memorised: finden → gefunden, schneiden → geschnitten, riechen → gerochen, rufen → gerufen, sehen → gesehen. These are strong verbs → the vowel changes in the stem. Regular (weak) verbs simply add ge- + -t: legen → gelegt, braten → gebraten."
+        },
+        {
+          "rule": "'Als' for single past events in subordinate clauses",
+          "exampleSentence": "Als Witwe Bolte zurückgekommen ist, hat sie nur den leeren Topf gesehen.",
+          "explanation": "'Als' introduces a subordinate clause describing a single completed event in the past → it means 'when' but only for one-time past situations. The verb goes to the end of the als-clause. Compare: 'wenn' is used for repeated events ('whenever') or future events ('when/if'). Mixing up als and wenn is one of the most common A2 errors."
+        },
+        {
+          "rule": "Coordinating conjunctions do not change word order",
+          "exampleSentence": "Sie hat laut gerufen, aber Max und Moritz waren schon längst weg.",
+          "explanation": "Coordinating conjunctions (aber, und, oder, denn, sondern) join two main clauses without affecting word order → the verb stays in position 2 in both clauses. This contrasts with subordinating conjunctions (weil, als, dass, wenn) which push the verb to the end. 'Aber' (but) is one of the most useful → it introduces a contrast or contradiction."
+        },
+        {
+          "rule": "Genitive case for possession",
+          "exampleSentence": "Sie wohnt am Rand des Dorfes.",
+          "explanation": "The genitive case shows belonging or possession → equivalent to 'of the' in English. Masculine and neuter nouns add -es or -s in the genitive: 'des Dorfes' (of the village), 'des Hauses' (of the house). Feminine nouns add nothing: 'der Frau' (of the woman). The genitive is more common in written German → in speech, 'von + dative' is often used instead: 'am Rand von dem Dorf'."
+        },
+        {
+          "rule": "Legen vs liegen → transitive and intransitive pairs",
+          "exampleSentence": "Sie haben alles vor den Hühnerstall gelegt.",
+          "explanation": "German has pairs of verbs where one is transitive (takes an object) and one is intransitive (no object). 'Legen' (to lay/place something) takes an accusative object and uses haben in Perfekt. 'Liegen' (to lie/be lying) has no object and uses haben too, but means a different thing. Similar pairs: stellen/stehen, setzen/sitzen, hängen. The transitive verb always describes the action of placing; the intransitive describes the resulting state."
+        },
+        {
+          "rule": "Modal verbs use Präteritum rather than Perfekt in past narration",
+          "exampleSentence": "Sie wollte kein Futter mehr verschwenden.",
+          "explanation": "While most verbs use Perfekt for past events (hat gemacht, ist gegangen), modal verbs (wollen, können, müssen, dürfen, sollen, mögen) almost always use the Präteritum (simple past) instead: wollte, konnte, musste, durfte, sollte, mochte. Saying 'sie hat nicht verschwenden gewollt' is grammatically possible but sounds unnatural. Learning the Präteritum forms of modals is an A2 priority."
+        }
+      ]
+    },
+    {
+      "id": "de-max-moritz-streich-02",
+      "title": "Max und Moritz: Der zweite Streich",
+      "level": "A2",
+      "genre": "literary",
+      "source": "Adapted from Wilhelm Busch, Max und Moritz (1865), for DELingo",
+      "sentences": [
+        {
+          "id": "s1",
+          "text": "Im Dorf lebte ein Schneider, der für seine Arbeit bekannt war.",
+          "translation": "In the village there lived a tailor who was known for his work.",
+          "words": [
+            {
+              "word": "lebte",
+              "definition": "lived (past)",
+              "partOfSpeech": "verb",
+              "grammar": "leben · Präteritum · 3rd person singular · -te ending = regular Präteritum · used here for literary narration style"
+            },
+            {
+              "word": "ein Schneider",
+              "definition": "a tailor",
+              "partOfSpeech": "noun",
+              "grammar": "der Schneider · masculine · nominative · subject · Schneider = one who cuts (schneiden)"
+            },
+            {
+              "word": "der für seine Arbeit bekannt war",
+              "definition": "who was known for his work",
+              "partOfSpeech": "relative clause",
+              "grammar": "der = relative pronoun · refers back to 'ein Schneider' (masculine nominative) · verb 'war' goes to end of relative clause · bekannt für + accusative: known for"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Jeden Morgen ging er über eine schmale Brücke zum Markt.",
+          "translation": "Every morning he walked over a narrow bridge to the market.",
+          "words": [
+            {
+              "word": "Jeden Morgen",
+              "definition": "every morning",
+              "partOfSpeech": "noun phrase",
+              "grammar": "jeder · accusative · time expression without preposition · jed- takes strong adjective endings: jeden (masculine accusative)"
+            },
+            {
+              "word": "ging",
+              "definition": "walked / went (past)",
+              "partOfSpeech": "verb",
+              "grammar": "gehen · Präteritum · 3rd person singular · irregular: gehen → ging · strong verb, vowel changes completely"
+            },
+            {
+              "word": "über eine schmale Brücke",
+              "definition": "over a narrow bridge",
+              "partOfSpeech": "prepositional phrase",
+              "grammar": "über + accusative (movement across) · die Brücke → eine Brücke · feminine · schmale = weak adjective ending after eine"
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Max und Moritz wussten das und hatten einen Plan gemacht.",
+          "translation": "Max and Moritz knew this and had made a plan.",
+          "words": [
+            {
+              "word": "wussten",
+              "definition": "knew (past)",
+              "partOfSpeech": "verb",
+              "grammar": "wissen · Präteritum · 3rd person plural · irregular: wissen → wussten · wissen (to know a fact) vs kennen (to know a person)"
+            },
+            {
+              "word": "hatten →¦ gemacht",
+              "definition": "had made (past)",
+              "partOfSpeech": "verb phrase",
+              "grammar": "machen · Plusquamperfekt: hatten + past participle · expresses a past action completed before another past event · gemacht = regular past participle"
+            },
+            {
+              "word": "einen Plan",
+              "definition": "a plan",
+              "partOfSpeech": "noun phrase",
+              "grammar": "der Plan · masculine · accusative · direct object of gemacht"
+            }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "In der Nacht sägten sie die Brücke fast durch, sodass sie beim ersten Schritt brechen würde.",
+          "translation": "During the night they sawed almost through the bridge, so that it would break at the first step.",
+          "words": [
+            {
+              "word": "sägten →¦ durch",
+              "definition": "sawed through (past)",
+              "partOfSpeech": "verb",
+              "grammar": "durchsägen · separable verb · Präteritum · regular: sägen → sägten · durch goes to end of clause"
+            },
+            {
+              "word": "fast",
+              "definition": "almost / nearly",
+              "partOfSpeech": "adverb",
+              "grammar": "degree adverb · placed before the element it modifies · 'fast durch' = almost all the way through"
+            },
+            {
+              "word": "sodass →¦ würde",
+              "definition": "so that →¦ would",
+              "partOfSpeech": "conjunction + verb",
+              "grammar": "sodass = subordinating conjunction (so that, result) · verb goes to end · würde = Konjunktiv II of werden · expresses a hypothetical future result from a past perspective"
+            }
+          ]
+        },
+        {
+          "id": "s5",
+          "text": "Am nächsten Morgen kam der Schneider wie immer über die Brücke gegangen.",
+          "translation": "The next morning the tailor came walking over the bridge as always.",
+          "words": [
+            {
+              "word": "Am nächsten Morgen",
+              "definition": "the next morning",
+              "partOfSpeech": "prepositional phrase",
+              "grammar": "an + dem → am · dative · nächsten = weak adjective ending after dem · temporal expression"
+            },
+            {
+              "word": "kam →¦ gegangen",
+              "definition": "came walking (past)",
+              "partOfSpeech": "verb phrase",
+              "grammar": "kommen + past participle of motion verb = movement in progress · 'kam gegangen' = came (along), walking · literary construction, more vivid than 'ging'"
+            },
+            {
+              "word": "wie immer",
+              "definition": "as always / as usual",
+              "partOfSpeech": "adverb phrase",
+              "grammar": "fixed expression · wie = as/like · immer = always · signals habitual action being disrupted"
+            }
+          ]
+        },
+        {
+          "id": "s6",
+          "text": "Plötzlich brach die Brücke, und der Schneider fiel in den kalten Fluss.",
+          "translation": "Suddenly the bridge broke, and the tailor fell into the cold river.",
+          "words": [
+            {
+              "word": "brach",
+              "definition": "broke (past)",
+              "partOfSpeech": "verb",
+              "grammar": "brechen · Präteritum · 3rd person singular · strong verb: brechen → brach · irregular vowel change"
+            },
+            {
+              "word": "fiel",
+              "definition": "fell (past)",
+              "partOfSpeech": "verb",
+              "grammar": "fallen · Präteritum · 3rd person singular · strong verb: fallen → fiel · change of state verb"
+            },
+            {
+              "word": "in den kalten Fluss",
+              "definition": "into the cold river",
+              "partOfSpeech": "prepositional phrase",
+              "grammar": "in + accusative (movement into) · der Fluss → den Fluss · masculine · kalten = weak adjective ending after den"
+            }
+          ]
+        },
+        {
+          "id": "s7",
+          "text": "Zwei Enten retteten ihn, indem sie ihn ans Ufer zogen.",
+          "translation": "Two ducks rescued him by pulling him to the bank.",
+          "words": [
+            {
+              "word": "Zwei Enten",
+              "definition": "two ducks",
+              "partOfSpeech": "noun phrase",
+              "grammar": "die Ente · plural: Enten · nominative · subject · no article needed with numerals"
+            },
+            {
+              "word": "retteten",
+              "definition": "rescued (past)",
+              "partOfSpeech": "verb",
+              "grammar": "retten · Präteritum · 3rd person plural · regular: -eten ending (stem ends in -t, so -e- inserted for pronunciation)"
+            },
+            {
+              "word": "indem →¦ zogen",
+              "definition": "by pulling",
+              "partOfSpeech": "conjunction + verb",
+              "grammar": "indem = subordinating conjunction meaning 'by doing something' · describes HOW the action was done · verb goes to end: zogen · ziehen → zog/zogen (strong verb)"
+            },
+            {
+              "word": "ans Ufer",
+              "definition": "to the bank / shore",
+              "partOfSpeech": "prepositional phrase",
+              "grammar": "an + das → ans · accusative (movement toward) · das Ufer · neuter"
+            }
+          ]
+        },
+        {
+          "id": "s8",
+          "text": "Der Schneider lag triefend nass am Boden und dachte an seinen nassen Anzug.",
+          "translation": "The tailor lay dripping wet on the ground and thought about his wet suit.",
+          "words": [
+            {
+              "word": "lag",
+              "definition": "lay / was lying (past)",
+              "partOfSpeech": "verb",
+              "grammar": "liegen · Präteritum · 3rd person singular · strong verb: liegen → lag · static position (contrast: legen → legte, transitive)"
+            },
+            {
+              "word": "triefend nass",
+              "definition": "dripping wet",
+              "partOfSpeech": "adjective phrase",
+              "grammar": "triefend = present participle of triefen (to drip) used as adverb · nass = wet · compound description: dripping-wet · predicate position, no ending"
+            },
+            {
+              "word": "dachte an",
+              "definition": "thought about",
+              "partOfSpeech": "verb phrase",
+              "grammar": "denken an + accusative · fixed prepositional verb · Präteritum: dachte · irregular: denken → dachte · 'an' here is not directional but part of the verb phrase"
+            }
+          ]
+        },
+        {
+          "id": "s9",
+          "text": "Er ärgerte sich sehr darüber, dass seine Kleider so nass geworden waren.",
+          "translation": "He was very annoyed about the fact that his clothes had gotten so wet.",
+          "words": [
+            {
+              "word": "ärgerte sich",
+              "definition": "was annoyed / got angry (past)",
+              "partOfSpeech": "verb",
+              "grammar": "sich ärgern · reflexive verb · Präteritum · regular · über + accusative: angry about something"
+            },
+            {
+              "word": "darüber",
+              "definition": "about it / about that",
+              "partOfSpeech": "da-compound",
+              "grammar": "da- + über = darüber · da-compounds replace preposition + pronoun when referring to a thing or clause · 'er ärgerte sich darüber, dass...' = he was annoyed about [the fact that]..."
+            },
+            {
+              "word": "geworden waren",
+              "definition": "had become / had gotten (past perfect)",
+              "partOfSpeech": "verb phrase",
+              "grammar": "werden · Plusquamperfekt: waren + geworden · expresses a state that had been reached before the main past event · nass werden = to get wet (change of state)"
+            }
+          ]
+        },
+        {
+          "id": "s10",
+          "text": "Max und Moritz beobachteten alles vom Gebüsch aus und lachten laut.",
+          "translation": "Max and Moritz watched everything from the bushes and laughed loudly.",
+          "words": [
+            {
+              "word": "beobachteten",
+              "definition": "watched / observed (past)",
+              "partOfSpeech": "verb",
+              "grammar": "beobachten · Präteritum · 3rd person plural · regular · longer verb with -eten ending"
+            },
+            {
+              "word": "vom Gebüsch aus",
+              "definition": "from the bushes",
+              "partOfSpeech": "prepositional phrase",
+              "grammar": "von + dem → vom · aus adds the sense of 'from inside/out of' · 'vom Gebüsch aus' = from (within) the bushes · aus here is a postposition (follows the noun phrase)"
+            }
+          ]
+        },
+        {
+          "id": "s11",
+          "text": "Aber der Schneider hatte sie gesehen und rief laut nach dem Dorfpolizisten.",
+          "translation": "But the tailor had seen them and called out loudly for the village policeman.",
+          "words": [
+            {
+              "word": "hatte →¦ gesehen",
+              "definition": "had seen (past perfect)",
+              "partOfSpeech": "verb phrase",
+              "grammar": "sehen · Plusquamperfekt: hatte + gesehen · the tailor's seeing happened before his calling out · Plusquamperfekt signals the earlier of two past actions"
+            },
+            {
+              "word": "rief →¦ nach",
+              "definition": "called out for (past)",
+              "partOfSpeech": "verb phrase",
+              "grammar": "rufen nach + dative · Präteritum: rief · strong verb: rufen → rief · nach + dative here is idiomatic (calling for someone), not directional"
+            },
+            {
+              "word": "dem Dorfpolizisten",
+              "definition": "the village policeman",
+              "partOfSpeech": "noun phrase",
+              "grammar": "compound noun: Dorf (village) + Polizist · weak noun: Polizist → Polizisten · dative after nach · Dorf- as prefix adds 'village' specificity"
+            }
+          ]
+        },
+        {
+          "id": "s12",
+          "text": "Max und Moritz liefen weg, aber sie wussten, dass ihre Streiche eines Tages Folgen haben würden.",
+          "translation": "Max and Moritz ran away, but they knew that their pranks would one day have consequences.",
+          "words": [
+            {
+              "word": "liefen weg",
+              "definition": "ran away (past)",
+              "partOfSpeech": "verb phrase",
+              "grammar": "weglaufen · separable · Präteritum: liefen · strong verb: laufen → liefen · weg goes to end"
+            },
+            {
+              "word": "dass →¦ haben würden",
+              "definition": "that →¦ would have",
+              "partOfSpeech": "subordinate clause",
+              "grammar": "dass = subordinating conjunction · verb complex goes to end: 'haben würden' · würden + infinitive = Konjunktiv II, expressing future from a past perspective (reported future)"
+            },
+            {
+              "word": "eines Tages",
+              "definition": "one day / someday",
+              "partOfSpeech": "adverb phrase",
+              "grammar": "genitive time expression · eines Tages (lit. 'of one day') = one day, someday · fixed expression · genitive used for indefinite time references"
+            },
+            {
+              "word": "Folgen",
+              "definition": "consequences",
+              "partOfSpeech": "noun",
+              "grammar": "die Folge · plural: Folgen · accusative · Folgen haben = to have consequences · A2 vocabulary for cause and effect"
+            }
+          ]
+        }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Präteritum for written literary narration",
+          "exampleSentence": "Im Dorf lebte ein Schneider. Plötzlich brach die Brücke, und der Schneider fiel in den kalten Fluss.",
+          "explanation": "While spoken German uses Perfekt for the past, written narratives and literature use the Präteritum (simple past). Regular verbs add -te: lebte, sägten, retteten. Strong (irregular) verbs change their vowel: gehen → ging, brechen → brach, fallen → fiel, laufen → liefen. Reading German literature means encountering Präteritum constantly → recognising these forms is a key A2 reading skill."
+        },
+        {
+          "rule": "Relative clauses → relative pronoun agrees with the noun it refers to",
+          "exampleSentence": "Im Dorf lebte ein Schneider, der für seine Arbeit bekannt war.",
+          "explanation": "A relative clause adds information about a noun using a relative pronoun (der, die, das, die plural). The pronoun must match the gender and number of the noun it refers to → here 'ein Schneider' is masculine, so the pronoun is 'der'. The verb goes to the end of the relative clause. The case of the pronoun depends on its role inside the relative clause: 'der Schneider, den ich kenne' (accusative) vs 'der Schneider, der kommt' (nominative)."
+        },
+        {
+          "rule": "Plusquamperfekt → the 'earlier past' for sequencing two past events",
+          "exampleSentence": "Max und Moritz hatten einen Plan gemacht. / Er hatte sie gesehen und rief nach dem Polizisten.",
+          "explanation": "When two past events are described and one happened before the other, German uses the Plusquamperfekt (past perfect) for the earlier event: hatte/waren + past participle. This is the German equivalent of 'had done'. In the story, the boys had already made a plan (earlier) before the bridge broke (later). Recognising this tense helps learners understand the sequence of events in narrative texts."
+        },
+        {
+          "rule": "Da-compounds → replacing preposition + pronoun for things and clauses",
+          "exampleSentence": "Er ärgerte sich sehr darüber, dass seine Kleider so nass geworden waren.",
+          "explanation": "When a pronoun refers to a thing (not a person) after a preposition, German uses a da-compound instead: da- + preposition. 'Darüber' = about it / about that (über + it). 'Dafür' = for it, 'damit' = with it, 'daran' = on/about it. When the da-compound introduces a following clause (dass...), it acts as a placeholder: 'er ärgerte sich darüber, dass...' = he was annoyed about [the fact that]... Da-compounds are extremely common in German and essential for A2 reading."
+        },
+        {
+          "rule": "'Indem' to describe how something is done",
+          "exampleSentence": "Zwei Enten retteten ihn, indem sie ihn ans Ufer zogen.",
+          "explanation": "'Indem' (by doing) introduces a subordinate clause that explains the method or means of the main action. The verb goes to the end of the indem-clause. English often uses '-ing': 'by pulling him'. Indem is particularly useful at A2 because it connects actions in a sophisticated way without needing complex vocabulary. Compare: 'Er lernte Deutsch. Er hörte viel zu.' → 'Er lernte Deutsch, indem er viel zuhörte.' (He learned German by listening a lot.)"
+        },
+        {
+          "rule": "Konjunktiv II with 'würde' for hypothetical or reported future",
+          "exampleSentence": "Sie sägten die Brücke durch, sodass sie brechen würde. / Sie wussten, dass ihre Streiche Folgen haben würden.",
+          "explanation": "'Würde + infinitive' is the Konjunktiv II construction, used in two main situations at A2: (1) a hypothetical result ('so that it would break'), and (2) a future reported from a past perspective inside a dass-clause ('they knew that... would'). In English, both appear as 'would'. Würde forms: ich würde, du würdest, er/sie/es würde, wir würden, ihr würdet, sie würden."
+        },
+        {
+          "rule": "Genitive time expressions → eines Tages and similar fixed phrases",
+          "exampleSentence": "Sie wussten, dass ihre Streiche eines Tages Folgen haben würden.",
+          "explanation": "'Eines Tages' (one day / someday) is a genitive time expression → it uses the genitive case to express an indefinite point in time. Other common ones: eines Morgens (one morning), eines Abends (one evening). These are fixed phrases worth learning as chunks. The genitive is also used for possession (des Dorfes → of the village), making this story a good introduction to both genitive uses at A2."
+        }
+      ]
     }
   ]
 }

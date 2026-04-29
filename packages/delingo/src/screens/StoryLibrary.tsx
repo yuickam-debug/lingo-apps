@@ -7,6 +7,10 @@ import deStory002 from '../content/stories/de-story-002-struwwelpeter.json';
 import deStory003 from '../content/stories/de-story-003-emil-reise-berlin.json';
 import deStory004 from '../content/stories/de-story-004-emil-der-plan.json';
 import deStory005 from '../content/stories/de-story-005-kleiner-prinz.json';
+import deStory006 from '../content/stories/de-story-006-kasper-raeuber.json';
+import deStory007 from '../content/stories/de-story-007-kasper-hexe.json';
+import deStory008 from '../content/stories/de-story-008-max-moritz-streich-01.json';
+import deStory009 from '../content/stories/de-story-009-max-moritz-streich-02.json';
 
 // Bundled stories as immediate fallback while the network request is in-flight
 const BUNDLED: Story[] = [
@@ -15,6 +19,10 @@ const BUNDLED: Story[] = [
   deStory003 as unknown as Story,
   deStory004 as unknown as Story,
   deStory005 as unknown as Story,
+  deStory006 as unknown as Story,
+  deStory007 as unknown as Story,
+  deStory008 as unknown as Story,
+  deStory009 as unknown as Story,
 ];
 
 interface StoryLibraryProps {
