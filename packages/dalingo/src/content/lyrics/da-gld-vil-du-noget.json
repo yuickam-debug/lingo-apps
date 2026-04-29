@@ -1,0 +1,283 @@
+{
+  "id": "da-guldimund-vil-du-noget",
+  "title": "Vil du noget?",
+  "level": "B2",
+  "genre": "lyrics",
+  "source": "lyrics",
+  "sentences": [
+    {
+      "id": "da-guldimund-vil-du-noget-s01",
+      "text": "Åh, jeg ku' smadre noget, lige nu og her",
+      "translation": "",
+      "words": [
+        {
+          "word": "smadre",
+          "definition": "to smash / wreck / break",
+          "partOfSpeech": "verb (inf.)"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s02",
+      "text": "Åh, eller ta' afsted",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s03",
+      "text": "Du og jeg, ud og finde nogen og snave med",
+      "translation": "",
+      "words": [
+        {
+          "word": "snave",
+          "definition": "to make out / snog (slang)",
+          "partOfSpeech": "verb (inf.)"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s04",
+      "text": "Hey, hey, ja dig",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s05",
+      "text": "Vil du noget? Vil du noget med mig?",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s06",
+      "text": "I en by uden for Viborg tæt på stadion",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s07",
+      "text": "Her ligger Martin på en mark, de siger han har fået angst",
+      "translation": "",
+      "words": [
+        {
+          "word": "angst",
+          "definition": "anxiety",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s08",
+      "text": "Prøver nogle piller, drukner i afmagt, slikker sine ungdomssår",
+      "translation": "",
+      "words": [
+        {
+          "word": "afmagt",
+          "definition": "powerlessness / helplessness",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s09",
+      "text": "Byen her keder ham, kom lad os smadre noget",
+      "translation": "",
+      "words": [
+        {
+          "word": "smadre",
+          "definition": "to smash / wreck / break",
+          "partOfSpeech": "verb (inf.)"
+        },
+        {
+          "word": "keder",
+          "definition": "to bore / to be bored (keder = bores)",
+          "partOfSpeech": "verb (inf.)"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s10",
+      "text": "Hvor var hun henne i går?",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s11",
+      "text": "Han smiler, siger alt er cool",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s12",
+      "text": "Men de hvisker i krogene nu",
+      "translation": "",
+      "words": [
+        {
+          "word": "hvisker",
+          "definition": "whispers",
+          "partOfSpeech": ""
+        },
+        {
+          "word": "krogene",
+          "definition": "a corner",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s13",
+      "text": "De siger hun var ham utro, en 2.g'er fra Bjerringbro",
+      "translation": "",
+      "words": [
+        {
+          "word": "utro",
+          "definition": "unfaithful",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s14",
+      "text": "Åh, jeg ku' smadre noget",
+      "translation": "",
+      "words": [
+        {
+          "word": "smadre",
+          "definition": "to smash / wreck / break",
+          "partOfSpeech": "verb (inf.)"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s15",
+      "text": "Lige nu og her",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s16",
+      "text": "Åh, eller ta' afsted",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s17",
+      "text": "Du og jeg",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s18",
+      "text": "Ud og finde nogen og snave med",
+      "translation": "",
+      "words": [
+        {
+          "word": "snave",
+          "definition": "to make out / snog (slang)",
+          "partOfSpeech": "verb (inf.)"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s19",
+      "text": "Vil du noget? Vil du noget med mig?",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s20",
+      "text": "Jeg var kun 15, det var sejest bare at være ligeglad",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s21",
+      "text": "Alt hvad jeg vidste om intimitet, havde jeg set i et M!-blad",
+      "translation": "",
+      "words": [
+        {
+          "word": "intimitet",
+          "definition": "intimacy",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s22",
+      "text": "Kom lad os smadre noget, eller finde nogen vi kan snave med",
+      "translation": "",
+      "words": [
+        {
+          "word": "smadre",
+          "definition": "to smash / wreck / break",
+          "partOfSpeech": "verb (inf.)"
+        },
+        {
+          "word": "snave",
+          "definition": "to make out / snog (slang)",
+          "partOfSpeech": "verb (inf.)"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s23",
+      "text": "Og når jeg ser tilbage, alt det der var normalt",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s24",
+      "text": "Jeg drukner i afmagt og kedsomhed og smerte",
+      "translation": "",
+      "words": [
+        {
+          "word": "afmagt",
+          "definition": "powerlessness / helplessness",
+          "partOfSpeech": ""
+        },
+        {
+          "word": "kedsomhed",
+          "definition": "boredom",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-vil-du-noget-s25",
+      "text": "Vil du noget? Vil du noget? Vil du noget med mig?",
+      "translation": "",
+      "words": []
+    }
+  ],
+  "metadata": {
+    "artist": "Guldimund",
+    "titleEn": "Do You Want Something?",
+    "tags": [
+      "lyrics",
+      "guldimund",
+      "colloquial"
+    ],
+    "grammarPoints": [
+      {
+        "rule": "'Vil du noget (med mig)?' — romantic idiom",
+        "exampleSentence": "Vil du noget? Vil du noget med mig?",
+        "explanation": "Literally 'Do you want something?' but 'Vil du noget med mig?' is a Danish idiom meaning 'Are you interested in me?' — colloquial way to express romantic intent. The ambiguity is intentional: it can mean anything from 'do you want to hang out' to 'do you like me'."
+      },
+      {
+        "rule": "'Ku'' = 'kunne' and other B2 contractions",
+        "exampleSentence": "Jeg ku' smadre noget.",
+        "explanation": "'Ku'' = 'kunne' (could), 'ta'' = 'tage'. At B2+ level, recognising these contractions is essential for listening comprehension in Danish — they appear constantly in songs, podcasts, and casual speech."
+      },
+      {
+        "rule": "'Drukne i' — to be overwhelmed by (metaphor)",
+        "exampleSentence": "Drukner i afmagt og kedsomhed og smerte.",
+        "explanation": "'Drukne' means 'to drown'. 'Drukne i noget' is a very common Danish metaphor: 'drukner i afmagt' = 'drowning in helplessness', 'drukner i arbejde' = 'drowning in work'. Use it whenever someone is completely overwhelmed."
+      }
+    ],
+    "stanzaBreaks": [
+      5,
+      13,
+      19,
+      24
+    ]
+  }
+}

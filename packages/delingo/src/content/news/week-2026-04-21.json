@@ -1,0 +1,509 @@
+{
+  "weekOf": "2026-04-21",
+  "articles": [
+    {
+      "id": "de-news-2026w17-01",
+      "title": "Bayern München ist Deutscher Meister 2025/26",
+      "level": "A2",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-04-21",
+        "topic": "Sport"
+      },
+      "sentences": [
+        {
+          "id": "de-n01-s01",
+          "text": "Bayern München hat die Bundesliga-Meisterschaft 2025/26 gewonnen.",
+          "translation": "Bayern Munich has won the Bundesliga championship 2025/26.",
+          "words": [
+            {
+              "word": "Meisterschaft",
+              "definition": "championship",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Meisterschaft · der Meister = champion · -schaft suffix forms abstract nouns"
+            },
+            {
+              "word": "gewonnen",
+              "definition": "won",
+              "partOfSpeech": "past part.",
+              "grammar": "gewinnen (to win) · past participle: gewonnen · takes haben as auxiliary"
+            }
+          ]
+        },
+        {
+          "id": "de-n01-s02",
+          "text": "Die Mannschaft besiegte den VfB Stuttgart mit 4:2.",
+          "translation": "The team defeated VfB Stuttgart 4–2.",
+          "words": [
+            {
+              "word": "Mannschaft",
+              "definition": "team",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Mannschaft · pl. die Mannschaften · der Mann = man · -schaft suffix"
+            },
+            {
+              "word": "besiegte",
+              "definition": "defeated",
+              "partOfSpeech": "verb",
+              "grammar": "besiegen (to defeat) · simple past (Präteritum): besiegte · der Sieg = victory"
+            }
+          ]
+        },
+        {
+          "id": "de-n01-s03",
+          "text": "Es ist der 34. Bundesliga-Titel für den Rekordmeister.",
+          "translation": "It is the 34th Bundesliga title for the record champion.",
+          "words": [
+            {
+              "word": "Titel",
+              "definition": "title",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Titel · pl. die Titel (no change in plural)"
+            }
+          ]
+        },
+        {
+          "id": "de-n01-s04",
+          "text": "Harry Kane erzielte in diesem Spiel ein Tor.",
+          "translation": "Harry Kane scored a goal in this match.",
+          "words": [
+            {
+              "word": "erzielte",
+              "definition": "scored, achieved",
+              "partOfSpeech": "verb",
+              "grammar": "erzielen (to score, to achieve) · simple past: erzielte · ein Tor erzielen = to score a goal"
+            },
+            {
+              "word": "Tor",
+              "definition": "goal; gate",
+              "partOfSpeech": "noun, n.",
+              "grammar": "das Tor · pl. die Tore · ein Tor schießen / erzielen = to score a goal"
+            }
+          ]
+        },
+        {
+          "id": "de-n01-s05",
+          "text": "Bayern hat in dieser Saison schon 109 Tore geschossen.",
+          "translation": "Bayern have already scored 109 goals this season.",
+          "words": [
+            {
+              "word": "Saison",
+              "definition": "season",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Saison · from French · pl. die Saisons"
+            },
+            {
+              "word": "geschossen",
+              "definition": "shot, scored",
+              "partOfSpeech": "past part.",
+              "grammar": "schießen (to shoot) · past participle: geschossen · takes haben"
+            }
+          ]
+        },
+        {
+          "id": "de-n01-s06",
+          "text": "Die Fans feiern den Sieg auf den Straßen von München.",
+          "translation": "The fans are celebrating the victory on the streets of Munich.",
+          "words": [
+            {
+              "word": "feiern",
+              "definition": "to celebrate",
+              "partOfSpeech": "verb",
+              "grammar": "feiern · die Feier = celebration, party · das Fest = festival"
+            },
+            {
+              "word": "Sieg",
+              "definition": "victory",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Sieg · siegen = to win · der Sieger = the winner"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-news-2026w17-02",
+      "title": "Deutschland beschließt Klimaschutzprogramm 2026",
+      "level": "B1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-04-21",
+        "topic": "Umwelt"
+      },
+      "sentences": [
+        {
+          "id": "de-n02-s01",
+          "text": "Die Bundesregierung hat im März 2026 das Klimaschutzprogramm 2026 beschlossen.",
+          "translation": "The federal government adopted the Climate Protection Programme 2026 in March 2026.",
+          "words": [
+            {
+              "word": "Bundesregierung",
+              "definition": "federal government",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Bundesregierung · Bund (federal, federation) + Regierung (government)"
+            },
+            {
+              "word": "beschlossen",
+              "definition": "adopted, decided",
+              "partOfSpeech": "past part.",
+              "grammar": "beschließen (to adopt, to decide) · past participle: beschlossen · der Beschluss = resolution"
+            }
+          ]
+        },
+        {
+          "id": "de-n02-s02",
+          "text": "Umweltminister Carsten Schneider hat das Programm vorgeschlagen.",
+          "translation": "Environment Minister Carsten Schneider proposed the programme.",
+          "words": [
+            {
+              "word": "vorgeschlagen",
+              "definition": "proposed, suggested",
+              "partOfSpeech": "past part.",
+              "grammar": "vorschlagen (to propose) · separable: vor|schlagen · past participle: vorgeschlagen"
+            }
+          ]
+        },
+        {
+          "id": "de-n02-s03",
+          "text": "Das Programm enthält 67 Maßnahmen zum Klimaschutz.",
+          "translation": "The programme contains 67 climate protection measures.",
+          "words": [
+            {
+              "word": "Maßnahmen",
+              "definition": "measures",
+              "partOfSpeech": "noun, f. pl.",
+              "grammar": "die Maßnahme (sg.) · die Maßnahmen (pl.) · Maß (measure) + Nahme (taking)"
+            },
+            {
+              "word": "Klimaschutz",
+              "definition": "climate protection",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Klimaschutz · Klima (climate) + Schutz (protection) · compound noun"
+            }
+          ]
+        },
+        {
+          "id": "de-n02-s04",
+          "text": "Bis 2030 sollen damit mehr als 25 Millionen Tonnen CO₂ zusätzlich eingespart werden.",
+          "translation": "By 2030, more than 25 million additional tonnes of CO₂ are to be saved with this.",
+          "words": [
+            {
+              "word": "eingespart",
+              "definition": "saved, cut",
+              "partOfSpeech": "past part.",
+              "grammar": "einsparen (to save, to cut back) · separable: ein|sparen · past participle: eingespart"
+            },
+            {
+              "word": "zusätzlich",
+              "definition": "additional, extra",
+              "partOfSpeech": "adj.",
+              "grammar": "zusätzlich · der Zusatz = addition, supplement · zusätzliche Einsparungen = additional savings"
+            }
+          ]
+        },
+        {
+          "id": "de-n02-s05",
+          "text": "Eine wichtige Maßnahme ist die Förderung von etwa 800.000 Elektroautos.",
+          "translation": "An important measure is the subsidisation of around 800,000 electric vehicles.",
+          "words": [
+            {
+              "word": "Förderung",
+              "definition": "subsidisation, funding, promotion",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Förderung · fördern = to fund, to support · die Förderung erhalten = to receive funding"
+            },
+            {
+              "word": "Elektroautos",
+              "definition": "electric vehicles",
+              "partOfSpeech": "noun, n. pl.",
+              "grammar": "das Elektroauto · Elektro + Auto · pl. die Elektroautos"
+            }
+          ]
+        },
+        {
+          "id": "de-n02-s06",
+          "text": "Auch die Windenergie soll weiter ausgebaut werden.",
+          "translation": "Wind energy is also to be further expanded.",
+          "words": [
+            {
+              "word": "Windenergie",
+              "definition": "wind energy",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Windenergie · Wind + Energie · compound noun · also: die Windkraft"
+            },
+            {
+              "word": "ausgebaut",
+              "definition": "expanded, extended",
+              "partOfSpeech": "past part.",
+              "grammar": "ausbauen (to expand) · separable: aus|bauen · past participle: ausgebaut"
+            }
+          ]
+        },
+        {
+          "id": "de-n02-s07",
+          "text": "Das Programm wird bis 2030 mit 7,6 Milliarden Euro aus dem Klima- und Transformationsfonds finanziert.",
+          "translation": "The programme is financed with 7.6 billion euros from the Climate and Transformation Fund through 2030.",
+          "words": [
+            {
+              "word": "finanziert",
+              "definition": "financed, funded",
+              "partOfSpeech": "verb",
+              "grammar": "finanzieren (to finance) · die Finanzierung = financing · das Finanzamt = tax office"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-news-2026w17-03",
+      "title": "Merz trifft Lula: Deutschland und Brasilien stärken Wirtschaftsbeziehungen",
+      "level": "B1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-04-21",
+        "topic": "Wirtschaft"
+      },
+      "sentences": [
+        {
+          "id": "de-n03-s01",
+          "text": "Bundeskanzler Friedrich Merz hat sich am 20. April 2026 in Hannover mit dem brasilianischen Präsidenten Lula da Silva getroffen.",
+          "translation": "Federal Chancellor Friedrich Merz met with Brazilian President Lula da Silva in Hannover on 20 April 2026.",
+          "words": [
+            {
+              "word": "Bundeskanzler",
+              "definition": "Federal Chancellor",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Bundeskanzler · Bund + Kanzler · head of the German government"
+            },
+            {
+              "word": "getroffen",
+              "definition": "met",
+              "partOfSpeech": "past part.",
+              "grammar": "treffen (to meet) · past participle: getroffen · sich treffen mit = to meet with someone"
+            }
+          ]
+        },
+        {
+          "id": "de-n03-s02",
+          "text": "An dem Treffen nahmen auch 15 Minister aus beiden Ländern teil.",
+          "translation": "15 ministers from both countries also took part in the meeting.",
+          "words": [
+            {
+              "word": "nahmen",
+              "definition": "took part (participated)",
+              "partOfSpeech": "verb",
+              "grammar": "teilnehmen (to take part) · separable: teil|nehmen · simple past: nahm (sg.), nahmen (pl.)"
+            }
+          ]
+        },
+        {
+          "id": "de-n03-s03",
+          "text": "Im Mittelpunkt standen die Wirtschaftsbeziehungen zwischen Deutschland und Brasilien.",
+          "translation": "The focus was on economic relations between Germany and Brazil.",
+          "words": [
+            {
+              "word": "Mittelpunkt",
+              "definition": "centre, focus",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Mittelpunkt · Mitte (middle) + Punkt (point) · im Mittelpunkt stehen = to be the focus"
+            },
+            {
+              "word": "Wirtschaftsbeziehungen",
+              "definition": "economic relations",
+              "partOfSpeech": "noun, f. pl.",
+              "grammar": "die Wirtschaftsbeziehung · Wirtschaft (economy) + Beziehung (relation) · compound noun"
+            }
+          ]
+        },
+        {
+          "id": "de-n03-s04",
+          "text": "Beide Seiten wollen den Handel weiter stärken.",
+          "translation": "Both sides want to further strengthen trade.",
+          "words": [
+            {
+              "word": "Handel",
+              "definition": "trade, commerce",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Handel · handeln = to trade · der Händler = trader, dealer"
+            },
+            {
+              "word": "stärken",
+              "definition": "to strengthen",
+              "partOfSpeech": "verb",
+              "grammar": "stärken · stark = strong · die Stärke = strength"
+            }
+          ]
+        },
+        {
+          "id": "de-n03-s05",
+          "text": "Ein wichtiges Thema war das Freihandelsabkommen zwischen der EU und dem Mercosur-Staatenbund.",
+          "translation": "An important topic was the free trade agreement between the EU and the Mercosur bloc.",
+          "words": [
+            {
+              "word": "Freihandelsabkommen",
+              "definition": "free trade agreement",
+              "partOfSpeech": "noun, n.",
+              "grammar": "das Freihandelsabkommen · Freihandel (free trade) + Abkommen (agreement) · compound noun"
+            }
+          ]
+        },
+        {
+          "id": "de-n03-s06",
+          "text": "Dieses Abkommen schafft eine Freihandelszone mit mehr als 700 Millionen Menschen.",
+          "translation": "This agreement creates a free trade zone with more than 700 million people.",
+          "words": [
+            {
+              "word": "schafft",
+              "definition": "creates, establishes",
+              "partOfSpeech": "verb",
+              "grammar": "schaffen (to create) · schafft (3rd pers. sg.) · das Schaffen = creative work"
+            },
+            {
+              "word": "Freihandelszone",
+              "definition": "free trade zone",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Freihandelszone · Freihandel (free trade) + Zone · compound noun"
+            }
+          ]
+        },
+        {
+          "id": "de-n03-s07",
+          "text": "Das Abkommen tritt am 1. Mai 2026 in Kraft.",
+          "translation": "The agreement enters into force on 1 May 2026.",
+          "words": [
+            {
+              "word": "Abkommen",
+              "definition": "agreement",
+              "partOfSpeech": "noun, n.",
+              "grammar": "das Abkommen · pl. die Abkommen (no change) · formal agreement between states"
+            },
+            {
+              "word": "tritt",
+              "definition": "enters (in Kraft treten = to enter into force)",
+              "partOfSpeech": "verb",
+              "grammar": "in Kraft treten (to enter into force) · tritt (3rd pers. sg.) · strong verb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-news-2026w17-04",
+      "title": "Marina Abramović zeigt große Ausstellung im Gropius Bau",
+      "level": "A2",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-04-21",
+        "topic": "Kultur"
+      },
+      "sentences": [
+        {
+          "id": "de-n04-s01",
+          "text": "Die Künstlerin Marina Abramović zeigt ab April 2026 eine große Ausstellung in Berlin.",
+          "translation": "The artist Marina Abramović is showing a major exhibition in Berlin from April 2026.",
+          "words": [
+            {
+              "word": "Künstlerin",
+              "definition": "artist (female)",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Künstlerin · der Künstler (m.) · die Kunst = art · -in suffix marks feminine form"
+            },
+            {
+              "word": "Ausstellung",
+              "definition": "exhibition",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Ausstellung · ausstellen (to exhibit) · separable: aus|stellen"
+            }
+          ]
+        },
+        {
+          "id": "de-n04-s02",
+          "text": "Die Ausstellung findet im Gropius Bau statt.",
+          "translation": "The exhibition is taking place at the Gropius Bau.",
+          "words": [
+            {
+              "word": "findet",
+              "definition": "takes place (stattfinden)",
+              "partOfSpeech": "verb",
+              "grammar": "stattfinden (to take place) · separable: statt|finden · findet ... statt in present tense"
+            }
+          ]
+        },
+        {
+          "id": "de-n04-s03",
+          "text": "Sie heißt 'Balkan Erotic Epic' und zeigt Filme, Installationen und Live-Vorführungen.",
+          "translation": "It is called 'Balkan Erotic Epic' and features films, installations and live performances.",
+          "words": [
+            {
+              "word": "Installationen",
+              "definition": "installations",
+              "partOfSpeech": "noun, f. pl.",
+              "grammar": "die Installation (sg.) · die Installationen (pl.) · from Latin installare"
+            },
+            {
+              "word": "Vorführungen",
+              "definition": "performances, screenings",
+              "partOfSpeech": "noun, f. pl.",
+              "grammar": "die Vorführung · vorführen (to perform, to demonstrate) · separable: vor|führen"
+            }
+          ]
+        },
+        {
+          "id": "de-n04-s04",
+          "text": "Die Ausstellung läuft bis zum 23. August 2026.",
+          "translation": "The exhibition runs until 23 August 2026.",
+          "words": [
+            {
+              "word": "läuft",
+              "definition": "runs, is on",
+              "partOfSpeech": "verb",
+              "grammar": "laufen (to run) · läuft (3rd pers. sg.) · here: to run (of an event or film)"
+            }
+          ]
+        },
+        {
+          "id": "de-n04-s05",
+          "text": "Besucher können Rituale aus dem Balkan erkunden.",
+          "translation": "Visitors can explore rituals from the Balkans.",
+          "words": [
+            {
+              "word": "Besucher",
+              "definition": "visitors",
+              "partOfSpeech": "noun, m. pl.",
+              "grammar": "der Besucher · besuchen (to visit) · -er suffix forms agent nouns"
+            },
+            {
+              "word": "erkunden",
+              "definition": "to explore",
+              "partOfSpeech": "verb",
+              "grammar": "erkunden · die Erkundung = exploration · entdecken is a near synonym"
+            }
+          ]
+        },
+        {
+          "id": "de-n04-s06",
+          "text": "Das Werk fragt auch nach der politischen Bedeutung des Körpers.",
+          "translation": "The work also asks about the political significance of the body.",
+          "words": [
+            {
+              "word": "Bedeutung",
+              "definition": "significance, meaning",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Bedeutung · bedeuten (to mean) · bedeutend = significant, important"
+            },
+            {
+              "word": "Körpers",
+              "definition": "of the body",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Körper (nom.) · des Körpers (gen.) · genitive case: masculine nouns add -s"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

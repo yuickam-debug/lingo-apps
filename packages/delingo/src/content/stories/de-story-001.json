@@ -1,0 +1,200 @@
+{
+  "id": "de-story-001",
+  "title": "Der erste Tag",
+  "level": "A1",
+  "genre": "narrative",
+  "source": "story",
+  "sentences": [
+    {
+      "id": "de-001-s01",
+      "text": "Heute ist mein erster Tag in Berlin.",
+      "translation": "Today is my first day in Berlin.",
+      "words": [
+        {
+          "word": "erster",
+          "definition": "first",
+          "partOfSpeech": "adj.",
+          "grammar": "erst- (first) + -er (masc. nom. ending)"
+        }
+      ]
+    },
+    {
+      "id": "de-001-s02",
+      "text": "Ich stehe am Hauptbahnhof und schaue mich um.",
+      "translation": "I'm standing at the main train station and looking around.",
+      "words": [
+        {
+          "word": "Hauptbahnhof",
+          "definition": "main train station",
+          "partOfSpeech": "noun, m.",
+          "grammar": "der Hauptbahnhof · compound: Haupt (main) + Bahnhof (station)"
+        },
+        {
+          "word": "schaue",
+          "definition": "look",
+          "partOfSpeech": "verb",
+          "grammar": "schauen (to look) · sich umschauen = to look around"
+        }
+      ]
+    },
+    {
+      "id": "de-001-s03",
+      "text": "Die Sonne scheint und es ist warm.",
+      "translation": "The sun is shining and it's warm.",
+      "words": [
+        {
+          "word": "Sonne",
+          "definition": "sun",
+          "partOfSpeech": "noun, f.",
+          "grammar": "die Sonne · scheinen = to shine"
+        }
+      ]
+    },
+    {
+      "id": "de-001-s04",
+      "text": "Ich habe einen Stadtplan in der Hand.",
+      "translation": "I have a city map in my hand.",
+      "words": [
+        {
+          "word": "Stadtplan",
+          "definition": "city map",
+          "partOfSpeech": "noun, m.",
+          "grammar": "der Stadtplan · Stadt (city) + Plan (map/plan)"
+        }
+      ]
+    },
+    {
+      "id": "de-001-s05",
+      "text": "Zuerst möchte ich das Brandenburger Tor sehen.",
+      "translation": "First I'd like to see the Brandenburg Gate.",
+      "words": [
+        {
+          "word": "möchte",
+          "definition": "would like",
+          "partOfSpeech": "verb",
+          "grammar": "mögen (to like) · Konjunktiv II → möchte"
+        },
+        {
+          "word": "Tor",
+          "definition": "gate",
+          "partOfSpeech": "noun, n.",
+          "grammar": "das Tor · plural: die Tore"
+        }
+      ]
+    },
+    {
+      "id": "de-001-s06",
+      "text": "Ich gehe die Straße entlang und sehe viele Menschen.",
+      "translation": "I walk along the street and see many people.",
+      "words": [
+        {
+          "word": "Straße",
+          "definition": "street, road",
+          "partOfSpeech": "noun, f.",
+          "grammar": "die Straße · entlanggehen = to walk along"
+        },
+        {
+          "word": "Menschen",
+          "definition": "people",
+          "partOfSpeech": "noun, m. pl.",
+          "grammar": "der Mensch (person) · die Menschen (people)"
+        }
+      ]
+    },
+    {
+      "id": "de-001-s07",
+      "text": "Berlin ist laut, aber auch sehr schön.",
+      "translation": "Berlin is loud, but also very beautiful.",
+      "words": [
+        {
+          "word": "laut",
+          "definition": "loud",
+          "partOfSpeech": "adj."
+        },
+        {
+          "word": "schön",
+          "definition": "beautiful, nice",
+          "partOfSpeech": "adj.",
+          "grammar": "schön · comparative: schöner · superlative: am schönsten"
+        }
+      ]
+    },
+    {
+      "id": "de-001-s08",
+      "text": "Ich bin froh, dass ich hier bin.",
+      "translation": "I'm glad that I'm here.",
+      "words": [
+        {
+          "word": "froh",
+          "definition": "glad, happy",
+          "partOfSpeech": "adj.",
+          "grammar": "froh · dass-clause sends verb to end"
+        }
+      ]
+    },
+    {
+      "id": "de-001-s09",
+      "text": "Am Abend esse ich Currywurst am Kiosk.",
+      "translation": "In the evening I eat currywurst at the kiosk.",
+      "words": [
+        {
+          "word": "Abend",
+          "definition": "evening",
+          "partOfSpeech": "noun, m.",
+          "grammar": "der Abend · am Abend = in the evening"
+        },
+        {
+          "word": "Currywurst",
+          "definition": "currywurst (Berlin street food)",
+          "partOfSpeech": "noun, f.",
+          "grammar": "die Currywurst · iconic Berlin fast food"
+        }
+      ]
+    },
+    {
+      "id": "de-001-s10",
+      "text": "Morgen gehe ich ins Museum.",
+      "translation": "Tomorrow I'll go to the museum.",
+      "words": [
+        {
+          "word": "Morgen",
+          "definition": "tomorrow",
+          "partOfSpeech": "adv.",
+          "grammar": "morgen (tomorrow) vs. der Morgen (the morning)"
+        },
+        {
+          "word": "Museum",
+          "definition": "museum",
+          "partOfSpeech": "noun, n.",
+          "grammar": "das Museum · ins = in + das"
+        }
+      ]
+    },
+    {
+      "id": "de-001-s11",
+      "text": "Mein erster Tag war wunderbar.",
+      "translation": "My first day was wonderful.",
+      "words": [
+        {
+          "word": "wunderbar",
+          "definition": "wonderful",
+          "partOfSpeech": "adj.",
+          "grammar": "Wunder (wonder) + -bar (suffix, like English '-ful')"
+        }
+      ]
+    },
+    {
+      "id": "de-001-s12",
+      "text": "Ich freue mich auf morgen.",
+      "translation": "I'm looking forward to tomorrow.",
+      "words": [
+        {
+          "word": "freue",
+          "definition": "look forward to, am happy about",
+          "partOfSpeech": "verb",
+          "grammar": "sich freuen auf (+acc.) = to look forward to"
+        }
+      ]
+    }
+  ]
+}

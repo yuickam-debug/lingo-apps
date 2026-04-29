@@ -1,0 +1,261 @@
+{
+  "weekOf": "2026-04-20",
+  "articles": [
+    {
+      "id": "de-news-2026w17-05",
+      "title": "Deutschland hilft der Ukraine",
+      "level": "A1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-04-20",
+        "topic": "Politik"
+      },
+      "sentences": [
+        {
+          "id": "de-news-2026w17-05-s01",
+          "text": "Deutschland hilft der Ukraine.",
+          "translation": "Germany is helping Ukraine.",
+          "words": [
+            {
+              "word": "hilft",
+              "definition": "helps",
+              "partOfSpeech": "verb",
+              "grammar": "helfen (to help) · takes dative: Deutschland hilft der Ukraine · er hilft · past: er half"
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026w17-05-s02",
+          "text": "Deutschland schickt Geld, Waffen und Soldaten an die Grenze.",
+          "translation": "Germany sends money, weapons and soldiers to the border.",
+          "words": [
+            {
+              "word": "Waffen",
+              "definition": "weapons",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Waffe · die Waffen (pl.) · Waffenlieferung (f.) = weapons delivery · in the news context: military equipment"
+            },
+            {
+              "word": "Grenze",
+              "definition": "border",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Grenze · die Grenzen (pl.) · an der Grenze = at the border · Grenzschutz (m.) = border protection"
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026w17-05-s03",
+          "text": "Der Kanzler sagt: \"Wir stehen zusammen mit der Ukraine.\"",
+          "translation": "The Chancellor says: 'We stand together with Ukraine.'",
+          "words": [
+            {
+              "word": "Kanzler",
+              "definition": "Chancellor",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Kanzler · die Kanzlerin (f.) · der Bundeskanzler = the Federal Chancellor · Germany's head of government"
+            },
+            {
+              "word": "stehen",
+              "definition": "stand",
+              "partOfSpeech": "verb",
+              "grammar": "stehen (to stand) · er steht · past: er stand · zusammenstehen = to stand together (fig. to stand united)"
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026w17-05-s04",
+          "text": "Russland hat die Ukraine angegriffen.",
+          "translation": "Russia has attacked Ukraine.",
+          "words": [
+            {
+              "word": "angegriffen",
+              "definition": "attacked",
+              "partOfSpeech": "past part.",
+              "grammar": "angreifen (to attack) · past participle: angegriffen · hat angegriffen (perfect) · der Angriff (m.) = the attack"
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026w17-05-s05",
+          "text": "Viele Deutsche finden das wichtig.",
+          "translation": "Many Germans find this important.",
+          "words": [
+            {
+              "word": "Deutsche",
+              "definition": "Germans",
+              "partOfSpeech": "noun, m. pl.",
+              "grammar": "der Deutsche / die Deutsche · adjective-as-noun · viele Deutsche = many Germans · ein Deutscher (m.) = a German man"
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026w17-05-s06",
+          "text": "Aber manche Deutsche wollen keinen Krieg.",
+          "translation": "But some Germans don't want any war.",
+          "words": [
+            {
+              "word": "manche",
+              "definition": "some, certain",
+              "partOfSpeech": "adj.",
+              "grammar": "manche (pl.) = some/certain · manche Menschen = some people · mancher (m. sg.) = some/many a"
+            },
+            {
+              "word": "Krieg",
+              "definition": "war",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Krieg · die Kriege (pl.) · im Krieg = at war · Krieg führen = to wage war"
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026w17-05-s07",
+          "text": "Es ist eine schwierige Frage für das ganze Land.",
+          "translation": "It is a difficult question for the whole country.",
+          "words": [
+            {
+              "word": "schwierige",
+              "definition": "difficult",
+              "partOfSpeech": "adj.",
+              "grammar": "schwierig · schwierige (adj. with definite/mixed article) · eine schwierige Frage = a difficult question · synonym: schwer"
+            },
+            {
+              "word": "Frage",
+              "definition": "question",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Frage · die Fragen (pl.) · eine Frage stellen = to ask a question · das ist keine Frage = that's not in question"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-news-2026w17-06",
+      "title": "Die neue Regierung in Deutschland",
+      "level": "A1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-04-20",
+        "topic": "Politik"
+      },
+      "sentences": [
+        {
+          "id": "de-news-2026w17-06-s01",
+          "text": "Deutschland hat eine neue Regierung.",
+          "translation": "Germany has a new government.",
+          "words": [
+            {
+              "word": "Regierung",
+              "definition": "government",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Regierung · die Regierungen (pl.) · die Bundesregierung = the Federal Government · regieren (to govern)"
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026w17-06-s02",
+          "text": "Friedrich Merz ist der neue Bundeskanzler.",
+          "translation": "Friedrich Merz is the new Federal Chancellor.",
+          "words": [
+            {
+              "word": "Bundeskanzler",
+              "definition": "Federal Chancellor",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Bundeskanzler · compound: Bund (federation) + Kanzler (chancellor) · head of the German government"
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026w17-06-s03",
+          "text": "Seine Partei heißt CDU.",
+          "translation": "His party is called CDU.",
+          "words": [
+            {
+              "word": "Partei",
+              "definition": "political party",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Partei · die Parteien (pl.) · Mitglied einer Partei = member of a party · Parteimitglied (n.)"
+            },
+            {
+              "word": "heißt",
+              "definition": "is called",
+              "partOfSpeech": "verb",
+              "grammar": "heißen (to be called) · er heißt · Wie heißt das? = What is that called? · Ich heiße = My name is"
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026w17-06-s04",
+          "text": "CDU und SPD arbeiten jetzt zusammen.",
+          "translation": "CDU and SPD are now working together.",
+          "words": [
+            {
+              "word": "arbeiten",
+              "definition": "work together",
+              "partOfSpeech": "verb",
+              "grammar": "zusammenarbeiten (to cooperate) · separable: arbeiten ... zusammen · past: arbeiteten zusammen · die Zusammenarbeit (f.) = cooperation"
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026w17-06-s05",
+          "text": "Das nennt man eine Koalition.",
+          "translation": "That is called a coalition.",
+          "words": [
+            {
+              "word": "nennt",
+              "definition": "calls, names",
+              "partOfSpeech": "verb",
+              "grammar": "nennen (to call/name) · man nennt = one calls · das nennt man = that is called · past: nannte"
+            },
+            {
+              "word": "Koalition",
+              "definition": "coalition",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Koalition · die Koalitionen (pl.) · Koalitionsvertrag (m.) = coalition agreement"
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026w17-06-s06",
+          "text": "Die Koalition will die Wirtschaft stärker machen.",
+          "translation": "The coalition wants to make the economy stronger.",
+          "words": [
+            {
+              "word": "Wirtschaft",
+              "definition": "economy",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Wirtschaft · wirtschaftlich (adj.) = economic · die Wirtschaft wächst = the economy is growing"
+            },
+            {
+              "word": "stärker",
+              "definition": "stronger",
+              "partOfSpeech": "adj.",
+              "grammar": "stark · comparative: stärker · superlative: am stärksten · eine starke Wirtschaft = a strong economy"
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026w17-06-s07",
+          "text": "Im September gibt es Wahlen in einigen Bundesländern.",
+          "translation": "In September there are elections in some federal states.",
+          "words": [
+            {
+              "word": "Wahlen",
+              "definition": "elections",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Wahl · die Wahlen (pl.) · wählen (to vote/choose) · zur Wahl gehen = to go to vote"
+            },
+            {
+              "word": "Bundesländern",
+              "definition": "federal states (dative pl.)",
+              "partOfSpeech": "noun, n.",
+              "grammar": "das Bundesland · die Bundesländer (pl.) · in den Bundesländern (dative pl.) · Germany has 16 Bundesländer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

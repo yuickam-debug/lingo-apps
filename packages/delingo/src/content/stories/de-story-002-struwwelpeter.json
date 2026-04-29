@@ -1,0 +1,175 @@
+{
+  "id": "de-story-002",
+  "title": "Der Struwwelpeter",
+  "level": "A1",
+  "genre": "narrative",
+  "source": "story",
+  "sentences": [
+    {
+      "id": "de-002-s01",
+      "text": "Sieh einmal, hier steht er!",
+      "translation": "Look, here he stands!",
+      "words": [
+        {
+          "word": "Sieh",
+          "definition": "look (imperative)",
+          "partOfSpeech": "verb",
+          "grammar": "sehen (to see/look) · imperative singular: sieh! · informal command form"
+        }
+      ]
+    },
+    {
+      "id": "de-002-s02",
+      "text": "Pfui! ruft da ein jeder: Garst'ger Struwwelpeter!",
+      "translation": "Ugh! everyone calls out: Nasty messy-Peter!",
+      "words": [
+        {
+          "word": "garst'ger",
+          "definition": "nasty, disgusting",
+          "partOfSpeech": "adj.",
+          "grammar": "garst'ger = garstig · comparative: garstiger · an old-fashioned, expressive adjective"
+        },
+        {
+          "word": "jeder",
+          "definition": "everyone, each one",
+          "partOfSpeech": "adj.",
+          "grammar": "jeder (m.) · jede (f.) · jedes (n.) · used without article to mean 'every/each'"
+        }
+      ]
+    },
+    {
+      "id": "de-002-s03",
+      "text": "Seine Nägel, an den Händen, lieÃ er wachsen fast ein Jahr.",
+      "translation": "His fingernails he let grow for nearly a year.",
+      "words": [
+        {
+          "word": "Nägel",
+          "definition": "nails (fingernails)",
+          "partOfSpeech": "noun, m. pl.",
+          "grammar": "der Nagel · die Nägel (pl.) · also means 'nail' as in a metal nail"
+        },
+        {
+          "word": "wachsen",
+          "definition": "to grow",
+          "partOfSpeech": "verb",
+          "grammar": "wachsen (to grow) · er wächst (he grows) · strong verb with vowel change"
+        }
+      ]
+    },
+    {
+      "id": "de-002-s04",
+      "text": "Kämmen lieÃ er nicht sein Haar.",
+      "translation": "He would not let his hair be combed.",
+      "words": [
+        {
+          "word": "Kämmen",
+          "definition": "combing",
+          "partOfSpeech": "verb",
+          "grammar": "kämmen (to comb) · kämmen lassen = to let/have combed · das Kämmen = the act of combing (noun)"
+        },
+        {
+          "word": "Haar",
+          "definition": "hair",
+          "partOfSpeech": "noun, n.",
+          "grammar": "das Haar · die Haare (pl.) · kein Haar = not a single hair"
+        }
+      ]
+    },
+    {
+      "id": "de-002-s05",
+      "text": "Aber der Vater sagt: Das ist nicht schön.",
+      "translation": "But the father says: That is not nice.",
+      "words": [
+        {
+          "word": "schön",
+          "definition": "nice, beautiful, good",
+          "partOfSpeech": "adj.",
+          "grammar": "schön · comparative: schöner · superlative: am schönsten · very common in everyday speech"
+        }
+      ]
+    },
+    {
+      "id": "de-002-s06",
+      "text": "So ein Kind ist gar nicht schön.",
+      "translation": "Such a child is not nice at all.",
+      "words": [
+        {
+          "word": "gar",
+          "definition": "not at all",
+          "partOfSpeech": "adv.",
+          "grammar": "gar nicht = not at all · stronger than simply 'nicht' · gar kein = none whatsoever"
+        }
+      ]
+    },
+    {
+      "id": "de-002-s07",
+      "text": "Der Peter schämt sich nicht.",
+      "translation": "Peter is not ashamed.",
+      "words": [
+        {
+          "word": "schämt",
+          "definition": "is ashamed",
+          "partOfSpeech": "verb",
+          "grammar": "sich schämen (to be ashamed) · reflexive verb · er schämt sich · ich schäme mich"
+        }
+      ]
+    },
+    {
+      "id": "de-002-s08",
+      "text": "Er lacht nur und macht keine Ordnung.",
+      "translation": "He only laughs and keeps no order.",
+      "words": [
+        {
+          "word": "Ordnung",
+          "definition": "order, tidiness",
+          "partOfSpeech": "noun, f.",
+          "grammar": "die Ordnung · Ordnung machen = to tidy up · Alles in Ordnung = everything is fine"
+        },
+        {
+          "word": "lacht",
+          "definition": "laughs",
+          "partOfSpeech": "verb",
+          "grammar": "lachen (to laugh) · er lacht · past: er lachte"
+        }
+      ]
+    },
+    {
+      "id": "de-002-s09",
+      "text": "Die Kinder rufen: Das ist falsch!",
+      "translation": "The children shout: That is wrong!",
+      "words": [
+        {
+          "word": "rufen",
+          "definition": "to call out, to shout",
+          "partOfSpeech": "verb",
+          "grammar": "rufen (to call/shout) · er ruft · past: er rief · strong verb"
+        },
+        {
+          "word": "falsch",
+          "definition": "wrong, incorrect",
+          "partOfSpeech": "adj.",
+          "grammar": "falsch · opposite: richtig (correct) · also means 'false' or 'fake'"
+        }
+      ]
+    },
+    {
+      "id": "de-002-s10",
+      "text": "Und am Ende waschen alle die Hände.",
+      "translation": "And in the end, everyone washes their hands.",
+      "words": [
+        {
+          "word": "waschen",
+          "definition": "to wash",
+          "partOfSpeech": "verb",
+          "grammar": "waschen (to wash) · er wäscht · Hände waschen = to wash hands · strong verb with vowel change"
+        },
+        {
+          "word": "am",
+          "definition": "in the end, at the end",
+          "partOfSpeech": "adv.",
+          "grammar": "am Ende = at the end · das Ende (n.) · zum Ende hin = toward the end"
+        }
+      ]
+    }
+  ]
+}

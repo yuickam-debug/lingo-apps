@@ -1,0 +1,299 @@
+{
+  "id": "da-guldimund-forstar-du",
+  "title": "Forstår du?",
+  "level": "B2",
+  "genre": "lyrics",
+  "source": "lyrics",
+  "sentences": [
+    {
+      "id": "da-guldimund-forstar-du-s01",
+      "text": "»Hva' er det, der ikke er retfærdigt?« spørg' hun, mens hun læner sig ind over bordet",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s02",
+      "text": "»Du valgt' jo selv at gå«",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s03",
+      "text": "»Hva' er det, der ikke er retfærdigt?« gentager hun",
+      "translation": "",
+      "words": [
+        {
+          "word": "gentager",
+          "definition": "to repeat (gentager = repeats)",
+          "partOfSpeech": "verb (inf.)"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-forstar-du-s04",
+      "text": "»Hør lig' her, jeg har rigtig mange sager, som er meget vær' end din«",
+      "translation": "",
+      "words": [
+        {
+          "word": "sager",
+          "definition": "a case / matter",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-forstar-du-s05",
+      "text": "»Det hjælper jo selvfølgelig ikk' dig, men din ordning er fin«",
+      "translation": "",
+      "words": [
+        {
+          "word": "ordning",
+          "definition": "an arrangement / scheme / deal",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "selvfølgelig",
+          "definition": "of course / obviously",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-forstar-du-s06",
+      "text": "Forstår du?",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s07",
+      "text": "Den er rigtig fin",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s08",
+      "text": "Forstår du?",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s09",
+      "text": "Forstår du?",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s10",
+      "text": "Forstår du?",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s11",
+      "text": "I de her sager, hvor barnet er så lille",
+      "translation": "",
+      "words": [
+        {
+          "word": "sager",
+          "definition": "a case / matter",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-forstar-du-s12",
+      "text": "Vil man højst sandsynligt vurdere, at barnet har størst tilknytning til moren",
+      "translation": "",
+      "words": [
+        {
+          "word": "tilknytning",
+          "definition": "attachment / bond / connection",
+          "partOfSpeech": ""
+        },
+        {
+          "word": "vurdere",
+          "definition": "to assess / evaluate",
+          "partOfSpeech": "verb (inf.)"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-forstar-du-s13",
+      "text": "Det var hende, der gik på barsel, var det ikk'?",
+      "translation": "",
+      "words": [
+        {
+          "word": "barsel",
+          "definition": "maternity / parental leave",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-forstar-du-s14",
+      "text": "Jeg hører højlydte stemmer bag en skydevæg",
+      "translation": "",
+      "words": [
+        {
+          "word": "skydevæg",
+          "definition": "a sliding partition wall",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-forstar-du-s15",
+      "text": "Hva' ærgrer du dig for, det' ikk' sådan landet ligger",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s16",
+      "text": "Og den ret til delt bopæl, du har læst om, eksisterer bare ikke",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s17",
+      "text": "Hun ka' tage ham med til Thisted, men du får seks ugers varsel i din E-boks",
+      "translation": "",
+      "words": [
+        {
+          "word": "varsel",
+          "definition": "a notice / warning",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-forstar-du-s18",
+      "text": "»Det hjælper jo selvfølgelig ikk' dig, men din ordning er fin«",
+      "translation": "",
+      "words": [
+        {
+          "word": "ordning",
+          "definition": "an arrangement / scheme / deal",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "selvfølgelig",
+          "definition": "of course / obviously",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-forstar-du-s19",
+      "text": "Forstår du?",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s20",
+      "text": "Den er rigtig fin",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s21",
+      "text": "Forstår du?",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s22",
+      "text": "Forstår du?",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s23",
+      "text": "Forstår du?",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s24",
+      "text": "Hun si'r: »Jeg beklager, men din tid er gået«",
+      "translation": "",
+      "words": [
+        {
+          "word": "beklager",
+          "definition": "to regret / apologise",
+          "partOfSpeech": "verb (inf.)"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-forstar-du-s25",
+      "text": "Jeg drikker vand af en kaffekop",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s26",
+      "text": "»You can't buy happiness, but you can buy coffee and that's damn close«, står der på den",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s27",
+      "text": "Hun si'r: »Jeg håber, du ku' bruge det til noget«",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s28",
+      "text": "Jeg drikker vand af en kaffekop",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s29",
+      "text": "Hun si'r: »Hva' er det, der ikke er retfærdigt?«, mens hun læner sig ind over bordet",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-forstar-du-s30",
+      "text": "»Du valgt' jo selv at gå«",
+      "translation": "",
+      "words": []
+    }
+  ],
+  "metadata": {
+    "artist": "Guldimund",
+    "titleEn": "Do You Understand?",
+    "tags": [
+      "lyrics",
+      "guldimund",
+      "social"
+    ],
+    "grammarPoints": [
+      {
+        "rule": "Impersonal 'man' (one / people in general)",
+        "exampleSentence": "Man vil højst sandsynligt vurdere, at barnet har størst tilknytning til moren.",
+        "explanation": "'Man' = 'one' or 'people in general' — avoids naming a specific person. Very common in formal, legal, and bureaucratic Danish. 'Man vurderer' = 'it is assessed / one assesses'. This song uses bureaucratic register deliberately to convey the coldness of the system."
+      },
+      {
+        "rule": "'Sådan ligger landet' — that's how things are (idiom)",
+        "exampleSentence": "Det' ikk' sådan landet ligger.",
+        "explanation": "'Sådan ligger landet' literally means 'that's how the land lies' — an idiom for 'that's the situation / that's how it is'. Used to bluntly dismiss or explain a reality. Very common: 'Sådan er det bare, sådan ligger landet'."
+      },
+      {
+        "rule": "Reported speech with 'hun si'r:' (direct quote with colon)",
+        "exampleSentence": "Hun si'r: »Jeg beklager, men din tid er gået«",
+        "explanation": "'Si'r' = 'siger' (says) — contracted. Danish introduces direct speech with a colon, then the words in » « quotes. This is the standard Danish dialogue format in writing. The » « marks are used where English would use double quotes."
+      }
+    ],
+    "stanzaBreaks": [
+      4,
+      5,
+      10,
+      17,
+      18,
+      23,
+      28
+    ]
+  }
+}

@@ -1,0 +1,954 @@
+{
+  "version": "1",
+  "lastUpdated": "2026-04-11",
+  "stories": [
+    {
+      "id": "de-rotkaeppchen",
+      "language": "de",
+      "level": "A1",
+      "title": "Rotkäppchen",
+      "titleEn": "Little Red Riding Hood",
+      "dateAdded": "2026-04-11",
+      "tags": [
+        "fairy-tale",
+        "grimm"
+      ],
+      "body": "Ein Mädchen heißt Rotkäppchen. Es hat eine rote Mütze. Die Mutter sagt: “Geh zur Großmutter! Sie ist krank. Bring ihr Essen!” Rotkäppchen geht in den Wald. Im Wald trifft es einen Wolf. Der Wolf fragt: “Wohin gehst du?” Rotkäppchen sagt: “Zur Großmutter.” Der Wolf läuft schnell zum Haus der Großmutter. Er geht hinein und legt sich ins Bett. Rotkäppchen kommt und fragt: “Großmutter, warum hast du so große Augen?” Der Wolf springt aus dem Bett! Ein Jäger kommt und hilft Rotkäppchen. Die Großmutter ist wieder gesund. Alle sind glücklich.",
+      "vocabulary": [
+        {
+          "word": "das Mädchen",
+          "translation": "the girl"
+        },
+        {
+          "word": "die Mutter",
+          "translation": "the mother"
+        },
+        {
+          "word": "der Wald",
+          "translation": "the forest"
+        },
+        {
+          "word": "das Haus",
+          "translation": "the house"
+        },
+        {
+          "word": "krank",
+          "translation": "sick / ill"
+        },
+        {
+          "word": "das Essen",
+          "translation": "the food"
+        },
+        {
+          "word": "schnell",
+          "translation": "fast / quickly"
+        },
+        {
+          "word": "das Bett",
+          "translation": "the bed"
+        },
+        {
+          "word": "groß",
+          "translation": "big / large"
+        },
+        {
+          "word": "glücklich",
+          "translation": "happy"
+        }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Imperative (du-form) for commands",
+          "exampleSentence": "Geh zur Großmutter!",
+          "explanation": "To give a command to someone you address as 'du', use the verb stem without ending. 'Gehen' becomes 'Geh!' (Go!)."
+        },
+        {
+          "rule": "Accusative case after 'in' with movement (in + den)",
+          "exampleSentence": "Rotkäppchen geht in den Wald.",
+          "explanation": "When describing movement into a place, 'in' takes the accusative case. 'Der Wald' becomes 'den Wald' because the girl is going INTO the forest."
+        },
+        {
+          "rule": "Question word 'warum' + verb-second word order",
+          "exampleSentence": "Warum hast du so große Augen?",
+          "explanation": "In German questions with a question word (warum, wo, etc.), the verb comes second, right after the question word. 'Hast' (have) is in position two."
+        }
+      ]
+    },
+    {
+      "id": "de-haensel-gretel",
+      "language": "de",
+      "level": "A1",
+      "title": "Hänsel und Gretel",
+      "titleEn": "Hansel and Gretel",
+      "dateAdded": "2026-04-11",
+      "tags": [
+        "fairy-tale",
+        "grimm"
+      ],
+      "body": "Hänsel und Gretel sind zwei Kinder. Die Familie ist arm und hat kein Essen. Der Vater bringt die Kinder in den Wald. Die Kinder sind allein und haben Angst. Sie gehen und gehen. Dann sehen sie ein Haus. Das Haus ist aus Schokolade und Kuchen! Die Kinder essen und essen. Im Haus wohnt eine alte Frau. Die Frau ist böse. Sie will Hänsel kochen! Gretel hat eine Idee. Sie ist klug. Gretel macht die Tür vom Ofen auf. Die böse Frau fällt in den Ofen. Die Kinder laufen nach Hause. Der Vater ist froh. Sie leben zusammen und sind glücklich.",
+      "vocabulary": [
+        {
+          "word": "die Kinder",
+          "translation": "the children"
+        },
+        {
+          "word": "die Familie",
+          "translation": "the family"
+        },
+        {
+          "word": "der Vater",
+          "translation": "the father"
+        },
+        {
+          "word": "allein",
+          "translation": "alone"
+        },
+        {
+          "word": "die Angst",
+          "translation": "the fear"
+        },
+        {
+          "word": "alt",
+          "translation": "old"
+        },
+        {
+          "word": "die Frau",
+          "translation": "the woman"
+        },
+        {
+          "word": "böse",
+          "translation": "evil / mean"
+        },
+        {
+          "word": "die Idee",
+          "translation": "the idea"
+        },
+        {
+          "word": "die Tür",
+          "translation": "the door"
+        }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Separable verb 'aufmachen' (to open)",
+          "exampleSentence": "Gretel macht die Tür vom Ofen auf.",
+          "explanation": "Some German verbs split into two parts. 'Aufmachen' (to open) separates: the main part 'macht' stays in verb position, and 'auf' goes to the end of the sentence."
+        },
+        {
+          "rule": "Modal verb 'wollen' (to want) with infinitive at the end",
+          "exampleSentence": "Sie will Hänsel kochen!",
+          "explanation": "Modal verbs like 'will' (wants) push the main verb ('kochen' = to cook) to the end of the sentence in its infinitive form."
+        },
+        {
+          "rule": "Negation with 'kein' before nouns",
+          "exampleSentence": "Die Familie ist arm und hat kein Essen.",
+          "explanation": "'Kein' means 'no' or 'not any' and is used before nouns instead of 'nicht'. 'Kein Essen' = no food."
+        }
+      ]
+    },
+    {
+      "id": "de-froschkoenig",
+      "language": "de",
+      "level": "A1",
+      "title": "Der Froschkönig",
+      "titleEn": "The Frog Prince",
+      "dateAdded": "2026-04-11",
+      "tags": [
+        "fairy-tale",
+        "grimm"
+      ],
+      "body": "Eine Prinzessin spielt mit einem goldenen Ball. Der Ball fällt ins Wasser. Die Prinzessin ist traurig und weint. Ein Frosch kommt und sagt: “Ich kann den Ball holen. Aber du musst mit mir essen und ich will in deinem Bett schlafen.” Die Prinzessin sagt: “Ja, okay.” Der Frosch holt den Ball aus dem Wasser. Aber die Prinzessin läuft nach Hause! Der Frosch kommt zum Haus und klopft an die Tür. Der Vater sagt: “Du musst dein Versprechen halten!” Die Prinzessin ist böse und wirft den Frosch an die Wand. Da wird der Frosch ein Prinz! Sie sind glücklich.",
+      "vocabulary": [
+        {
+          "word": "der Ball",
+          "translation": "the ball"
+        },
+        {
+          "word": "das Wasser",
+          "translation": "the water"
+        },
+        {
+          "word": "traurig",
+          "translation": "sad"
+        },
+        {
+          "word": "der Frosch",
+          "translation": "the frog"
+        },
+        {
+          "word": "holen",
+          "translation": "to fetch / get"
+        },
+        {
+          "word": "schlafen",
+          "translation": "to sleep"
+        },
+        {
+          "word": "nach Hause",
+          "translation": "home (direction)"
+        },
+        {
+          "word": "klopfen",
+          "translation": "to knock"
+        },
+        {
+          "word": "das Versprechen",
+          "translation": "the promise"
+        },
+        {
+          "word": "die Wand",
+          "translation": "the wall"
+        }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Modal verb 'müssen' (must/have to) with infinitive at the end",
+          "exampleSentence": "Du musst dein Versprechen halten!",
+          "explanation": "'Musst' (must, for 'du') is the conjugated modal verb in position two. The main verb 'halten' (to keep) goes to the end in its infinitive form."
+        },
+        {
+          "rule": "Possessive pronoun 'deinem' (dative) after 'in'",
+          "exampleSentence": "Ich will in deinem Bett schlafen.",
+          "explanation": "When 'in' describes a location (not movement), it takes the dative case. 'Dein' (your) becomes 'deinem' before the neuter noun 'Bett'."
+        },
+        {
+          "rule": "Conjunction 'aber' (but) with main clause word order",
+          "exampleSentence": "Aber die Prinzessin läuft nach Hause!",
+          "explanation": "'Aber' (but) connects two ideas. Unlike 'weil', it does NOT change word order — the verb stays in the normal second position."
+        }
+      ]
+    },
+    {
+      "id": "de-rapunzel",
+      "language": "de",
+      "level": "A1",
+      "title": "Rapunzel",
+      "titleEn": "Rapunzel",
+      "dateAdded": "2026-04-11",
+      "tags": [
+        "fairy-tale",
+        "grimm"
+      ],
+      "body": "Eine böse Frau nimmt ein kleines Mädchen. Das Mädchen heißt Rapunzel. Die Frau bringt Rapunzel in einen hohen Turm. Der Turm hat keine Tür. Rapunzel hat sehr lange Haare. Jeden Tag ruft die Frau: “Rapunzel, lass dein Haar herunter!” Und Rapunzel wirft ihre Haare aus dem Fenster. Die Frau klettert nach oben. Eines Tages kommt ein Prinz. Er hört Rapunzel singen. Sie singt sehr schön. Er ruft auch: “Rapunzel, lass dein Haar herunter!” Er klettert nach oben. Rapunzel und der Prinz sind glücklich. Zusammen laufen sie weg. Sie sind endlich frei.",
+      "vocabulary": [
+        {
+          "word": "klein",
+          "translation": "small / little"
+        },
+        {
+          "word": "hoch",
+          "translation": "high / tall"
+        },
+        {
+          "word": "der Turm",
+          "translation": "the tower"
+        },
+        {
+          "word": "die Haare",
+          "translation": "the hair"
+        },
+        {
+          "word": "das Fenster",
+          "translation": "the window"
+        },
+        {
+          "word": "jeden Tag",
+          "translation": "every day"
+        },
+        {
+          "word": "rufen",
+          "translation": "to call / shout"
+        },
+        {
+          "word": "singen",
+          "translation": "to sing"
+        },
+        {
+          "word": "schön",
+          "translation": "beautiful / nice"
+        },
+        {
+          "word": "frei",
+          "translation": "free"
+        }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Accusative case with 'einen' (masculine indefinite article)",
+          "exampleSentence": "Die Frau bringt Rapunzel in einen hohen Turm.",
+          "explanation": "After 'in' with movement, masculine 'ein' changes to 'einen' in the accusative. The adjective 'hoch' also gets an accusative ending: 'hohen'."
+        },
+        {
+          "rule": "Verb 'hören' + accusative object + infinitive",
+          "exampleSentence": "Er hört Rapunzel singen.",
+          "explanation": "After perception verbs like 'hören' (to hear), you can add an infinitive. Literally: 'He hears Rapunzel sing.' The infinitive goes to the end."
+        },
+        {
+          "rule": "Possessive pronoun 'ihr/dein' with feminine/neuter nouns",
+          "exampleSentence": "Rapunzel wirft ihre Haare aus dem Fenster.",
+          "explanation": "'Ihre' means 'her' and matches the plural noun 'Haare'. Possessive pronouns must agree with the noun they describe (ihr/ihre/ihren etc.)."
+        }
+      ]
+    },
+    {
+      "id": "de-bremer-stadtmusikanten",
+      "language": "de",
+      "level": "A1",
+      "title": "Die Bremer Stadtmusikanten",
+      "titleEn": "The Bremen Town Musicians",
+      "dateAdded": "2026-04-11",
+      "tags": [
+        "fairy-tale",
+        "grimm"
+      ],
+      "body": "Ein Esel ist alt. Sein Besitzer will ihn nicht mehr. Der Esel geht nach Bremen. Er will dort Musik machen. Auf dem Weg trifft er einen Hund, eine Katze und einen Hahn. Sie sind auch alt und traurig. Sie gehen zusammen nach Bremen. Am Abend sehen sie ein Haus. Im Haus sind Diebe mit viel Essen. Die Tiere haben eine Idee. Der Esel steht unten, der Hund steht auf dem Esel, die Katze auf dem Hund und der Hahn ganz oben. Sie machen zusammen laute Musik. Die Diebe haben Angst und laufen weg! Die vier Tiere bleiben im Haus und leben glücklich zusammen.",
+      "vocabulary": [
+        {
+          "word": "der Esel",
+          "translation": "the donkey"
+        },
+        {
+          "word": "der Hund",
+          "translation": "the dog"
+        },
+        {
+          "word": "die Katze",
+          "translation": "the cat"
+        },
+        {
+          "word": "der Hahn",
+          "translation": "the rooster"
+        },
+        {
+          "word": "die Musik",
+          "translation": "the music"
+        },
+        {
+          "word": "der Weg",
+          "translation": "the way / path"
+        },
+        {
+          "word": "das Tier / die Tiere",
+          "translation": "the animal / the animals"
+        },
+        {
+          "word": "der Abend",
+          "translation": "the evening"
+        },
+        {
+          "word": "laut",
+          "translation": "loud"
+        },
+        {
+          "word": "zusammen",
+          "translation": "together"
+        }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Negation with 'nicht mehr' (not anymore)",
+          "exampleSentence": "Sein Besitzer will ihn nicht mehr.",
+          "explanation": "'Nicht mehr' means 'not anymore' or 'no longer'. It usually comes after the object or at the end: his owner doesn't want him anymore."
+        },
+        {
+          "rule": "Preposition 'auf' + dative for location (on top of)",
+          "exampleSentence": "Der Hund steht auf dem Esel.",
+          "explanation": "'Auf' (on) takes the dative case when describing a static location. 'Der Esel' becomes 'dem Esel' because the dog is standing ON the donkey (not moving onto it)."
+        },
+        {
+          "rule": "Adverb 'dort' for referring to a place already mentioned",
+          "exampleSentence": "Er will dort Musik machen.",
+          "explanation": "'Dort' means 'there' and refers back to Bremen. It sits in the middle field of the sentence, after the modal verb 'will' and before the infinitive 'machen'."
+        }
+      ]
+    },
+    {
+      "id": "da-den-grimme-aelling",
+      "language": "da",
+      "level": "A1",
+      "title": "Den grimme ælling",
+      "titleEn": "The Ugly Duckling",
+      "dateAdded": "2026-04-11",
+      "tags": [
+        "fairy-tale",
+        "andersen"
+      ],
+      "body": "En and har mange æglinger. Men én ælling er stor og grim. De andre dyr griner af ham. Ællingen er meget trist. Han løber væk fra gården. Han er alene i skoven. Vinteren er lang og kold. Om foråret ser han smukke fugle på søen. Det er svaner. Han flyver hen til svanerne. Han ser sig selv i vandet. Han er ikke grim. Han er en smuk svane! Svanerne hilser venligt på ham. Han er lykkelig.",
+      "vocabulary": [
+        {
+          "word": "en and",
+          "translation": "a duck"
+        },
+        {
+          "word": "en ælling",
+          "translation": "a duckling"
+        },
+        {
+          "word": "grim",
+          "translation": "ugly"
+        },
+        {
+          "word": "trist",
+          "translation": "sad"
+        },
+        {
+          "word": "alene",
+          "translation": "alone"
+        },
+        {
+          "word": "kold",
+          "translation": "cold"
+        },
+        {
+          "word": "en sø",
+          "translation": "a lake"
+        },
+        {
+          "word": "smuk",
+          "translation": "beautiful"
+        },
+        {
+          "word": "en svane",
+          "translation": "a swan"
+        },
+        {
+          "word": "lykkelig",
+          "translation": "happy"
+        },
+        {
+          "word": "stor",
+          "translation": "big / large"
+        },
+        {
+          "word": "et dyr",
+          "translation": "an animal"
+        },
+        {
+          "word": "grine",
+          "translation": "to laugh / giggle (grine af = to laugh at)"
+        },
+        {
+          "word": "væk",
+          "translation": "away"
+        },
+        {
+          "word": "en gård",
+          "translation": "a farm / farmyard"
+        },
+        {
+          "word": "en skov",
+          "translation": "a forest / wood"
+        },
+        {
+          "word": "lang",
+          "translation": "long"
+        },
+        {
+          "word": "et forår",
+          "translation": "spring"
+        },
+        {
+          "word": "en fugl",
+          "translation": "a bird"
+        },
+        {
+          "word": "flyve",
+          "translation": "to fly"
+        },
+        {
+          "word": "vandet",
+          "translation": "the water"
+        },
+        {
+          "word": "hilse",
+          "translation": "to greet / say hello"
+        },
+        {
+          "word": "venlig",
+          "translation": "friendly / kind"
+        }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Two genders: 'en' (common) and 'et' (neuter)",
+          "exampleSentence": "En and — et æg",
+          "explanation": "Danish nouns have two genders, not three like German. Common gender uses 'en' (en and, en svane) and neuter uses 'et' (et æg, et træ). You need to learn which gender each noun has."
+        },
+        {
+          "rule": "Definite article as a suffix (-en / -et)",
+          "exampleSentence": "en svane → svanen — et vand → vandet",
+          "explanation": "Unlike English ('the dog') or German ('der Hund'), Danish attaches the definite article to the END of the noun. Common nouns add '-en' and neuter nouns add '-et'. This is one of the most distinctive features of Danish."
+        },
+        {
+          "rule": "Adjectives after 'er' (to be) stay unchanged",
+          "exampleSentence": "Han er grim. Han er smuk.",
+          "explanation": "When an adjective comes after the verb 'er' (is), it does not change form — it stays in its base form regardless of the noun's gender. This is simpler than German, where adjective endings change based on case and gender."
+        }
+      ]
+    },
+    {
+      "id": "da-tommelise",
+      "language": "da",
+      "level": "A1",
+      "title": "Tommelise",
+      "titleEn": "Thumbelina",
+      "dateAdded": "2026-04-11",
+      "tags": [
+        "fairy-tale",
+        "andersen"
+      ],
+      "body": "En kvinde ønsker sig et lille barn. En fe giver hende et frø. Af frøet vokser en smuk blomst. Inde i blomsten sidder en lille pige. Hendes navn er Tommelise. Om natten tager en stor tudse hende. Tudsen vil gifte sig med Tommelise. Men Tommelise vil ikke. En fisk hjælper hende. Hun sejler bort på et blad. En svale finder hende i skoven. Svalen flyver med hende til et varmt land. Der møder hun en lille alf. De gifter sig og er lykkelige.",
+      "vocabulary": [
+        {
+          "word": "en kvinde",
+          "translation": "a woman"
+        },
+        {
+          "word": "et barn",
+          "translation": "a child"
+        },
+        {
+          "word": "lille",
+          "translation": "little / small"
+        },
+        {
+          "word": "en blomst",
+          "translation": "a flower"
+        },
+        {
+          "word": "en pige",
+          "translation": "a girl"
+        },
+        {
+          "word": "om natten",
+          "translation": "at night"
+        },
+        {
+          "word": "en tudse",
+          "translation": "a toad"
+        },
+        {
+          "word": "en fisk",
+          "translation": "a fish"
+        },
+        {
+          "word": "en svale",
+          "translation": "a swallow (bird)"
+        },
+        {
+          "word": "varmt",
+          "translation": "warm"
+        },
+        {
+          "word": "ønske sig",
+          "translation": "to wish for / want"
+        },
+        {
+          "word": "en fe",
+          "translation": "a fairy"
+        },
+        {
+          "word": "et frø",
+          "translation": "a seed"
+        },
+        {
+          "word": "vokse",
+          "translation": "to grow"
+        },
+        {
+          "word": "et navn",
+          "translation": "a name"
+        },
+        {
+          "word": "hjælpe",
+          "translation": "to help"
+        },
+        {
+          "word": "sejle",
+          "translation": "to sail"
+        },
+        {
+          "word": "bort",
+          "translation": "away / off"
+        },
+        {
+          "word": "et blad",
+          "translation": "a leaf"
+        },
+        {
+          "word": "gifte sig",
+          "translation": "to get married"
+        },
+        {
+          "word": "et land",
+          "translation": "a country / land"
+        },
+        {
+          "word": "møde",
+          "translation": "to meet"
+        },
+        {
+          "word": "en alf",
+          "translation": "an elf / fairy sprite"
+        }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Possessive pronoun 'hendes' (her)",
+          "exampleSentence": "Hendes navn er Tommelise.",
+          "explanation": "'Hendes' means 'her' (possessive). Danish possessive pronouns don't change based on the gender of the noun that follows — 'hendes navn', 'hendes blomst', 'hendes barn' all use the same form. This is simpler than German possessives."
+        },
+        {
+          "rule": "Modal verb 'vil' (want to / will) + infinitive",
+          "exampleSentence": "Tudsen vil gifte sig med Tommelise.",
+          "explanation": "'Vil' is the modal verb meaning 'want to' or 'will'. Like German modals, the main verb follows in its infinitive form. But in Danish, the infinitive stays close — it does NOT move to the end of the sentence like in German."
+        },
+        {
+          "rule": "Time expressions with 'om': om natten, om vinteren",
+          "exampleSentence": "Om natten tager en stor tudse hende.",
+          "explanation": "'Om' is used with time periods: 'om natten' (at night), 'om vinteren' (in winter), 'om foråret' (in spring). When this time phrase starts the sentence, the verb still comes second — this is Danish V2 word order."
+        }
+      ]
+    },
+    {
+      "id": "da-den-lille-havfrue",
+      "language": "da",
+      "level": "A1",
+      "title": "Den lille havfrue",
+      "titleEn": "The Little Mermaid",
+      "dateAdded": "2026-04-11",
+      "tags": [
+        "fairy-tale",
+        "andersen"
+      ],
+      "body": "En ung havfrue lever under havet. Hun kan se stjernerne om natten. Hun drømmer om at gå på land. En dag ser hun en prins på et skib. En stor storm kommer. Havfruen redder prinsen. Hun elsker ham. Hun går til en heks for hjælp. Heksen giver hende ben. Men havfruen mister sin stemme. Prinsen gifter sig med en anden kvinde. Havfruen er meget trist. Hun vil ikke skade prinsen. Hun hopper i havet og bliver til skum.",
+      "vocabulary": [
+        {
+          "word": "ung",
+          "translation": "young"
+        },
+        {
+          "word": "en havfrue",
+          "translation": "a mermaid"
+        },
+        {
+          "word": "havet",
+          "translation": "the sea"
+        },
+        {
+          "word": "en stjerne",
+          "translation": "a star"
+        },
+        {
+          "word": "et skib",
+          "translation": "a ship"
+        },
+        {
+          "word": "en storm",
+          "translation": "a storm"
+        },
+        {
+          "word": "redde",
+          "translation": "to rescue / save"
+        },
+        {
+          "word": "elske",
+          "translation": "to love"
+        },
+        {
+          "word": "en stemme",
+          "translation": "a voice"
+        },
+        {
+          "word": "skade",
+          "translation": "to harm"
+        },
+        {
+          "word": "leve",
+          "translation": "to live"
+        },
+        {
+          "word": "drømme",
+          "translation": "to dream"
+        },
+        {
+          "word": "en prins",
+          "translation": "a prince"
+        },
+        {
+          "word": "en heks",
+          "translation": "a witch"
+        },
+        {
+          "word": "hjælp",
+          "translation": "help (noun)"
+        },
+        {
+          "word": "ben",
+          "translation": "legs"
+        },
+        {
+          "word": "miste",
+          "translation": "to lose"
+        },
+        {
+          "word": "gifte sig",
+          "translation": "to get married"
+        },
+        {
+          "word": "hoppe",
+          "translation": "to jump / hop"
+        },
+        {
+          "word": "skum",
+          "translation": "foam"
+        },
+        {
+          "word": "en dag",
+          "translation": "one day / a day"
+        },
+        {
+          "word": "en anden",
+          "translation": "another / a different one"
+        }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Infinitive marker 'at' (to)",
+          "exampleSentence": "Hun drømmer om at gå på land.",
+          "explanation": "When you use a verb as part of a phrase (after 'om', 'for at', etc.), you add 'at' before it — just like English 'to'. 'Drømme om at gå' = 'dream about going'. This 'at' is the infinitive marker and is always the same form."
+        },
+        {
+          "rule": "Negation with 'ikke' (not)",
+          "exampleSentence": "Hun vil ikke skade prinsen.",
+          "explanation": "'Ikke' means 'not' and comes after the verb (or after the modal verb) in a main clause. 'Hun vil ikke skade' = 'She does not want to harm'. This is similar to German 'nicht', but the placement is slightly more fixed in Danish."
+        },
+        {
+          "rule": "'Blive til' — to become / to turn into",
+          "exampleSentence": "Hun bliver til skum.",
+          "explanation": "'Blive' means 'to become' or 'to stay'. 'Blive til' specifically means 'to turn into something'. 'Hun bliver til skum' = 'She turns into foam'. 'Blive' is an important Danish verb with several meanings."
+        }
+      ]
+    },
+    {
+      "id": "da-kejserens-nye-klaeder",
+      "language": "da",
+      "level": "A1",
+      "title": "Kejserens nye klæder",
+      "titleEn": "The Emperor's New Clothes",
+      "dateAdded": "2026-04-11",
+      "tags": [
+        "fairy-tale",
+        "andersen"
+      ],
+      "body": "En kejser elsker fine klæder. To mænd kommer til ham. De siger: Vi kan sy de smukkeste klæder i verden. Men dumme mennesker kan ikke se dem. De gør som om de syr. Kejseren ser ingenting. Men han siger ingenting. Hans ministre siger: Sikke smukke klæder! Kejseren går i optog. Han er nøgen. Alle siger: Smukke klæder! Et lille barn råber: Han har ingen klæder på! Alle griner ad ham. Kejseren er meget flov.",
+      "vocabulary": [
+        {
+          "word": "en kejser",
+          "translation": "an emperor"
+        },
+        {
+          "word": "fine",
+          "translation": "fine / elegant"
+        },
+        {
+          "word": "klæder",
+          "translation": "clothes"
+        },
+        {
+          "word": "sy",
+          "translation": "to sew"
+        },
+        {
+          "word": "dum",
+          "translation": "foolish / stupid"
+        },
+        {
+          "word": "ingenting",
+          "translation": "nothing"
+        },
+        {
+          "word": "et optog",
+          "translation": "a parade"
+        },
+        {
+          "word": "nøgen",
+          "translation": "naked"
+        },
+        {
+          "word": "råbe",
+          "translation": "to shout / yell"
+        },
+        {
+          "word": "flov",
+          "translation": "embarrassed"
+        },
+        {
+          "word": "elske",
+          "translation": "to love"
+        },
+        {
+          "word": "verden",
+          "translation": "the world"
+        },
+        {
+          "word": "et menneske",
+          "translation": "a person (mennesker = people)"
+        },
+        {
+          "word": "gøre",
+          "translation": "to do / make"
+        },
+        {
+          "word": "to",
+          "translation": "two"
+        },
+        {
+          "word": "en mand",
+          "translation": "a man (mænd = men)"
+        },
+        {
+          "word": "en minister",
+          "translation": "a minister / official"
+        },
+        {
+          "word": "sikke",
+          "translation": "what a...! / how...! (exclamation of admiration or dismay)"
+        },
+        {
+          "word": "grine ad",
+          "translation": "to laugh at / mock"
+        }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Adjective agreement with neuter nouns (adds -t)",
+          "exampleSentence": "Et lille barn råber.",
+          "explanation": "When an adjective comes BEFORE a neuter noun (et-word), it usually adds '-t': 'lille' stays 'lille' (irregular), but 'smuk' becomes 'smukt', 'ny' becomes 'nyt'. So 'et smukt hus' but 'en smuk kvinde'. This is one area where Danish does inflect adjectives."
+        },
+        {
+          "rule": "'Ingen' + noun = no / not any (stronger than 'ikke')",
+          "exampleSentence": "Han har ingen klæder på.",
+          "explanation": "'Ingen' means 'no' or 'not any' and is placed directly before a noun. 'Han har ingen klæder' = 'He has no clothes'. Use 'ingen' before nouns (like German 'kein'), and 'ikke' before verbs and adjectives."
+        },
+        {
+          "rule": "Superlative: smuk → smukkere → smukkest(e)",
+          "exampleSentence": "Vi kan sy de smukkeste klæder.",
+          "explanation": "Adjectives form superlatives by adding '-este' (after definite article) or '-est'. 'Smuk' (beautiful) → 'smukkere' (more beautiful) → 'smukkest/smukkeste' (most beautiful). Note the double 'k' — common when the stem ends in a short vowel + consonant."
+        }
+      ]
+    },
+    {
+      "id": "da-fyrtojet",
+      "language": "da",
+      "level": "A1",
+      "title": "Fyrtøjet",
+      "titleEn": "The Tinderbox",
+      "dateAdded": "2026-04-11",
+      "tags": [
+        "fairy-tale",
+        "andersen"
+      ],
+      "body": "En soldat kommer hjem fra krigen. En gammel heks møder ham på vejen. Heksen siger: Klatr op i træet og hent et fyrtøj! Soldaten klatrede op i træet. Han fandt fyrtøjet og meget guld. Han tog alt og dræbte heksen. Han rejste til en stor by. Han brugte alle pengene. En dag tændte han fyrtøjet. En kæmpe hund kom! Soldaten ønskede at se den smukke prinsesse. Hunden hentede prinsessen. Soldaten og prinsessen giftede sig. De var lykkelige.",
+      "vocabulary": [
+        {
+          "word": "en soldat",
+          "translation": "a soldier"
+        },
+        {
+          "word": "krigen",
+          "translation": "the war"
+        },
+        {
+          "word": "gammel",
+          "translation": "old"
+        },
+        {
+          "word": "en heks",
+          "translation": "a witch"
+        },
+        {
+          "word": "et træ",
+          "translation": "a tree"
+        },
+        {
+          "word": "et fyrtøj",
+          "translation": "a tinderbox"
+        },
+        {
+          "word": "guld",
+          "translation": "gold"
+        },
+        {
+          "word": "en by",
+          "translation": "a town / city"
+        },
+        {
+          "word": "penge",
+          "translation": "money"
+        },
+        {
+          "word": "en prinsesse",
+          "translation": "a princess"
+        },
+        {
+          "word": "hjem",
+          "translation": "home (hjem fra = home from)"
+        },
+        {
+          "word": "en vej",
+          "translation": "a road / path"
+        },
+        {
+          "word": "finde",
+          "translation": "to find (fandt = found)"
+        },
+        {
+          "word": "dræbe",
+          "translation": "to kill (dræbte = killed)"
+        },
+        {
+          "word": "rejse",
+          "translation": "to travel (rejste = travelled)"
+        },
+        {
+          "word": "bruge",
+          "translation": "to use / spend (brugte = used/spent)"
+        },
+        {
+          "word": "tænde",
+          "translation": "to light / switch on (tændte = lit)"
+        },
+        {
+          "word": "kæmpe",
+          "translation": "giant / enormous"
+        },
+        {
+          "word": "ønske",
+          "translation": "to wish / want (ønskede = wished)"
+        },
+        {
+          "word": "hente",
+          "translation": "to fetch / collect (hentede = fetched)"
+        }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Past tense with -ede (weak verbs)",
+          "exampleSentence": "Soldaten klatrede op i træet.",
+          "explanation": "Most Danish verbs form the past tense by adding '-ede' or '-te' to the stem. 'Klatre' (to climb) → 'klatrede'. 'Bruge' (to use) → 'brugte'. 'Tænde' (to light) → 'tændte'. This story uses past tense throughout so you can see many examples."
+        },
+        {
+          "rule": "Imperative (command form) — use the verb stem",
+          "exampleSentence": "Klatr op i træet! Hent et fyrtøj!",
+          "explanation": "To give a command in Danish, use the verb stem (infinitive minus '-e'). 'Klatre' → 'Klatr!', 'hente' → 'Hent!', 'komme' → 'Kom!'. This is the same principle as German imperatives but simpler — there's only one form for all persons."
+        },
+        {
+          "rule": "V2 word order — verb always in position 2",
+          "exampleSentence": "En dag tændte han fyrtøjet.",
+          "explanation": "Danish has V2 (verb-second) word order: the main verb is always the second element in the sentence. When a time phrase like 'en dag' (one day) starts the sentence, the verb 'tændte' comes immediately after — then the subject 'han'. This is identical to German V2 word order."
+        }
+      ]
+    }
+  ]
+}

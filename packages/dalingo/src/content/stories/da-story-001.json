@@ -1,0 +1,180 @@
+{
+  "id": "da-story-001",
+  "title": "Min første dag i København",
+  "level": "A1",
+  "genre": "narrative",
+  "source": "story",
+  "sentences": [
+    {
+      "id": "da-001-s01",
+      "text": "Det er min første dag i København.",
+      "translation": "It's my first day in Copenhagen.",
+      "words": [
+        {
+          "word": "første",
+          "definition": "first",
+          "partOfSpeech": "adj.",
+          "grammar": "første · ordinal of én (one)"
+        }
+      ]
+    },
+    {
+      "id": "da-001-s02",
+      "text": "Jeg står på hovedbanegården og ser mig omkring.",
+      "translation": "I'm standing at the main train station and looking around.",
+      "words": [
+        {
+          "word": "hovedbanegården",
+          "definition": "the main train station",
+          "partOfSpeech": "noun, c.",
+          "grammar": "hoved (main) + banegård (station) + -en (the)"
+        },
+        {
+          "word": "omkring",
+          "definition": "around",
+          "partOfSpeech": "adv.",
+          "grammar": "se sig omkring = to look around"
+        }
+      ]
+    },
+    {
+      "id": "da-001-s03",
+      "text": "Solen skinner og det er varmt.",
+      "translation": "The sun is shining and it's warm.",
+      "words": [
+        {
+          "word": "Solen",
+          "definition": "the sun",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en sol (a sun) · solen (the sun) · -en suffix = definite"
+        }
+      ]
+    },
+    {
+      "id": "da-001-s04",
+      "text": "Jeg har et kort i hånden.",
+      "translation": "I have a map in my hand.",
+      "words": [
+        {
+          "word": "kort",
+          "definition": "map, card",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et kort · neuter noun · also means 'short' as adj."
+        },
+        {
+          "word": "hånden",
+          "definition": "the hand",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en hånd (a hand) · hånden (the hand)"
+        }
+      ]
+    },
+    {
+      "id": "da-001-s05",
+      "text": "Først vil jeg se Nyhavn.",
+      "translation": "First I want to see Nyhavn.",
+      "words": [
+        {
+          "word": "Først",
+          "definition": "first, firstly",
+          "partOfSpeech": "adv."
+        },
+        {
+          "word": "Nyhavn",
+          "definition": "Nyhavn (New Harbor, famous Copenhagen waterfront)",
+          "partOfSpeech": "proper noun",
+          "grammar": "ny (new) + havn (harbor)"
+        }
+      ]
+    },
+    {
+      "id": "da-001-s06",
+      "text": "Himlen er blå i dag.",
+      "translation": "The sky is blue today.",
+      "words": [
+        {
+          "word": "Himlen",
+          "definition": "the sky",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en himmel (a sky) · himlen (the sky) · -el drops before -en"
+        },
+        {
+          "word": "blå",
+          "definition": "blue",
+          "partOfSpeech": "adj.",
+          "grammar": "blå · same form for all genders and plural"
+        }
+      ]
+    },
+    {
+      "id": "da-001-s07",
+      "text": "Jeg går langs kanalen og ser de farverige huse.",
+      "translation": "I walk along the canal and see the colorful houses.",
+      "words": [
+        {
+          "word": "kanalen",
+          "definition": "the canal",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en kanal · kanalen (the canal)"
+        },
+        {
+          "word": "farverige",
+          "definition": "colorful",
+          "partOfSpeech": "adj.",
+          "grammar": "farverig · farve (color) + -rig (-ful) · plural: farverige"
+        }
+      ]
+    },
+    {
+      "id": "da-001-s08",
+      "text": "København er en smuk by.",
+      "translation": "Copenhagen is a beautiful city.",
+      "words": [
+        {
+          "word": "smuk",
+          "definition": "beautiful",
+          "partOfSpeech": "adj.",
+          "grammar": "smuk · comparative: smukkere · superlative: smukkest"
+        },
+        {
+          "word": "by",
+          "definition": "city, town",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en by · byen (the city) · byer (cities)"
+        }
+      ]
+    },
+    {
+      "id": "da-001-s09",
+      "text": "Om aftenen spiser jeg smørrebrød.",
+      "translation": "In the evening I eat smørrebrød (open-faced sandwiches).",
+      "words": [
+        {
+          "word": "aftenen",
+          "definition": "the evening",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en aften · aftenen (the evening) · om aftenen = in the evening"
+        },
+        {
+          "word": "smørrebrød",
+          "definition": "open-faced sandwich (Danish specialty)",
+          "partOfSpeech": "noun, n.",
+          "grammar": "smør (butter) + brød (bread) · iconic Danish food"
+        }
+      ]
+    },
+    {
+      "id": "da-001-s10",
+      "text": "Min første dag var dejlig.",
+      "translation": "My first day was lovely.",
+      "words": [
+        {
+          "word": "dejlig",
+          "definition": "lovely, wonderful",
+          "partOfSpeech": "adj.",
+          "grammar": "dejlig · one of the most-used Danish positive adjectives"
+        }
+      ]
+    }
+  ]
+}

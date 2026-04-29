@@ -1,0 +1,212 @@
+{
+  "id": "da-story-004",
+  "title": "Pippi Langstrømpe – Regnvejret",
+  "level": "A1",
+  "genre": "narrative",
+  "source": "story",
+  "sentences": [
+    {
+      "id": "da-004-s01",
+      "text": "Det regner udenfor.",
+      "translation": "It is raining outside.",
+      "words": [
+        {
+          "word": "regner",
+          "definition": "rains",
+          "partOfSpeech": "verb",
+          "grammar": "regne (to rain) · det regner = it is raining · regnede (past) · regnet (past participle) · impersonal verb – always used with 'det'"
+        },
+        {
+          "word": "udenfor",
+          "definition": "outside",
+          "partOfSpeech": "adv.",
+          "grammar": "udenfor = outside · opposite: indenfor (inside) · can also be a preposition: udenfor huset = outside the house"
+        }
+      ]
+    },
+    {
+      "id": "da-004-s02",
+      "text": "Tommy og Annika keder sig derhjemme.",
+      "translation": "Tommy and Annika are bored at home.",
+      "words": [
+        {
+          "word": "keder",
+          "definition": "are bored",
+          "partOfSpeech": "verb",
+          "grammar": "kede sig (to be bored) · reflexive verb · keder sig (present) · kedede sig (past) · Jeg keder mig = I am bored"
+        },
+        {
+          "word": "derhjemme",
+          "definition": "at home (their home)",
+          "partOfSpeech": "adv.",
+          "grammar": "derhjemme = at home (referring to their place) · hjemme = at home (general) · her hjemme = here at home"
+        }
+      ]
+    },
+    {
+      "id": "da-004-s03",
+      "text": "De løber over til Pippi.",
+      "translation": "They run over to Pippi.",
+      "words": [
+        {
+          "word": "løber",
+          "definition": "run",
+          "partOfSpeech": "verb",
+          "grammar": "løbe (to run) · løber (present) · løb (past) · løbet (past participle) · strong verb"
+        },
+        {
+          "word": "over",
+          "definition": "over to, across to",
+          "partOfSpeech": "prep.",
+          "grammar": "over til = over to · gå over til = to go over to · directional phrase indicating crossing a short distance"
+        }
+      ]
+    },
+    {
+      "id": "da-004-s04",
+      "text": "Pippi åbner døren og siger: \"Kom ind!\"",
+      "translation": "Pippi opens the door and says: 'Come in!'",
+      "words": [
+        {
+          "word": "åbner",
+          "definition": "opens",
+          "partOfSpeech": "verb",
+          "grammar": "åbne (to open) · åbner (present) · åbnede (past) · åbnet (past participle) · opposite: lukke (to close)"
+        },
+        {
+          "word": "døren",
+          "definition": "the door",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en dør · døren (the door) · døre (doors) · dørene (the doors)"
+        }
+      ]
+    },
+    {
+      "id": "da-004-s05",
+      "text": "De sidder inde og hører på regnen.",
+      "translation": "They sit inside and listen to the rain.",
+      "words": [
+        {
+          "word": "sidder",
+          "definition": "sit",
+          "partOfSpeech": "verb",
+          "grammar": "sidde (to sit) · sidder (present) · sad (past) · siddet (past participle) · strong verb"
+        },
+        {
+          "word": "hører",
+          "definition": "listen to",
+          "partOfSpeech": "verb",
+          "grammar": "høre på (to listen to) · hører (present) · hørte (past) · distinct from lytte til (to listen attentively) · høre (to hear)"
+        }
+      ]
+    },
+    {
+      "id": "da-004-s06",
+      "text": "Pippi fortæller historier om sin far og havet.",
+      "translation": "Pippi tells stories about her father and the sea.",
+      "words": [
+        {
+          "word": "fortæller",
+          "definition": "tells, narrates",
+          "partOfSpeech": "verb",
+          "grammar": "fortælle (to tell/narrate) · fortæller (present) · fortalte (past) · fortalt (past participle) · irregular weak verb"
+        },
+        {
+          "word": "havet",
+          "definition": "the sea, the ocean",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et hav · havet (the sea) · have (seas) · have can also mean 'garden': en have · context distinguishes the two"
+        }
+      ]
+    },
+    {
+      "id": "da-004-s07",
+      "text": "Hendes far er kaptajn på et stort skib.",
+      "translation": "Her father is a captain on a big ship.",
+      "words": [
+        {
+          "word": "kaptajn",
+          "definition": "captain",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en kaptajn · kaptajnen (the captain) · borrowed word from French/Dutch via English"
+        },
+        {
+          "word": "skib",
+          "definition": "ship",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et skib · skibet (the ship) · skibe (ships) · skibene (the ships)"
+        }
+      ]
+    },
+    {
+      "id": "da-004-s08",
+      "text": "Tommy siger: \"Det lyder farligt!\"",
+      "translation": "Tommy says: 'That sounds dangerous!'",
+      "words": [
+        {
+          "word": "lyder",
+          "definition": "sounds",
+          "partOfSpeech": "verb",
+          "grammar": "lyde (to sound) · det lyder godt = that sounds good · lød (past) · lydt (past participle) · strong verb"
+        },
+        {
+          "word": "farligt",
+          "definition": "dangerous",
+          "partOfSpeech": "adj.",
+          "grammar": "farlig (common) · farligt (neuter) · farlige (pl./definite) · en farlig situation = a dangerous situation"
+        }
+      ]
+    },
+    {
+      "id": "da-004-s09",
+      "text": "Pippi griner: \"Nej! Det er et stort eventyr!\"",
+      "translation": "Pippi laughs: 'No! It is a great adventure!'",
+      "words": [
+        {
+          "word": "eventyr",
+          "definition": "adventure, fairy tale",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et eventyr · eventyret (the adventure/fairy tale) · eventyr (plural, unchanged) · H.C. Andersens eventyr = H.C. Andersen's fairy tales"
+        }
+      ]
+    },
+    {
+      "id": "da-004-s10",
+      "text": "Regnen stopper, og himlen bliver blå igen.",
+      "translation": "The rain stops, and the sky becomes blue again.",
+      "words": [
+        {
+          "word": "himlen",
+          "definition": "the sky, the heaven",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en himmel · himlen (the sky) · the -el drops before -en suffix · himlen er blå = the sky is blue"
+        },
+        {
+          "word": "stopper",
+          "definition": "stops",
+          "partOfSpeech": "verb",
+          "grammar": "stoppe (to stop) · stopper (present) · stoppede (past) · stoppe op = to come to a halt · loanword from English"
+        }
+      ]
+    },
+    {
+      "id": "da-004-s11",
+      "text": "De tre venner løber ud og leger.",
+      "translation": "The three friends run outside and play.",
+      "words": [
+        {
+          "word": "leger",
+          "definition": "play",
+          "partOfSpeech": "verb",
+          "grammar": "lege (to play) · leger (present) · legede (past) · used for children's play · spille = to play sport/music/games"
+        },
+        {
+          "word": "tre",
+          "definition": "three",
+          "partOfSpeech": "adj.",
+          "grammar": "tre = three · used before both common and neuter nouns · tre venner = three friends"
+        }
+      ]
+    }
+  ]
+}

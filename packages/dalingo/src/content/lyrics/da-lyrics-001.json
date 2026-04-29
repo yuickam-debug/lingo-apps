@@ -1,0 +1,113 @@
+{
+  "id": "da-lyrics-001",
+  "title": "Jeg Vil Jo Bare",
+  "level": "A2",
+  "genre": "lyrics",
+  "source": "lyrics",
+  "metadata": {
+    "artist": "Example Artist"
+  },
+  "sentences": [
+    {
+      "id": "da-l01-s01",
+      "text": "Jeg vil jo bare være her",
+      "translation": "I just want to be here",
+      "words": [
+        {
+          "word": "bare",
+          "definition": "just, only",
+          "partOfSpeech": "adv.",
+          "grammar": "bare · very common filler word in Danish"
+        }
+      ]
+    },
+    {
+      "id": "da-l01-s02",
+      "text": "Hvor himlen møder havet",
+      "translation": "Where the sky meets the sea",
+      "words": [
+        {
+          "word": "himlen",
+          "definition": "the sky",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en himmel · himlen (the sky)"
+        },
+        {
+          "word": "havet",
+          "definition": "the sea",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et hav (a sea) · havet (the sea) · neuter definite"
+        }
+      ]
+    },
+    {
+      "id": "da-l01-s03",
+      "text": "Og alt er stille nu",
+      "translation": "And everything is quiet now",
+      "words": [
+        {
+          "word": "stille",
+          "definition": "quiet, still",
+          "partOfSpeech": "adj.",
+          "grammar": "stille · same form in all positions"
+        }
+      ]
+    },
+    {
+      "id": "da-l01-s04",
+      "text": "Og natten er så smuk",
+      "translation": "And the night is so beautiful",
+      "words": [
+        {
+          "word": "natten",
+          "definition": "the night",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en nat · natten (the night)"
+        },
+        {
+          "word": "smuk",
+          "definition": "beautiful",
+          "partOfSpeech": "adj."
+        }
+      ]
+    },
+    {
+      "id": "da-l01-s05",
+      "text": "Jeg lukker mine øjne",
+      "translation": "I close my eyes",
+      "words": [
+        {
+          "word": "lukker",
+          "definition": "close",
+          "partOfSpeech": "verb",
+          "grammar": "at lukke (to close) · lukker = present tense"
+        },
+        {
+          "word": "øjne",
+          "definition": "eyes",
+          "partOfSpeech": "noun, n. pl.",
+          "grammar": "et øje (an eye) · øjne (eyes) · irregular plural"
+        }
+      ]
+    },
+    {
+      "id": "da-l01-s06",
+      "text": "Og lytter til din stemme",
+      "translation": "And listen to your voice",
+      "words": [
+        {
+          "word": "lytter",
+          "definition": "listen",
+          "partOfSpeech": "verb",
+          "grammar": "at lytte (to listen) · lytte til = listen to"
+        },
+        {
+          "word": "stemme",
+          "definition": "voice",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en stemme · also means 'to vote'"
+        }
+      ]
+    }
+  ]
+}

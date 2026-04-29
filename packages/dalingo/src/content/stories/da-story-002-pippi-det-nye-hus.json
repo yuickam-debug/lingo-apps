@@ -1,0 +1,187 @@
+{
+  "id": "da-story-002",
+  "title": "Pippi Langstrømpe – Det nye hus",
+  "level": "A1",
+  "genre": "narrative",
+  "source": "story",
+  "sentences": [
+    {
+      "id": "da-002-s01",
+      "text": "Pippi bor alene i et gammelt hus.",
+      "translation": "Pippi lives alone in an old house.",
+      "words": [
+        {
+          "word": "bor",
+          "definition": "lives, resides",
+          "partOfSpeech": "verb",
+          "grammar": "bo (to live/reside) · bor (present) · boede (past) · a core everyday verb, distinct from leve (to be alive)"
+        },
+        {
+          "word": "gammelt",
+          "definition": "old (neuter form)",
+          "partOfSpeech": "adj.",
+          "grammar": "gammel · et gammelt hus (neuter) · en gammel mand (common) · irregular: gammel – gammelt – gamle"
+        }
+      ]
+    },
+    {
+      "id": "da-002-s02",
+      "text": "Huset hedder Villakulla.",
+      "translation": "The house is called Villakulla.",
+      "words": [
+        {
+          "word": "hedder",
+          "definition": "is called, is named",
+          "partOfSpeech": "verb",
+          "grammar": "hedde (to be called) · hedder (present) · hed (past) · Hvad hedder du? = What is your name?"
+        },
+        {
+          "word": "Huset",
+          "definition": "the house",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et hus · huset (the house) · neuter noun · husene (the houses, pl. definite)"
+        }
+      ]
+    },
+    {
+      "id": "da-002-s03",
+      "text": "Pippi har en abe og en hest.",
+      "translation": "Pippi has a monkey and a horse.",
+      "words": [
+        {
+          "word": "abe",
+          "definition": "monkey",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en abe · aben (the monkey) · aber (monkeys) · aberne (the monkeys)"
+        },
+        {
+          "word": "hest",
+          "definition": "horse",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en hest · hesten (the horse) · heste (horses) · common gender noun"
+        }
+      ]
+    },
+    {
+      "id": "da-002-s04",
+      "text": "Hesten bor på verandaen.",
+      "translation": "The horse lives on the veranda.",
+      "words": [
+        {
+          "word": "verandaen",
+          "definition": "the veranda, the porch",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en veranda · verandaen (the veranda) · borrowed word, always common gender"
+        }
+      ]
+    },
+    {
+      "id": "da-002-s05",
+      "text": "Naboerne hedder Tommy og Annika.",
+      "translation": "The neighbours are called Tommy and Annika.",
+      "words": [
+        {
+          "word": "Naboerne",
+          "definition": "the neighbours",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en nabo · naboen (the neighbour) · naboer (neighbours) · naboerne (the neighbours)"
+        }
+      ]
+    },
+    {
+      "id": "da-002-s06",
+      "text": "De ser Pippi og bliver meget overraskede.",
+      "translation": "They see Pippi and become very surprised.",
+      "words": [
+        {
+          "word": "overraskede",
+          "definition": "surprised",
+          "partOfSpeech": "adj.",
+          "grammar": "overrasket (sg.) · overraskede (pl./definite) · blive overrasket = to be/become surprised · en overraskelse = a surprise"
+        },
+        {
+          "word": "bliver",
+          "definition": "become, get",
+          "partOfSpeech": "verb",
+          "grammar": "blive (to become/stay) · bliver (present) · blev (past) · very versatile: blive glad = to become happy · blive hjemme = to stay home"
+        }
+      ]
+    },
+    {
+      "id": "da-002-s07",
+      "text": "Pippi siger: \"Jeg bor her nu. Vil I være mine venner?\"",
+      "translation": "Pippi says: 'I live here now. Will you be my friends?'",
+      "words": [
+        {
+          "word": "venner",
+          "definition": "friends",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en ven (m.) · venner (friends, pl.) · en veninde = female friend · gode venner = good friends"
+        },
+        {
+          "word": "Vil",
+          "definition": "will you (plural)",
+          "partOfSpeech": "verb",
+          "grammar": "ville (will/want) · I (you plural) · Vil I? = Do you (all) want to? · I is the pl. subject pronoun (informal): rarely used in modern speech, but correct"
+        }
+      ]
+    },
+    {
+      "id": "da-002-s08",
+      "text": "Tommy og Annika siger ja.",
+      "translation": "Tommy and Annika say yes.",
+      "words": [
+        {
+          "word": "siger",
+          "definition": "say, says",
+          "partOfSpeech": "verb",
+          "grammar": "sige (to say) · siger (present) · sagde (past) · sagt (past participle) · Hvad siger du? = What do you say?"
+        }
+      ]
+    },
+    {
+      "id": "da-002-s09",
+      "text": "Pippi laver mad til dem begge.",
+      "translation": "Pippi makes food for both of them.",
+      "words": [
+        {
+          "word": "laver",
+          "definition": "cooks, makes",
+          "partOfSpeech": "verb",
+          "grammar": "lave (to make/do) · laver mad = to cook/make food · mad (c.) = food · laver du mad? = do you cook?"
+        },
+        {
+          "word": "begge",
+          "definition": "both",
+          "partOfSpeech": "adj.",
+          "grammar": "begge = both · begge to = both of them · used with plural nouns · ikke begge = not both"
+        }
+      ]
+    },
+    {
+      "id": "da-002-s10",
+      "text": "Hun er stærk og sjov – den stærkeste pige i verden!",
+      "translation": "She is strong and funny – the strongest girl in the world!",
+      "words": [
+        {
+          "word": "stærk",
+          "definition": "strong",
+          "partOfSpeech": "adj.",
+          "grammar": "stærk · stærkere (comparative) · stærkest/den stærkeste (superlative) · en stærk vilje = a strong will"
+        },
+        {
+          "word": "sjov",
+          "definition": "fun, funny",
+          "partOfSpeech": "adj.",
+          "grammar": "sjov (common) · sjovt (neuter) · sjove (pl./definite) · det er sjovt = it's fun · have det sjovt = to have fun"
+        },
+        {
+          "word": "verden",
+          "definition": "the world",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en verden · verden (the world – already definite) · i hele verden = in the whole world"
+        }
+      ]
+    }
+  ]
+}

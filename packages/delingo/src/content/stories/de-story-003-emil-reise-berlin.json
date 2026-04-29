@@ -1,0 +1,237 @@
+{
+  "id": "de-story-003",
+  "title": "Emil und die Detektive – Die Reise nach Berlin",
+  "level": "A1",
+  "genre": "narrative",
+  "source": "story",
+  "sentences": [
+    {
+      "id": "de-003-s01",
+      "text": "Emil fährt allein mit dem Zug nach Berlin.",
+      "translation": "Emil travels alone by train to Berlin.",
+      "words": [
+        {
+          "word": "fährt",
+          "definition": "travels, rides",
+          "partOfSpeech": "verb",
+          "grammar": "fahren (to travel/drive) · er fährt · past: er fuhr · strong verb with vowel change a – ä"
+        },
+        {
+          "word": "allein",
+          "definition": "alone",
+          "partOfSpeech": "adv.",
+          "grammar": "allein · can also be used as adj. before a noun: ein alleinstehendes Kind"
+        }
+      ]
+    },
+    {
+      "id": "de-003-s02",
+      "text": "Seine Mutter gibt ihm Geld für die Großmutter.",
+      "translation": "His mother gives him money for his grandmother.",
+      "words": [
+        {
+          "word": "Geld",
+          "definition": "money",
+          "partOfSpeech": "noun, n.",
+          "grammar": "das Geld · no plural in everyday use · Geld ausgeben = to spend money"
+        },
+        {
+          "word": "Großmutter",
+          "definition": "grandmother",
+          "partOfSpeech": "noun, f.",
+          "grammar": "die Großmutter · colloquial: die Oma · compound: groß (big/great) + Mutter (mother)"
+        }
+      ]
+    },
+    {
+      "id": "de-003-s03",
+      "text": "Im Zug sitzt ein Mann mit einem Hut.",
+      "translation": "In the train there sits a man with a hat.",
+      "words": [
+        {
+          "word": "Hut",
+          "definition": "hat",
+          "partOfSpeech": "noun, m.",
+          "grammar": "der Hut · die Hüte (pl.) · not to confuse with die Hut (f.) = protection/guard"
+        },
+        {
+          "word": "sitzt",
+          "definition": "sits",
+          "partOfSpeech": "verb",
+          "grammar": "sitzen (to sit) · er sitzt · past: er saß · strong verb"
+        }
+      ]
+    },
+    {
+      "id": "de-003-s04",
+      "text": "Der Mann sagt: \"Guten Tag, junger Freund.\"",
+      "translation": "The man says: 'Good day, young friend.'",
+      "words": [
+        {
+          "word": "junger",
+          "definition": "young",
+          "partOfSpeech": "adj.",
+          "grammar": "jung · comparative: jünger · superlative: am jüngsten · junger (m. nom.) follows strong declension without article"
+        },
+        {
+          "word": "Freund",
+          "definition": "friend",
+          "partOfSpeech": "noun, m.",
+          "grammar": "der Freund · die Freunde (pl.) · die Freundin (f.) · also used informally to address someone"
+        }
+      ]
+    },
+    {
+      "id": "de-003-s05",
+      "text": "Emil schläft ein, und als er aufwacht, ist das Geld weg.",
+      "translation": "Emil falls asleep, and when he wakes up, the money is gone.",
+      "words": [
+        {
+          "word": "schläft",
+          "definition": "falls asleep",
+          "partOfSpeech": "verb",
+          "grammar": "einschlafen (to fall asleep) · separable verb: schläft...ein · past: er schlief ein"
+        },
+        {
+          "word": "weg",
+          "definition": "gone, away",
+          "partOfSpeech": "adv.",
+          "grammar": "weg = gone/away · Das Geld ist weg = The money is gone · not to confuse with der Weg (m.) = path/way"
+        }
+      ]
+    },
+    {
+      "id": "de-003-s06",
+      "text": "Er sucht überall, aber er findet nichts.",
+      "translation": "He searches everywhere, but he finds nothing.",
+      "words": [
+        {
+          "word": "überall",
+          "definition": "everywhere",
+          "partOfSpeech": "adv.",
+          "grammar": "überall · opposite: nirgends (nowhere) · nirgendwo is also correct"
+        },
+        {
+          "word": "nichts",
+          "definition": "nothing",
+          "partOfSpeech": "adv.",
+          "grammar": "nichts · opposite: alles (everything) · nichts mehr = nothing more/anymore"
+        }
+      ]
+    },
+    {
+      "id": "de-003-s07",
+      "text": "Emil läuft hinter dem Mann her, durch die große Stadt.",
+      "translation": "Emil runs after the man, through the big city.",
+      "words": [
+        {
+          "word": "läuft",
+          "definition": "runs",
+          "partOfSpeech": "verb",
+          "grammar": "laufen (to run/walk) · er läuft · past: er lief · strong verb"
+        },
+        {
+          "word": "hinterher",
+          "definition": "after, behind",
+          "partOfSpeech": "adv.",
+          "grammar": "hinter + her = hinterher · hinter ihm herlaufen = to run after him · separable in some contexts"
+        }
+      ]
+    },
+    {
+      "id": "de-003-s08",
+      "text": "Berlin ist laut und groß – Emil kennt die Stadt nicht.",
+      "translation": "Berlin is loud and big – Emil doesn't know the city.",
+      "words": [
+        {
+          "word": "laut",
+          "definition": "loud, noisy",
+          "partOfSpeech": "adj.",
+          "grammar": "laut · comparative: lauter · superlative: am lautesten · also a preposition: laut Gesetz = according to law"
+        },
+        {
+          "word": "kennt",
+          "definition": "knows (a place/person)",
+          "partOfSpeech": "verb",
+          "grammar": "kennen (to know someone/something) · different from wissen (to know a fact) · er kennt · past: er kannte"
+        }
+      ]
+    },
+    {
+      "id": "de-003-s09",
+      "text": "Auf der Straße trifft er Gustav mit dem Fahrrad.",
+      "translation": "On the street he meets Gustav with the bicycle.",
+      "words": [
+        {
+          "word": "trifft",
+          "definition": "meets",
+          "partOfSpeech": "verb",
+          "grammar": "treffen (to meet/hit) · er trifft · past: er traf · strong verb with vowel change e – i"
+        },
+        {
+          "word": "Fahrrad",
+          "definition": "bicycle",
+          "partOfSpeech": "noun, n.",
+          "grammar": "das Fahrrad · die Fahrräder (pl.) · compound: fahren (to ride) + Rad (wheel)"
+        }
+      ]
+    },
+    {
+      "id": "de-003-s10",
+      "text": "Gustav sagt: \"Keine Angst, wir helfen dir!\"",
+      "translation": "Gustav says: 'Don't worry, we'll help you!'",
+      "words": [
+        {
+          "word": "Angst",
+          "definition": "fear, worry",
+          "partOfSpeech": "noun, f.",
+          "grammar": "die Angst · die Ã„ngste (pl.) · Angst haben = to be afraid · Keine Angst! = Don't worry!"
+        },
+        {
+          "word": "helfen",
+          "definition": "to help",
+          "partOfSpeech": "verb",
+          "grammar": "helfen (to help) · takes dative: jemandem helfen · er hilft · past: er half"
+        }
+      ]
+    },
+    {
+      "id": "de-003-s11",
+      "text": "Viele Kinder aus der Stadt kommen zusammen.",
+      "translation": "Many children from the city come together.",
+      "words": [
+        {
+          "word": "viele",
+          "definition": "many",
+          "partOfSpeech": "adj.",
+          "grammar": "viele (pl.) · viel (sg., uncountable) · viel Wasser (much water) · viele Kinder (many children)"
+        },
+        {
+          "word": "zusammen",
+          "definition": "together",
+          "partOfSpeech": "adv.",
+          "grammar": "zusammen · zusammenkommen = to come together · zusammenarbeiten = to work together"
+        }
+      ]
+    },
+    {
+      "id": "de-003-s12",
+      "text": "Sie bilden eine Gruppe: die Detektive!",
+      "translation": "They form a group: the detectives!",
+      "words": [
+        {
+          "word": "bilden",
+          "definition": "to form, to create",
+          "partOfSpeech": "verb",
+          "grammar": "bilden (to form/educate) · eine Gruppe bilden = to form a group · Bildung (f.) = education"
+        },
+        {
+          "word": "Gruppe",
+          "definition": "group",
+          "partOfSpeech": "noun, f.",
+          "grammar": "die Gruppe · die Gruppen (pl.) · in der Gruppe = in the group"
+        }
+      ]
+    }
+  ]
+}

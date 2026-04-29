@@ -1,0 +1,266 @@
+{
+  "id": "da-guldimund-moens-klint",
+  "title": "Møns Klint",
+  "level": "B2",
+  "genre": "lyrics",
+  "source": "lyrics",
+  "sentences": [
+    {
+      "id": "da-guldimund-moens-klint-s01",
+      "text": "Du har åbnet dit hjerte, dit hjem og dit liv og din krop for mig",
+      "translation": "",
+      "words": [
+        {
+          "word": "åbnet",
+          "definition": "to open (åbnet = opened)",
+          "partOfSpeech": "verb (inf.)"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-moens-klint-s02",
+      "text": "Du koger pasta og rister valnødder i honning og hvidløg, mens jeg finder en proptrækker",
+      "translation": "",
+      "words": [
+        {
+          "word": "rister",
+          "definition": "to roast / toast",
+          "partOfSpeech": "verb (inf.)"
+        },
+        {
+          "word": "proptrækker",
+          "definition": "a corkscrew",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "hvidløg",
+          "definition": "garlic",
+          "partOfSpeech": ""
+        },
+        {
+          "word": "honning",
+          "definition": "honey",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-moens-klint-s03",
+      "text": "Du ligger på sengen i lyset uden top, jeg stopper op og tænker: hva' har vi gjort, vi skal ha' det så godt?",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-moens-klint-s04",
+      "text": "Vi tog på roadtrip",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-moens-klint-s05",
+      "text": "Til Møns Klint i din Ford Fiesta",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-moens-klint-s06",
+      "text": "Fjorten dage efter jeg mødte dig",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-moens-klint-s07",
+      "text": "Jeg blev forført af",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-moens-klint-s08",
+      "text": "Den måde du holdt TED Talks om sexistiske strukturer på din arbejdsplads",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-moens-klint-s09",
+      "text": "Først hang vi ud i et sommerhus",
+      "translation": "",
+      "words": [
+        {
+          "word": "sommerhus",
+          "definition": "a summer cottage / holiday home",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-moens-klint-s10",
+      "text": "Med et par andre par, som vi ikk' rigtig kendte endnu",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-moens-klint-s11",
+      "text": "Men om natten var det kun dig og mig i en sejlbåd",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-moens-klint-s12",
+      "text": "Der var stjerneklart, og intet sagt blev misforstået",
+      "translation": "",
+      "words": [
+        {
+          "word": "stjerneklart",
+          "definition": "starry and clear (of a night sky)",
+          "partOfSpeech": ""
+        },
+        {
+          "word": "misforstået",
+          "definition": "to misunderstand",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-moens-klint-s13",
+      "text": "Og indtil videre er der ikke gået",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-moens-klint-s14",
+      "text": "En dag, hvor vi to ikk' har gennemgået",
+      "translation": "",
+      "words": [
+        {
+          "word": "gennemgået",
+          "definition": "to go through / discuss thoroughly",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-moens-klint-s15",
+      "text": "Alt, der flyver gennem hovedet",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-moens-klint-s16",
+      "text": "Du forærer mig din fremtid - det' ikk' nok for mig",
+      "translation": "",
+      "words": [
+        {
+          "word": "forærer",
+          "definition": "gives as a gift / presents",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-moens-klint-s17",
+      "text": "Ku' jeg blot ha' kendt dig altid?",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-moens-klint-s18",
+      "text": "Det' som om, at hvert minut uden dig er spildt",
+      "translation": "",
+      "words": [
+        {
+          "word": "spildt",
+          "definition": "wasted / spilled",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-moens-klint-s19",
+      "text": "Nogen dage ser jeg os om tredive år i dine øjne",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-moens-klint-s20",
+      "text": "Du smiler til mig tværs gennem tid, der kommer",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-moens-klint-s21",
+      "text": "Når jeg ser dit navn på displayet",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-moens-klint-s22",
+      "text": "Får jeg åndenød og rammes af en barnlig glæde",
+      "translation": "",
+      "words": [
+        {
+          "word": "åndenød",
+          "definition": "shortness of breath",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-moens-klint-s23",
+      "text": "Vores liv er en lang samtale, som af og til bli'r ramt af, at vi af og til ska' sove",
+      "translation": "",
+      "words": [
+        {
+          "word": "samtale",
+          "definition": "a conversation",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-moens-klint-s24",
+      "text": "Så la' os tale noget mere om, hvordan vi vil male lejligheden",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-moens-klint-s25",
+      "text": "Og la' os tale meget mere om, hva' vores børn ska' hedde",
+      "translation": "",
+      "words": []
+    }
+  ],
+  "metadata": {
+    "artist": "Guldimund",
+    "titleEn": "Møns Klint",
+    "tags": [
+      "lyrics",
+      "guldimund",
+      "romantic"
+    ],
+    "grammarPoints": [
+      {
+        "rule": "Passive with 'blive' + past participle",
+        "exampleSentence": "Jeg blev forført af den måde du holdt TED Talks.",
+        "explanation": "Danish passive: 'blive' + past participle. 'Jeg blev forført' = 'I was captivated'. The doer comes after 'af' (by): 'forført af den måde' = 'captivated by the way'. Also: 'rammes af en barnlig glæde' = 'is struck by a childlike joy'."
+      },
+      {
+        "rule": "'Om' + time = in X time (future)",
+        "exampleSentence": "Nogen dage ser jeg os om tredive år i dine øjne.",
+        "explanation": "'Om' with a future time expression means 'in X time from now'. 'Om tredive år' = 'in thirty years'. Compare: 'for tredive år siden' = 'thirty years ago'. The preposition signals direction in time: 'om' (forward) vs 'siden' (backward)."
+      },
+      {
+        "rule": "'Af og til' — from time to time (adverb phrase)",
+        "exampleSentence": "Vores liv er en lang samtale, som af og til bli'r ramt af...",
+        "explanation": "'Af og til' means 'from time to time' or 'occasionally'. Sits in the middle field after the verb. Synonyms: 'somme tider', 'ind imellem'. Very common in everyday Danish."
+      }
+    ],
+    "stanzaBreaks": [
+      3,
+      8,
+      15,
+      20,
+      23
+    ]
+  }
+}

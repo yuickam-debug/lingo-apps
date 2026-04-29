@@ -1,0 +1,231 @@
+{
+  "id": "da-story-005",
+  "title": "Elverhøj – Dansen i natten",
+  "level": "A1",
+  "genre": "narrative",
+  "source": "story",
+  "sentences": [
+    {
+      "id": "da-005-s01",
+      "text": "I Danmark er der mange grønne bakker.",
+      "translation": "In Denmark there are many green hills.",
+      "words": [
+        {
+          "word": "bakker",
+          "definition": "hills",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en bakke · bakken (the hill) · bakker (hills) · bakkerne (the hills) · also means 'trays' (context-dependent)"
+        },
+        {
+          "word": "grønne",
+          "definition": "green (definite/plural)",
+          "partOfSpeech": "adj.",
+          "grammar": "grøn (common sg.) · grønt (neuter sg.) · grønne (pl./definite) · grøn is also used for 'eco-friendly'"
+        }
+      ]
+    },
+    {
+      "id": "da-005-s02",
+      "text": "Under bakkerne bor de underjordiske.",
+      "translation": "Beneath the hills live the underground folk.",
+      "words": [
+        {
+          "word": "underjordiske",
+          "definition": "the underground folk, subterranean beings",
+          "partOfSpeech": "adj.",
+          "grammar": "underjordisk (sg.) · underjordiske (pl./definite) · used as noun: de underjordiske = the hidden people · under + jord (earth) + isk"
+        },
+        {
+          "word": "Under",
+          "definition": "beneath, under",
+          "partOfSpeech": "prep.",
+          "grammar": "under = under/beneath · under bordet = under the table · can show location or motion · under natten = during the night"
+        }
+      ]
+    },
+    {
+      "id": "da-005-s03",
+      "text": "Om natten åbner højen sig.",
+      "translation": "At night the hill opens itself.",
+      "words": [
+        {
+          "word": "højen",
+          "definition": "the hill, the mound",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en høj · højen (the hill/mound) · høje (hills) · elverhøj = elf hill · a culturally significant word in Danish folklore"
+        },
+        {
+          "word": "natten",
+          "definition": "at night",
+          "partOfSpeech": "noun, c.",
+          "grammar": "om natten = at night (habitual) · i nat = tonight · natten (the night) · en nat · god nat = good night"
+        }
+      ]
+    },
+    {
+      "id": "da-005-s04",
+      "text": "Elverpigerne danser i det bløde græs.",
+      "translation": "The elf maidens dance in the soft grass.",
+      "words": [
+        {
+          "word": "Elverpigerne",
+          "definition": "the elf maidens",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en elverpige · elverpigen (the elf maiden) · elverpiger (pl.) · compound: elver (elf) + pige (girl)"
+        },
+        {
+          "word": "danser",
+          "definition": "dance",
+          "partOfSpeech": "verb",
+          "grammar": "danse (to dance) · danser (present) · dansede (past) · danset (past participle) · regular weak verb"
+        },
+        {
+          "word": "græs",
+          "definition": "grass",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et græs · græsset (the grass) · no standard plural · slå græs = to mow the lawn"
+        }
+      ]
+    },
+    {
+      "id": "da-005-s05",
+      "text": "En ung mand ser lyset fra højen.",
+      "translation": "A young man sees the light from the hill.",
+      "words": [
+        {
+          "word": "lyset",
+          "definition": "the light",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et lys · lyset (the light) · lys (lights, pl.) · tænde lyset = to turn on the light · also adj: lys = light/bright"
+        },
+        {
+          "word": "ung",
+          "definition": "young",
+          "partOfSpeech": "adj.",
+          "grammar": "ung (common) · ungt (neuter) · unge (pl./definite) · en ung mand = a young man · de unge = the young people"
+        }
+      ]
+    },
+    {
+      "id": "da-005-s06",
+      "text": "Han hører musik og føler sig underlig tiltrukket.",
+      "translation": "He hears music and feels strangely drawn.",
+      "words": [
+        {
+          "word": "musik",
+          "definition": "music",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en musik · musikken (the music) · uncountable · spille musik = to play music"
+        },
+        {
+          "word": "underlig",
+          "definition": "strange, odd",
+          "partOfSpeech": "adj.",
+          "grammar": "underlig (common) · underligt (neuter) · underlige (pl./definite) · en underlig følelse = a strange feeling"
+        }
+      ]
+    },
+    {
+      "id": "da-005-s07",
+      "text": "Han går nærmere og ser elverpigerne.",
+      "translation": "He walks closer and sees the elf maidens.",
+      "words": [
+        {
+          "word": "nærmere",
+          "definition": "closer, nearer",
+          "partOfSpeech": "adj.",
+          "grammar": "nær (near) · nærmere (comparative) · nærmest (superlative) · komme nærmere = to come closer"
+        }
+      ]
+    },
+    {
+      "id": "da-005-s08",
+      "text": "De smiler og inviterer ham med i dansen.",
+      "translation": "They smile and invite him to join the dance.",
+      "words": [
+        {
+          "word": "smiler",
+          "definition": "smile",
+          "partOfSpeech": "verb",
+          "grammar": "smile (to smile) · smiler (present) · smilede (past) · et smil (n.) = a smile"
+        },
+        {
+          "word": "inviterer",
+          "definition": "invite",
+          "partOfSpeech": "verb",
+          "grammar": "invitere (to invite) · inviterer (present) · inviterede (past) · en invitation (c.) = an invitation"
+        }
+      ]
+    },
+    {
+      "id": "da-005-s09",
+      "text": "Han danser hele natten og glemmer alt.",
+      "translation": "He dances all night and forgets everything.",
+      "words": [
+        {
+          "word": "glemmer",
+          "definition": "forgets",
+          "partOfSpeech": "verb",
+          "grammar": "glemme (to forget) · glemmer (present) · glemte (past) · glemt (past participle) · irregular weak verb"
+        },
+        {
+          "word": "hele",
+          "definition": "whole, entire, all",
+          "partOfSpeech": "adj.",
+          "grammar": "hel (common/neuter sg.) · hele (definite/pl.) · hele natten = all night · hele verden = the whole world"
+        }
+      ]
+    },
+    {
+      "id": "da-005-s10",
+      "text": "Da solen kommer op, er elverpigerne væk.",
+      "translation": "When the sun comes up, the elf maidens are gone.",
+      "words": [
+        {
+          "word": "solen",
+          "definition": "the sun",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en sol · solen (the sun) · sole (suns, rare) · solen skinner = the sun shines · solskin (n.) = sunshine"
+        },
+        {
+          "word": "væk",
+          "definition": "gone, away",
+          "partOfSpeech": "adv.",
+          "grammar": "væk = gone/away · de er væk = they are gone · gå væk = go away · forsvinde = to disappear"
+        }
+      ]
+    },
+    {
+      "id": "da-005-s11",
+      "text": "Manden står alene på den grønne bakke.",
+      "translation": "The man stands alone on the green hill.",
+      "words": [
+        {
+          "word": "står",
+          "definition": "stands",
+          "partOfSpeech": "verb",
+          "grammar": "stå (to stand) · står (present) · stod (past) · stået (past participle) · strong verb"
+        }
+      ]
+    },
+    {
+      "id": "da-005-s12",
+      "text": "Han husker dansen, men han ved ikke om det var en drøm.",
+      "translation": "He remembers the dance, but he does not know if it was a dream.",
+      "words": [
+        {
+          "word": "husker",
+          "definition": "remembers",
+          "partOfSpeech": "verb",
+          "grammar": "huske (to remember) · husker (present) · huskede (past) · Kan du huske? = Do you remember?"
+        },
+        {
+          "word": "drøm",
+          "definition": "dream",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en drøm · drømmen (the dream) · drømme (dreams) · drømme (to dream) – same form as the noun plural"
+        }
+      ]
+    }
+  ]
+}

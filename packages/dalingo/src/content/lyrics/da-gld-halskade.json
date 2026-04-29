@@ -1,0 +1,340 @@
+{
+  "id": "da-guldimund-halskade",
+  "title": "Halskæde",
+  "level": "B1",
+  "genre": "lyrics",
+  "source": "lyrics",
+  "sentences": [
+    {
+      "id": "da-guldimund-halskade-s01",
+      "text": "Du har mødt en kvinde",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-halskade-s02",
+      "text": "Det var før, du mødte mig",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-halskade-s03",
+      "text": "Og for to timer siden rendte I to på hinanden igen",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-halskade-s04",
+      "text": "Og det har skræmt dig",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-halskade-s05",
+      "text": "Hun var sammen med sin nye kærest'",
+      "translation": "",
+      "words": [
+        {
+          "word": "kærest'",
+          "definition": "a boyfriend / girlfriend ('kæreste')",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-halskade-s06",
+      "text": "Som ogs' ligner dig",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-halskade-s07",
+      "text": "De holdt i hånden, og hun spurgt', hvordan du har det for tiden",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-halskade-s08",
+      "text": "Og nu' du ligbleg",
+      "translation": "",
+      "words": [
+        {
+          "word": "ligbleg",
+          "definition": "deathly pale (lit. corpse-pale)",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-halskade-s09",
+      "text": "For hva' ku' livet ikk' være blevet til",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-halskade-s10",
+      "text": "Hvis det var hende, du var gået med?",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-halskade-s11",
+      "text": "Hvor længe har du tænkt dig at gå med hendes halskæde?",
+      "translation": "",
+      "words": [
+        {
+          "word": "halskæde",
+          "definition": "a necklace",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-halskade-s12",
+      "text": "Du si'r det til mig midt i dagligstuen",
+      "translation": "",
+      "words": [
+        {
+          "word": "dagligstuen",
+          "definition": "a living room",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-halskade-s13",
+      "text": "Et godt drama her i aftensolen",
+      "translation": "",
+      "words": [
+        {
+          "word": "aftensolen",
+          "definition": "evening sun",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-halskade-s14",
+      "text": "Jeg sidder stift i min lænestol",
+      "translation": "",
+      "words": [
+        {
+          "word": "lænestol",
+          "definition": "an armchair",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "stift",
+          "definition": "stiffly / rigidly",
+          "partOfSpeech": ""
+        },
+        {
+          "word": "sidder",
+          "definition": "to sit (sidder = sits, sad = sat)",
+          "partOfSpeech": "verb (inf.)"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-halskade-s15",
+      "text": "Og forsøger at bevare roen",
+      "translation": "",
+      "words": [
+        {
+          "word": "forsøger",
+          "definition": "to try / attempt",
+          "partOfSpeech": "verb (inf.)"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-halskade-s16",
+      "text": "Hun var sammen med sin nye kærest'",
+      "translation": "",
+      "words": [
+        {
+          "word": "kærest'",
+          "definition": "a boyfriend / girlfriend ('kæreste')",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-halskade-s17",
+      "text": "Som ogs' ligner dig, det har du sagt",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-halskade-s18",
+      "text": "Jeg googler hendes navn, det sku' jeg ikk' ha' gjort",
+      "translation": "",
+      "words": [
+        {
+          "word": "googler",
+          "definition": "googles (borrowed English verb, fully conjugated in Danish)",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-halskade-s19",
+      "text": "Nu er jeg helt ødelagt",
+      "translation": "",
+      "words": [
+        {
+          "word": "ødelagt",
+          "definition": "devastated / broken / ruined",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-halskade-s20",
+      "text": "For hva' ku' livet ikk' være blevet til",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-halskade-s21",
+      "text": "Hvis det var hende, du var gået med?",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-halskade-s22",
+      "text": "Hvor længe har du tænkt dig at gå med hendes halskæde?",
+      "translation": "",
+      "words": [
+        {
+          "word": "halskæde",
+          "definition": "a necklace",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-halskade-s23",
+      "text": "Ja, hva' ku' livet ikk' være blevet til",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-halskade-s24",
+      "text": "Hvis det var hende, du var gået med?",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-halskade-s25",
+      "text": "Sig mig, hvor længe har du tænkt dig at gå med hendes halskæde?",
+      "translation": "",
+      "words": [
+        {
+          "word": "halskæde",
+          "definition": "a necklace",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-halskade-s26",
+      "text": "Du har mødt en kvinde",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-halskade-s27",
+      "text": "Hva' ska' jeg stille op?",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-halskade-s28",
+      "text": "Jeg ka' kun tilbyde den her krop",
+      "translation": "",
+      "words": [
+        {
+          "word": "krop",
+          "definition": "a body",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-halskade-s29",
+      "text": "Er den tilstrækkelig?",
+      "translation": "",
+      "words": [
+        {
+          "word": "tilstrækkelig",
+          "definition": "sufficient / enough",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-halskade-s30",
+      "text": "For hva' ku' livet ikk' være blevet til?",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-halskade-s31",
+      "text": "Hvor længe har du tænkt dig at gå med hendes halskæde?",
+      "translation": "",
+      "words": [
+        {
+          "word": "halskæde",
+          "definition": "a necklace",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-halskade-s32",
+      "text": "Sig mig, hvor længe har du tænkt dig at gå med hendes halskæde?",
+      "translation": "",
+      "words": [
+        {
+          "word": "halskæde",
+          "definition": "a necklace",
+          "partOfSpeech": "noun"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "artist": "Guldimund",
+    "titleEn": "Necklace",
+    "tags": [
+      "lyrics",
+      "guldimund",
+      "romantic"
+    ],
+    "grammarPoints": [
+      {
+        "rule": "Conditional perfect: 'ku' være blevet til' (could have become)",
+        "exampleSentence": "Hva' ku' livet ikk' være blevet til?",
+        "explanation": "'Ku'' = 'kunne', 'være blevet til' = past infinitive of 'blive til'. Together: 'could have become'. Full form: 'Hvad kunne livet ikke være blevet til?' = 'What could life not have become?' This expresses regret about paths not taken."
+      },
+      {
+        "rule": "'Gå med nogen' — to date / be in a relationship",
+        "exampleSentence": "Hvis det var hende, du var gået med?",
+        "explanation": "'Gå med nogen' is a Danish idiom for being in a romantic relationship. 'Var gået med' = past perfect 'had gone out with'. 'Hvis det var hende, du var gået med' = 'If she had been the one you were with'."
+      },
+      {
+        "rule": "'Stille op' — to do / manage / offer a solution",
+        "exampleSentence": "Hva' ska' jeg stille op?",
+        "explanation": "'Stille op' here means 'what can I do?' — expressing helplessness. Very common: 'jeg ved ikke hvad jeg skal stille op' = 'I don't know what to do'. Context changes its meaning (can also mean to set something up or to compete in an election)."
+      }
+    ],
+    "stanzaBreaks": [
+      8,
+      11,
+      19,
+      25,
+      29
+    ]
+  }
+}

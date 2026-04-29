@@ -1,0 +1,8 @@
+{
+  "name": "@lingo/shared",
+  "version": "1.0.0",
+  "private": true,
+  "peerDependencies": {
+    "react": "^18.0.0 || ^19.0.0"
+  }
+}

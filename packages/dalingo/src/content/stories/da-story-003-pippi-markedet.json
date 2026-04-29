@@ -1,0 +1,193 @@
+{
+  "id": "da-story-003",
+  "title": "Pippi Langstrømpe – Markedet",
+  "level": "A1",
+  "genre": "narrative",
+  "source": "story",
+  "sentences": [
+    {
+      "id": "da-003-s01",
+      "text": "Pippi vil gå på markedet i dag.",
+      "translation": "Pippi wants to go to the market today.",
+      "words": [
+        {
+          "word": "markedet",
+          "definition": "the market",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et marked · markedet (the market) · markeder (markets) · marked can also mean 'marked/noticed'"
+        },
+        {
+          "word": "vil",
+          "definition": "wants to, will",
+          "partOfSpeech": "verb",
+          "grammar": "ville (to want/will) · vil (present) · ville (past) · Jeg vil gerne = I would like to · modal verb"
+        }
+      ]
+    },
+    {
+      "id": "da-003-s02",
+      "text": "Hun tager en stor kurv med sig.",
+      "translation": "She takes a large basket with her.",
+      "words": [
+        {
+          "word": "kurv",
+          "definition": "basket",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en kurv · kurven (the basket) · kurve (baskets) · also used idiomatically: få en kurv = to be rejected (romantically)"
+        },
+        {
+          "word": "tager",
+          "definition": "takes along",
+          "partOfSpeech": "verb",
+          "grammar": "tage med (to take along) · tager ... med · tog med (past) · Må jeg tage det med? = May I take this?"
+        }
+      ]
+    },
+    {
+      "id": "da-003-s03",
+      "text": "På markedet er der mange farver og lyde.",
+      "translation": "At the market there are many colours and sounds.",
+      "words": [
+        {
+          "word": "farver",
+          "definition": "colours",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en farve · farven (the colour) · farver (colours) · hvad er din yndlingsfarve? = what is your favourite colour?"
+        },
+        {
+          "word": "lyde",
+          "definition": "sounds",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en lyd · lyden (the sound) · lyde (sounds) · høre en lyd = to hear a sound"
+        }
+      ]
+    },
+    {
+      "id": "da-003-s04",
+      "text": "Pippi køber æbler, brød og en stor hat.",
+      "translation": "Pippi buys apples, bread and a large hat.",
+      "words": [
+        {
+          "word": "køber",
+          "definition": "buys",
+          "partOfSpeech": "verb",
+          "grammar": "købe (to buy) · køber (present) · købte (past) · købt (past participle) · regular weak verb"
+        },
+        {
+          "word": "brød",
+          "definition": "bread",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et brød · brødet (the bread) · brød (loaves, pl.) · brødene (the loaves) · unchanged in plural"
+        }
+      ]
+    },
+    {
+      "id": "da-003-s05",
+      "text": "En mand siger: \"Piger bærer ikke så store hatte!\"",
+      "translation": "A man says: 'Girls don't wear such large hats!'",
+      "words": [
+        {
+          "word": "bærer",
+          "definition": "wear, carry",
+          "partOfSpeech": "verb",
+          "grammar": "bære (to carry/wear) · bærer (present) · bar (past) · båret (past participle) · strong verb"
+        },
+        {
+          "word": "hatte",
+          "definition": "hats",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en hat · hatten (the hat) · hatte (hats) · hattene (the hats)"
+        }
+      ]
+    },
+    {
+      "id": "da-003-s06",
+      "text": "Pippi griner og siger: \"Denne pige gør det!\"",
+      "translation": "Pippi laughs and says: 'This girl does!'",
+      "words": [
+        {
+          "word": "griner",
+          "definition": "laughs",
+          "partOfSpeech": "verb",
+          "grammar": "grine (to laugh/grin) · griner (present) · grinede (past) · grint (past participle) · regular weak verb"
+        },
+        {
+          "word": "Denne",
+          "definition": "this (common gender)",
+          "partOfSpeech": "adj.",
+          "grammar": "denne (common gender) · dette (neuter) · disse (plural) · demonstrative pronoun · denne her = this one here (emphatic)"
+        }
+      ]
+    },
+    {
+      "id": "da-003-s07",
+      "text": "Alle på markedet griner med.",
+      "translation": "Everyone at the market laughs along.",
+      "words": [
+        {
+          "word": "Alle",
+          "definition": "everyone, all",
+          "partOfSpeech": "adj.",
+          "grammar": "alle (pl.) · al (common sg.) · alt (neuter sg.) · alle sammen = everyone together · alle andre = everyone else"
+        }
+      ]
+    },
+    {
+      "id": "da-003-s08",
+      "text": "Pippi giver æbler til børnene.",
+      "translation": "Pippi gives apples to the children.",
+      "words": [
+        {
+          "word": "giver",
+          "definition": "gives",
+          "partOfSpeech": "verb",
+          "grammar": "give (to give) · giver (present) · gav (past) · givet (past participle) · strong verb · give nogen noget = to give someone something"
+        },
+        {
+          "word": "børnene",
+          "definition": "the children",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et barn · barnet (the child) · børn (children) · børnene (the children) · irregular plural: barn – børn"
+        }
+      ]
+    },
+    {
+      "id": "da-003-s09",
+      "text": "De er glade og takker hende.",
+      "translation": "They are happy and thank her.",
+      "words": [
+        {
+          "word": "glade",
+          "definition": "happy (plural/definite)",
+          "partOfSpeech": "adj.",
+          "grammar": "glad (sg.) · glade (pl./definite) · meget glad = very happy · glad for noget = happy about something"
+        },
+        {
+          "word": "takker",
+          "definition": "thank",
+          "partOfSpeech": "verb",
+          "grammar": "takke (to thank) · takker (present) · takkede (past) · Tak! = Thank you! · mange tak = thank you very much"
+        }
+      ]
+    },
+    {
+      "id": "da-003-s10",
+      "text": "Pippi går hjem med den store hat på og en tom kurv.",
+      "translation": "Pippi walks home with the large hat on and an empty basket.",
+      "words": [
+        {
+          "word": "tom",
+          "definition": "empty",
+          "partOfSpeech": "adj.",
+          "grammar": "tom (common) · tomt (neuter) · tomme (pl./definite) · en tom kurv = an empty basket · opposite: fuld (full)"
+        },
+        {
+          "word": "hjem",
+          "definition": "home (direction)",
+          "partOfSpeech": "adv.",
+          "grammar": "hjem = home (motion toward) · hjemme = at home (location) · gå hjem = to go home · Jeg er hjemme = I am at home"
+        }
+      ]
+    }
+  ]
+}

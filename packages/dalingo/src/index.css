@@ -1,0 +1,10 @@
+/* DALingo accent colours */
+:root {
+  --accent: #378ADD;
+  --accent-light: rgba(55, 138, 221, 0.12);
+}
+
+[data-theme="dark"] {
+  --accent: #85B7EB;
+  --accent-light: rgba(133, 183, 235, 0.15);
+}

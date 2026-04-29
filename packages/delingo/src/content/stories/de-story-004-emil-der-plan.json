@@ -1,0 +1,201 @@
+{
+  "id": "de-story-004",
+  "title": "Emil und die Detektive – Der Plan",
+  "level": "A1",
+  "genre": "narrative",
+  "source": "story",
+  "sentences": [
+    {
+      "id": "de-004-s01",
+      "text": "Die Kinder machen einen Plan.",
+      "translation": "The children make a plan.",
+      "words": [
+        {
+          "word": "Plan",
+          "definition": "plan",
+          "partOfSpeech": "noun, m.",
+          "grammar": "der Plan · die Pläne (pl.) · einen Plan machen = to make a plan · nach Plan = according to plan"
+        }
+      ]
+    },
+    {
+      "id": "de-004-s02",
+      "text": "Gustav fährt vorne mit dem Fahrrad und beobachtet den Mann.",
+      "translation": "Gustav rides in front on the bicycle and watches the man.",
+      "words": [
+        {
+          "word": "beobachtet",
+          "definition": "watches, observes",
+          "partOfSpeech": "verb",
+          "grammar": "beobachten (to observe/watch) · er beobachtet · past: er beobachtete · regular weak verb"
+        },
+        {
+          "word": "vorne",
+          "definition": "in front, at the front",
+          "partOfSpeech": "adv.",
+          "grammar": "vorne = at the front · nach vorne = toward the front · opposite: hinten (at the back)"
+        }
+      ]
+    },
+    {
+      "id": "de-004-s03",
+      "text": "Emil und die anderen Kinder laufen hinterher.",
+      "translation": "Emil and the other children run behind.",
+      "words": [
+        {
+          "word": "anderen",
+          "definition": "other, the others",
+          "partOfSpeech": "adj.",
+          "grammar": "ander- · die anderen (pl., with article) · andere Kinder (without article) · ein anderes = a different one"
+        }
+      ]
+    },
+    {
+      "id": "de-004-s04",
+      "text": "Der Mann geht in ein Hotel.",
+      "translation": "The man goes into a hotel.",
+      "words": [
+        {
+          "word": "Hotel",
+          "definition": "hotel",
+          "partOfSpeech": "noun, n.",
+          "grammar": "das Hotel · die Hotels (pl.) · im Hotel = in the hotel · ins Hotel gehen = to go into the hotel"
+        },
+        {
+          "word": "geht",
+          "definition": "goes, walks",
+          "partOfSpeech": "verb",
+          "grammar": "gehen (to go/walk) · er geht · past: er ging · strong verb · gehen in = to go into"
+        }
+      ]
+    },
+    {
+      "id": "de-004-s05",
+      "text": "Die Kinder warten draußen auf der Straße.",
+      "translation": "The children wait outside on the street.",
+      "words": [
+        {
+          "word": "warten",
+          "definition": "to wait",
+          "partOfSpeech": "verb",
+          "grammar": "warten (to wait) · warten auf + accusative = to wait for · er wartet · past: er wartete"
+        },
+        {
+          "word": "draußen",
+          "definition": "outside",
+          "partOfSpeech": "adv.",
+          "grammar": "draußen = outside · opposite: drinnen (inside) · nach draußen gehen = to go outside"
+        }
+      ]
+    },
+    {
+      "id": "de-004-s06",
+      "text": "Es ist kalt und dunkel.",
+      "translation": "It is cold and dark.",
+      "words": [
+        {
+          "word": "kalt",
+          "definition": "cold",
+          "partOfSpeech": "adj.",
+          "grammar": "kalt · comparative: kälter · superlative: am kältesten · mir ist kalt = I am cold (dative construction)"
+        },
+        {
+          "word": "dunkel",
+          "definition": "dark",
+          "partOfSpeech": "adj.",
+          "grammar": "dunkel · comparative: dunkler · superlative: am dunkelsten · drops the -e- before endings: dunkle Nacht"
+        }
+      ]
+    },
+    {
+      "id": "de-004-s07",
+      "text": "Aber die Kinder gehen nicht nach Hause.",
+      "translation": "But the children do not go home.",
+      "words": [
+        {
+          "word": "nach",
+          "definition": "home (going)",
+          "partOfSpeech": "adv.",
+          "grammar": "nach Hause = homeward (motion) · zu Hause = at home (location) · important distinction in German"
+        }
+      ]
+    },
+    {
+      "id": "de-004-s08",
+      "text": "Am Morgen kommt der Mann aus dem Hotel.",
+      "translation": "In the morning the man comes out of the hotel.",
+      "words": [
+        {
+          "word": "am",
+          "definition": "in the morning",
+          "partOfSpeech": "adv.",
+          "grammar": "der Morgen (m.) · am Morgen = in the morning · morgens = in the mornings (habitual) · Guten Morgen!"
+        }
+      ]
+    },
+    {
+      "id": "de-004-s09",
+      "text": "Sofort ruft Gustav: \"Er kommt!\"",
+      "translation": "Immediately Gustav calls out: 'He's coming!'",
+      "words": [
+        {
+          "word": "Sofort",
+          "definition": "immediately, right away",
+          "partOfSpeech": "adv.",
+          "grammar": "sofort · synonym: gleich (soon/right away) · sofort! as a command = right now!"
+        }
+      ]
+    },
+    {
+      "id": "de-004-s10",
+      "text": "Die Polizei kommt und fängt den Mann.",
+      "translation": "The police come and catch the man.",
+      "words": [
+        {
+          "word": "Polizei",
+          "definition": "police",
+          "partOfSpeech": "noun, f.",
+          "grammar": "die Polizei · always singular in German · der Polizist (m.) = police officer · die Polizistin (f.)"
+        },
+        {
+          "word": "fängt",
+          "definition": "catches",
+          "partOfSpeech": "verb",
+          "grammar": "fangen (to catch) · er fängt · past: er fing · strong verb with vowel change a – ä"
+        }
+      ]
+    },
+    {
+      "id": "de-004-s11",
+      "text": "Emil bekommt sein Geld zurück!",
+      "translation": "Emil gets his money back!",
+      "words": [
+        {
+          "word": "bekommt",
+          "definition": "receives, gets",
+          "partOfSpeech": "verb",
+          "grammar": "bekommen (to receive/get) · er bekommt · past: er bekam · false friend: does NOT mean 'to become'"
+        },
+        {
+          "word": "zurück",
+          "definition": "back",
+          "partOfSpeech": "adv.",
+          "grammar": "zurück · zurückbekommen = to get back · zurückgehen = to go back · common separable prefix"
+        }
+      ]
+    },
+    {
+      "id": "de-004-s12",
+      "text": "\"Danke!\", sagt Emil zu allen Kindern.",
+      "translation": "'Thank you!' Emil says to all the children.",
+      "words": [
+        {
+          "word": "allen",
+          "definition": "all (the), to all",
+          "partOfSpeech": "adj.",
+          "grammar": "alle (nominative pl.) · allen (dative pl.) · zu allen = to all · alle zusammen = all together"
+        }
+      ]
+    }
+  ]
+}

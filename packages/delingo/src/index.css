@@ -1,0 +1,10 @@
+/* DELingo accent colours */
+:root {
+  --accent: #1D9E75;
+  --accent-light: rgba(29, 158, 117, 0.12);
+}
+
+[data-theme="dark"] {
+  --accent: #9FE1CB;
+  --accent-light: rgba(159, 225, 203, 0.15);
+}

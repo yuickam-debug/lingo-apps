@@ -1,0 +1,126 @@
+{
+  "weekOf": "2026-04-14",
+  "articles": [
+    {
+      "id": "de-news-2026w16-01",
+      "title": "Neue Regeln für Mieten in Berlin",
+      "level": "A2",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-04-14",
+        "topic": "Politik"
+      },
+      "sentences": [
+        {
+          "id": "de-n01-s01",
+          "text": "Die Regierung hat neue Regeln für Mieten beschlossen.",
+          "translation": "The government has decided on new rules for rents.",
+          "words": [
+            {
+              "word": "Regierung",
+              "definition": "government",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Regierung · regieren = to govern"
+            },
+            {
+              "word": "beschlossen",
+              "definition": "decided, resolved",
+              "partOfSpeech": "past part.",
+              "grammar": "beschließen (to decide) · past participle: beschlossen"
+            }
+          ]
+        },
+        {
+          "id": "de-n01-s02",
+          "text": "Die Mieten in Berlin sind in den letzten Jahren stark gestiegen.",
+          "translation": "Rents in Berlin have risen sharply in recent years.",
+          "words": [
+            {
+              "word": "Mieten",
+              "definition": "rents",
+              "partOfSpeech": "noun, f. pl.",
+              "grammar": "die Miete (sg.) · die Mieten (pl.) · from mieten (to rent)"
+            },
+            {
+              "word": "gestiegen",
+              "definition": "risen, increased",
+              "partOfSpeech": "past part.",
+              "grammar": "steigen (to rise) · past participle: gestiegen"
+            }
+          ]
+        },
+        {
+          "id": "de-n01-s03",
+          "text": "Viele Menschen können sich ihre Wohnung nicht mehr leisten.",
+          "translation": "Many people can no longer afford their apartment.",
+          "words": [
+            {
+              "word": "Wohnung",
+              "definition": "apartment, flat",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Wohnung · wohnen = to live/reside"
+            },
+            {
+              "word": "leisten",
+              "definition": "to afford",
+              "partOfSpeech": "verb",
+              "grammar": "sich etwas leisten = to afford something"
+            }
+          ]
+        },
+        {
+          "id": "de-n01-s04",
+          "text": "Ab Mai dürfen Vermieter die Miete nur noch um zwei Prozent erhöhen.",
+          "translation": "From May, landlords may only increase rent by two percent.",
+          "words": [
+            {
+              "word": "Vermieter",
+              "definition": "landlord",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Vermieter · vermieten = to rent out"
+            },
+            {
+              "word": "erhöhen",
+              "definition": "to increase, raise",
+              "partOfSpeech": "verb",
+              "grammar": "erhöhen · die Erhöhung = the increase"
+            }
+          ]
+        },
+        {
+          "id": "de-n01-s05",
+          "text": "Die Stadt hofft, dass mehr Menschen in Berlin bleiben können.",
+          "translation": "The city hopes that more people can stay in Berlin.",
+          "words": [
+            {
+              "word": "hofft",
+              "definition": "hopes",
+              "partOfSpeech": "verb",
+              "grammar": "hoffen (to hope) · die Hoffnung = hope (noun)"
+            },
+            {
+              "word": "bleiben",
+              "definition": "to stay, remain",
+              "partOfSpeech": "verb",
+              "grammar": "bleiben · past: geblieben · takes sein as auxiliary"
+            }
+          ]
+        },
+        {
+          "id": "de-n01-s06",
+          "text": "Kritiker sagen, die Regeln gehen nicht weit genug.",
+          "translation": "Critics say the rules don't go far enough.",
+          "words": [
+            {
+              "word": "Kritiker",
+              "definition": "critics",
+              "partOfSpeech": "noun, m. pl.",
+              "grammar": "der Kritiker · kritisieren = to criticize"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

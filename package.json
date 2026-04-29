@@ -1,0 +1,21 @@
+{
+  "name": "lingo-apps",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:de": "npm run dev --workspace=packages/delingo",
+    "dev:da": "npm run dev --workspace=packages/dalingo",
+    "build:de": "npm run build --workspace=packages/delingo",
+    "build:da": "npm run build --workspace=packages/dalingo",
+    "build": "npm run build:de && npm run build:da",
+    "sync:de": "npm run build:de && cd packages/delingo && npx cap sync",
+    "sync:da": "npm run build:da && cd packages/dalingo && npx cap sync"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.3.0",
+    "@capacitor/cli": "^8.3.0",
+    "@capacitor/core": "^8.3.0"
+  }
+}

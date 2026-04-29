@@ -1,0 +1,273 @@
+{
+  "id": "da-guldimund-det-kun-vigtigt",
+  "title": "Det' kun vigtigt, hvad det er",
+  "level": "B1",
+  "genre": "lyrics",
+  "source": "lyrics",
+  "sentences": [
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s01",
+      "text": "Fuck det, nu vælter solen ind",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s02",
+      "text": "Og fortryller alle støvkorn på min bordplade",
+      "translation": "",
+      "words": [
+        {
+          "word": "fortryller",
+          "definition": "to enchant / bewitch",
+          "partOfSpeech": "verb (inf.)"
+        },
+        {
+          "word": "støvkorn",
+          "definition": "a dust particle",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s03",
+      "text": "Det' helt okay at være til",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s04",
+      "text": "Luften sitrer, når jeg rører ved din overflade",
+      "translation": "",
+      "words": [
+        {
+          "word": "sitrer",
+          "definition": "shivers / trembles",
+          "partOfSpeech": ""
+        },
+        {
+          "word": "overflade",
+          "definition": "a surface",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s05",
+      "text": "Det' weird at tænk' på, du' en anden, så jeg prøver at la' være",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s06",
+      "text": "Men du' ligeglad med, hva' det ligner - det' kun vigtigt, hva' det er",
+      "translation": "",
+      "words": [
+        {
+          "word": "ligeglad",
+          "definition": "indifferent / doesn't care",
+          "partOfSpeech": ""
+        },
+        {
+          "word": "ligner",
+          "definition": "to resemble / look like",
+          "partOfSpeech": "verb (inf.)"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s07",
+      "text": "Fuck det, nu lukker jeg dig ind",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s08",
+      "text": "For jeg smelter af den måde, du si'r hej på",
+      "translation": "",
+      "words": [
+        {
+          "word": "smelter",
+          "definition": "to melt",
+          "partOfSpeech": "verb (inf.)"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s09",
+      "text": "Det' nok til, jeg ringer op igen",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s10",
+      "text": "Foruden 22 måder, du er dig på",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s11",
+      "text": "Det' weird at tænk' på, du' en anden, så jeg prøver at la' være",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s12",
+      "text": "Men du' ligeglad med, hva' det ligner - det' kun vigtigt, hva' det er",
+      "translation": "",
+      "words": [
+        {
+          "word": "ligeglad",
+          "definition": "indifferent / doesn't care",
+          "partOfSpeech": ""
+        },
+        {
+          "word": "ligner",
+          "definition": "to resemble / look like",
+          "partOfSpeech": "verb (inf.)"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s13",
+      "text": "Hold mig tæt til dit hoved, hold dit vejr",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s14",
+      "text": "Før du griber mig med øjnene og dit mod",
+      "translation": "",
+      "words": [
+        {
+          "word": "griber",
+          "definition": "to grab / catch",
+          "partOfSpeech": "verb (inf.)"
+        },
+        {
+          "word": "mod",
+          "definition": "courage / boldness",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s15",
+      "text": "Før jeg møder dig der",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s16",
+      "text": "Hvor jeg næsten ikke fatter ting med mit hoved",
+      "translation": "",
+      "words": [
+        {
+          "word": "fatter",
+          "definition": "understands / grasps (colloquial: jeg fatter det ikke = I don't get it)",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s17",
+      "text": "Det roder, men modet ka' opløse rodet",
+      "translation": "",
+      "words": [
+        {
+          "word": "modet",
+          "definition": "courage / boldness",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "opløse",
+          "definition": "to dissolve / resolve",
+          "partOfSpeech": "verb (inf.)"
+        },
+        {
+          "word": "roder",
+          "definition": "to be messy / muddled (det roder = it's a mess)",
+          "partOfSpeech": "verb (inf.)"
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s18",
+      "text": "Det' weird at tænk' på, du' en anden, så jeg prøver at la' være",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s19",
+      "text": "Og det' weird at tænk' på, at det faktisk ikk' behøver være svært, nej",
+      "translation": "",
+      "words": []
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s20",
+      "text": "Og det' weird at tænk' på, at jeg nærmest kun har kendt dig et kvarter",
+      "translation": "",
+      "words": [
+        {
+          "word": "kvarter",
+          "definition": "a quarter of an hour / a neighbourhood",
+          "partOfSpeech": "noun"
+        },
+        {
+          "word": "nærmest",
+          "definition": "almost / practically",
+          "partOfSpeech": ""
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt-s21",
+      "text": "For du' ligeglad med, hva' det ligner - det' kun vigtigt, hva' det er",
+      "translation": "",
+      "words": [
+        {
+          "word": "ligeglad",
+          "definition": "indifferent / doesn't care",
+          "partOfSpeech": ""
+        },
+        {
+          "word": "ligner",
+          "definition": "to resemble / look like",
+          "partOfSpeech": "verb (inf.)"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "artist": "Guldimund",
+    "titleEn": "It Only Matters What It Is",
+    "tags": [
+      "lyrics",
+      "guldimund",
+      "romantic"
+    ],
+    "grammarPoints": [
+      {
+        "rule": "Spoken Danish contractions",
+        "exampleSentence": "Det' kun vigtigt, hva' det er.",
+        "explanation": "Guldimund's lyrics use heavy spoken contractions: 'det'' = 'det er', 'du'' = 'du er', 'hva'' = 'hvad', 'tænk'' = 'tænke', 'la'' = 'lade', 'ikk'' = 'ikke'. These dropped endings are typical of casual Danish speech and very common in songs and podcasts."
+      },
+      {
+        "rule": "'Prøve at' + infinitive (to try to do something)",
+        "exampleSentence": "Jeg prøver at la' være.",
+        "explanation": "'Prøve at' + infinitive means 'to try to do something'. 'La' være' = 'lade være' = 'to refrain / stop'. The infinitive marker 'at' always appears between 'prøver' and the following verb."
+      },
+      {
+        "rule": "'Være til' — to exist / to be alive",
+        "exampleSentence": "Det' helt okay at være til.",
+        "explanation": "'Være til' literally means 'to be present/here' but colloquially means 'to exist' or 'to be in the world'. 'Det er okay at være til' = 'It is okay to exist.' A gentle and very common Danish expression."
+      }
+    ],
+    "stanzaBreaks": [
+      4,
+      6,
+      10,
+      12,
+      17
+    ]
+  }
+}
