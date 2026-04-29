@@ -31,6 +31,10 @@ function applyTranslationOverlay(story: Story): Story {
 const CONTENT_URL =
   'https://raw.githubusercontent.com/yuickam-debug/morningci-content/main/content.json';
 
+// Direct Story-format bundle — no adapter needed
+const DE_BUNDLE_URL =
+  'https://raw.githubusercontent.com/yuickam-debug/lingo-apps/main/packages/delingo/src/content/stories/de-stories-bundle.json';
+
 const CACHE_TTL_MS = 60 * 60 * 1000; // 1 hour
 
 // Bump this string any time translations in data.v2.json change — old caches are dropped automatically
@@ -111,23 +115,32 @@ export async function loadStories(
 }
 
 async function fetchAndCache(lang: 'de' | 'da'): Promise<void> {
+  if (lang === 'de') {
+    const res = await fetch(DE_BUNDLE_URL);
+    if (!res.ok) return;
+    const bundle: { version: string; stories: Story[] } = await res.json();
+    const stories = bundle.stories.map(applyTranslationOverlay);
+    writeCache(lang, stories);
+    return;
+  }
   const res = await fetch(CONTENT_URL);
   if (!res.ok) return;
   const manifest: MCManifest = await res.json();
-  // Apply overlay before caching so cached stories always carry translations
   const stories = adaptManifest(manifest, lang).map(applyTranslationOverlay);
   writeCache(lang, stories);
 }
 
 /** Force a network refresh regardless of cache age. */
 export async function refreshStories(lang: 'de' | 'da'): Promise<Story[]> {
-  const v1 = adaptManifest(bundledManifest as MCManifest, lang);
+  const v1 = lang === 'de' ? [] : adaptManifest(bundledManifest as MCManifest, lang);
   let merged: Story[];
   try {
-    const res = await fetch(CONTENT_URL);
+    const url = lang === 'de' ? DE_BUNDLE_URL : CONTENT_URL;
+    const res = await fetch(url);
     if (res.ok) {
-      const manifest: MCManifest = await res.json();
-      const remote = adaptManifest(manifest, lang);
+      const remote: Story[] = lang === 'de'
+        ? (await res.json() as { stories: Story[] }).stories
+        : adaptManifest(await res.json() as MCManifest, lang);
       writeCache(lang, remote);
       merged = mergeWithFallback(v1, remote);
     } else {

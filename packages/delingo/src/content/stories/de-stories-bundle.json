@@ -1,0 +1,1043 @@
+{
+  "version": "1",
+  "stories": [
+    {
+      "id": "de-story-001",
+      "title": "Der erste Tag",
+      "level": "A1",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "de-001-s01",
+          "text": "Heute ist mein erster Tag in Berlin.",
+          "translation": "Today is my first day in Berlin.",
+          "words": [
+            {
+              "word": "erster",
+              "definition": "first",
+              "partOfSpeech": "adj.",
+              "grammar": "erst- (first) + -er (masc. nom. ending)"
+            }
+          ]
+        },
+        {
+          "id": "de-001-s02",
+          "text": "Ich stehe am Hauptbahnhof und schaue mich um.",
+          "translation": "I'm standing at the main train station and looking around.",
+          "words": [
+            {
+              "word": "Hauptbahnhof",
+              "definition": "main train station",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Hauptbahnhof · compound: Haupt (main) + Bahnhof (station)"
+            },
+            {
+              "word": "schaue",
+              "definition": "look",
+              "partOfSpeech": "verb",
+              "grammar": "schauen (to look) · sich umschauen = to look around"
+            }
+          ]
+        },
+        {
+          "id": "de-001-s03",
+          "text": "Die Sonne scheint und es ist warm.",
+          "translation": "The sun is shining and it's warm.",
+          "words": [
+            {
+              "word": "Sonne",
+              "definition": "sun",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Sonne · scheinen = to shine"
+            }
+          ]
+        },
+        {
+          "id": "de-001-s04",
+          "text": "Ich habe einen Stadtplan in der Hand.",
+          "translation": "I have a city map in my hand.",
+          "words": [
+            {
+              "word": "Stadtplan",
+              "definition": "city map",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Stadtplan · Stadt (city) + Plan (map/plan)"
+            }
+          ]
+        },
+        {
+          "id": "de-001-s05",
+          "text": "Zuerst möchte ich das Brandenburger Tor sehen.",
+          "translation": "First I'd like to see the Brandenburg Gate.",
+          "words": [
+            {
+              "word": "möchte",
+              "definition": "would like",
+              "partOfSpeech": "verb",
+              "grammar": "mögen (to like) · Konjunktiv II → möchte"
+            },
+            {
+              "word": "Tor",
+              "definition": "gate",
+              "partOfSpeech": "noun, n.",
+              "grammar": "das Tor · plural: die Tore"
+            }
+          ]
+        },
+        {
+          "id": "de-001-s06",
+          "text": "Ich gehe die Straße entlang und sehe viele Menschen.",
+          "translation": "I walk along the street and see many people.",
+          "words": [
+            {
+              "word": "Straße",
+              "definition": "street, road",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Straße · entlanggehen = to walk along"
+            },
+            {
+              "word": "Menschen",
+              "definition": "people",
+              "partOfSpeech": "noun, m. pl.",
+              "grammar": "der Mensch (person) · die Menschen (people)"
+            }
+          ]
+        },
+        {
+          "id": "de-001-s07",
+          "text": "Berlin ist laut, aber auch sehr schön.",
+          "translation": "Berlin is loud, but also very beautiful.",
+          "words": [
+            {
+              "word": "laut",
+              "definition": "loud",
+              "partOfSpeech": "adj."
+            },
+            {
+              "word": "schön",
+              "definition": "beautiful, nice",
+              "partOfSpeech": "adj.",
+              "grammar": "schön · comparative: schöner · superlative: am schönsten"
+            }
+          ]
+        },
+        {
+          "id": "de-001-s08",
+          "text": "Ich bin froh, dass ich hier bin.",
+          "translation": "I'm glad that I'm here.",
+          "words": [
+            {
+              "word": "froh",
+              "definition": "glad, happy",
+              "partOfSpeech": "adj.",
+              "grammar": "froh · dass-clause sends verb to end"
+            }
+          ]
+        },
+        {
+          "id": "de-001-s09",
+          "text": "Am Abend esse ich Currywurst am Kiosk.",
+          "translation": "In the evening I eat currywurst at the kiosk.",
+          "words": [
+            {
+              "word": "Abend",
+              "definition": "evening",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Abend · am Abend = in the evening"
+            },
+            {
+              "word": "Currywurst",
+              "definition": "currywurst (Berlin street food)",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Currywurst · iconic Berlin fast food"
+            }
+          ]
+        },
+        {
+          "id": "de-001-s10",
+          "text": "Morgen gehe ich ins Museum.",
+          "translation": "Tomorrow I'll go to the museum.",
+          "words": [
+            {
+              "word": "Morgen",
+              "definition": "tomorrow",
+              "partOfSpeech": "adv.",
+              "grammar": "morgen (tomorrow) vs. der Morgen (the morning)"
+            },
+            {
+              "word": "Museum",
+              "definition": "museum",
+              "partOfSpeech": "noun, n.",
+              "grammar": "das Museum · ins = in + das"
+            }
+          ]
+        },
+        {
+          "id": "de-001-s11",
+          "text": "Mein erster Tag war wunderbar.",
+          "translation": "My first day was wonderful.",
+          "words": [
+            {
+              "word": "wunderbar",
+              "definition": "wonderful",
+              "partOfSpeech": "adj.",
+              "grammar": "Wunder (wonder) + -bar (suffix, like English '-ful')"
+            }
+          ]
+        },
+        {
+          "id": "de-001-s12",
+          "text": "Ich freue mich auf morgen.",
+          "translation": "I'm looking forward to tomorrow.",
+          "words": [
+            {
+              "word": "freue",
+              "definition": "look forward to, am happy about",
+              "partOfSpeech": "verb",
+              "grammar": "sich freuen auf (+acc.) = to look forward to"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-story-002",
+      "title": "Der Struwwelpeter",
+      "level": "A1",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "de-002-s01",
+          "text": "Sieh einmal, hier steht er!",
+          "translation": "Look, here he stands!",
+          "words": [
+            {
+              "word": "Sieh",
+              "definition": "look (imperative)",
+              "partOfSpeech": "verb",
+              "grammar": "sehen (to see/look) · imperative singular: sieh! · informal command form"
+            }
+          ]
+        },
+        {
+          "id": "de-002-s02",
+          "text": "Pfui! ruft da ein jeder: Garst'ger Struwwelpeter!",
+          "translation": "Ugh! everyone calls out: Nasty messy-Peter!",
+          "words": [
+            {
+              "word": "garst'ger",
+              "definition": "nasty, disgusting",
+              "partOfSpeech": "adj.",
+              "grammar": "garst'ger = garstig · comparative: garstiger · an old-fashioned, expressive adjective"
+            },
+            {
+              "word": "jeder",
+              "definition": "everyone, each one",
+              "partOfSpeech": "adj.",
+              "grammar": "jeder (m.) · jede (f.) · jedes (n.) · used without article to mean 'every/each'"
+            }
+          ]
+        },
+        {
+          "id": "de-002-s03",
+          "text": "Seine Nägel, an den Händen, lieÃ er wachsen fast ein Jahr.",
+          "translation": "His fingernails he let grow for nearly a year.",
+          "words": [
+            {
+              "word": "Nägel",
+              "definition": "nails (fingernails)",
+              "partOfSpeech": "noun, m. pl.",
+              "grammar": "der Nagel · die Nägel (pl.) · also means 'nail' as in a metal nail"
+            },
+            {
+              "word": "wachsen",
+              "definition": "to grow",
+              "partOfSpeech": "verb",
+              "grammar": "wachsen (to grow) · er wächst (he grows) · strong verb with vowel change"
+            }
+          ]
+        },
+        {
+          "id": "de-002-s04",
+          "text": "Kämmen lieÃ er nicht sein Haar.",
+          "translation": "He would not let his hair be combed.",
+          "words": [
+            {
+              "word": "Kämmen",
+              "definition": "combing",
+              "partOfSpeech": "verb",
+              "grammar": "kämmen (to comb) · kämmen lassen = to let/have combed · das Kämmen = the act of combing (noun)"
+            },
+            {
+              "word": "Haar",
+              "definition": "hair",
+              "partOfSpeech": "noun, n.",
+              "grammar": "das Haar · die Haare (pl.) · kein Haar = not a single hair"
+            }
+          ]
+        },
+        {
+          "id": "de-002-s05",
+          "text": "Aber der Vater sagt: Das ist nicht schön.",
+          "translation": "But the father says: That is not nice.",
+          "words": [
+            {
+              "word": "schön",
+              "definition": "nice, beautiful, good",
+              "partOfSpeech": "adj.",
+              "grammar": "schön · comparative: schöner · superlative: am schönsten · very common in everyday speech"
+            }
+          ]
+        },
+        {
+          "id": "de-002-s06",
+          "text": "So ein Kind ist gar nicht schön.",
+          "translation": "Such a child is not nice at all.",
+          "words": [
+            {
+              "word": "gar",
+              "definition": "not at all",
+              "partOfSpeech": "adv.",
+              "grammar": "gar nicht = not at all · stronger than simply 'nicht' · gar kein = none whatsoever"
+            }
+          ]
+        },
+        {
+          "id": "de-002-s07",
+          "text": "Der Peter schämt sich nicht.",
+          "translation": "Peter is not ashamed.",
+          "words": [
+            {
+              "word": "schämt",
+              "definition": "is ashamed",
+              "partOfSpeech": "verb",
+              "grammar": "sich schämen (to be ashamed) · reflexive verb · er schämt sich · ich schäme mich"
+            }
+          ]
+        },
+        {
+          "id": "de-002-s08",
+          "text": "Er lacht nur und macht keine Ordnung.",
+          "translation": "He only laughs and keeps no order.",
+          "words": [
+            {
+              "word": "Ordnung",
+              "definition": "order, tidiness",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Ordnung · Ordnung machen = to tidy up · Alles in Ordnung = everything is fine"
+            },
+            {
+              "word": "lacht",
+              "definition": "laughs",
+              "partOfSpeech": "verb",
+              "grammar": "lachen (to laugh) · er lacht · past: er lachte"
+            }
+          ]
+        },
+        {
+          "id": "de-002-s09",
+          "text": "Die Kinder rufen: Das ist falsch!",
+          "translation": "The children shout: That is wrong!",
+          "words": [
+            {
+              "word": "rufen",
+              "definition": "to call out, to shout",
+              "partOfSpeech": "verb",
+              "grammar": "rufen (to call/shout) · er ruft · past: er rief · strong verb"
+            },
+            {
+              "word": "falsch",
+              "definition": "wrong, incorrect",
+              "partOfSpeech": "adj.",
+              "grammar": "falsch · opposite: richtig (correct) · also means 'false' or 'fake'"
+            }
+          ]
+        },
+        {
+          "id": "de-002-s10",
+          "text": "Und am Ende waschen alle die Hände.",
+          "translation": "And in the end, everyone washes their hands.",
+          "words": [
+            {
+              "word": "waschen",
+              "definition": "to wash",
+              "partOfSpeech": "verb",
+              "grammar": "waschen (to wash) · er wäscht · Hände waschen = to wash hands · strong verb with vowel change"
+            },
+            {
+              "word": "am",
+              "definition": "in the end, at the end",
+              "partOfSpeech": "adv.",
+              "grammar": "am Ende = at the end · das Ende (n.) · zum Ende hin = toward the end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-story-003",
+      "title": "Emil und die Detektive – Die Reise nach Berlin",
+      "level": "A1",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "de-003-s01",
+          "text": "Emil fährt allein mit dem Zug nach Berlin.",
+          "translation": "Emil travels alone by train to Berlin.",
+          "words": [
+            {
+              "word": "fährt",
+              "definition": "travels, rides",
+              "partOfSpeech": "verb",
+              "grammar": "fahren (to travel/drive) · er fährt · past: er fuhr · strong verb with vowel change a – ä"
+            },
+            {
+              "word": "allein",
+              "definition": "alone",
+              "partOfSpeech": "adv.",
+              "grammar": "allein · can also be used as adj. before a noun: ein alleinstehendes Kind"
+            }
+          ]
+        },
+        {
+          "id": "de-003-s02",
+          "text": "Seine Mutter gibt ihm Geld für die Großmutter.",
+          "translation": "His mother gives him money for his grandmother.",
+          "words": [
+            {
+              "word": "Geld",
+              "definition": "money",
+              "partOfSpeech": "noun, n.",
+              "grammar": "das Geld · no plural in everyday use · Geld ausgeben = to spend money"
+            },
+            {
+              "word": "Großmutter",
+              "definition": "grandmother",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Großmutter · colloquial: die Oma · compound: groß (big/great) + Mutter (mother)"
+            }
+          ]
+        },
+        {
+          "id": "de-003-s03",
+          "text": "Im Zug sitzt ein Mann mit einem Hut.",
+          "translation": "In the train there sits a man with a hat.",
+          "words": [
+            {
+              "word": "Hut",
+              "definition": "hat",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Hut · die Hüte (pl.) · not to confuse with die Hut (f.) = protection/guard"
+            },
+            {
+              "word": "sitzt",
+              "definition": "sits",
+              "partOfSpeech": "verb",
+              "grammar": "sitzen (to sit) · er sitzt · past: er saß · strong verb"
+            }
+          ]
+        },
+        {
+          "id": "de-003-s04",
+          "text": "Der Mann sagt: \"Guten Tag, junger Freund.\"",
+          "translation": "The man says: 'Good day, young friend.'",
+          "words": [
+            {
+              "word": "junger",
+              "definition": "young",
+              "partOfSpeech": "adj.",
+              "grammar": "jung · comparative: jünger · superlative: am jüngsten · junger (m. nom.) follows strong declension without article"
+            },
+            {
+              "word": "Freund",
+              "definition": "friend",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Freund · die Freunde (pl.) · die Freundin (f.) · also used informally to address someone"
+            }
+          ]
+        },
+        {
+          "id": "de-003-s05",
+          "text": "Emil schläft ein, und als er aufwacht, ist das Geld weg.",
+          "translation": "Emil falls asleep, and when he wakes up, the money is gone.",
+          "words": [
+            {
+              "word": "schläft",
+              "definition": "falls asleep",
+              "partOfSpeech": "verb",
+              "grammar": "einschlafen (to fall asleep) · separable verb: schläft...ein · past: er schlief ein"
+            },
+            {
+              "word": "weg",
+              "definition": "gone, away",
+              "partOfSpeech": "adv.",
+              "grammar": "weg = gone/away · Das Geld ist weg = The money is gone · not to confuse with der Weg (m.) = path/way"
+            }
+          ]
+        },
+        {
+          "id": "de-003-s06",
+          "text": "Er sucht überall, aber er findet nichts.",
+          "translation": "He searches everywhere, but he finds nothing.",
+          "words": [
+            {
+              "word": "überall",
+              "definition": "everywhere",
+              "partOfSpeech": "adv.",
+              "grammar": "überall · opposite: nirgends (nowhere) · nirgendwo is also correct"
+            },
+            {
+              "word": "nichts",
+              "definition": "nothing",
+              "partOfSpeech": "adv.",
+              "grammar": "nichts · opposite: alles (everything) · nichts mehr = nothing more/anymore"
+            }
+          ]
+        },
+        {
+          "id": "de-003-s07",
+          "text": "Emil läuft hinter dem Mann her, durch die große Stadt.",
+          "translation": "Emil runs after the man, through the big city.",
+          "words": [
+            {
+              "word": "läuft",
+              "definition": "runs",
+              "partOfSpeech": "verb",
+              "grammar": "laufen (to run/walk) · er läuft · past: er lief · strong verb"
+            },
+            {
+              "word": "hinterher",
+              "definition": "after, behind",
+              "partOfSpeech": "adv.",
+              "grammar": "hinter + her = hinterher · hinter ihm herlaufen = to run after him · separable in some contexts"
+            }
+          ]
+        },
+        {
+          "id": "de-003-s08",
+          "text": "Berlin ist laut und groß – Emil kennt die Stadt nicht.",
+          "translation": "Berlin is loud and big – Emil doesn't know the city.",
+          "words": [
+            {
+              "word": "laut",
+              "definition": "loud, noisy",
+              "partOfSpeech": "adj.",
+              "grammar": "laut · comparative: lauter · superlative: am lautesten · also a preposition: laut Gesetz = according to law"
+            },
+            {
+              "word": "kennt",
+              "definition": "knows (a place/person)",
+              "partOfSpeech": "verb",
+              "grammar": "kennen (to know someone/something) · different from wissen (to know a fact) · er kennt · past: er kannte"
+            }
+          ]
+        },
+        {
+          "id": "de-003-s09",
+          "text": "Auf der Straße trifft er Gustav mit dem Fahrrad.",
+          "translation": "On the street he meets Gustav with the bicycle.",
+          "words": [
+            {
+              "word": "trifft",
+              "definition": "meets",
+              "partOfSpeech": "verb",
+              "grammar": "treffen (to meet/hit) · er trifft · past: er traf · strong verb with vowel change e – i"
+            },
+            {
+              "word": "Fahrrad",
+              "definition": "bicycle",
+              "partOfSpeech": "noun, n.",
+              "grammar": "das Fahrrad · die Fahrräder (pl.) · compound: fahren (to ride) + Rad (wheel)"
+            }
+          ]
+        },
+        {
+          "id": "de-003-s10",
+          "text": "Gustav sagt: \"Keine Angst, wir helfen dir!\"",
+          "translation": "Gustav says: 'Don't worry, we'll help you!'",
+          "words": [
+            {
+              "word": "Angst",
+              "definition": "fear, worry",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Angst · die Ã„ngste (pl.) · Angst haben = to be afraid · Keine Angst! = Don't worry!"
+            },
+            {
+              "word": "helfen",
+              "definition": "to help",
+              "partOfSpeech": "verb",
+              "grammar": "helfen (to help) · takes dative: jemandem helfen · er hilft · past: er half"
+            }
+          ]
+        },
+        {
+          "id": "de-003-s11",
+          "text": "Viele Kinder aus der Stadt kommen zusammen.",
+          "translation": "Many children from the city come together.",
+          "words": [
+            {
+              "word": "viele",
+              "definition": "many",
+              "partOfSpeech": "adj.",
+              "grammar": "viele (pl.) · viel (sg., uncountable) · viel Wasser (much water) · viele Kinder (many children)"
+            },
+            {
+              "word": "zusammen",
+              "definition": "together",
+              "partOfSpeech": "adv.",
+              "grammar": "zusammen · zusammenkommen = to come together · zusammenarbeiten = to work together"
+            }
+          ]
+        },
+        {
+          "id": "de-003-s12",
+          "text": "Sie bilden eine Gruppe: die Detektive!",
+          "translation": "They form a group: the detectives!",
+          "words": [
+            {
+              "word": "bilden",
+              "definition": "to form, to create",
+              "partOfSpeech": "verb",
+              "grammar": "bilden (to form/educate) · eine Gruppe bilden = to form a group · Bildung (f.) = education"
+            },
+            {
+              "word": "Gruppe",
+              "definition": "group",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Gruppe · die Gruppen (pl.) · in der Gruppe = in the group"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-story-004",
+      "title": "Emil und die Detektive – Der Plan",
+      "level": "A1",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "de-004-s01",
+          "text": "Die Kinder machen einen Plan.",
+          "translation": "The children make a plan.",
+          "words": [
+            {
+              "word": "Plan",
+              "definition": "plan",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Plan · die Pläne (pl.) · einen Plan machen = to make a plan · nach Plan = according to plan"
+            }
+          ]
+        },
+        {
+          "id": "de-004-s02",
+          "text": "Gustav fährt vorne mit dem Fahrrad und beobachtet den Mann.",
+          "translation": "Gustav rides in front on the bicycle and watches the man.",
+          "words": [
+            {
+              "word": "beobachtet",
+              "definition": "watches, observes",
+              "partOfSpeech": "verb",
+              "grammar": "beobachten (to observe/watch) · er beobachtet · past: er beobachtete · regular weak verb"
+            },
+            {
+              "word": "vorne",
+              "definition": "in front, at the front",
+              "partOfSpeech": "adv.",
+              "grammar": "vorne = at the front · nach vorne = toward the front · opposite: hinten (at the back)"
+            }
+          ]
+        },
+        {
+          "id": "de-004-s03",
+          "text": "Emil und die anderen Kinder laufen hinterher.",
+          "translation": "Emil and the other children run behind.",
+          "words": [
+            {
+              "word": "anderen",
+              "definition": "other, the others",
+              "partOfSpeech": "adj.",
+              "grammar": "ander- · die anderen (pl., with article) · andere Kinder (without article) · ein anderes = a different one"
+            }
+          ]
+        },
+        {
+          "id": "de-004-s04",
+          "text": "Der Mann geht in ein Hotel.",
+          "translation": "The man goes into a hotel.",
+          "words": [
+            {
+              "word": "Hotel",
+              "definition": "hotel",
+              "partOfSpeech": "noun, n.",
+              "grammar": "das Hotel · die Hotels (pl.) · im Hotel = in the hotel · ins Hotel gehen = to go into the hotel"
+            },
+            {
+              "word": "geht",
+              "definition": "goes, walks",
+              "partOfSpeech": "verb",
+              "grammar": "gehen (to go/walk) · er geht · past: er ging · strong verb · gehen in = to go into"
+            }
+          ]
+        },
+        {
+          "id": "de-004-s05",
+          "text": "Die Kinder warten draußen auf der Straße.",
+          "translation": "The children wait outside on the street.",
+          "words": [
+            {
+              "word": "warten",
+              "definition": "to wait",
+              "partOfSpeech": "verb",
+              "grammar": "warten (to wait) · warten auf + accusative = to wait for · er wartet · past: er wartete"
+            },
+            {
+              "word": "draußen",
+              "definition": "outside",
+              "partOfSpeech": "adv.",
+              "grammar": "draußen = outside · opposite: drinnen (inside) · nach draußen gehen = to go outside"
+            }
+          ]
+        },
+        {
+          "id": "de-004-s06",
+          "text": "Es ist kalt und dunkel.",
+          "translation": "It is cold and dark.",
+          "words": [
+            {
+              "word": "kalt",
+              "definition": "cold",
+              "partOfSpeech": "adj.",
+              "grammar": "kalt · comparative: kälter · superlative: am kältesten · mir ist kalt = I am cold (dative construction)"
+            },
+            {
+              "word": "dunkel",
+              "definition": "dark",
+              "partOfSpeech": "adj.",
+              "grammar": "dunkel · comparative: dunkler · superlative: am dunkelsten · drops the -e- before endings: dunkle Nacht"
+            }
+          ]
+        },
+        {
+          "id": "de-004-s07",
+          "text": "Aber die Kinder gehen nicht nach Hause.",
+          "translation": "But the children do not go home.",
+          "words": [
+            {
+              "word": "nach",
+              "definition": "home (going)",
+              "partOfSpeech": "adv.",
+              "grammar": "nach Hause = homeward (motion) · zu Hause = at home (location) · important distinction in German"
+            }
+          ]
+        },
+        {
+          "id": "de-004-s08",
+          "text": "Am Morgen kommt der Mann aus dem Hotel.",
+          "translation": "In the morning the man comes out of the hotel.",
+          "words": [
+            {
+              "word": "am",
+              "definition": "in the morning",
+              "partOfSpeech": "adv.",
+              "grammar": "der Morgen (m.) · am Morgen = in the morning · morgens = in the mornings (habitual) · Guten Morgen!"
+            }
+          ]
+        },
+        {
+          "id": "de-004-s09",
+          "text": "Sofort ruft Gustav: \"Er kommt!\"",
+          "translation": "Immediately Gustav calls out: 'He's coming!'",
+          "words": [
+            {
+              "word": "Sofort",
+              "definition": "immediately, right away",
+              "partOfSpeech": "adv.",
+              "grammar": "sofort · synonym: gleich (soon/right away) · sofort! as a command = right now!"
+            }
+          ]
+        },
+        {
+          "id": "de-004-s10",
+          "text": "Die Polizei kommt und fängt den Mann.",
+          "translation": "The police come and catch the man.",
+          "words": [
+            {
+              "word": "Polizei",
+              "definition": "police",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Polizei · always singular in German · der Polizist (m.) = police officer · die Polizistin (f.)"
+            },
+            {
+              "word": "fängt",
+              "definition": "catches",
+              "partOfSpeech": "verb",
+              "grammar": "fangen (to catch) · er fängt · past: er fing · strong verb with vowel change a – ä"
+            }
+          ]
+        },
+        {
+          "id": "de-004-s11",
+          "text": "Emil bekommt sein Geld zurück!",
+          "translation": "Emil gets his money back!",
+          "words": [
+            {
+              "word": "bekommt",
+              "definition": "receives, gets",
+              "partOfSpeech": "verb",
+              "grammar": "bekommen (to receive/get) · er bekommt · past: er bekam · false friend: does NOT mean 'to become'"
+            },
+            {
+              "word": "zurück",
+              "definition": "back",
+              "partOfSpeech": "adv.",
+              "grammar": "zurück · zurückbekommen = to get back · zurückgehen = to go back · common separable prefix"
+            }
+          ]
+        },
+        {
+          "id": "de-004-s12",
+          "text": "\"Danke!\", sagt Emil zu allen Kindern.",
+          "translation": "'Thank you!' Emil says to all the children.",
+          "words": [
+            {
+              "word": "allen",
+              "definition": "all (the), to all",
+              "partOfSpeech": "adj.",
+              "grammar": "alle (nominative pl.) · allen (dative pl.) · zu allen = to all · alle zusammen = all together"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-story-005",
+      "title": "Der kleine Prinz – Ein Brief von einem anderen Stern",
+      "level": "A1",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "de-005-s01",
+          "text": "Lieber Freund, ich komme von einem kleinen Stern.",
+          "translation": "Dear friend, I come from a small star.",
+          "words": [
+            {
+              "word": "Lieber",
+              "definition": "dear (in a letter)",
+              "partOfSpeech": "adj.",
+              "grammar": "lieb · Lieber (m.) / Liebe (f.) at start of letter · also means 'dear' or 'sweet' · ich habe dich lieb = I'm fond of you"
+            },
+            {
+              "word": "Stern",
+              "definition": "star",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Stern · die Sterne (pl.) · ein Stern am Himmel = a star in the sky"
+            }
+          ]
+        },
+        {
+          "id": "de-005-s02",
+          "text": "Mein Stern ist sehr klein, aber er gehört mir.",
+          "translation": "My star is very small, but it belongs to me.",
+          "words": [
+            {
+              "word": "gehört",
+              "definition": "belongs",
+              "partOfSpeech": "verb",
+              "grammar": "gehören (to belong) · takes dative: es gehört mir = it belongs to me · gehören zu = to be part of"
+            }
+          ]
+        },
+        {
+          "id": "de-005-s03",
+          "text": "Auf meinem Stern gibt es eine Rose.",
+          "translation": "On my star there is a rose.",
+          "words": [
+            {
+              "word": "Rose",
+              "definition": "rose",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Rose · die Rosen (pl.) · eine Rose schenken = to give someone a rose"
+            },
+            {
+              "word": "gibt",
+              "definition": "there is / there are",
+              "partOfSpeech": "verb",
+              "grammar": "es gibt + accusative = there is/are · very common construction · es gibt einen Park = there is a park"
+            }
+          ]
+        },
+        {
+          "id": "de-005-s04",
+          "text": "Die Rose ist schön, aber manchmal macht sie mich traurig.",
+          "translation": "The rose is beautiful, but sometimes it makes me sad.",
+          "words": [
+            {
+              "word": "manchmal",
+              "definition": "sometimes",
+              "partOfSpeech": "adv.",
+              "grammar": "manchmal · synonym: ab und zu (now and then) · different from: immer (always), nie (never)"
+            },
+            {
+              "word": "traurig",
+              "definition": "sad",
+              "partOfSpeech": "adj.",
+              "grammar": "traurig · comparative: trauriger · opposite: froh/fröhlich (happy) · traurig sein = to be sad"
+            }
+          ]
+        },
+        {
+          "id": "de-005-s05",
+          "text": "Ich habe die Erde besucht und viele Menschen getroffen.",
+          "translation": "I visited the Earth and met many people.",
+          "words": [
+            {
+              "word": "Erde",
+              "definition": "Earth, the earth",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Erde · auf der Erde = on Earth · also means soil: die Erde im Garten = the soil in the garden"
+            },
+            {
+              "word": "besucht",
+              "definition": "visited",
+              "partOfSpeech": "past part.",
+              "grammar": "besuchen (to visit) · past participle: besucht · ich habe besucht (perfect tense) · regular weak verb"
+            }
+          ]
+        },
+        {
+          "id": "de-005-s06",
+          "text": "Die Erwachsenen denken immer an Zahlen und Geld.",
+          "translation": "The grown-ups always think about numbers and money.",
+          "words": [
+            {
+              "word": "Erwachsenen",
+              "definition": "grown-ups, adults",
+              "partOfSpeech": "noun, m. pl.",
+              "grammar": "der/die Erwachsene · adjective used as noun · die Erwachsenen (pl.) · als Erwachsener = as an adult"
+            },
+            {
+              "word": "denken",
+              "definition": "to think",
+              "partOfSpeech": "verb",
+              "grammar": "denken (to think) · denken an + accusative = to think about · er denkt · past: er dachte (irregular)"
+            }
+          ]
+        },
+        {
+          "id": "de-005-s07",
+          "text": "Sie fragen nie: \"Ist er glücklich?\"",
+          "translation": "They never ask: 'Is he happy?'",
+          "words": [
+            {
+              "word": "nie",
+              "definition": "never",
+              "partOfSpeech": "adv.",
+              "grammar": "nie · niemals = never (emphatic) · noch nie = never yet/never before"
+            },
+            {
+              "word": "glücklich",
+              "definition": "happy",
+              "partOfSpeech": "adj.",
+              "grammar": "glücklich · das Glück (n.) = happiness/luck · glücklich sein = to be happy · Glückwunsch! = Congratulations!"
+            }
+          ]
+        },
+        {
+          "id": "de-005-s08",
+          "text": "Ich habe einen Fuchs getroffen, und er hat mir etwas Wichtiges gesagt.",
+          "translation": "I met a fox, and he told me something important.",
+          "words": [
+            {
+              "word": "Fuchs",
+              "definition": "fox",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Fuchs · die Füchse (pl.) · proverbially clever in German culture: schlau wie ein Fuchs"
+            },
+            {
+              "word": "Wichtiges",
+              "definition": "something important",
+              "partOfSpeech": "adj.",
+              "grammar": "wichtig (important) · etwas Wichtiges = something important · adjectives after 'etwas' are capitalised and take strong endings"
+            }
+          ]
+        },
+        {
+          "id": "de-005-s09",
+          "text": "Der Fuchs sagt: \"Man sieht nur mit dem Herzen gut.\"",
+          "translation": "The fox says: 'One sees well only with the heart.'",
+          "words": [
+            {
+              "word": "Herzen",
+              "definition": "heart (dative)",
+              "partOfSpeech": "noun, n.",
+              "grammar": "das Herz · dative: dem Herzen · accusative: das Herz · n-declension noun · Herzlichen Glückwunsch! = Congratulations!"
+            },
+            {
+              "word": "Man",
+              "definition": "one, you (impersonal)",
+              "partOfSpeech": "adv.",
+              "grammar": "man = one (impersonal pronoun) · always used with 3rd person singular verb · Man sagt = People say / It is said"
+            }
+          ]
+        },
+        {
+          "id": "de-005-s10",
+          "text": "Ich denke oft an meine Rose und an meinen Stern.",
+          "translation": "I often think of my rose and of my star.",
+          "words": [
+            {
+              "word": "oft",
+              "definition": "often",
+              "partOfSpeech": "adv.",
+              "grammar": "oft · comparative: öfter · superlative: am häufigsten · synonym: häufig (frequently)"
+            }
+          ]
+        },
+        {
+          "id": "de-005-s11",
+          "text": "Vielleicht sind wir Freunde, auch wenn wir weit voneinander entfernt sind.",
+          "translation": "Perhaps we are friends, even though we are far apart from each other.",
+          "words": [
+            {
+              "word": "Vielleicht",
+              "definition": "perhaps, maybe",
+              "partOfSpeech": "adv.",
+              "grammar": "vielleicht · synonym: möglicherweise (more formal) · vielleicht... ? = maybe...? (as a question softener)"
+            },
+            {
+              "word": "voneinander",
+              "definition": "from each other, apart",
+              "partOfSpeech": "adv.",
+              "grammar": "voneinander = from one another · weit voneinander entfernt = far apart · voneinander lernen = to learn from each other"
+            }
+          ]
+        },
+        {
+          "id": "de-005-s12",
+          "text": "Dein kleiner Prinz.",
+          "translation": "Your little prince.",
+          "words": [
+            {
+              "word": "Dein",
+              "definition": "your (informal)",
+              "partOfSpeech": "adj.",
+              "grammar": "dein (m./n.) · deine (f./pl.) · informal 'your' · formal: Ihr · used to close a letter: Dein ... = Yours, ..."
+            },
+            {
+              "word": "Prinz",
+              "definition": "prince",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Prinz · die Prinzen (pl.) · die Prinzessin (f.) · n-declension: dem Prinzen, den Prinzen"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
