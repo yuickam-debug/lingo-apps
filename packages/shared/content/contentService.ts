@@ -31,9 +31,11 @@ function applyTranslationOverlay(story: Story): Story {
 const CONTENT_URL =
   'https://raw.githubusercontent.com/yuickam-debug/morningci-content/main/content.json';
 
-// Direct Story-format bundle — no adapter needed
+// Direct Story-format bundles — no adapter needed
 const DE_BUNDLE_URL =
   'https://raw.githubusercontent.com/yuickam-debug/lingo-apps/main/packages/delingo/src/content/stories/de-stories-bundle.json';
+const DA_BUNDLE_URL =
+  'https://raw.githubusercontent.com/yuickam-debug/lingo-apps/main/packages/dalingo/src/content/stories/da-stories-bundle.json';
 
 const CACHE_TTL_MS = 60 * 60 * 1000; // 1 hour
 
@@ -115,39 +117,29 @@ export async function loadStories(
 }
 
 async function fetchAndCache(lang: 'de' | 'da'): Promise<void> {
-  if (lang === 'de') {
-    const res = await fetch(DE_BUNDLE_URL);
-    if (!res.ok) return;
-    const bundle: { version: string; stories: Story[] } = await res.json();
-    const stories = bundle.stories.map(applyTranslationOverlay);
-    writeCache(lang, stories);
-    return;
-  }
-  const res = await fetch(CONTENT_URL);
+  const url = lang === 'de' ? DE_BUNDLE_URL : DA_BUNDLE_URL;
+  const res = await fetch(url);
   if (!res.ok) return;
-  const manifest: MCManifest = await res.json();
-  const stories = adaptManifest(manifest, lang).map(applyTranslationOverlay);
+  const bundle: { version: string; stories: Story[] } = await res.json();
+  const stories = bundle.stories.map(applyTranslationOverlay);
   writeCache(lang, stories);
 }
 
 /** Force a network refresh regardless of cache age. */
 export async function refreshStories(lang: 'de' | 'da'): Promise<Story[]> {
-  const v1 = lang === 'de' ? [] : adaptManifest(bundledManifest as MCManifest, lang);
   let merged: Story[];
   try {
-    const url = lang === 'de' ? DE_BUNDLE_URL : CONTENT_URL;
+    const url = lang === 'de' ? DE_BUNDLE_URL : DA_BUNDLE_URL;
     const res = await fetch(url);
     if (res.ok) {
-      const remote: Story[] = lang === 'de'
-        ? (await res.json() as { stories: Story[] }).stories
-        : adaptManifest(await res.json() as MCManifest, lang);
+      const remote: Story[] = (await res.json() as { stories: Story[] }).stories;
       writeCache(lang, remote);
-      merged = mergeWithFallback(v1, remote);
+      merged = remote;
     } else {
-      merged = mergeWithFallback(v1, readCache(lang)?.stories ?? []);
+      merged = readCache(lang)?.stories ?? [];
     }
   } catch {
-    merged = mergeWithFallback(v1, readCache(lang)?.stories ?? []);
+    merged = readCache(lang)?.stories ?? [];
   }
   return merged.map(applyTranslationOverlay);
 }

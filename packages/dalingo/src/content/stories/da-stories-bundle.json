@@ -1,0 +1,1008 @@
+{
+  "version": "1",
+  "stories": [
+    {
+      "id": "da-story-001",
+      "title": "Min første dag i København",
+      "level": "A1",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "da-001-s01",
+          "text": "Det er min første dag i København.",
+          "translation": "It's my first day in Copenhagen.",
+          "words": [
+            {
+              "word": "første",
+              "definition": "first",
+              "partOfSpeech": "adj.",
+              "grammar": "første · ordinal of én (one)"
+            }
+          ]
+        },
+        {
+          "id": "da-001-s02",
+          "text": "Jeg står på hovedbanegården og ser mig omkring.",
+          "translation": "I'm standing at the main train station and looking around.",
+          "words": [
+            {
+              "word": "hovedbanegården",
+              "definition": "the main train station",
+              "partOfSpeech": "noun, c.",
+              "grammar": "hoved (main) + banegård (station) + -en (the)"
+            },
+            {
+              "word": "omkring",
+              "definition": "around",
+              "partOfSpeech": "adv.",
+              "grammar": "se sig omkring = to look around"
+            }
+          ]
+        },
+        {
+          "id": "da-001-s03",
+          "text": "Solen skinner og det er varmt.",
+          "translation": "The sun is shining and it's warm.",
+          "words": [
+            {
+              "word": "Solen",
+              "definition": "the sun",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en sol (a sun) · solen (the sun) · -en suffix = definite"
+            }
+          ]
+        },
+        {
+          "id": "da-001-s04",
+          "text": "Jeg har et kort i hånden.",
+          "translation": "I have a map in my hand.",
+          "words": [
+            {
+              "word": "kort",
+              "definition": "map, card",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et kort · neuter noun · also means 'short' as adj."
+            },
+            {
+              "word": "hånden",
+              "definition": "the hand",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en hånd (a hand) · hånden (the hand)"
+            }
+          ]
+        },
+        {
+          "id": "da-001-s05",
+          "text": "Først vil jeg se Nyhavn.",
+          "translation": "First I want to see Nyhavn.",
+          "words": [
+            {
+              "word": "Først",
+              "definition": "first, firstly",
+              "partOfSpeech": "adv."
+            },
+            {
+              "word": "Nyhavn",
+              "definition": "Nyhavn (New Harbor, famous Copenhagen waterfront)",
+              "partOfSpeech": "proper noun",
+              "grammar": "ny (new) + havn (harbor)"
+            }
+          ]
+        },
+        {
+          "id": "da-001-s06",
+          "text": "Himlen er blå i dag.",
+          "translation": "The sky is blue today.",
+          "words": [
+            {
+              "word": "Himlen",
+              "definition": "the sky",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en himmel (a sky) · himlen (the sky) · -el drops before -en"
+            },
+            {
+              "word": "blå",
+              "definition": "blue",
+              "partOfSpeech": "adj.",
+              "grammar": "blå · same form for all genders and plural"
+            }
+          ]
+        },
+        {
+          "id": "da-001-s07",
+          "text": "Jeg går langs kanalen og ser de farverige huse.",
+          "translation": "I walk along the canal and see the colorful houses.",
+          "words": [
+            {
+              "word": "kanalen",
+              "definition": "the canal",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en kanal · kanalen (the canal)"
+            },
+            {
+              "word": "farverige",
+              "definition": "colorful",
+              "partOfSpeech": "adj.",
+              "grammar": "farverig · farve (color) + -rig (-ful) · plural: farverige"
+            }
+          ]
+        },
+        {
+          "id": "da-001-s08",
+          "text": "København er en smuk by.",
+          "translation": "Copenhagen is a beautiful city.",
+          "words": [
+            {
+              "word": "smuk",
+              "definition": "beautiful",
+              "partOfSpeech": "adj.",
+              "grammar": "smuk · comparative: smukkere · superlative: smukkest"
+            },
+            {
+              "word": "by",
+              "definition": "city, town",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en by · byen (the city) · byer (cities)"
+            }
+          ]
+        },
+        {
+          "id": "da-001-s09",
+          "text": "Om aftenen spiser jeg smørrebrød.",
+          "translation": "In the evening I eat smørrebrød (open-faced sandwiches).",
+          "words": [
+            {
+              "word": "aftenen",
+              "definition": "the evening",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en aften · aftenen (the evening) · om aftenen = in the evening"
+            },
+            {
+              "word": "smørrebrød",
+              "definition": "open-faced sandwich (Danish specialty)",
+              "partOfSpeech": "noun, n.",
+              "grammar": "smør (butter) + brød (bread) · iconic Danish food"
+            }
+          ]
+        },
+        {
+          "id": "da-001-s10",
+          "text": "Min første dag var dejlig.",
+          "translation": "My first day was lovely.",
+          "words": [
+            {
+              "word": "dejlig",
+              "definition": "lovely, wonderful",
+              "partOfSpeech": "adj.",
+              "grammar": "dejlig · one of the most-used Danish positive adjectives"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da-story-002",
+      "title": "Pippi Langstrømpe – Det nye hus",
+      "level": "A1",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "da-002-s01",
+          "text": "Pippi bor alene i et gammelt hus.",
+          "translation": "Pippi lives alone in an old house.",
+          "words": [
+            {
+              "word": "bor",
+              "definition": "lives, resides",
+              "partOfSpeech": "verb",
+              "grammar": "bo (to live/reside) · bor (present) · boede (past) · a core everyday verb, distinct from leve (to be alive)"
+            },
+            {
+              "word": "gammelt",
+              "definition": "old (neuter form)",
+              "partOfSpeech": "adj.",
+              "grammar": "gammel · et gammelt hus (neuter) · en gammel mand (common) · irregular: gammel – gammelt – gamle"
+            }
+          ]
+        },
+        {
+          "id": "da-002-s02",
+          "text": "Huset hedder Villakulla.",
+          "translation": "The house is called Villakulla.",
+          "words": [
+            {
+              "word": "hedder",
+              "definition": "is called, is named",
+              "partOfSpeech": "verb",
+              "grammar": "hedde (to be called) · hedder (present) · hed (past) · Hvad hedder du? = What is your name?"
+            },
+            {
+              "word": "Huset",
+              "definition": "the house",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et hus · huset (the house) · neuter noun · husene (the houses, pl. definite)"
+            }
+          ]
+        },
+        {
+          "id": "da-002-s03",
+          "text": "Pippi har en abe og en hest.",
+          "translation": "Pippi has a monkey and a horse.",
+          "words": [
+            {
+              "word": "abe",
+              "definition": "monkey",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en abe · aben (the monkey) · aber (monkeys) · aberne (the monkeys)"
+            },
+            {
+              "word": "hest",
+              "definition": "horse",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en hest · hesten (the horse) · heste (horses) · common gender noun"
+            }
+          ]
+        },
+        {
+          "id": "da-002-s04",
+          "text": "Hesten bor på verandaen.",
+          "translation": "The horse lives on the veranda.",
+          "words": [
+            {
+              "word": "verandaen",
+              "definition": "the veranda, the porch",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en veranda · verandaen (the veranda) · borrowed word, always common gender"
+            }
+          ]
+        },
+        {
+          "id": "da-002-s05",
+          "text": "Naboerne hedder Tommy og Annika.",
+          "translation": "The neighbours are called Tommy and Annika.",
+          "words": [
+            {
+              "word": "Naboerne",
+              "definition": "the neighbours",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en nabo · naboen (the neighbour) · naboer (neighbours) · naboerne (the neighbours)"
+            }
+          ]
+        },
+        {
+          "id": "da-002-s06",
+          "text": "De ser Pippi og bliver meget overraskede.",
+          "translation": "They see Pippi and become very surprised.",
+          "words": [
+            {
+              "word": "overraskede",
+              "definition": "surprised",
+              "partOfSpeech": "adj.",
+              "grammar": "overrasket (sg.) · overraskede (pl./definite) · blive overrasket = to be/become surprised · en overraskelse = a surprise"
+            },
+            {
+              "word": "bliver",
+              "definition": "become, get",
+              "partOfSpeech": "verb",
+              "grammar": "blive (to become/stay) · bliver (present) · blev (past) · very versatile: blive glad = to become happy · blive hjemme = to stay home"
+            }
+          ]
+        },
+        {
+          "id": "da-002-s07",
+          "text": "Pippi siger: \"Jeg bor her nu. Vil I være mine venner?\"",
+          "translation": "Pippi says: 'I live here now. Will you be my friends?'",
+          "words": [
+            {
+              "word": "venner",
+              "definition": "friends",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en ven (m.) · venner (friends, pl.) · en veninde = female friend · gode venner = good friends"
+            },
+            {
+              "word": "Vil",
+              "definition": "will you (plural)",
+              "partOfSpeech": "verb",
+              "grammar": "ville (will/want) · I (you plural) · Vil I? = Do you (all) want to? · I is the pl. subject pronoun (informal): rarely used in modern speech, but correct"
+            }
+          ]
+        },
+        {
+          "id": "da-002-s08",
+          "text": "Tommy og Annika siger ja.",
+          "translation": "Tommy and Annika say yes.",
+          "words": [
+            {
+              "word": "siger",
+              "definition": "say, says",
+              "partOfSpeech": "verb",
+              "grammar": "sige (to say) · siger (present) · sagde (past) · sagt (past participle) · Hvad siger du? = What do you say?"
+            }
+          ]
+        },
+        {
+          "id": "da-002-s09",
+          "text": "Pippi laver mad til dem begge.",
+          "translation": "Pippi makes food for both of them.",
+          "words": [
+            {
+              "word": "laver",
+              "definition": "cooks, makes",
+              "partOfSpeech": "verb",
+              "grammar": "lave (to make/do) · laver mad = to cook/make food · mad (c.) = food · laver du mad? = do you cook?"
+            },
+            {
+              "word": "begge",
+              "definition": "both",
+              "partOfSpeech": "adj.",
+              "grammar": "begge = both · begge to = both of them · used with plural nouns · ikke begge = not both"
+            }
+          ]
+        },
+        {
+          "id": "da-002-s10",
+          "text": "Hun er stærk og sjov – den stærkeste pige i verden!",
+          "translation": "She is strong and funny – the strongest girl in the world!",
+          "words": [
+            {
+              "word": "stærk",
+              "definition": "strong",
+              "partOfSpeech": "adj.",
+              "grammar": "stærk · stærkere (comparative) · stærkest/den stærkeste (superlative) · en stærk vilje = a strong will"
+            },
+            {
+              "word": "sjov",
+              "definition": "fun, funny",
+              "partOfSpeech": "adj.",
+              "grammar": "sjov (common) · sjovt (neuter) · sjove (pl./definite) · det er sjovt = it's fun · have det sjovt = to have fun"
+            },
+            {
+              "word": "verden",
+              "definition": "the world",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en verden · verden (the world – already definite) · i hele verden = in the whole world"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da-story-003",
+      "title": "Pippi Langstrømpe – Markedet",
+      "level": "A1",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "da-003-s01",
+          "text": "Pippi vil gå på markedet i dag.",
+          "translation": "Pippi wants to go to the market today.",
+          "words": [
+            {
+              "word": "markedet",
+              "definition": "the market",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et marked · markedet (the market) · markeder (markets) · marked can also mean 'marked/noticed'"
+            },
+            {
+              "word": "vil",
+              "definition": "wants to, will",
+              "partOfSpeech": "verb",
+              "grammar": "ville (to want/will) · vil (present) · ville (past) · Jeg vil gerne = I would like to · modal verb"
+            }
+          ]
+        },
+        {
+          "id": "da-003-s02",
+          "text": "Hun tager en stor kurv med sig.",
+          "translation": "She takes a large basket with her.",
+          "words": [
+            {
+              "word": "kurv",
+              "definition": "basket",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en kurv · kurven (the basket) · kurve (baskets) · also used idiomatically: få en kurv = to be rejected (romantically)"
+            },
+            {
+              "word": "tager",
+              "definition": "takes along",
+              "partOfSpeech": "verb",
+              "grammar": "tage med (to take along) · tager ... med · tog med (past) · Må jeg tage det med? = May I take this?"
+            }
+          ]
+        },
+        {
+          "id": "da-003-s03",
+          "text": "På markedet er der mange farver og lyde.",
+          "translation": "At the market there are many colours and sounds.",
+          "words": [
+            {
+              "word": "farver",
+              "definition": "colours",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en farve · farven (the colour) · farver (colours) · hvad er din yndlingsfarve? = what is your favourite colour?"
+            },
+            {
+              "word": "lyde",
+              "definition": "sounds",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en lyd · lyden (the sound) · lyde (sounds) · høre en lyd = to hear a sound"
+            }
+          ]
+        },
+        {
+          "id": "da-003-s04",
+          "text": "Pippi køber æbler, brød og en stor hat.",
+          "translation": "Pippi buys apples, bread and a large hat.",
+          "words": [
+            {
+              "word": "køber",
+              "definition": "buys",
+              "partOfSpeech": "verb",
+              "grammar": "købe (to buy) · køber (present) · købte (past) · købt (past participle) · regular weak verb"
+            },
+            {
+              "word": "brød",
+              "definition": "bread",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et brød · brødet (the bread) · brød (loaves, pl.) · brødene (the loaves) · unchanged in plural"
+            }
+          ]
+        },
+        {
+          "id": "da-003-s05",
+          "text": "En mand siger: \"Piger bærer ikke så store hatte!\"",
+          "translation": "A man says: 'Girls don't wear such large hats!'",
+          "words": [
+            {
+              "word": "bærer",
+              "definition": "wear, carry",
+              "partOfSpeech": "verb",
+              "grammar": "bære (to carry/wear) · bærer (present) · bar (past) · båret (past participle) · strong verb"
+            },
+            {
+              "word": "hatte",
+              "definition": "hats",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en hat · hatten (the hat) · hatte (hats) · hattene (the hats)"
+            }
+          ]
+        },
+        {
+          "id": "da-003-s06",
+          "text": "Pippi griner og siger: \"Denne pige gør det!\"",
+          "translation": "Pippi laughs and says: 'This girl does!'",
+          "words": [
+            {
+              "word": "griner",
+              "definition": "laughs",
+              "partOfSpeech": "verb",
+              "grammar": "grine (to laugh/grin) · griner (present) · grinede (past) · grint (past participle) · regular weak verb"
+            },
+            {
+              "word": "Denne",
+              "definition": "this (common gender)",
+              "partOfSpeech": "adj.",
+              "grammar": "denne (common gender) · dette (neuter) · disse (plural) · demonstrative pronoun · denne her = this one here (emphatic)"
+            }
+          ]
+        },
+        {
+          "id": "da-003-s07",
+          "text": "Alle på markedet griner med.",
+          "translation": "Everyone at the market laughs along.",
+          "words": [
+            {
+              "word": "Alle",
+              "definition": "everyone, all",
+              "partOfSpeech": "adj.",
+              "grammar": "alle (pl.) · al (common sg.) · alt (neuter sg.) · alle sammen = everyone together · alle andre = everyone else"
+            }
+          ]
+        },
+        {
+          "id": "da-003-s08",
+          "text": "Pippi giver æbler til børnene.",
+          "translation": "Pippi gives apples to the children.",
+          "words": [
+            {
+              "word": "giver",
+              "definition": "gives",
+              "partOfSpeech": "verb",
+              "grammar": "give (to give) · giver (present) · gav (past) · givet (past participle) · strong verb · give nogen noget = to give someone something"
+            },
+            {
+              "word": "børnene",
+              "definition": "the children",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et barn · barnet (the child) · børn (children) · børnene (the children) · irregular plural: barn – børn"
+            }
+          ]
+        },
+        {
+          "id": "da-003-s09",
+          "text": "De er glade og takker hende.",
+          "translation": "They are happy and thank her.",
+          "words": [
+            {
+              "word": "glade",
+              "definition": "happy (plural/definite)",
+              "partOfSpeech": "adj.",
+              "grammar": "glad (sg.) · glade (pl./definite) · meget glad = very happy · glad for noget = happy about something"
+            },
+            {
+              "word": "takker",
+              "definition": "thank",
+              "partOfSpeech": "verb",
+              "grammar": "takke (to thank) · takker (present) · takkede (past) · Tak! = Thank you! · mange tak = thank you very much"
+            }
+          ]
+        },
+        {
+          "id": "da-003-s10",
+          "text": "Pippi går hjem med den store hat på og en tom kurv.",
+          "translation": "Pippi walks home with the large hat on and an empty basket.",
+          "words": [
+            {
+              "word": "tom",
+              "definition": "empty",
+              "partOfSpeech": "adj.",
+              "grammar": "tom (common) · tomt (neuter) · tomme (pl./definite) · en tom kurv = an empty basket · opposite: fuld (full)"
+            },
+            {
+              "word": "hjem",
+              "definition": "home (direction)",
+              "partOfSpeech": "adv.",
+              "grammar": "hjem = home (motion toward) · hjemme = at home (location) · gå hjem = to go home · Jeg er hjemme = I am at home"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da-story-004",
+      "title": "Pippi Langstrømpe – Regnvejret",
+      "level": "A1",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "da-004-s01",
+          "text": "Det regner udenfor.",
+          "translation": "It is raining outside.",
+          "words": [
+            {
+              "word": "regner",
+              "definition": "rains",
+              "partOfSpeech": "verb",
+              "grammar": "regne (to rain) · det regner = it is raining · regnede (past) · regnet (past participle) · impersonal verb – always used with 'det'"
+            },
+            {
+              "word": "udenfor",
+              "definition": "outside",
+              "partOfSpeech": "adv.",
+              "grammar": "udenfor = outside · opposite: indenfor (inside) · can also be a preposition: udenfor huset = outside the house"
+            }
+          ]
+        },
+        {
+          "id": "da-004-s02",
+          "text": "Tommy og Annika keder sig derhjemme.",
+          "translation": "Tommy and Annika are bored at home.",
+          "words": [
+            {
+              "word": "keder",
+              "definition": "are bored",
+              "partOfSpeech": "verb",
+              "grammar": "kede sig (to be bored) · reflexive verb · keder sig (present) · kedede sig (past) · Jeg keder mig = I am bored"
+            },
+            {
+              "word": "derhjemme",
+              "definition": "at home (their home)",
+              "partOfSpeech": "adv.",
+              "grammar": "derhjemme = at home (referring to their place) · hjemme = at home (general) · her hjemme = here at home"
+            }
+          ]
+        },
+        {
+          "id": "da-004-s03",
+          "text": "De løber over til Pippi.",
+          "translation": "They run over to Pippi.",
+          "words": [
+            {
+              "word": "løber",
+              "definition": "run",
+              "partOfSpeech": "verb",
+              "grammar": "løbe (to run) · løber (present) · løb (past) · løbet (past participle) · strong verb"
+            },
+            {
+              "word": "over",
+              "definition": "over to, across to",
+              "partOfSpeech": "prep.",
+              "grammar": "over til = over to · gå over til = to go over to · directional phrase indicating crossing a short distance"
+            }
+          ]
+        },
+        {
+          "id": "da-004-s04",
+          "text": "Pippi åbner døren og siger: \"Kom ind!\"",
+          "translation": "Pippi opens the door and says: 'Come in!'",
+          "words": [
+            {
+              "word": "åbner",
+              "definition": "opens",
+              "partOfSpeech": "verb",
+              "grammar": "åbne (to open) · åbner (present) · åbnede (past) · åbnet (past participle) · opposite: lukke (to close)"
+            },
+            {
+              "word": "døren",
+              "definition": "the door",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en dør · døren (the door) · døre (doors) · dørene (the doors)"
+            }
+          ]
+        },
+        {
+          "id": "da-004-s05",
+          "text": "De sidder inde og hører på regnen.",
+          "translation": "They sit inside and listen to the rain.",
+          "words": [
+            {
+              "word": "sidder",
+              "definition": "sit",
+              "partOfSpeech": "verb",
+              "grammar": "sidde (to sit) · sidder (present) · sad (past) · siddet (past participle) · strong verb"
+            },
+            {
+              "word": "hører",
+              "definition": "listen to",
+              "partOfSpeech": "verb",
+              "grammar": "høre på (to listen to) · hører (present) · hørte (past) · distinct from lytte til (to listen attentively) · høre (to hear)"
+            }
+          ]
+        },
+        {
+          "id": "da-004-s06",
+          "text": "Pippi fortæller historier om sin far og havet.",
+          "translation": "Pippi tells stories about her father and the sea.",
+          "words": [
+            {
+              "word": "fortæller",
+              "definition": "tells, narrates",
+              "partOfSpeech": "verb",
+              "grammar": "fortælle (to tell/narrate) · fortæller (present) · fortalte (past) · fortalt (past participle) · irregular weak verb"
+            },
+            {
+              "word": "havet",
+              "definition": "the sea, the ocean",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et hav · havet (the sea) · have (seas) · have can also mean 'garden': en have · context distinguishes the two"
+            }
+          ]
+        },
+        {
+          "id": "da-004-s07",
+          "text": "Hendes far er kaptajn på et stort skib.",
+          "translation": "Her father is a captain on a big ship.",
+          "words": [
+            {
+              "word": "kaptajn",
+              "definition": "captain",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en kaptajn · kaptajnen (the captain) · borrowed word from French/Dutch via English"
+            },
+            {
+              "word": "skib",
+              "definition": "ship",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et skib · skibet (the ship) · skibe (ships) · skibene (the ships)"
+            }
+          ]
+        },
+        {
+          "id": "da-004-s08",
+          "text": "Tommy siger: \"Det lyder farligt!\"",
+          "translation": "Tommy says: 'That sounds dangerous!'",
+          "words": [
+            {
+              "word": "lyder",
+              "definition": "sounds",
+              "partOfSpeech": "verb",
+              "grammar": "lyde (to sound) · det lyder godt = that sounds good · lød (past) · lydt (past participle) · strong verb"
+            },
+            {
+              "word": "farligt",
+              "definition": "dangerous",
+              "partOfSpeech": "adj.",
+              "grammar": "farlig (common) · farligt (neuter) · farlige (pl./definite) · en farlig situation = a dangerous situation"
+            }
+          ]
+        },
+        {
+          "id": "da-004-s09",
+          "text": "Pippi griner: \"Nej! Det er et stort eventyr!\"",
+          "translation": "Pippi laughs: 'No! It is a great adventure!'",
+          "words": [
+            {
+              "word": "eventyr",
+              "definition": "adventure, fairy tale",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et eventyr · eventyret (the adventure/fairy tale) · eventyr (plural, unchanged) · H.C. Andersens eventyr = H.C. Andersen's fairy tales"
+            }
+          ]
+        },
+        {
+          "id": "da-004-s10",
+          "text": "Regnen stopper, og himlen bliver blå igen.",
+          "translation": "The rain stops, and the sky becomes blue again.",
+          "words": [
+            {
+              "word": "himlen",
+              "definition": "the sky, the heaven",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en himmel · himlen (the sky) · the -el drops before -en suffix · himlen er blå = the sky is blue"
+            },
+            {
+              "word": "stopper",
+              "definition": "stops",
+              "partOfSpeech": "verb",
+              "grammar": "stoppe (to stop) · stopper (present) · stoppede (past) · stoppe op = to come to a halt · loanword from English"
+            }
+          ]
+        },
+        {
+          "id": "da-004-s11",
+          "text": "De tre venner løber ud og leger.",
+          "translation": "The three friends run outside and play.",
+          "words": [
+            {
+              "word": "leger",
+              "definition": "play",
+              "partOfSpeech": "verb",
+              "grammar": "lege (to play) · leger (present) · legede (past) · used for children's play · spille = to play sport/music/games"
+            },
+            {
+              "word": "tre",
+              "definition": "three",
+              "partOfSpeech": "adj.",
+              "grammar": "tre = three · used before both common and neuter nouns · tre venner = three friends"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da-story-005",
+      "title": "Elverhøj – Dansen i natten",
+      "level": "A1",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "da-005-s01",
+          "text": "I Danmark er der mange grønne bakker.",
+          "translation": "In Denmark there are many green hills.",
+          "words": [
+            {
+              "word": "bakker",
+              "definition": "hills",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en bakke · bakken (the hill) · bakker (hills) · bakkerne (the hills) · also means 'trays' (context-dependent)"
+            },
+            {
+              "word": "grønne",
+              "definition": "green (definite/plural)",
+              "partOfSpeech": "adj.",
+              "grammar": "grøn (common sg.) · grønt (neuter sg.) · grønne (pl./definite) · grøn is also used for 'eco-friendly'"
+            }
+          ]
+        },
+        {
+          "id": "da-005-s02",
+          "text": "Under bakkerne bor de underjordiske.",
+          "translation": "Beneath the hills live the underground folk.",
+          "words": [
+            {
+              "word": "underjordiske",
+              "definition": "the underground folk, subterranean beings",
+              "partOfSpeech": "adj.",
+              "grammar": "underjordisk (sg.) · underjordiske (pl./definite) · used as noun: de underjordiske = the hidden people · under + jord (earth) + isk"
+            },
+            {
+              "word": "Under",
+              "definition": "beneath, under",
+              "partOfSpeech": "prep.",
+              "grammar": "under = under/beneath · under bordet = under the table · can show location or motion · under natten = during the night"
+            }
+          ]
+        },
+        {
+          "id": "da-005-s03",
+          "text": "Om natten åbner højen sig.",
+          "translation": "At night the hill opens itself.",
+          "words": [
+            {
+              "word": "højen",
+              "definition": "the hill, the mound",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en høj · højen (the hill/mound) · høje (hills) · elverhøj = elf hill · a culturally significant word in Danish folklore"
+            },
+            {
+              "word": "natten",
+              "definition": "at night",
+              "partOfSpeech": "noun, c.",
+              "grammar": "om natten = at night (habitual) · i nat = tonight · natten (the night) · en nat · god nat = good night"
+            }
+          ]
+        },
+        {
+          "id": "da-005-s04",
+          "text": "Elverpigerne danser i det bløde græs.",
+          "translation": "The elf maidens dance in the soft grass.",
+          "words": [
+            {
+              "word": "Elverpigerne",
+              "definition": "the elf maidens",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en elverpige · elverpigen (the elf maiden) · elverpiger (pl.) · compound: elver (elf) + pige (girl)"
+            },
+            {
+              "word": "danser",
+              "definition": "dance",
+              "partOfSpeech": "verb",
+              "grammar": "danse (to dance) · danser (present) · dansede (past) · danset (past participle) · regular weak verb"
+            },
+            {
+              "word": "græs",
+              "definition": "grass",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et græs · græsset (the grass) · no standard plural · slå græs = to mow the lawn"
+            }
+          ]
+        },
+        {
+          "id": "da-005-s05",
+          "text": "En ung mand ser lyset fra højen.",
+          "translation": "A young man sees the light from the hill.",
+          "words": [
+            {
+              "word": "lyset",
+              "definition": "the light",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et lys · lyset (the light) · lys (lights, pl.) · tænde lyset = to turn on the light · also adj: lys = light/bright"
+            },
+            {
+              "word": "ung",
+              "definition": "young",
+              "partOfSpeech": "adj.",
+              "grammar": "ung (common) · ungt (neuter) · unge (pl./definite) · en ung mand = a young man · de unge = the young people"
+            }
+          ]
+        },
+        {
+          "id": "da-005-s06",
+          "text": "Han hører musik og føler sig underlig tiltrukket.",
+          "translation": "He hears music and feels strangely drawn.",
+          "words": [
+            {
+              "word": "musik",
+              "definition": "music",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en musik · musikken (the music) · uncountable · spille musik = to play music"
+            },
+            {
+              "word": "underlig",
+              "definition": "strange, odd",
+              "partOfSpeech": "adj.",
+              "grammar": "underlig (common) · underligt (neuter) · underlige (pl./definite) · en underlig følelse = a strange feeling"
+            }
+          ]
+        },
+        {
+          "id": "da-005-s07",
+          "text": "Han går nærmere og ser elverpigerne.",
+          "translation": "He walks closer and sees the elf maidens.",
+          "words": [
+            {
+              "word": "nærmere",
+              "definition": "closer, nearer",
+              "partOfSpeech": "adj.",
+              "grammar": "nær (near) · nærmere (comparative) · nærmest (superlative) · komme nærmere = to come closer"
+            }
+          ]
+        },
+        {
+          "id": "da-005-s08",
+          "text": "De smiler og inviterer ham med i dansen.",
+          "translation": "They smile and invite him to join the dance.",
+          "words": [
+            {
+              "word": "smiler",
+              "definition": "smile",
+              "partOfSpeech": "verb",
+              "grammar": "smile (to smile) · smiler (present) · smilede (past) · et smil (n.) = a smile"
+            },
+            {
+              "word": "inviterer",
+              "definition": "invite",
+              "partOfSpeech": "verb",
+              "grammar": "invitere (to invite) · inviterer (present) · inviterede (past) · en invitation (c.) = an invitation"
+            }
+          ]
+        },
+        {
+          "id": "da-005-s09",
+          "text": "Han danser hele natten og glemmer alt.",
+          "translation": "He dances all night and forgets everything.",
+          "words": [
+            {
+              "word": "glemmer",
+              "definition": "forgets",
+              "partOfSpeech": "verb",
+              "grammar": "glemme (to forget) · glemmer (present) · glemte (past) · glemt (past participle) · irregular weak verb"
+            },
+            {
+              "word": "hele",
+              "definition": "whole, entire, all",
+              "partOfSpeech": "adj.",
+              "grammar": "hel (common/neuter sg.) · hele (definite/pl.) · hele natten = all night · hele verden = the whole world"
+            }
+          ]
+        },
+        {
+          "id": "da-005-s10",
+          "text": "Da solen kommer op, er elverpigerne væk.",
+          "translation": "When the sun comes up, the elf maidens are gone.",
+          "words": [
+            {
+              "word": "solen",
+              "definition": "the sun",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en sol · solen (the sun) · sole (suns, rare) · solen skinner = the sun shines · solskin (n.) = sunshine"
+            },
+            {
+              "word": "væk",
+              "definition": "gone, away",
+              "partOfSpeech": "adv.",
+              "grammar": "væk = gone/away · de er væk = they are gone · gå væk = go away · forsvinde = to disappear"
+            }
+          ]
+        },
+        {
+          "id": "da-005-s11",
+          "text": "Manden står alene på den grønne bakke.",
+          "translation": "The man stands alone on the green hill.",
+          "words": [
+            {
+              "word": "står",
+              "definition": "stands",
+              "partOfSpeech": "verb",
+              "grammar": "stå (to stand) · står (present) · stod (past) · stået (past participle) · strong verb"
+            }
+          ]
+        },
+        {
+          "id": "da-005-s12",
+          "text": "Han husker dansen, men han ved ikke om det var en drøm.",
+          "translation": "He remembers the dance, but he does not know if it was a dream.",
+          "words": [
+            {
+              "word": "husker",
+              "definition": "remembers",
+              "partOfSpeech": "verb",
+              "grammar": "huske (to remember) · husker (present) · huskede (past) · Kan du huske? = Do you remember?"
+            },
+            {
+              "word": "drøm",
+              "definition": "dream",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en drøm · drømmen (the dream) · drømme (dreams) · drømme (to dream) – same form as the noun plural"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
