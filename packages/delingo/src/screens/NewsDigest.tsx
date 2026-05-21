@@ -6,6 +6,7 @@ import { CEFRBadge } from '@lingo/shared/components';
 import week20260414 from '../content/news/week-2026-04-14.json';
 import week20260420 from '../content/news/week-2026-04-20.json';
 import week20260421 from '../content/news/week-2026-04-21.json';
+import week20260525 from '../content/news/week-2026-05-25.json';
 
 interface WeekData {
   weekOf: string;
@@ -21,6 +22,7 @@ function getWeekFiles(): WeekData[] {
     week20260414 as unknown as WeekData,
     week20260420 as unknown as WeekData,
     week20260421 as unknown as WeekData,
+    week20260525 as unknown as WeekData,
   ].sort((a, b) => a.weekOf.localeCompare(b.weekOf));
 }
 
