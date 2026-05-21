@@ -1,8 +1,7 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import type { Story } from '@lingo/shared/types';
 import { CEFRBadge } from '@lingo/shared/components';
 
-// TODO: replace with dynamic fetch in v2
 import week20260414 from '../content/news/week-2026-04-14.json';
 import week20260420 from '../content/news/week-2026-04-20.json';
 import week20260421 from '../content/news/week-2026-04-21.json';
@@ -13,21 +12,48 @@ interface WeekData {
   articles: Story[];
 }
 
-/**
- * Returns all available week files sorted oldest → newest.
- * To add a new week: import the JSON above and add it to this array.
- */
-function getWeekFiles(): WeekData[] {
-  return [
-    week20260414 as unknown as WeekData,
-    week20260420 as unknown as WeekData,
-    week20260421 as unknown as WeekData,
-    week20260525 as unknown as WeekData,
-  ].sort((a, b) => a.weekOf.localeCompare(b.weekOf));
+const BUNDLE_URL =
+  'https://raw.githubusercontent.com/yuickam-debug/lingo-apps/main/packages/delingo/src/content/news/de-news-bundle.json';
+const CACHE_KEY = 'lingo_news_de_v1';
+const CACHE_TS_KEY = 'lingo_news_de_v1_ts';
+const CACHE_TTL = 60 * 60 * 1000; // 1 hour
+
+const BUNDLED: WeekData[] = [
+  week20260414 as unknown as WeekData,
+  week20260420 as unknown as WeekData,
+  week20260421 as unknown as WeekData,
+  week20260525 as unknown as WeekData,
+];
+
+function mergeWeeks(base: WeekData[], remote: WeekData[]): WeekData[] {
+  const map = new Map<string, WeekData>();
+  for (const w of base) map.set(w.weekOf, w);
+  for (const w of remote) map.set(w.weekOf, w); // remote wins
+  return [...map.values()].sort((a, b) => a.weekOf.localeCompare(b.weekOf));
 }
 
-const WEEKS = getWeekFiles();
-const LATEST_INDEX = WEEKS.length - 1;
+function readCache(): { weeks: WeekData[]; fresh: boolean } | null {
+  try {
+    const raw = localStorage.getItem(CACHE_KEY);
+    const ts = localStorage.getItem(CACHE_TS_KEY);
+    if (!raw || !ts) return null;
+    return { weeks: JSON.parse(raw) as WeekData[], fresh: Date.now() - Number(ts) < CACHE_TTL };
+  } catch {
+    return null;
+  }
+}
+
+function writeCache(weeks: WeekData[]): void {
+  try {
+    localStorage.setItem(CACHE_KEY, JSON.stringify(weeks));
+    localStorage.setItem(CACHE_TS_KEY, String(Date.now()));
+  } catch {}
+}
+
+function getInitialWeeks(): WeekData[] {
+  const cached = readCache();
+  return cached ? mergeWeeks(BUNDLED, cached.weeks) : BUNDLED;
+}
 
 function formatDate(iso: string): string {
   const [y, m, d] = iso.split('-').map(Number);
@@ -52,10 +78,27 @@ interface NewsDigestProps {
 }
 
 export function NewsDigest({ onOpenReader }: NewsDigestProps) {
-  const [weekIndex, setWeekIndex] = useState(LATEST_INDEX);
+  const [weeks, setWeeks] = useState<WeekData[]>(getInitialWeeks);
+  const [weekIndex, setWeekIndex] = useState<number>(() => getInitialWeeks().length - 1);
 
-  const week = WEEKS[weekIndex];
-  const isLatest = weekIndex === LATEST_INDEX;
+  useEffect(() => {
+    const cached = readCache();
+    if (cached?.fresh) return;
+
+    fetch(BUNDLE_URL)
+      .then(r => (r.ok ? r.json() : null))
+      .then((bundle: { weeks: WeekData[] } | null) => {
+        if (!bundle?.weeks?.length) return;
+        writeCache(bundle.weeks);
+        const merged = mergeWeeks(BUNDLED, bundle.weeks);
+        setWeeks(merged);
+        setWeekIndex(merged.length - 1);
+      })
+      .catch(() => {});
+  }, []);
+
+  const week = weeks[weekIndex];
+  const isLatest = weekIndex === weeks.length - 1;
 
   return (
     <div>

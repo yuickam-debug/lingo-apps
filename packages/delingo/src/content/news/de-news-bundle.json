@@ -1,0 +1,1815 @@
+{
+  "version": "1",
+  "weeks": [
+    {
+      "weekOf": "2026-04-14",
+      "articles": [
+        {
+          "id": "de-news-2026w16-01",
+          "title": "Neue Regeln für Mieten in Berlin",
+          "level": "A2",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-04-14",
+            "topic": "Politik"
+          },
+          "sentences": [
+            {
+              "id": "de-n01-s01",
+              "text": "Die Regierung hat neue Regeln für Mieten beschlossen.",
+              "translation": "The government has decided on new rules for rents.",
+              "words": [
+                {
+                  "word": "Regierung",
+                  "definition": "government",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Regierung · regieren = to govern"
+                },
+                {
+                  "word": "beschlossen",
+                  "definition": "decided, resolved",
+                  "partOfSpeech": "past part.",
+                  "grammar": "beschließen (to decide) · past participle: beschlossen"
+                }
+              ]
+            },
+            {
+              "id": "de-n01-s02",
+              "text": "Die Mieten in Berlin sind in den letzten Jahren stark gestiegen.",
+              "translation": "Rents in Berlin have risen sharply in recent years.",
+              "words": [
+                {
+                  "word": "Mieten",
+                  "definition": "rents",
+                  "partOfSpeech": "noun, f. pl.",
+                  "grammar": "die Miete (sg.) · die Mieten (pl.) · from mieten (to rent)"
+                },
+                {
+                  "word": "gestiegen",
+                  "definition": "risen, increased",
+                  "partOfSpeech": "past part.",
+                  "grammar": "steigen (to rise) · past participle: gestiegen"
+                }
+              ]
+            },
+            {
+              "id": "de-n01-s03",
+              "text": "Viele Menschen können sich ihre Wohnung nicht mehr leisten.",
+              "translation": "Many people can no longer afford their apartment.",
+              "words": [
+                {
+                  "word": "Wohnung",
+                  "definition": "apartment, flat",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Wohnung · wohnen = to live/reside"
+                },
+                {
+                  "word": "leisten",
+                  "definition": "to afford",
+                  "partOfSpeech": "verb",
+                  "grammar": "sich etwas leisten = to afford something"
+                }
+              ]
+            },
+            {
+              "id": "de-n01-s04",
+              "text": "Ab Mai dürfen Vermieter die Miete nur noch um zwei Prozent erhöhen.",
+              "translation": "From May, landlords may only increase rent by two percent.",
+              "words": [
+                {
+                  "word": "Vermieter",
+                  "definition": "landlord",
+                  "partOfSpeech": "noun, m.",
+                  "grammar": "der Vermieter · vermieten = to rent out"
+                },
+                {
+                  "word": "erhöhen",
+                  "definition": "to increase, raise",
+                  "partOfSpeech": "verb",
+                  "grammar": "erhöhen · die Erhöhung = the increase"
+                }
+              ]
+            },
+            {
+              "id": "de-n01-s05",
+              "text": "Die Stadt hofft, dass mehr Menschen in Berlin bleiben können.",
+              "translation": "The city hopes that more people can stay in Berlin.",
+              "words": [
+                {
+                  "word": "hofft",
+                  "definition": "hopes",
+                  "partOfSpeech": "verb",
+                  "grammar": "hoffen (to hope) · die Hoffnung = hope (noun)"
+                },
+                {
+                  "word": "bleiben",
+                  "definition": "to stay, remain",
+                  "partOfSpeech": "verb",
+                  "grammar": "bleiben · past: geblieben · takes sein as auxiliary"
+                }
+              ]
+            },
+            {
+              "id": "de-n01-s06",
+              "text": "Kritiker sagen, die Regeln gehen nicht weit genug.",
+              "translation": "Critics say the rules don't go far enough.",
+              "words": [
+                {
+                  "word": "Kritiker",
+                  "definition": "critics",
+                  "partOfSpeech": "noun, m. pl.",
+                  "grammar": "der Kritiker · kritisieren = to criticize"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekOf": "2026-04-20",
+      "articles": [
+        {
+          "id": "de-news-2026w17-05",
+          "title": "Deutschland hilft der Ukraine",
+          "level": "A1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-04-20",
+            "topic": "Politik"
+          },
+          "sentences": [
+            {
+              "id": "de-news-2026w17-05-s01",
+              "text": "Deutschland hilft der Ukraine.",
+              "translation": "Germany is helping Ukraine.",
+              "words": [
+                {
+                  "word": "hilft",
+                  "definition": "helps",
+                  "partOfSpeech": "verb",
+                  "grammar": "helfen (to help) · takes dative: Deutschland hilft der Ukraine · er hilft · past: er half"
+                }
+              ]
+            },
+            {
+              "id": "de-news-2026w17-05-s02",
+              "text": "Deutschland schickt Geld, Waffen und Soldaten an die Grenze.",
+              "translation": "Germany sends money, weapons and soldiers to the border.",
+              "words": [
+                {
+                  "word": "Waffen",
+                  "definition": "weapons",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Waffe · die Waffen (pl.) · Waffenlieferung (f.) = weapons delivery · in the news context: military equipment"
+                },
+                {
+                  "word": "Grenze",
+                  "definition": "border",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Grenze · die Grenzen (pl.) · an der Grenze = at the border · Grenzschutz (m.) = border protection"
+                }
+              ]
+            },
+            {
+              "id": "de-news-2026w17-05-s03",
+              "text": "Der Kanzler sagt: \"Wir stehen zusammen mit der Ukraine.\"",
+              "translation": "The Chancellor says: 'We stand together with Ukraine.'",
+              "words": [
+                {
+                  "word": "Kanzler",
+                  "definition": "Chancellor",
+                  "partOfSpeech": "noun, m.",
+                  "grammar": "der Kanzler · die Kanzlerin (f.) · der Bundeskanzler = the Federal Chancellor · Germany's head of government"
+                },
+                {
+                  "word": "stehen",
+                  "definition": "stand",
+                  "partOfSpeech": "verb",
+                  "grammar": "stehen (to stand) · er steht · past: er stand · zusammenstehen = to stand together (fig. to stand united)"
+                }
+              ]
+            },
+            {
+              "id": "de-news-2026w17-05-s04",
+              "text": "Russland hat die Ukraine angegriffen.",
+              "translation": "Russia has attacked Ukraine.",
+              "words": [
+                {
+                  "word": "angegriffen",
+                  "definition": "attacked",
+                  "partOfSpeech": "past part.",
+                  "grammar": "angreifen (to attack) · past participle: angegriffen · hat angegriffen (perfect) · der Angriff (m.) = the attack"
+                }
+              ]
+            },
+            {
+              "id": "de-news-2026w17-05-s05",
+              "text": "Viele Deutsche finden das wichtig.",
+              "translation": "Many Germans find this important.",
+              "words": [
+                {
+                  "word": "Deutsche",
+                  "definition": "Germans",
+                  "partOfSpeech": "noun, m. pl.",
+                  "grammar": "der Deutsche / die Deutsche · adjective-as-noun · viele Deutsche = many Germans · ein Deutscher (m.) = a German man"
+                }
+              ]
+            },
+            {
+              "id": "de-news-2026w17-05-s06",
+              "text": "Aber manche Deutsche wollen keinen Krieg.",
+              "translation": "But some Germans don't want any war.",
+              "words": [
+                {
+                  "word": "manche",
+                  "definition": "some, certain",
+                  "partOfSpeech": "adj.",
+                  "grammar": "manche (pl.) = some/certain · manche Menschen = some people · mancher (m. sg.) = some/many a"
+                },
+                {
+                  "word": "Krieg",
+                  "definition": "war",
+                  "partOfSpeech": "noun, m.",
+                  "grammar": "der Krieg · die Kriege (pl.) · im Krieg = at war · Krieg führen = to wage war"
+                }
+              ]
+            },
+            {
+              "id": "de-news-2026w17-05-s07",
+              "text": "Es ist eine schwierige Frage für das ganze Land.",
+              "translation": "It is a difficult question for the whole country.",
+              "words": [
+                {
+                  "word": "schwierige",
+                  "definition": "difficult",
+                  "partOfSpeech": "adj.",
+                  "grammar": "schwierig · schwierige (adj. with definite/mixed article) · eine schwierige Frage = a difficult question · synonym: schwer"
+                },
+                {
+                  "word": "Frage",
+                  "definition": "question",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Frage · die Fragen (pl.) · eine Frage stellen = to ask a question · das ist keine Frage = that's not in question"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026w17-06",
+          "title": "Die neue Regierung in Deutschland",
+          "level": "A1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-04-20",
+            "topic": "Politik"
+          },
+          "sentences": [
+            {
+              "id": "de-news-2026w17-06-s01",
+              "text": "Deutschland hat eine neue Regierung.",
+              "translation": "Germany has a new government.",
+              "words": [
+                {
+                  "word": "Regierung",
+                  "definition": "government",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Regierung · die Regierungen (pl.) · die Bundesregierung = the Federal Government · regieren (to govern)"
+                }
+              ]
+            },
+            {
+              "id": "de-news-2026w17-06-s02",
+              "text": "Friedrich Merz ist der neue Bundeskanzler.",
+              "translation": "Friedrich Merz is the new Federal Chancellor.",
+              "words": [
+                {
+                  "word": "Bundeskanzler",
+                  "definition": "Federal Chancellor",
+                  "partOfSpeech": "noun, m.",
+                  "grammar": "der Bundeskanzler · compound: Bund (federation) + Kanzler (chancellor) · head of the German government"
+                }
+              ]
+            },
+            {
+              "id": "de-news-2026w17-06-s03",
+              "text": "Seine Partei heißt CDU.",
+              "translation": "His party is called CDU.",
+              "words": [
+                {
+                  "word": "Partei",
+                  "definition": "political party",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Partei · die Parteien (pl.) · Mitglied einer Partei = member of a party · Parteimitglied (n.)"
+                },
+                {
+                  "word": "heißt",
+                  "definition": "is called",
+                  "partOfSpeech": "verb",
+                  "grammar": "heißen (to be called) · er heißt · Wie heißt das? = What is that called? · Ich heiße = My name is"
+                }
+              ]
+            },
+            {
+              "id": "de-news-2026w17-06-s04",
+              "text": "CDU und SPD arbeiten jetzt zusammen.",
+              "translation": "CDU and SPD are now working together.",
+              "words": [
+                {
+                  "word": "arbeiten",
+                  "definition": "work together",
+                  "partOfSpeech": "verb",
+                  "grammar": "zusammenarbeiten (to cooperate) · separable: arbeiten ... zusammen · past: arbeiteten zusammen · die Zusammenarbeit (f.) = cooperation"
+                }
+              ]
+            },
+            {
+              "id": "de-news-2026w17-06-s05",
+              "text": "Das nennt man eine Koalition.",
+              "translation": "That is called a coalition.",
+              "words": [
+                {
+                  "word": "nennt",
+                  "definition": "calls, names",
+                  "partOfSpeech": "verb",
+                  "grammar": "nennen (to call/name) · man nennt = one calls · das nennt man = that is called · past: nannte"
+                },
+                {
+                  "word": "Koalition",
+                  "definition": "coalition",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Koalition · die Koalitionen (pl.) · Koalitionsvertrag (m.) = coalition agreement"
+                }
+              ]
+            },
+            {
+              "id": "de-news-2026w17-06-s06",
+              "text": "Die Koalition will die Wirtschaft stärker machen.",
+              "translation": "The coalition wants to make the economy stronger.",
+              "words": [
+                {
+                  "word": "Wirtschaft",
+                  "definition": "economy",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Wirtschaft · wirtschaftlich (adj.) = economic · die Wirtschaft wächst = the economy is growing"
+                },
+                {
+                  "word": "stärker",
+                  "definition": "stronger",
+                  "partOfSpeech": "adj.",
+                  "grammar": "stark · comparative: stärker · superlative: am stärksten · eine starke Wirtschaft = a strong economy"
+                }
+              ]
+            },
+            {
+              "id": "de-news-2026w17-06-s07",
+              "text": "Im September gibt es Wahlen in einigen Bundesländern.",
+              "translation": "In September there are elections in some federal states.",
+              "words": [
+                {
+                  "word": "Wahlen",
+                  "definition": "elections",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Wahl · die Wahlen (pl.) · wählen (to vote/choose) · zur Wahl gehen = to go to vote"
+                },
+                {
+                  "word": "Bundesländern",
+                  "definition": "federal states (dative pl.)",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "das Bundesland · die Bundesländer (pl.) · in den Bundesländern (dative pl.) · Germany has 16 Bundesländer"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekOf": "2026-04-21",
+      "articles": [
+        {
+          "id": "de-news-2026w17-01",
+          "title": "Bayern München ist Deutscher Meister 2025/26",
+          "level": "A2",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-04-21",
+            "topic": "Sport"
+          },
+          "sentences": [
+            {
+              "id": "de-n01-s01",
+              "text": "Bayern München hat die Bundesliga-Meisterschaft 2025/26 gewonnen.",
+              "translation": "Bayern Munich has won the Bundesliga championship 2025/26.",
+              "words": [
+                {
+                  "word": "Meisterschaft",
+                  "definition": "championship",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Meisterschaft · der Meister = champion · -schaft suffix forms abstract nouns"
+                },
+                {
+                  "word": "gewonnen",
+                  "definition": "won",
+                  "partOfSpeech": "past part.",
+                  "grammar": "gewinnen (to win) · past participle: gewonnen · takes haben as auxiliary"
+                }
+              ]
+            },
+            {
+              "id": "de-n01-s02",
+              "text": "Die Mannschaft besiegte den VfB Stuttgart mit 4:2.",
+              "translation": "The team defeated VfB Stuttgart 4–2.",
+              "words": [
+                {
+                  "word": "Mannschaft",
+                  "definition": "team",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Mannschaft · pl. die Mannschaften · der Mann = man · -schaft suffix"
+                },
+                {
+                  "word": "besiegte",
+                  "definition": "defeated",
+                  "partOfSpeech": "verb",
+                  "grammar": "besiegen (to defeat) · simple past (Präteritum): besiegte · der Sieg = victory"
+                }
+              ]
+            },
+            {
+              "id": "de-n01-s03",
+              "text": "Es ist der 34. Bundesliga-Titel für den Rekordmeister.",
+              "translation": "It is the 34th Bundesliga title for the record champion.",
+              "words": [
+                {
+                  "word": "Titel",
+                  "definition": "title",
+                  "partOfSpeech": "noun, m.",
+                  "grammar": "der Titel · pl. die Titel (no change in plural)"
+                }
+              ]
+            },
+            {
+              "id": "de-n01-s04",
+              "text": "Harry Kane erzielte in diesem Spiel ein Tor.",
+              "translation": "Harry Kane scored a goal in this match.",
+              "words": [
+                {
+                  "word": "erzielte",
+                  "definition": "scored, achieved",
+                  "partOfSpeech": "verb",
+                  "grammar": "erzielen (to score, to achieve) · simple past: erzielte · ein Tor erzielen = to score a goal"
+                },
+                {
+                  "word": "Tor",
+                  "definition": "goal; gate",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "das Tor · pl. die Tore · ein Tor schießen / erzielen = to score a goal"
+                }
+              ]
+            },
+            {
+              "id": "de-n01-s05",
+              "text": "Bayern hat in dieser Saison schon 109 Tore geschossen.",
+              "translation": "Bayern have already scored 109 goals this season.",
+              "words": [
+                {
+                  "word": "Saison",
+                  "definition": "season",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Saison · from French · pl. die Saisons"
+                },
+                {
+                  "word": "geschossen",
+                  "definition": "shot, scored",
+                  "partOfSpeech": "past part.",
+                  "grammar": "schießen (to shoot) · past participle: geschossen · takes haben"
+                }
+              ]
+            },
+            {
+              "id": "de-n01-s06",
+              "text": "Die Fans feiern den Sieg auf den Straßen von München.",
+              "translation": "The fans are celebrating the victory on the streets of Munich.",
+              "words": [
+                {
+                  "word": "feiern",
+                  "definition": "to celebrate",
+                  "partOfSpeech": "verb",
+                  "grammar": "feiern · die Feier = celebration, party · das Fest = festival"
+                },
+                {
+                  "word": "Sieg",
+                  "definition": "victory",
+                  "partOfSpeech": "noun, m.",
+                  "grammar": "der Sieg · siegen = to win · der Sieger = the winner"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026w17-02",
+          "title": "Deutschland beschließt Klimaschutzprogramm 2026",
+          "level": "B1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-04-21",
+            "topic": "Umwelt"
+          },
+          "sentences": [
+            {
+              "id": "de-n02-s01",
+              "text": "Die Bundesregierung hat im März 2026 das Klimaschutzprogramm 2026 beschlossen.",
+              "translation": "The federal government adopted the Climate Protection Programme 2026 in March 2026.",
+              "words": [
+                {
+                  "word": "Bundesregierung",
+                  "definition": "federal government",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Bundesregierung · Bund (federal, federation) + Regierung (government)"
+                },
+                {
+                  "word": "beschlossen",
+                  "definition": "adopted, decided",
+                  "partOfSpeech": "past part.",
+                  "grammar": "beschließen (to adopt, to decide) · past participle: beschlossen · der Beschluss = resolution"
+                }
+              ]
+            },
+            {
+              "id": "de-n02-s02",
+              "text": "Umweltminister Carsten Schneider hat das Programm vorgeschlagen.",
+              "translation": "Environment Minister Carsten Schneider proposed the programme.",
+              "words": [
+                {
+                  "word": "vorgeschlagen",
+                  "definition": "proposed, suggested",
+                  "partOfSpeech": "past part.",
+                  "grammar": "vorschlagen (to propose) · separable: vor|schlagen · past participle: vorgeschlagen"
+                }
+              ]
+            },
+            {
+              "id": "de-n02-s03",
+              "text": "Das Programm enthält 67 Maßnahmen zum Klimaschutz.",
+              "translation": "The programme contains 67 climate protection measures.",
+              "words": [
+                {
+                  "word": "Maßnahmen",
+                  "definition": "measures",
+                  "partOfSpeech": "noun, f. pl.",
+                  "grammar": "die Maßnahme (sg.) · die Maßnahmen (pl.) · Maß (measure) + Nahme (taking)"
+                },
+                {
+                  "word": "Klimaschutz",
+                  "definition": "climate protection",
+                  "partOfSpeech": "noun, m.",
+                  "grammar": "der Klimaschutz · Klima (climate) + Schutz (protection) · compound noun"
+                }
+              ]
+            },
+            {
+              "id": "de-n02-s04",
+              "text": "Bis 2030 sollen damit mehr als 25 Millionen Tonnen CO₂ zusätzlich eingespart werden.",
+              "translation": "By 2030, more than 25 million additional tonnes of CO₂ are to be saved with this.",
+              "words": [
+                {
+                  "word": "eingespart",
+                  "definition": "saved, cut",
+                  "partOfSpeech": "past part.",
+                  "grammar": "einsparen (to save, to cut back) · separable: ein|sparen · past participle: eingespart"
+                },
+                {
+                  "word": "zusätzlich",
+                  "definition": "additional, extra",
+                  "partOfSpeech": "adj.",
+                  "grammar": "zusätzlich · der Zusatz = addition, supplement · zusätzliche Einsparungen = additional savings"
+                }
+              ]
+            },
+            {
+              "id": "de-n02-s05",
+              "text": "Eine wichtige Maßnahme ist die Förderung von etwa 800.000 Elektroautos.",
+              "translation": "An important measure is the subsidisation of around 800,000 electric vehicles.",
+              "words": [
+                {
+                  "word": "Förderung",
+                  "definition": "subsidisation, funding, promotion",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Förderung · fördern = to fund, to support · die Förderung erhalten = to receive funding"
+                },
+                {
+                  "word": "Elektroautos",
+                  "definition": "electric vehicles",
+                  "partOfSpeech": "noun, n. pl.",
+                  "grammar": "das Elektroauto · Elektro + Auto · pl. die Elektroautos"
+                }
+              ]
+            },
+            {
+              "id": "de-n02-s06",
+              "text": "Auch die Windenergie soll weiter ausgebaut werden.",
+              "translation": "Wind energy is also to be further expanded.",
+              "words": [
+                {
+                  "word": "Windenergie",
+                  "definition": "wind energy",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Windenergie · Wind + Energie · compound noun · also: die Windkraft"
+                },
+                {
+                  "word": "ausgebaut",
+                  "definition": "expanded, extended",
+                  "partOfSpeech": "past part.",
+                  "grammar": "ausbauen (to expand) · separable: aus|bauen · past participle: ausgebaut"
+                }
+              ]
+            },
+            {
+              "id": "de-n02-s07",
+              "text": "Das Programm wird bis 2030 mit 7,6 Milliarden Euro aus dem Klima- und Transformationsfonds finanziert.",
+              "translation": "The programme is financed with 7.6 billion euros from the Climate and Transformation Fund through 2030.",
+              "words": [
+                {
+                  "word": "finanziert",
+                  "definition": "financed, funded",
+                  "partOfSpeech": "verb",
+                  "grammar": "finanzieren (to finance) · die Finanzierung = financing · das Finanzamt = tax office"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026w17-03",
+          "title": "Merz trifft Lula: Deutschland und Brasilien stärken Wirtschaftsbeziehungen",
+          "level": "B1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-04-21",
+            "topic": "Wirtschaft"
+          },
+          "sentences": [
+            {
+              "id": "de-n03-s01",
+              "text": "Bundeskanzler Friedrich Merz hat sich am 20. April 2026 in Hannover mit dem brasilianischen Präsidenten Lula da Silva getroffen.",
+              "translation": "Federal Chancellor Friedrich Merz met with Brazilian President Lula da Silva in Hannover on 20 April 2026.",
+              "words": [
+                {
+                  "word": "Bundeskanzler",
+                  "definition": "Federal Chancellor",
+                  "partOfSpeech": "noun, m.",
+                  "grammar": "der Bundeskanzler · Bund + Kanzler · head of the German government"
+                },
+                {
+                  "word": "getroffen",
+                  "definition": "met",
+                  "partOfSpeech": "past part.",
+                  "grammar": "treffen (to meet) · past participle: getroffen · sich treffen mit = to meet with someone"
+                }
+              ]
+            },
+            {
+              "id": "de-n03-s02",
+              "text": "An dem Treffen nahmen auch 15 Minister aus beiden Ländern teil.",
+              "translation": "15 ministers from both countries also took part in the meeting.",
+              "words": [
+                {
+                  "word": "nahmen",
+                  "definition": "took part (participated)",
+                  "partOfSpeech": "verb",
+                  "grammar": "teilnehmen (to take part) · separable: teil|nehmen · simple past: nahm (sg.), nahmen (pl.)"
+                }
+              ]
+            },
+            {
+              "id": "de-n03-s03",
+              "text": "Im Mittelpunkt standen die Wirtschaftsbeziehungen zwischen Deutschland und Brasilien.",
+              "translation": "The focus was on economic relations between Germany and Brazil.",
+              "words": [
+                {
+                  "word": "Mittelpunkt",
+                  "definition": "centre, focus",
+                  "partOfSpeech": "noun, m.",
+                  "grammar": "der Mittelpunkt · Mitte (middle) + Punkt (point) · im Mittelpunkt stehen = to be the focus"
+                },
+                {
+                  "word": "Wirtschaftsbeziehungen",
+                  "definition": "economic relations",
+                  "partOfSpeech": "noun, f. pl.",
+                  "grammar": "die Wirtschaftsbeziehung · Wirtschaft (economy) + Beziehung (relation) · compound noun"
+                }
+              ]
+            },
+            {
+              "id": "de-n03-s04",
+              "text": "Beide Seiten wollen den Handel weiter stärken.",
+              "translation": "Both sides want to further strengthen trade.",
+              "words": [
+                {
+                  "word": "Handel",
+                  "definition": "trade, commerce",
+                  "partOfSpeech": "noun, m.",
+                  "grammar": "der Handel · handeln = to trade · der Händler = trader, dealer"
+                },
+                {
+                  "word": "stärken",
+                  "definition": "to strengthen",
+                  "partOfSpeech": "verb",
+                  "grammar": "stärken · stark = strong · die Stärke = strength"
+                }
+              ]
+            },
+            {
+              "id": "de-n03-s05",
+              "text": "Ein wichtiges Thema war das Freihandelsabkommen zwischen der EU und dem Mercosur-Staatenbund.",
+              "translation": "An important topic was the free trade agreement between the EU and the Mercosur bloc.",
+              "words": [
+                {
+                  "word": "Freihandelsabkommen",
+                  "definition": "free trade agreement",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "das Freihandelsabkommen · Freihandel (free trade) + Abkommen (agreement) · compound noun"
+                }
+              ]
+            },
+            {
+              "id": "de-n03-s06",
+              "text": "Dieses Abkommen schafft eine Freihandelszone mit mehr als 700 Millionen Menschen.",
+              "translation": "This agreement creates a free trade zone with more than 700 million people.",
+              "words": [
+                {
+                  "word": "schafft",
+                  "definition": "creates, establishes",
+                  "partOfSpeech": "verb",
+                  "grammar": "schaffen (to create) · schafft (3rd pers. sg.) · das Schaffen = creative work"
+                },
+                {
+                  "word": "Freihandelszone",
+                  "definition": "free trade zone",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Freihandelszone · Freihandel (free trade) + Zone · compound noun"
+                }
+              ]
+            },
+            {
+              "id": "de-n03-s07",
+              "text": "Das Abkommen tritt am 1. Mai 2026 in Kraft.",
+              "translation": "The agreement enters into force on 1 May 2026.",
+              "words": [
+                {
+                  "word": "Abkommen",
+                  "definition": "agreement",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "das Abkommen · pl. die Abkommen (no change) · formal agreement between states"
+                },
+                {
+                  "word": "tritt",
+                  "definition": "enters (in Kraft treten = to enter into force)",
+                  "partOfSpeech": "verb",
+                  "grammar": "in Kraft treten (to enter into force) · tritt (3rd pers. sg.) · strong verb"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026w17-04",
+          "title": "Marina Abramović zeigt große Ausstellung im Gropius Bau",
+          "level": "A2",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-04-21",
+            "topic": "Kultur"
+          },
+          "sentences": [
+            {
+              "id": "de-n04-s01",
+              "text": "Die Künstlerin Marina Abramović zeigt ab April 2026 eine große Ausstellung in Berlin.",
+              "translation": "The artist Marina Abramović is showing a major exhibition in Berlin from April 2026.",
+              "words": [
+                {
+                  "word": "Künstlerin",
+                  "definition": "artist (female)",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Künstlerin · der Künstler (m.) · die Kunst = art · -in suffix marks feminine form"
+                },
+                {
+                  "word": "Ausstellung",
+                  "definition": "exhibition",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Ausstellung · ausstellen (to exhibit) · separable: aus|stellen"
+                }
+              ]
+            },
+            {
+              "id": "de-n04-s02",
+              "text": "Die Ausstellung findet im Gropius Bau statt.",
+              "translation": "The exhibition is taking place at the Gropius Bau.",
+              "words": [
+                {
+                  "word": "findet",
+                  "definition": "takes place (stattfinden)",
+                  "partOfSpeech": "verb",
+                  "grammar": "stattfinden (to take place) · separable: statt|finden · findet ... statt in present tense"
+                }
+              ]
+            },
+            {
+              "id": "de-n04-s03",
+              "text": "Sie heißt 'Balkan Erotic Epic' und zeigt Filme, Installationen und Live-Vorführungen.",
+              "translation": "It is called 'Balkan Erotic Epic' and features films, installations and live performances.",
+              "words": [
+                {
+                  "word": "Installationen",
+                  "definition": "installations",
+                  "partOfSpeech": "noun, f. pl.",
+                  "grammar": "die Installation (sg.) · die Installationen (pl.) · from Latin installare"
+                },
+                {
+                  "word": "Vorführungen",
+                  "definition": "performances, screenings",
+                  "partOfSpeech": "noun, f. pl.",
+                  "grammar": "die Vorführung · vorführen (to perform, to demonstrate) · separable: vor|führen"
+                }
+              ]
+            },
+            {
+              "id": "de-n04-s04",
+              "text": "Die Ausstellung läuft bis zum 23. August 2026.",
+              "translation": "The exhibition runs until 23 August 2026.",
+              "words": [
+                {
+                  "word": "läuft",
+                  "definition": "runs, is on",
+                  "partOfSpeech": "verb",
+                  "grammar": "laufen (to run) · läuft (3rd pers. sg.) · here: to run (of an event or film)"
+                }
+              ]
+            },
+            {
+              "id": "de-n04-s05",
+              "text": "Besucher können Rituale aus dem Balkan erkunden.",
+              "translation": "Visitors can explore rituals from the Balkans.",
+              "words": [
+                {
+                  "word": "Besucher",
+                  "definition": "visitors",
+                  "partOfSpeech": "noun, m. pl.",
+                  "grammar": "der Besucher · besuchen (to visit) · -er suffix forms agent nouns"
+                },
+                {
+                  "word": "erkunden",
+                  "definition": "to explore",
+                  "partOfSpeech": "verb",
+                  "grammar": "erkunden · die Erkundung = exploration · entdecken is a near synonym"
+                }
+              ]
+            },
+            {
+              "id": "de-n04-s06",
+              "text": "Das Werk fragt auch nach der politischen Bedeutung des Körpers.",
+              "translation": "The work also asks about the political significance of the body.",
+              "words": [
+                {
+                  "word": "Bedeutung",
+                  "definition": "significance, meaning",
+                  "partOfSpeech": "noun, f.",
+                  "grammar": "die Bedeutung · bedeuten (to mean) · bedeutend = significant, important"
+                },
+                {
+                  "word": "Körpers",
+                  "definition": "of the body",
+                  "partOfSpeech": "noun, m.",
+                  "grammar": "der Körper (nom.) · des Körpers (gen.) · genitive case: masculine nouns add -s"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekOf": "2026-05-25",
+      "articles": [
+        {
+          "id": "de-news-2026-05-25-01",
+          "title": "Berlin will mehr Bäume",
+          "level": "A1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "topic": "Umwelt",
+            "source": "taz.de"
+          },
+          "sentences": [
+            {
+              "id": "s1",
+              "text": "Berlin hat ein Problem.",
+              "translation": "Berlin has a problem.",
+              "grammarNote": "Subject–verb–object order. 'haben' (to have) in Präsens: ich habe, du hast, er/sie/es hat. 'ein Problem' is Akkusativ – the thing you 'have' is the object.",
+              "words": [
+                {
+                  "word": "hat",
+                  "definition": "has",
+                  "partOfSpeech": "verb",
+                  "grammar": "haben · Präsens · 3. Person Singular"
+                },
+                {
+                  "word": "Problem",
+                  "definition": "problem",
+                  "partOfSpeech": "noun",
+                  "grammar": "das Problem · Akkusativ · Singular"
+                }
+              ]
+            },
+            {
+              "id": "s2",
+              "text": "Die Stadt braucht mehr Bäume.",
+              "translation": "The city needs more trees.",
+              "grammarNote": "'brauchen' (to need) follows the same pattern as 'haben': subject + verb + object. 'Bäume' is the plural of 'der Baum' (the tree) – German often adds an umlaut (a→ä, u→ü) to make plurals.",
+              "words": [
+                {
+                  "word": "braucht",
+                  "definition": "needs",
+                  "partOfSpeech": "verb",
+                  "grammar": "brauchen · Präsens · 3. Person Singular"
+                },
+                {
+                  "word": "Bäume",
+                  "definition": "trees",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Baum · Akkusativ · Plural"
+                }
+              ]
+            },
+            {
+              "id": "s3",
+              "text": "Die Berliner haben dafür gestimmt.",
+              "translation": "Berliners voted for this.",
+              "grammarNote": "Perfekt tense: 'haben' + past participle at the end. This is the most common past tense in spoken and written German. 'gestimmt' is the Partizip II of 'stimmen'. The verb comes last when the auxiliary 'haben' is used.",
+              "words": [
+                {
+                  "word": "haben",
+                  "definition": "have (auxiliary)",
+                  "partOfSpeech": "verb",
+                  "grammar": "haben · Präsens · 3. Person Plural · Hilfsverb"
+                },
+                {
+                  "word": "gestimmt",
+                  "definition": "voted",
+                  "partOfSpeech": "verb",
+                  "grammar": "stimmen · Perfekt · Partizip II"
+                },
+                {
+                  "word": "dafür",
+                  "definition": "for it",
+                  "partOfSpeech": "adverb",
+                  "grammar": "dafür · nicht trennbar"
+                }
+              ]
+            },
+            {
+              "id": "s4",
+              "text": "Das Ziel ist eine Million Bäume.",
+              "translation": "The goal is one million trees.",
+              "grammarNote": "'sein' (to be) links two noun phrases: subject + ist + description. No Akkusativ here – after 'sein' German uses Nominativ on both sides (das Ziel = eine Million Bäume).",
+              "words": [
+                {
+                  "word": "Ziel",
+                  "definition": "goal",
+                  "partOfSpeech": "noun",
+                  "grammar": "das Ziel · Nominativ · Singular"
+                },
+                {
+                  "word": "ist",
+                  "definition": "is",
+                  "partOfSpeech": "verb",
+                  "grammar": "sein · Präsens · 3. Person Singular"
+                },
+                {
+                  "word": "Million",
+                  "definition": "million",
+                  "partOfSpeech": "noun",
+                  "grammar": "die Million · Nominativ · Singular"
+                }
+              ]
+            },
+            {
+              "id": "s5",
+              "text": "Aber der Senat ist zu langsam.",
+              "translation": "But the Senate is too slow.",
+              "grammarNote": "'zu + adjective' means 'too + adjective', just like English. The adjective 'langsam' is used predicatively here (after 'sein'), so it has no ending – compare 'ein langsamer Senat' (attributive, with ending).",
+              "words": [
+                {
+                  "word": "Senat",
+                  "definition": "Senate (Berlin city government)",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Senat · Nominativ · Singular"
+                },
+                {
+                  "word": "zu",
+                  "definition": "too (before adjective)",
+                  "partOfSpeech": "particle",
+                  "grammar": "zu · Gradpartikel · vor Adjektiv"
+                },
+                {
+                  "word": "langsam",
+                  "definition": "slow",
+                  "partOfSpeech": "adjective",
+                  "grammar": "langsam · Prädikativ · keine Endung"
+                }
+              ]
+            },
+            {
+              "id": "s6",
+              "text": "Die ersten Fristen sind schon vorbei.",
+              "translation": "The first deadlines have already passed.",
+              "grammarNote": "'vorbei sein' is a fixed expression meaning 'to be over/past'. 'schon' (already) sits before the thing it emphasises. 'ersten' is an adjective with a strong ending in Nominativ plural after 'die'.",
+              "words": [
+                {
+                  "word": "ersten",
+                  "definition": "first",
+                  "partOfSpeech": "adjective",
+                  "grammar": "erst- · Nominativ · Plural · nach bestimmtem Artikel"
+                },
+                {
+                  "word": "Fristen",
+                  "definition": "deadlines",
+                  "partOfSpeech": "noun",
+                  "grammar": "die Frist · Nominativ · Plural"
+                },
+                {
+                  "word": "schon",
+                  "definition": "already",
+                  "partOfSpeech": "adverb",
+                  "grammar": "schon · Temporaladverb"
+                },
+                {
+                  "word": "vorbei",
+                  "definition": "over / passed",
+                  "partOfSpeech": "adverb",
+                  "grammar": "vorbei · Prädikativadverb · mit sein"
+                }
+              ]
+            },
+            {
+              "id": "s7",
+              "text": "Kritiker sagen: Das ist nicht gut.",
+              "translation": "Critics say: That is not good.",
+              "grammarNote": "Direct speech introduced by a colon – common in German news writing. 'nicht' negates the adjective: 'nicht gut' = not good. Notice 'Das' (that/this) as a neutral demonstrative pronoun pointing back to the situation.",
+              "words": [
+                {
+                  "word": "Kritiker",
+                  "definition": "critics",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Kritiker · Nominativ · Plural"
+                },
+                {
+                  "word": "sagen",
+                  "definition": "say",
+                  "partOfSpeech": "verb",
+                  "grammar": "sagen · Präsens · 3. Person Plural"
+                },
+                {
+                  "word": "nicht",
+                  "definition": "not",
+                  "partOfSpeech": "adverb",
+                  "grammar": "nicht · Negationspartikel · vor Adjektiv"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026-05-25-02",
+          "title": "Wahl in Neukölln: Sarah Nagel bleibt",
+          "level": "A1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "topic": "Politik",
+            "source": "berliner-zeitung.de"
+          },
+          "sentences": [
+            {
+              "id": "s1",
+              "text": "Sarah Nagel arbeitet in Neukölln.",
+              "translation": "Sarah Nagel works in Neukölln.",
+              "grammarNote": "Location after the verb: subject + verb + place. 'in + Dativ' for locations where something happens (staying in a place). Compare: 'Sie geht nach Neukölln' (direction, with nach) vs 'Sie arbeitet in Neukölln' (location, with in + Dativ).",
+              "words": [
+                {
+                  "word": "arbeitet",
+                  "definition": "works",
+                  "partOfSpeech": "verb",
+                  "grammar": "arbeiten · Präsens · 3. Person Singular"
+                },
+                {
+                  "word": "in",
+                  "definition": "in",
+                  "partOfSpeech": "preposition",
+                  "grammar": "in · mit Dativ (Ort)"
+                },
+                {
+                  "word": "Neukölln",
+                  "definition": "Neukölln (borough of Berlin)",
+                  "partOfSpeech": "noun",
+                  "grammar": "Eigenname · Ortsname · kein Artikel"
+                }
+              ]
+            },
+            {
+              "id": "s2",
+              "text": "Sie ist Politikerin.",
+              "translation": "She is a politician.",
+              "grammarNote": "Professions after 'sein' take no article in German: 'Sie ist Politikerin' – not 'eine Politikerin'. This is different from English ('She is a politician'). Same rule: 'Er ist Lehrer', 'Sie ist Ärztin'.",
+              "words": [
+                {
+                  "word": "Sie",
+                  "definition": "she",
+                  "partOfSpeech": "pronoun",
+                  "grammar": "Personalpronomen · Nominativ · 3. Person Singular feminin"
+                },
+                {
+                  "word": "Politikerin",
+                  "definition": "politician (female)",
+                  "partOfSpeech": "noun",
+                  "grammar": "die Politikerin · Nominativ · Singular · kein Artikel nach sein"
+                }
+              ]
+            },
+            {
+              "id": "s3",
+              "text": "Viele Leute wollten sie abwählen.",
+              "translation": "Many people wanted to vote her out.",
+              "grammarNote": "Modal verb construction: modal (wollten) in second position + infinitive at the end. 'wollen' in Präteritum (simple past) – modals commonly use Präteritum even in spoken German. 'abwählen' is a separable verb (ab- + wählen), but in the infinitive the prefix stays attached.",
+              "words": [
+                {
+                  "word": "wollten",
+                  "definition": "wanted to",
+                  "partOfSpeech": "verb",
+                  "grammar": "wollen · Präteritum · 3. Person Plural · Modalverb"
+                },
+                {
+                  "word": "sie",
+                  "definition": "her (object)",
+                  "partOfSpeech": "pronoun",
+                  "grammar": "Personalpronomen · Akkusativ · 3. Person Singular feminin"
+                },
+                {
+                  "word": "abwählen",
+                  "definition": "to vote out of office",
+                  "partOfSpeech": "verb",
+                  "grammar": "abwählen · Infinitiv · trennbar · ab- + wählen"
+                }
+              ]
+            },
+            {
+              "id": "s4",
+              "text": "34 Verordnete haben gegen sie gestimmt.",
+              "translation": "34 assembly members voted against her.",
+              "grammarNote": "Perfekt again: 'haben' + Partizip II at the end. 'gegen + Akkusativ' = against (someone). Note 'sie' here is Akkusativ (her), not the subject – the subject is '34 Verordnete'.",
+              "words": [
+                {
+                  "word": "haben",
+                  "definition": "have (auxiliary)",
+                  "partOfSpeech": "verb",
+                  "grammar": "haben · Präsens · 3. Person Plural · Hilfsverb"
+                },
+                {
+                  "word": "gegen",
+                  "definition": "against",
+                  "partOfSpeech": "preposition",
+                  "grammar": "gegen · mit Akkusativ"
+                },
+                {
+                  "word": "sie",
+                  "definition": "her",
+                  "partOfSpeech": "pronoun",
+                  "grammar": "Personalpronomen · Akkusativ · 3. Person Singular feminin"
+                },
+                {
+                  "word": "gestimmt",
+                  "definition": "voted",
+                  "partOfSpeech": "verb",
+                  "grammar": "stimmen · Perfekt · Partizip II"
+                }
+              ]
+            },
+            {
+              "id": "s5",
+              "text": "Aber das war nicht genug.",
+              "translation": "But that was not enough.",
+              "grammarNote": "'war' is the Präteritum (simple past) of 'sein'. For 'sein' and 'haben', Germans use Präteritum rather than Perfekt even in casual speech – 'das war' sounds natural, while 'das ist gewesen' would be unusual.",
+              "words": [
+                {
+                  "word": "war",
+                  "definition": "was",
+                  "partOfSpeech": "verb",
+                  "grammar": "sein · Präteritum · 3. Person Singular"
+                },
+                {
+                  "word": "nicht",
+                  "definition": "not",
+                  "partOfSpeech": "adverb",
+                  "grammar": "nicht · Negationspartikel"
+                },
+                {
+                  "word": "genug",
+                  "definition": "enough",
+                  "partOfSpeech": "adverb",
+                  "grammar": "genug · unveränderlich · nach nicht"
+                }
+              ]
+            },
+            {
+              "id": "s6",
+              "text": "Sie bleibt in ihrem Amt.",
+              "translation": "She stays in her position.",
+              "grammarNote": "'in + Dativ' for location/state. 'ihrem' is the possessive adjective 'ihr' (her) in Dativ masculine/neuter – 'das Amt' is neuter, so Dativ = 'dem Amt' → 'ihrem Amt'. Possessives follow the same endings as 'ein/kein'.",
+              "words": [
+                {
+                  "word": "bleibt",
+                  "definition": "stays / remains",
+                  "partOfSpeech": "verb",
+                  "grammar": "bleiben · Präsens · 3. Person Singular"
+                },
+                {
+                  "word": "in",
+                  "definition": "in",
+                  "partOfSpeech": "preposition",
+                  "grammar": "in · mit Dativ (Zustand)"
+                },
+                {
+                  "word": "ihrem",
+                  "definition": "her",
+                  "partOfSpeech": "adjective",
+                  "grammar": "ihr · Possessivartikel · Dativ · Singular · Neutrum"
+                },
+                {
+                  "word": "Amt",
+                  "definition": "official position / office",
+                  "partOfSpeech": "noun",
+                  "grammar": "das Amt · Dativ · Singular"
+                }
+              ]
+            },
+            {
+              "id": "s7",
+              "text": "Jetzt muss Neukölln die Arbeit machen.",
+              "translation": "Now Neukölln must do the work.",
+              "grammarNote": "When an adverb like 'jetzt' (now) starts the sentence, the subject and verb swap: 'jetzt + muss + Neukölln' (verb before subject). This is called inversion – the verb always stays in second position in German main clauses.",
+              "words": [
+                {
+                  "word": "Jetzt",
+                  "definition": "now",
+                  "partOfSpeech": "adverb",
+                  "grammar": "jetzt · Temporaladverb · Satzanfang → Inversion"
+                },
+                {
+                  "word": "muss",
+                  "definition": "must",
+                  "partOfSpeech": "verb",
+                  "grammar": "müssen · Präsens · 3. Person Singular · Modalverb · Position 2"
+                },
+                {
+                  "word": "machen",
+                  "definition": "do / make",
+                  "partOfSpeech": "verb",
+                  "grammar": "machen · Infinitiv · Satzende nach Modalverb"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026-05-25-03",
+          "title": "48 Stunden Neukölln – das Kunstfestival kommt!",
+          "level": "A1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "topic": "Kultur",
+            "source": "berlin.de/ba-neukoelln"
+          },
+          "sentences": [
+            {
+              "id": "s1",
+              "text": "Im Juni gibt es ein großes Fest in Neukölln.",
+              "translation": "In June there is a big festival in Neukölln.",
+              "grammarNote": "'es gibt' (there is/there are) is an impersonal construction – 'es' is a placeholder, not a real subject. The thing that exists goes in Akkusativ: 'ein großes Fest'. 'Im Juni' = 'in dem Juni', contracted. Time expressions often come first.",
+              "words": [
+                {
+                  "word": "Im",
+                  "definition": "in the (contracted)",
+                  "partOfSpeech": "preposition",
+                  "grammar": "in + dem → im · Dativ · Zeitangabe"
+                },
+                {
+                  "word": "gibt es",
+                  "definition": "there is / there are",
+                  "partOfSpeech": "verb",
+                  "grammar": "es gibt · Präsens · unpersönlich · Akkusativ folgt"
+                },
+                {
+                  "word": "großes",
+                  "definition": "big",
+                  "partOfSpeech": "adjective",
+                  "grammar": "groß · Akkusativ · Singular · Neutrum · nach unbestimmtem Artikel"
+                },
+                {
+                  "word": "Fest",
+                  "definition": "festival / celebration",
+                  "partOfSpeech": "noun",
+                  "grammar": "das Fest · Akkusativ · Singular"
+                }
+              ]
+            },
+            {
+              "id": "s2",
+              "text": "Es heißt 48 Stunden Neukölln.",
+              "translation": "It is called 48 Hours Neukölln.",
+              "grammarNote": "'heißen' means both 'to be called' and 'to mean'. Here 'Es heißt …' = 'It is called …'. The name follows directly with no article or case change. A useful phrase to learn things: 'Wie heißt das?' = 'What is that called?'",
+              "words": [
+                {
+                  "word": "heißt",
+                  "definition": "is called",
+                  "partOfSpeech": "verb",
+                  "grammar": "heißen · Präsens · 3. Person Singular"
+                },
+                {
+                  "word": "Stunden",
+                  "definition": "hours",
+                  "partOfSpeech": "noun",
+                  "grammar": "die Stunde · Nominativ · Plural · in Eigenname"
+                }
+              ]
+            },
+            {
+              "id": "s3",
+              "text": "Das Festival ist für Kunst und Kultur.",
+              "translation": "The festival is for art and culture.",
+              "grammarNote": "'für + Akkusativ' = for (something). Here 'Kunst und Kultur' are abstract nouns used without an article – very common in German for general concepts. Compare: 'für die Kunst' (for the art, specific) vs 'für Kunst' (for art in general).",
+              "words": [
+                {
+                  "word": "für",
+                  "definition": "for",
+                  "partOfSpeech": "preposition",
+                  "grammar": "für · mit Akkusativ"
+                },
+                {
+                  "word": "Kunst",
+                  "definition": "art",
+                  "partOfSpeech": "noun",
+                  "grammar": "die Kunst · Akkusativ · Singular · kein Artikel (allgemein)"
+                },
+                {
+                  "word": "Kultur",
+                  "definition": "culture",
+                  "partOfSpeech": "noun",
+                  "grammar": "die Kultur · Akkusativ · Singular · kein Artikel (allgemein)"
+                }
+              ]
+            },
+            {
+              "id": "s4",
+              "text": "Es findet schon zum 28. Mal statt.",
+              "translation": "It is taking place for the 28th time.",
+              "grammarNote": "'stattfinden' is a separable verb: the prefix 'statt-' splits off and goes to the end – 'Es findet … statt'. In the infinitive it stays together: 'stattfinden'. 'zum 28. Mal' = 'for the 28th time'; 'zum' = 'zu dem' (Dativ).",
+              "words": [
+                {
+                  "word": "findet",
+                  "definition": "takes (part of 'takes place')",
+                  "partOfSpeech": "verb",
+                  "grammar": "stattfinden · Präsens · 3. Person Singular · trennbar · Stamm in Position 2"
+                },
+                {
+                  "word": "zum",
+                  "definition": "to the / for the (contracted)",
+                  "partOfSpeech": "preposition",
+                  "grammar": "zu + dem → zum · Dativ"
+                },
+                {
+                  "word": "Mal",
+                  "definition": "time (occurrence)",
+                  "partOfSpeech": "noun",
+                  "grammar": "das Mal · Dativ · Singular"
+                },
+                {
+                  "word": "statt",
+                  "definition": "(prefix, split to end)",
+                  "partOfSpeech": "verb",
+                  "grammar": "stattfinden · abgetrenntes Präfix · Satzende"
+                }
+              ]
+            },
+            {
+              "id": "s5",
+              "text": "Viele Künstler aus dem Kiez machen mit.",
+              "translation": "Many artists from the neighbourhood take part.",
+              "grammarNote": "'mitmachen' = to join in / take part. Another separable verb: 'mit' splits off to the end. 'aus dem Kiez' = from the neighbourhood – 'aus + Dativ' for origin or source. 'dem' is the Dativ article for masculine nouns (der Kiez → aus dem Kiez).",
+              "words": [
+                {
+                  "word": "Künstler",
+                  "definition": "artists",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Künstler · Nominativ · Plural"
+                },
+                {
+                  "word": "aus",
+                  "definition": "from",
+                  "partOfSpeech": "preposition",
+                  "grammar": "aus · mit Dativ · Herkunft"
+                },
+                {
+                  "word": "dem",
+                  "definition": "the (Dativ)",
+                  "partOfSpeech": "article",
+                  "grammar": "bestimmter Artikel · Dativ · Singular · maskulin"
+                },
+                {
+                  "word": "Kiez",
+                  "definition": "neighbourhood / local area (Berlin slang)",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Kiez · Dativ · Singular"
+                },
+                {
+                  "word": "mit",
+                  "definition": "(prefix, split to end)",
+                  "partOfSpeech": "verb",
+                  "grammar": "mitmachen · abgetrenntes Präfix · Satzende"
+                }
+              ]
+            },
+            {
+              "id": "s6",
+              "text": "Der Eintritt ist kostenlos.",
+              "translation": "Entry is free.",
+              "grammarNote": "Predicative adjective: adjective after 'sein' has no ending – 'kostenlos', not 'kostenloser'. Compare attributive use: 'der kostenlose Eintritt' (the free entry, adjective before noun, needs an ending). This is a key German adjective rule.",
+              "words": [
+                {
+                  "word": "Eintritt",
+                  "definition": "entry / admission",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Eintritt · Nominativ · Singular"
+                },
+                {
+                  "word": "kostenlos",
+                  "definition": "free of charge",
+                  "partOfSpeech": "adjective",
+                  "grammar": "kostenlos · Prädikativ · keine Endung nach sein"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026-05-25-04",
+          "title": "Ein neuer Supermarkt in Neukölln",
+          "level": "A1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "topic": "Kiez-Leben",
+            "source": "taz.de"
+          },
+          "sentences": [
+            {
+              "id": "s1",
+              "text": "In Neukölln gibt es jetzt vier Azzam-Filialen.",
+              "translation": "In Neukölln there are now four Azzam branches.",
+              "grammarNote": "The sentence starts with a place ('In Neukölln'), so the verb 'gibt' comes before the subject placeholder 'es' – inversion. 'es gibt' + Akkusativ for 'there is/are'. Numbers before nouns need no article: 'vier Filialen', not 'die vier Filialen' (unless the specific ones are known).",
+              "words": [
+                {
+                  "word": "gibt es",
+                  "definition": "there are",
+                  "partOfSpeech": "verb",
+                  "grammar": "es gibt · Präsens · unpersönlich · Inversion nach Ortsangabe"
+                },
+                {
+                  "word": "vier",
+                  "definition": "four",
+                  "partOfSpeech": "numeral",
+                  "grammar": "vier · Kardinalzahl · kein Artikel nötig"
+                },
+                {
+                  "word": "Filialen",
+                  "definition": "branches / shops",
+                  "partOfSpeech": "noun",
+                  "grammar": "die Filiale · Akkusativ · Plural"
+                }
+              ]
+            },
+            {
+              "id": "s2",
+              "text": "Azzam ist ein Supermarkt.",
+              "translation": "Azzam is a supermarket.",
+              "grammarNote": "Simple definition sentence: name + ist + indefinite article + noun. 'ein Supermarkt' uses the indefinite article 'ein' (masculine), agreeing with 'der Supermarkt'. This pattern is identical for introductions: 'Das ist ein Markt', 'Er ist ein Laden'.",
+              "words": [
+                {
+                  "word": "ein",
+                  "definition": "a / an",
+                  "partOfSpeech": "article",
+                  "grammar": "unbestimmter Artikel · Nominativ · Singular · maskulin"
+                },
+                {
+                  "word": "Supermarkt",
+                  "definition": "supermarket",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Supermarkt · Nominativ · Singular"
+                }
+              ]
+            },
+            {
+              "id": "s3",
+              "text": "Dort kauft man arabische und türkische Lebensmittel.",
+              "translation": "There you can buy Arabic and Turkish food products.",
+              "grammarNote": "'man' is an impersonal pronoun meaning 'one / you / people in general' – it never refers to a specific person. The verb agrees as 3. Person Singular: 'man kauft'. 'Dort' (there) starts the sentence, triggering inversion: 'kauft man'. Adjective endings: 'arabische/türkische' are Akkusativ plural after no article.",
+              "words": [
+                {
+                  "word": "Dort",
+                  "definition": "there",
+                  "partOfSpeech": "adverb",
+                  "grammar": "dort · Lokaladverb · Satzanfang → Inversion"
+                },
+                {
+                  "word": "kauft",
+                  "definition": "buys",
+                  "partOfSpeech": "verb",
+                  "grammar": "kaufen · Präsens · man (unpersönlich) · 3. Person Singular"
+                },
+                {
+                  "word": "man",
+                  "definition": "one / you / people (impersonal)",
+                  "partOfSpeech": "pronoun",
+                  "grammar": "man · Indefinitpronomen · Nominativ · unpersönlich"
+                },
+                {
+                  "word": "arabische",
+                  "definition": "Arabic",
+                  "partOfSpeech": "adjective",
+                  "grammar": "arabisch · Akkusativ · Plural · kein Artikel → starke Endung -e"
+                }
+              ]
+            },
+            {
+              "id": "s4",
+              "text": "Viele Menschen aus dem Kiez kommen gern.",
+              "translation": "Many people from the neighbourhood like to come.",
+              "grammarNote": "'gern + verb' expresses liking to do something – 'kommen gern' = like to come. 'gern' has no fixed position but usually comes near the end. It is the equivalent of 'mögen + infinitive' but simpler and more idiomatic.",
+              "words": [
+                {
+                  "word": "Menschen",
+                  "definition": "people",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Mensch · Nominativ · Plural"
+                },
+                {
+                  "word": "aus dem",
+                  "definition": "from the",
+                  "partOfSpeech": "preposition",
+                  "grammar": "aus · mit Dativ · dem = Dativ maskulin"
+                },
+                {
+                  "word": "gern",
+                  "definition": "gladly / like to",
+                  "partOfSpeech": "adverb",
+                  "grammar": "gern · Modaladverb · drückt Vorliebe aus"
+                }
+              ]
+            },
+            {
+              "id": "s5",
+              "text": "Neukölln ist ein bunter Bezirk.",
+              "translation": "Neukölln is a colourful / diverse borough.",
+              "grammarNote": "Attributive adjective before a masculine noun: after 'ein' (indefinite article, masculine Nominativ), the adjective takes the ending '-er' – 'ein bunter Bezirk'. The article 'ein' doesn't show gender clearly (no -r), so the adjective does the work.",
+              "words": [
+                {
+                  "word": "ein",
+                  "definition": "a / an",
+                  "partOfSpeech": "article",
+                  "grammar": "unbestimmter Artikel · Nominativ · Singular · maskulin"
+                },
+                {
+                  "word": "bunter",
+                  "definition": "colourful / diverse",
+                  "partOfSpeech": "adjective",
+                  "grammar": "bunt · attributiv · Nominativ · Singular · maskulin · Endung -er nach ein"
+                },
+                {
+                  "word": "Bezirk",
+                  "definition": "borough / district",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Bezirk · Nominativ · Singular"
+                }
+              ]
+            },
+            {
+              "id": "s6",
+              "text": "Hier leben Menschen aus vielen Ländern.",
+              "translation": "People from many countries live here.",
+              "grammarNote": "'hier' (here) starts the sentence, so inversion occurs: 'leben Menschen' instead of 'Menschen leben'. 'aus vielen Ländern' = from many countries – 'aus + Dativ plural'. 'Ländern' is Dativ plural of 'das Land'; most German nouns add '-n' or '-en' in Dativ plural.",
+              "words": [
+                {
+                  "word": "Hier",
+                  "definition": "here",
+                  "partOfSpeech": "adverb",
+                  "grammar": "hier · Lokaladverb · Satzanfang → Inversion"
+                },
+                {
+                  "word": "aus",
+                  "definition": "from",
+                  "partOfSpeech": "preposition",
+                  "grammar": "aus · mit Dativ · Herkunft"
+                },
+                {
+                  "word": "vielen",
+                  "definition": "many",
+                  "partOfSpeech": "adjective",
+                  "grammar": "viel · Dativ · Plural · Endung -en"
+                },
+                {
+                  "word": "Ländern",
+                  "definition": "countries",
+                  "partOfSpeech": "noun",
+                  "grammar": "das Land · Dativ · Plural · Endung -ern"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026-05-25-05",
+          "title": "Karneval der Kulturen kommt bald",
+          "level": "A1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "topic": "Kultur & Fest",
+            "source": "berlin.de"
+          },
+          "sentences": [
+            {
+              "id": "s1",
+              "text": "Bald ist Karneval der Kulturen in Berlin.",
+              "translation": "Soon it is Carnival of Cultures in Berlin.",
+              "grammarNote": "Adverb 'bald' (soon) at the start triggers inversion: 'ist' before the subject. 'Karneval der Kulturen' is a proper name – 'der Kulturen' is Genitiv plural (of cultures), which is how German forms possessive names: 'Karneval of the Cultures'.",
+              "words": [
+                {
+                  "word": "Bald",
+                  "definition": "soon",
+                  "partOfSpeech": "adverb",
+                  "grammar": "bald · Temporaladverb · Satzanfang → Inversion"
+                },
+                {
+                  "word": "der Kulturen",
+                  "definition": "of cultures (name)",
+                  "partOfSpeech": "noun",
+                  "grammar": "die Kultur · Genitiv · Plural · in Eigenname"
+                }
+              ]
+            },
+            {
+              "id": "s2",
+              "text": "Das Fest ist jedes Jahr zu Pfingsten.",
+              "translation": "The festival is every year at Pentecost.",
+              "grammarNote": "'jedes Jahr' is a time expression in Akkusativ used as an adverb (wie oft? = how often?). 'zu Pfingsten' = at Pentecost – 'zu' with festivals/holidays. 'Pfingsten' has no article, unlike most nouns.",
+              "words": [
+                {
+                  "word": "jedes Jahr",
+                  "definition": "every year",
+                  "partOfSpeech": "adverb",
+                  "grammar": "jedes Jahr · Akkusativ · Zeitangabe · Frequenz"
+                },
+                {
+                  "word": "zu",
+                  "definition": "at (with holidays)",
+                  "partOfSpeech": "preposition",
+                  "grammar": "zu · mit Dativ · bei Festen und Feiertagen"
+                },
+                {
+                  "word": "Pfingsten",
+                  "definition": "Pentecost / Whitsun",
+                  "partOfSpeech": "noun",
+                  "grammar": "Pfingsten · Dativ · Singular · kein Artikel"
+                }
+              ]
+            },
+            {
+              "id": "s3",
+              "text": "Es gibt Musik, Tanz und viele bunte Kostüme.",
+              "translation": "There is music, dance and many colourful costumes.",
+              "grammarNote": "'es gibt' lists multiple things – all in Akkusativ. Abstract nouns 'Musik' and 'Tanz' have no article. 'viele bunte Kostüme' = many colourful costumes: 'viele' and 'bunte' are Akkusativ plural with no article, so both take strong endings (-e).",
+              "words": [
+                {
+                  "word": "gibt es",
+                  "definition": "there is/are",
+                  "partOfSpeech": "verb",
+                  "grammar": "es gibt · Präsens · Akkusativ folgt"
+                },
+                {
+                  "word": "viele",
+                  "definition": "many",
+                  "partOfSpeech": "adjective",
+                  "grammar": "viel · Akkusativ · Plural · starke Endung -e · kein Artikel"
+                },
+                {
+                  "word": "bunte",
+                  "definition": "colourful",
+                  "partOfSpeech": "adjective",
+                  "grammar": "bunt · Akkusativ · Plural · starke Endung -e · kein Artikel"
+                },
+                {
+                  "word": "Kostüme",
+                  "definition": "costumes",
+                  "partOfSpeech": "noun",
+                  "grammar": "das Kostüm · Akkusativ · Plural"
+                }
+              ]
+            },
+            {
+              "id": "s4",
+              "text": "Gruppen aus aller Welt nehmen teil.",
+              "translation": "Groups from all over the world take part.",
+              "grammarNote": "'teilnehmen' is separable: 'nehmen' stays in second position, 'teil' goes to the end. 'aus aller Welt' is a fixed phrase meaning 'from all over the world' – 'aller' is Genitiv/Dativ of 'all', used without article in this expression.",
+              "words": [
+                {
+                  "word": "nehmen",
+                  "definition": "take (part of 'take part')",
+                  "partOfSpeech": "verb",
+                  "grammar": "teilnehmen · Präsens · 3. Person Plural · trennbar · Stamm in Position 2"
+                },
+                {
+                  "word": "aus aller Welt",
+                  "definition": "from all over the world",
+                  "partOfSpeech": "phrase",
+                  "grammar": "aus · Dativ · feste Redewendung"
+                },
+                {
+                  "word": "teil",
+                  "definition": "(prefix, split to end)",
+                  "partOfSpeech": "verb",
+                  "grammar": "teilnehmen · abgetrenntes Präfix · Satzende"
+                }
+              ]
+            },
+            {
+              "id": "s5",
+              "text": "Der Umzug geht durch Kreuzberg und Neukölln.",
+              "translation": "The parade goes through Kreuzberg and Neukölln.",
+              "grammarNote": "'durch + Akkusativ' = through (movement across a space). Movement prepositions like 'durch', 'um', 'gegen', 'für' always take Akkusativ. Compare with location prepositions like 'in + Dativ' (staying somewhere). City names like Kreuzberg and Neukölln have no article.",
+              "words": [
+                {
+                  "word": "durch",
+                  "definition": "through",
+                  "partOfSpeech": "preposition",
+                  "grammar": "durch · mit Akkusativ · Bewegung durch Raum"
+                },
+                {
+                  "word": "Kreuzberg",
+                  "definition": "Kreuzberg (borough of Berlin)",
+                  "partOfSpeech": "noun",
+                  "grammar": "Eigenname · Akkusativ · kein Artikel"
+                }
+              ]
+            },
+            {
+              "id": "s6",
+              "text": "Es kommen jedes Jahr sehr viele Menschen.",
+              "translation": "Very many people come every year.",
+              "grammarNote": "Here 'Es' is a placeholder that allows 'jedes Jahr' (time) and 'sehr viele Menschen' (subject) to be arranged for emphasis. The real subject is 'sehr viele Menschen' – notice 'kommen' is plural to agree with it. 'sehr viele' = very many: 'sehr' intensifies 'viele'.",
+              "words": [
+                {
+                  "word": "Es",
+                  "definition": "it (placeholder)",
+                  "partOfSpeech": "pronoun",
+                  "grammar": "es · Platzhalter · kein semantischer Inhalt"
+                },
+                {
+                  "word": "kommen",
+                  "definition": "come",
+                  "partOfSpeech": "verb",
+                  "grammar": "kommen · Präsens · 3. Person Plural · kongruiert mit Menschen"
+                },
+                {
+                  "word": "sehr viele",
+                  "definition": "very many",
+                  "partOfSpeech": "adverb + adjective",
+                  "grammar": "sehr · Intensivierungsadverb · viele · Nominativ · Plural"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
