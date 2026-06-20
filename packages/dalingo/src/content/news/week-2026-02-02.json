@@ -1,0 +1,213 @@
+{
+  "weekOf": "2026-02-02",
+  "articles": [
+    {
+      "id": "da-news-2026w06-01",
+      "title": "Milliardaftale skal sikre stor energiø ved Bornholm",
+      "level": "B1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-02-04",
+        "topic": "Klima",
+        "adaptedFrom": "https://www.altinget.dk/klima/artikel/regeringen-faar-bred-opbakning-til-energioe-for-milliarder-det-her-er-en-stor-fuckfinger-til-trump-og-putin",
+        "originalAuthor": "Emma Sommer og Andreas Arp, Altinget"
+      },
+      "sentences": [
+        {
+          "id": "da-n01-s01",
+          "text": "Danmark har taget endnu et skridt mod at bygge en kÃ¦mpe energiÃ¸ i ÃstersÃ¸en ud for Bornholm.",
+          "translation": "Denmark has taken another step toward building a huge energy island in the Baltic Sea off Bornholm.",
+          "words": [
+            {
+              "word": "skridt",
+              "definition": "step",
+              "partOfSpeech": "noun, n.",
+              "grammar": "idiom: tage et skridt (take a step)"
+            },
+            {
+              "word": "energiø",
+              "definition": "energy island",
+              "partOfSpeech": "noun, c.",
+              "grammar": "compound: energi + ø",
+              "crossRef": "German 'Energieinsel'"
+            },
+            {
+              "word": "ÃstersÃ¸en",
+              "definition": "the Baltic Sea",
+              "partOfSpeech": "proper noun",
+              "grammar": "definite form used as the standard name"
+            }
+          ],
+          "grammarNote": "'endnu et skridt' (yet another step) uses 'endnu' as an intensifier before 'et' â a different pattern from 'mere', and very common when describing gradual progress."
+        },
+        {
+          "id": "da-n01-s02",
+          "text": "Regeringen og et bredt flertal af partier i Folketinget har indgået en aftale om at finansiere projektet med over 40 milliarder kroner.",
+          "translation": "The government and a broad majority of parties in Parliament have made an agreement to finance the project with more than 40 billion kroner.",
+          "words": [
+            {
+              "word": "flertal",
+              "definition": "majority",
+              "partOfSpeech": "noun, n.",
+              "grammar": "compound: fler(e) + tal"
+            },
+            {
+              "word": "indgået",
+              "definition": "entered into / made (an agreement)",
+              "partOfSpeech": "verb (past part.)",
+              "grammar": "infinitive: indgå"
+            },
+            {
+              "word": "finansiere",
+              "definition": "to finance",
+              "partOfSpeech": "verb (inf.)",
+              "grammar": "",
+              "crossRef": "German 'finanzieren'"
+            },
+            {
+              "word": "milliarder",
+              "definition": "billions",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "milliard (en) â milliarder"
+            }
+          ],
+          "grammarNote": "'indgået en aftale om at + infinitive' is a fixed political construction for 'made an agreement to'; the present perfect marks this as a recently completed formal act."
+        },
+        {
+          "id": "da-n01-s03",
+          "text": "Energiøen skal levere grøn strøm fra havvindmøller til både danske og tyske husstande.",
+          "translation": "The energy island will deliver green electricity from offshore wind turbines to both Danish and German households.",
+          "words": [
+            {
+              "word": "strøm",
+              "definition": "electricity / power",
+              "partOfSpeech": "noun, c.",
+              "grammar": ""
+            },
+            {
+              "word": "havvindmøller",
+              "definition": "offshore wind turbines",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "compound: hav + vind + møller",
+              "crossRef": "German 'Offshore-Windturbinen'"
+            },
+            {
+              "word": "husstande",
+              "definition": "households",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "compound: hus + stande"
+            }
+          ],
+          "grammarNote": "'skal levere' uses 'skal' to express a planned future function, not an obligation â a common B1 trap, since 'skal' usually maps to 'must' in English."
+        },
+        {
+          "id": "da-n01-s04",
+          "text": "Projektet forventes at få en kapacitet på tre gigawatt, når det står færdigt.",
+          "translation": "The project is expected to have a capacity of three gigawatts once it is finished.",
+          "words": [
+            {
+              "word": "forventes",
+              "definition": "is expected",
+              "partOfSpeech": "verb (passive)",
+              "grammar": "infinitive: forvente"
+            },
+            {
+              "word": "kapacitet",
+              "definition": "capacity",
+              "partOfSpeech": "noun, c.",
+              "grammar": "",
+              "crossRef": "German 'Kapazität'"
+            },
+            {
+              "word": "står færdigt",
+              "definition": "is finished / stands complete",
+              "partOfSpeech": "verb phrase",
+              "grammar": "stå + færdig(t)"
+            }
+          ],
+          "grammarNote": "'når det står færdigt' uses 'når' for a future/repeated condition rather than 'da' (which is reserved for single past events); 'stå færdig' is an idiom meaning 'be finished'."
+        },
+        {
+          "id": "da-n01-s05",
+          "text": "Klima-, energi- og forsyningsministeren siger, at den brede opbakning viser, at Danmark kan gennemføre store grønne projekter sammen på tværs af partier.",
+          "translation": "The minister for climate, energy, and utilities says that the broad support shows that Danmark can carry out large green projects together across parties.",
+          "words": [
+            {
+              "word": "opbakning",
+              "definition": "support / backing",
+              "partOfSpeech": "noun, c.",
+              "grammar": ""
+            },
+            {
+              "word": "gennemføre",
+              "definition": "to carry out / complete",
+              "partOfSpeech": "verb (inf.)",
+              "grammar": "gennem + føre"
+            },
+            {
+              "word": "på tværs af",
+              "definition": "across",
+              "partOfSpeech": "prep.",
+              "grammar": "fixed expression"
+            }
+          ],
+          "grammarNote": "Two 'at'-clauses nested inside each other ('siger, at... viser, at...') â common in B1+ reported speech when one claim is used to support another."
+        },
+        {
+          "id": "da-n01-s06",
+          "text": "Ifølge flere politikere styrker projektet også Europas energiuafhængighed i en tid med politisk usikkerhed.",
+          "translation": "According to several politicians, the project also strengthens Europe's energy independence at a time of political uncertainty.",
+          "words": [
+            {
+              "word": "ifølge",
+              "definition": "according to",
+              "partOfSpeech": "prep.",
+              "grammar": "triggers V2 word order when sentence-initial"
+            },
+            {
+              "word": "energiuafhængighed",
+              "definition": "energy independence",
+              "partOfSpeech": "noun, c.",
+              "grammar": "compound: energi + u-afhængig + -hed",
+              "crossRef": "German 'Energieunabhängigkeit'"
+            },
+            {
+              "word": "usikkerhed",
+              "definition": "uncertainty",
+              "partOfSpeech": "noun, c.",
+              "grammar": "u- (negative prefix) + sikkerhed"
+            }
+          ],
+          "grammarNote": "'Ifølge flere politikere' is the first sentence element, so V2 still applies: the verb 'styrker' comes right after it, pushing the subject 'projektet' to third position."
+        },
+        {
+          "id": "da-n01-s07",
+          "text": "Efter flere års forhandlinger er det nu lykkedes at finde finansieringen, så det første spadestik kan komme tættere på.",
+          "translation": "After several years of negotiations, financing has now been found, so the first groundbreaking can come closer.",
+          "words": [
+            {
+              "word": "lykkedes",
+              "definition": "succeeded / managed to",
+              "partOfSpeech": "verb (impersonal)",
+              "grammar": "det lykkedes at + infinitive"
+            },
+            {
+              "word": "finansieringen",
+              "definition": "the financing",
+              "partOfSpeech": "noun, c. def.",
+              "grammar": "finansiering + -en"
+            },
+            {
+              "word": "spadestik",
+              "definition": "groundbreaking / first dig",
+              "partOfSpeech": "noun, n.",
+              "grammar": "compound idiom: spade + stik"
+            }
+          ],
+          "grammarNote": "'det lykkedes at + infinitive' is an impersonal construction meaning 'it succeeded in / they managed to' â useful for describing an achieved outcome without naming exactly who achieved it."
+        }
+      ]
+    }
+  ]
+}

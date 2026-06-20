@@ -1,0 +1,207 @@
+{
+  "weekOf": "2026-01-12",
+  "articles": [
+    {
+      "id": "da-news-2026w03-01",
+      "title": "Ny forening skal styrke Innovation District Copenhagen",
+      "level": "B1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-01-14",
+        "topic": "Erhverv",
+        "adaptedFrom": "https://techsavvy.media/en/new-innovation-district-in-copenhagen-will-bring-researchers-entrepreneurs-and-businesses-together-in-a-close-ecosystem/",
+        "originalAuthor": "Rasmus Hørving-Mulberg, TechSavvy"
+      },
+      "sentences": [
+        {
+          "id": "da-n01-s01",
+          "text": "En ny forening skal sikre, at Innovation District Copenhagen kan udvikle sig som et internationalt kraftcenter for forskning og iværksætteri.",
+          "translation": "A new association will ensure that Innovation District Copenhagen can develop as an international powerhouse for research and entrepreneurship.",
+          "words": [
+            {
+              "word": "forening",
+              "definition": "association",
+              "partOfSpeech": "noun, c.",
+              "grammar": ""
+            },
+            {
+              "word": "kraftcenter",
+              "definition": "powerhouse",
+              "partOfSpeech": "noun, n.",
+              "grammar": "compound: kraft + center"
+            },
+            {
+              "word": "iværksætteri",
+              "definition": "entrepreneurship",
+              "partOfSpeech": "noun, n.",
+              "grammar": "iværksætter + -i",
+              "crossRef": "German 'Unternehmertum'"
+            }
+          ],
+          "grammarNote": "'skal sikre, at' uses 'skal' to express intended function or purpose ('is meant to ensure'), not obligation â the same pattern you saw with 'skal levere' in the energy article."
+        },
+        {
+          "id": "da-n01-s02",
+          "text": "Formålet er at samle forskere, læger, iværksættere og virksomheder i ét tæt økosystem omkring Københavns Universitet og Rigshospitalet.",
+          "translation": "The purpose is to gather researchers, doctors, entrepreneurs, and companies in one close ecosystem around the University of Copenhagen and Rigshospitalet.",
+          "words": [
+            {
+              "word": "formålet",
+              "definition": "the purpose",
+              "partOfSpeech": "noun, c. def.",
+              "grammar": "formål + -et"
+            },
+            {
+              "word": "iværksættere",
+              "definition": "entrepreneurs",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "ivÃ¦rksÃ¦tter (en) â ivÃ¦rksÃ¦ttere"
+            },
+            {
+              "word": "økosystem",
+              "definition": "ecosystem",
+              "partOfSpeech": "noun, n.",
+              "grammar": "",
+              "crossRef": "German 'Ã–kosystem'"
+            }
+          ],
+          "grammarNote": "'FormÃ¥let er at + infinitive' â when the subject complement describes an action with the same implied subject as 'formÃ¥let', Danish uses 'at' + infinitive directly rather than a full at-clause with its own subject."
+        },
+        {
+          "id": "da-n01-s03",
+          "text": "Området skal især blive et internationalt centrum inden for life science og kvanteteknologi.",
+          "translation": "The area is meant to especially become an international center within life science and quantum technology.",
+          "words": [
+            {
+              "word": "centrum",
+              "definition": "center",
+              "partOfSpeech": "noun, n.",
+              "grammar": ""
+            },
+            {
+              "word": "inden for",
+              "definition": "within",
+              "partOfSpeech": "prep.",
+              "grammar": "always two words in this sense"
+            },
+            {
+              "word": "kvanteteknologi",
+              "definition": "quantum technology",
+              "partOfSpeech": "noun, c.",
+              "grammar": "compound: kvante + teknologi",
+              "crossRef": "German 'Quantentechnologie'"
+            }
+          ],
+          "grammarNote": "'inden for' (within) is always written as two words in this meaning â a small but high-frequency spelling distinction worth fixing early."
+        },
+        {
+          "id": "da-n01-s04",
+          "text": "Initiativet bygger videre på en politisk aftale, som staten, Københavns Kommune og universitetet indgik tidligere.",
+          "translation": "The initiative builds further on a political agreement that the state, the City of Copenhagen, and the university entered into earlier.",
+          "words": [
+            {
+              "word": "bygger videre på",
+              "definition": "builds further on",
+              "partOfSpeech": "verb phrase",
+              "grammar": "bygge + videre + på"
+            },
+            {
+              "word": "indgik",
+              "definition": "entered into",
+              "partOfSpeech": "verb (past)",
+              "grammar": "infinitive: indgå (same verb seen in the research-agreement article)"
+            },
+            {
+              "word": "staten",
+              "definition": "the state",
+              "partOfSpeech": "noun, c. def.",
+              "grammar": "stat + -en"
+            }
+          ],
+          "grammarNote": "'som' is the object of 'indgik' (entered into), referring back to 'aftale'; three coordinated subjects (staten, kommunen, universitetet) share that one verb."
+        },
+        {
+          "id": "da-n01-s05",
+          "text": "Tanken er, at flere forskningsbaserede virksomheder skal opstå, når forskere og iværksættere får lettere adgang til hinanden.",
+          "translation": "The idea is that more research-based companies should arise when researchers and entrepreneurs get easier access to each other.",
+          "words": [
+            {
+              "word": "opstå",
+              "definition": "to arise / emerge",
+              "partOfSpeech": "verb (inf.)",
+              "grammar": ""
+            },
+            {
+              "word": "adgang",
+              "definition": "access",
+              "partOfSpeech": "noun, c.",
+              "grammar": "",
+              "crossRef": "German 'Zugang'"
+            },
+            {
+              "word": "hinanden",
+              "definition": "each other",
+              "partOfSpeech": "pronoun",
+              "grammar": ""
+            }
+          ],
+          "grammarNote": "'når' introduces a repeated/future condition ('whenever this happens'), in contrast to 'da', which is reserved for a single completed event in the past."
+        },
+        {
+          "id": "da-n01-s06",
+          "text": "Området har allerede tiltrukket investeringer og huser blandt andet et center for kunstig intelligens på universitetet.",
+          "translation": "The area has already attracted investments and houses, among other things, a center for artificial intelligence at the university.",
+          "words": [
+            {
+              "word": "tiltrukket",
+              "definition": "attracted",
+              "partOfSpeech": "verb (past part.)",
+              "grammar": "infinitive: tiltrække"
+            },
+            {
+              "word": "huser",
+              "definition": "houses (verb)",
+              "partOfSpeech": "verb (pres.)",
+              "grammar": "infinitive: huse"
+            },
+            {
+              "word": "kunstig intelligens",
+              "definition": "artificial intelligence",
+              "partOfSpeech": "phrase",
+              "grammar": "",
+              "crossRef": "German 'künstliche Intelligenz'"
+            }
+          ],
+          "grammarNote": "'allerede' (already) sits right after 'har' â the standard position for sentence adverbs between the auxiliary and the past participle in present perfect."
+        },
+        {
+          "id": "da-n01-s07",
+          "text": "Med den nye organisering håber aktørerne at kunne udvikle distriktet langsigtet og bæredygtigt.",
+          "translation": "With the new organization, the stakeholders hope to be able to develop the district long-term and sustainably.",
+          "words": [
+            {
+              "word": "organisering",
+              "definition": "organization",
+              "partOfSpeech": "noun, c.",
+              "grammar": ""
+            },
+            {
+              "word": "aktørerne",
+              "definition": "the stakeholders / actors",
+              "partOfSpeech": "noun, c. pl. def.",
+              "grammar": "aktÃ¸r (en) â aktÃ¸rer â aktÃ¸rerne"
+            },
+            {
+              "word": "bæredygtigt",
+              "definition": "sustainably",
+              "partOfSpeech": "adv.",
+              "grammar": "bæredygtig + -t"
+            }
+          ],
+          "grammarNote": "'hÃ¥ber at kunne udvikle' â 'hÃ¥ber at' takes a bare infinitive (no separate subject), since the one hoping and the one developing are the same: 'aktÃ¸rerne'."
+        }
+      ]
+    }
+  ]
+}

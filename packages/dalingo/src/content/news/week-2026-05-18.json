@@ -1,0 +1,276 @@
+{
+  "weekOf": "2026-05-18",
+  "articles": [
+    {
+      "id": "da-news-2026w21-01",
+      "title": "Danmarks førerposition er under pres",
+      "level": "B1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-05-18",
+        "topic": "Erhverv",
+        "adaptedFrom": "https://www.altinget.dk/erhverv/artikel/lektor-de-danske-foererpositioner-er-truet-og-vi-skal-handle-hurtigt-for-at-forsvare-dem",
+        "originalAuthor": "Stine Haakonsson, lektor, Copenhagen Business School"
+      },
+      "sentences": [
+        {
+          "id": "da-n01-s01",
+          "text": "Danmark har længe været førende inden for vindenergi og medicinalindustri, men nu er konkurrencen hårdere end nogensinde.",
+          "translation": "Denmark has long been a leader in wind energy and the pharmaceutical industry, but now the competition is tougher than ever.",
+          "words": [
+            {
+              "word": "førende",
+              "definition": "leading",
+              "partOfSpeech": "adj.",
+              "grammar": "present participle used as adjective · from verb 'fÃ¸re'",
+              "crossRef": "German 'führend'"
+            },
+            {
+              "word": "vindenergi",
+              "definition": "wind energy",
+              "partOfSpeech": "noun, c.",
+              "grammar": "compound noun: vind + energi",
+              "crossRef": "German 'Windenergie'"
+            },
+            {
+              "word": "medicinalindustri",
+              "definition": "pharmaceutical industry",
+              "partOfSpeech": "noun, c.",
+              "grammar": "compound noun: medicinal + industri"
+            },
+            {
+              "word": "konkurrencen",
+              "definition": "the competition",
+              "partOfSpeech": "noun, c.",
+              "grammar": "definite form: konkurrence + -n suffix (not a separate article)",
+              "crossRef": "German 'Konkurrenz'"
+            },
+            {
+              "word": "hårdere",
+              "definition": "harder / tougher",
+              "partOfSpeech": "adj.",
+              "grammar": "comparative of 'hÃ¥rd' · -ere ending"
+            }
+          ],
+          "grammarNote": "'er hÃ¥rdere end nogensinde' uses the comparative + 'end nogensinde' (than ever) â a fixed B1 pattern for saying something has reached a new extreme."
+        },
+        {
+          "id": "da-n01-s02",
+          "text": "Ifølge en lektor fra Copenhagen Business School rykker Kina hurtigt frem og tager flere af verdens vigtigste patenter.",
+          "translation": "According to a lecturer from Copenhagen Business School, China is advancing quickly and taking more of the world's most important patents.",
+          "words": [
+            {
+              "word": "ifølge",
+              "definition": "according to",
+              "partOfSpeech": "prep.",
+              "grammar": "introduces reported claim · triggers V2 word order"
+            },
+            {
+              "word": "lektor",
+              "definition": "lecturer / senior researcher",
+              "partOfSpeech": "noun, c.",
+              "grammar": "Danish academic title, roughly between assistant and full professor",
+              "crossRef": "German 'Lektor' (false-friend-adjacent: similar role, different ranking system)"
+            },
+            {
+              "word": "rykker frem",
+              "definition": "advances / moves forward",
+              "partOfSpeech": "verb phrase",
+              "grammar": "rykke + frem · used idiomatically for competitive advancement"
+            },
+            {
+              "word": "patenter",
+              "definition": "patents",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "patent (et) â patenter (plural)",
+              "crossRef": "German 'Patente'"
+            }
+          ],
+          "grammarNote": "'IfÃ¸lge X, [verb] + subject' â when a sentence opens with 'ifÃ¸lge' (according to), the verb still comes second (V2 rule), so the subject 'Kina' is pushed after the verb."
+        },
+        {
+          "id": "da-n01-s03",
+          "text": "Samtidig er den globale orden blevet mere usikker, fordi handelskrige og politisk uro skaber problemer for forsyningskæderne.",
+          "translation": "At the same time, the global order has become more uncertain, because trade wars and political unrest create problems for supply chains.",
+          "words": [
+            {
+              "word": "samtidig",
+              "definition": "at the same time",
+              "partOfSpeech": "adv.",
+              "grammar": "sentence-initial connector"
+            },
+            {
+              "word": "usikker",
+              "definition": "uncertain",
+              "partOfSpeech": "adj.",
+              "grammar": "u- (negative prefix) + sikker"
+            },
+            {
+              "word": "handelskrige",
+              "definition": "trade wars",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "compound: handel + krig, plural -e",
+              "crossRef": "German 'Handelskriege'"
+            },
+            {
+              "word": "forsyningskæderne",
+              "definition": "the supply chains",
+              "partOfSpeech": "noun, c. pl. def.",
+              "grammar": "forsyningskæde + -r (plural) + -ne (definite)",
+              "crossRef": "German 'Lieferketten'"
+            }
+          ],
+          "grammarNote": "'fordi' introduces a subordinate clause and sends the verb to the end of its own clause-internal position relative to the subject â note 'skaber' stays second within its clause, since 'fordi'-clauses keep normal word order in Danish (unlike German)."
+        },
+        {
+          "id": "da-n01-s04",
+          "text": "Danske virksomheder er afhængige af resten af verden, og derfor rammer disse forandringer Danmark hårdt.",
+          "translation": "Danish companies are dependent on the rest of the world, and that's why these changes hit Denmark hard.",
+          "words": [
+            {
+              "word": "virksomheder",
+              "definition": "companies",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "virksomhed (en) â virksomheder"
+            },
+            {
+              "word": "afhængige",
+              "definition": "dependent",
+              "partOfSpeech": "adj.",
+              "grammar": "plural/definite form of 'afhÃ¦ngig' · always + af",
+              "crossRef": "German 'abhängig (von)'"
+            },
+            {
+              "word": "derfor",
+              "definition": "therefore / that's why",
+              "partOfSpeech": "adv.",
+              "grammar": "triggers V2: 'derfor rammer...' verb comes right after"
+            },
+            {
+              "word": "rammer",
+              "definition": "hits / affects",
+              "partOfSpeech": "verb (pres.)",
+              "grammar": "infinitive: ramme"
+            }
+          ],
+          "grammarNote": "'afhÃ¦ngig af' always takes 'af' (of), not 'fra' â a fixed preposition pairing worth memorizing as a chunk."
+        },
+        {
+          "id": "da-n01-s05",
+          "text": "Lektoren mener, at virksomheder, forskere og politikere skal samarbejde tættere for at beskytte Danmarks styrkepositioner.",
+          "translation": "The lecturer believes that companies, researchers, and politicians need to work together more closely to protect Denmark's strong positions.",
+          "words": [
+            {
+              "word": "mener",
+              "definition": "believes / thinks",
+              "partOfSpeech": "verb (pres.)",
+              "grammar": "infinitive: mene"
+            },
+            {
+              "word": "forskere",
+              "definition": "researchers",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "forsker (en) â forskere",
+              "crossRef": "German 'Forscher'"
+            },
+            {
+              "word": "samarbejde",
+              "definition": "to work together / collaboration",
+              "partOfSpeech": "verb (inf.)",
+              "grammar": "sam- (together) + arbejde (work)",
+              "crossRef": "German 'zusammenarbeiten'"
+            },
+            {
+              "word": "styrkepositioner",
+              "definition": "positions of strength",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "compound: styrke + position"
+            }
+          ],
+          "grammarNote": "'mener, at...' introduces an at-clause (like English 'that'); 'for at + infinitive' expresses purpose ('in order to')."
+        },
+        {
+          "id": "da-n01-s06",
+          "text": "Hun foreslår en national strategi, der kan hjælpe Danmark med at navigere i en verden, hvor alliancer og markeder hele tiden ændrer sig.",
+          "translation": "She suggests a national strategy that can help Denmark navigate a world where alliances and markets are constantly changing.",
+          "words": [
+            {
+              "word": "foreslår",
+              "definition": "suggests",
+              "partOfSpeech": "verb (pres.)",
+              "grammar": "infinitive: foreslå"
+            },
+            {
+              "word": "strategi",
+              "definition": "strategy",
+              "partOfSpeech": "noun, c.",
+              "grammar": "",
+              "crossRef": "German 'Strategie'"
+            },
+            {
+              "word": "navigere",
+              "definition": "to navigate",
+              "partOfSpeech": "verb (inf.)",
+              "grammar": "",
+              "crossRef": "German 'navigieren'"
+            },
+            {
+              "word": "alliancer",
+              "definition": "alliances",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "alliance (n) â alliancer",
+              "crossRef": "German 'Allianzen'"
+            },
+            {
+              "word": "ændrer sig",
+              "definition": "change(s)",
+              "partOfSpeech": "reflexive verb",
+              "grammar": "Ã¦ndre + sig · reflexive when describing self-driven change"
+            }
+          ],
+          "grammarNote": "Two relative clauses chained together: 'der' refers back to 'strategi' (subject of its clause), 'hvor' refers back to 'verden' (a place/context). This kind of stacked relative clause is typical of B1-B2 written Danish."
+        },
+        {
+          "id": "da-n01-s07",
+          "text": "Uden hurtig handling risikerer Danmark at miste sine førerpositioner inden for vigtige fremtidsteknologier.",
+          "translation": "Without quick action, Denmark risks losing its leading positions in important future technologies.",
+          "words": [
+            {
+              "word": "uden",
+              "definition": "without",
+              "partOfSpeech": "prep.",
+              "grammar": ""
+            },
+            {
+              "word": "risikerer",
+              "definition": "risks",
+              "partOfSpeech": "verb (pres.)",
+              "grammar": "risikere + at + infinitive"
+            },
+            {
+              "word": "miste",
+              "definition": "to lose",
+              "partOfSpeech": "verb (inf.)",
+              "grammar": ""
+            },
+            {
+              "word": "sine",
+              "definition": "its own / their own",
+              "partOfSpeech": "pronoun",
+              "grammar": "used when possessor = subject of clause"
+            },
+            {
+              "word": "fremtidsteknologier",
+              "definition": "future technologies",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "compound: fremtid + s + teknologi(er)",
+              "crossRef": "German 'Zukunftstechnologien'"
+            }
+          ],
+          "grammarNote": "'risikere at + infinitiv' is a fixed construction for 'risk doing something'; 'sine' is the reflexive possessive, used because the thing owned (førerpositioner) belongs to the subject of the sentence (Danmark)."
+        }
+      ]
+    }
+  ]
+}

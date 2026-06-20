@@ -1,7 +1,9 @@
 import { useState, useEffect } from 'react';
 import type { Story, CEFRLevel } from '@lingo/shared/types';
 import { CEFRBadge } from '@lingo/shared/components';
-import { loadStories, refreshStories } from '@lingo/shared/content/contentService';
+import { loadStories, refreshStories, applyTranslationOverlay } from '@lingo/shared/content/contentService';
+import { adaptManifest, type MCManifest } from '@lingo/shared/content/contentAdapter';
+import bundledManifest from '@lingo/shared/content/data.json';
 import daStory001 from '../content/stories/da-story-001.json';
 import daStory002 from '../content/stories/da-story-002-pippi-det-nye-hus.json';
 import daStory003 from '../content/stories/da-story-003-pippi-markedet.json';
@@ -42,9 +44,12 @@ export function StoryLibrary({ onOpenReader }: StoryLibraryProps) {
   async function handleSync() {
     setSyncing(true);
     const fresh = await refreshStories('da');
-    // Re-merge BUNDLED so locally-authored stories are never lost after sync
+    // Re-merge BUNDLED and legacy v1 stories so they are never lost after sync
+    const v1 = adaptManifest(bundledManifest as MCManifest, 'da').map(applyTranslationOverlay);
     const ids = new Set(fresh.map((s) => s.id));
-    setStories([...fresh, ...BUNDLED.filter((s) => !ids.has(s.id))]);
+    const v1Missing = v1.filter((s) => !ids.has(s.id));
+    const bundledMissing = BUNDLED.filter((s) => !ids.has(s.id) && !v1Missing.find((v) => v.id === s.id));
+    setStories([...fresh, ...bundledMissing, ...v1Missing]);
     setSyncing(false);
   }
 

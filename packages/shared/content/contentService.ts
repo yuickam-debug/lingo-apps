@@ -16,7 +16,7 @@ interface V2Overlay {
   storyTranslations: Record<string, string[]>;
 }
 
-function applyTranslationOverlay(story: Story): Story {
+export function applyTranslationOverlay(story: Story): Story {
   const translations = (bundledV2 as V2Overlay).storyTranslations[story.id];
   if (!translations) return story;
   return {

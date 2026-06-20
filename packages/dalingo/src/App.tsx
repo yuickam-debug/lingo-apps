@@ -5,6 +5,7 @@ import { StoryLibrary } from './screens/StoryLibrary';
 import { StoryReader } from './screens/StoryReader';
 import { LyricsScreen } from './screens/LyricsScreen';
 import { LyricsReader } from './screens/LyricsReader';
+import { NewsDigest } from './screens/NewsDigest';
 import { SavedWords } from './screens/SavedWords';
 import { Settings } from './screens/Settings';
 import { ShadowingPlayer } from '@lingo/shared/components/ShadowingPlayer';
@@ -18,7 +19,7 @@ import {
   saveSettings,
 } from '@lingo/shared/storage';
 
-type Screen = 'home' | 'library' | 'lyrics' | 'saved' | 'settings';
+type Screen = 'home' | 'library' | 'lyrics' | 'news' | 'saved' | 'settings';
 
 interface ReaderState {
   story: Story;
@@ -129,6 +130,9 @@ export default function App() {
               {screen === 'lyrics' && (
                 <LyricsScreen onOpenReader={(s) => openLyricsReader(s, 'lyrics')} />
               )}
+              {screen === 'news' && (
+                <NewsDigest onOpenReader={(s) => openReader(s, 'news')} />
+              )}
               {screen === 'saved' && <SavedWords onStartReview={() => setReviewOpen(true)} />}
               {screen === 'settings' && <Settings />}
             </div>
@@ -139,6 +143,7 @@ export default function App() {
                   { id: 'home', icon: '🏠', label: 'Home' },
                   { id: 'library', icon: '📚', label: 'Stories' },
                   { id: 'lyrics', icon: '🎵', label: 'Lyrics' },
+                  { id: 'news', icon: '📰', label: 'Nyheder' },
                   { id: 'saved', icon: '⭐', label: 'Saved' },
                   { id: 'settings', icon: '⚙️', label: 'Settings' },
                 ] as const

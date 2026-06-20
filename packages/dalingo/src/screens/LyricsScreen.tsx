@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import type { Story, CEFRLevel } from '@lingo/shared/types';
 import { CEFRBadge } from '@lingo/shared/components';
+import { applyTranslationOverlay } from '@lingo/shared/content/contentService';
 
 import daLyrics001 from '../content/lyrics/da-lyrics-001.json';
 import daGldDetKunVigtigt from '../content/lyrics/da-gld-det-kun-vigtigt.json';
@@ -14,8 +15,8 @@ const CEFR_ORDER: Record<CEFRLevel, number> = { A1: 0, A2: 1, B1: 2, B2: 3 };
 
 const BUNDLE_URL =
   'https://raw.githubusercontent.com/yuickam-debug/lingo-apps/main/packages/dalingo/src/content/lyrics/da-lyrics-bundle.json';
-const CACHE_KEY = 'lingo_lyrics_da_v1';
-const CACHE_TS_KEY = 'lingo_lyrics_da_v1_ts';
+const CACHE_KEY = 'lingo_lyrics_da_v2';
+const CACHE_TS_KEY = 'lingo_lyrics_da_v2_ts';
 const CACHE_TTL = 60 * 60 * 1000; // 1 hour
 
 const BUNDLED: Story[] = [
@@ -57,7 +58,10 @@ function writeCache(lyrics: Story[]): void {
 
 function getInitialLyrics(): Story[] {
   const cached = readCache();
-  return cached ? mergeLyrics(BUNDLED, cached.lyrics) : BUNDLED;
+  // Always apply translation overlay to BUNDLED so individual files with
+  // translations embedded take precedence over any stale cached data.
+  const withOverlay = BUNDLED.map(applyTranslationOverlay);
+  return cached ? mergeLyrics(withOverlay, cached.lyrics) : withOverlay;
 }
 
 type SyncStatus = 'idle' | 'fetching' | 'synced' | 'cached' | 'error';
@@ -85,8 +89,9 @@ export function LyricsScreen({ onOpenReader }: LyricsScreenProps) {
       .then(r => r.ok ? r.json() : Promise.reject(`HTTP ${r.status}`))
       .then((bundle: { lyrics: Story[] } | null) => {
         if (!bundle?.lyrics?.length) { setSyncStatus('error'); return; }
-        writeCache(bundle.lyrics);
-        setLyrics(mergeLyrics(BUNDLED, bundle.lyrics));
+        const withOverlay = bundle.lyrics.map(applyTranslationOverlay);
+        writeCache(withOverlay);
+        setLyrics(mergeLyrics(BUNDLED.map(applyTranslationOverlay), withOverlay));
         setSyncStatus('synced');
         setSyncedAt(Date.now());
       })

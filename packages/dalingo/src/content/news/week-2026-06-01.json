@@ -1,0 +1,226 @@
+{
+  "weekOf": "2026-06-01",
+  "articles": [
+    {
+      "id": "da-news-2026w23-01",
+      "title": "Danmark får en ny regering",
+      "level": "B1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-06-01",
+        "topic": "Politik",
+        "adaptedFrom": "https://www.altinget.dk/artikel/danmark-faar-en-ny-regering",
+        "originalAuthor": "Daniel Bue Lauritzen, Altinget"
+      },
+      "sentences": [
+        {
+          "id": "da-n01-s01",
+          "text": "Efter et folketingsvalg i marts og over to måneders forhandlinger har Danmark fået en ny regering.",
+          "translation": "After a parliamentary election in March and more than two months of negotiations, Denmark has gotten a new government.",
+          "words": [
+            {
+              "word": "folketingsvalg",
+              "definition": "parliamentary election",
+              "partOfSpeech": "noun, n.",
+              "grammar": "compound: folketing + valg",
+              "crossRef": "German 'Parlamentswahl'"
+            },
+            {
+              "word": "forhandlinger",
+              "definition": "negotiations",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "forhandling (en) â forhandlinger",
+              "crossRef": "German 'Verhandlungen'"
+            },
+            {
+              "word": "regering",
+              "definition": "government",
+              "partOfSpeech": "noun, c.",
+              "grammar": "",
+              "crossRef": "German 'Regierung'"
+            }
+          ],
+          "grammarNote": "'Efter X og Y har Danmark fÃ¥et...' â the present perfect ('har fÃ¥et') links the outcome to the present moment, while 'efter' sets up the time frame with two coordinated noun phrases before the main clause even starts."
+        },
+        {
+          "id": "da-n01-s02",
+          "text": "Statsminister Mette Frederiksen meddelte mandag aften, at hun kan danne regering sammen med SF, Moderaterne og Radikale Venstre.",
+          "translation": "Prime Minister Mette Frederiksen announced Monday evening that she can form a government together with SF, Moderaterne, and Radikale Venstre.",
+          "words": [
+            {
+              "word": "meddelte",
+              "definition": "announced",
+              "partOfSpeech": "verb (past)",
+              "grammar": "infinitive: meddele"
+            },
+            {
+              "word": "danne",
+              "definition": "to form",
+              "partOfSpeech": "verb (inf.)",
+              "grammar": "danne regering = fixed political expression"
+            },
+            {
+              "word": "sammen med",
+              "definition": "together with",
+              "partOfSpeech": "prep.",
+              "grammar": ""
+            }
+          ],
+          "grammarNote": "'meddelte, at...' introduces reported speech as an at-clause â Danish news writing rarely uses direct quotation marks for this kind of factual announcement."
+        },
+        {
+          "id": "da-n01-s03",
+          "text": "Forhandlingerne varede 71 dage og blev dermed de længste i Danmarks historie.",
+          "translation": "The negotiations lasted 71 days and thereby became the longest in Denmark's history.",
+          "words": [
+            {
+              "word": "varede",
+              "definition": "lasted",
+              "partOfSpeech": "verb (past)",
+              "grammar": "infinitive: vare"
+            },
+            {
+              "word": "dermed",
+              "definition": "thereby / with that",
+              "partOfSpeech": "adv.",
+              "grammar": "connects to previous sentence"
+            },
+            {
+              "word": "længste",
+              "definition": "longest",
+              "partOfSpeech": "adj. (superlative)",
+              "grammar": "lang â lÃ¦ngere â lÃ¦ngste"
+            },
+            {
+              "word": "historie",
+              "definition": "history",
+              "partOfSpeech": "noun, c.",
+              "grammar": "",
+              "crossRef": "German 'Geschichte'"
+            }
+          ],
+          "grammarNote": "'blev de længste' uses passive-form 'blev' + a superlative adjective ('længste' from 'lang'); 'dermed' (thereby) signals that this is a consequence of the fact just stated."
+        },
+        {
+          "id": "da-n01-s04",
+          "text": "Valget i marts gav et meget uklart resultat, fordi 12 partier kom i Folketinget, og intet parti fik mere end 12 procent af stemmerne.",
+          "translation": "The election in March gave a very unclear result, because 12 parties entered Parliament, and no party got more than 12 percent of the votes.",
+          "words": [
+            {
+              "word": "uklart",
+              "definition": "unclear",
+              "partOfSpeech": "adj. (neuter form)",
+              "grammar": "uklar + -t agreeing with neuter 'resultat'"
+            },
+            {
+              "word": "kom i",
+              "definition": "entered / got into",
+              "partOfSpeech": "verb phrase",
+              "grammar": "komme + i, idiomatic for entering a parliament/institution"
+            },
+            {
+              "word": "intet parti",
+              "definition": "no party",
+              "partOfSpeech": "pronoun",
+              "grammar": "intet = neuter form of 'ingen'"
+            },
+            {
+              "word": "stemmerne",
+              "definition": "the votes",
+              "partOfSpeech": "noun, c. pl. def.",
+              "grammar": "stemme (n) â stemmer â stemmerne"
+            }
+          ],
+          "grammarNote": "'fordi' introduces the cause and keeps normal subject-verb word order inside its own clause (unlike German, which sends the verb to the end); 'mere end' is the standard Danish comparative pattern, like English 'more than'."
+        },
+        {
+          "id": "da-n01-s05",
+          "text": "Den nye regering har 21 ministre, og for første gang er der flere kvinder end mænd i en dansk regering.",
+          "translation": "The new government has 21 ministers, and for the first time there are more women than men in a Danish government.",
+          "words": [
+            {
+              "word": "ministre",
+              "definition": "ministers",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "minister (en) â ministre",
+              "crossRef": "German 'Minister'"
+            },
+            {
+              "word": "for første gang",
+              "definition": "for the first time",
+              "partOfSpeech": "adv.",
+              "grammar": "fixed expression"
+            },
+            {
+              "word": "kvinder",
+              "definition": "women",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "kvinde (n) â kvinder"
+            }
+          ],
+          "grammarNote": "'for første gang' is a fixed time adverbial; even placed first in its clause, the V2 rule still applies, so the verb 'er' comes immediately after it."
+        },
+        {
+          "id": "da-n01-s06",
+          "text": "Kongen modtog den nye regering officielt på Amalienborg onsdag, hvor regeringen overtog magten fra den tidligere regering.",
+          "translation": "The King officially received the new government at Amalienborg on Wednesday, where the government took over power from the previous government.",
+          "words": [
+            {
+              "word": "modtog",
+              "definition": "received",
+              "partOfSpeech": "verb (past)",
+              "grammar": "infinitive: modtage"
+            },
+            {
+              "word": "officielt",
+              "definition": "officially",
+              "partOfSpeech": "adv.",
+              "grammar": "officiel + -t"
+            },
+            {
+              "word": "overtog magten",
+              "definition": "took over power",
+              "partOfSpeech": "verb phrase",
+              "grammar": "overtage + magt(en), fixed political idiom"
+            }
+          ],
+          "grammarNote": "'hvor' here introduces a relative clause referring back to a place ('Amalienborg'), the same pattern as English 'where' â different from 'der/som', which refer to people or things."
+        },
+        {
+          "id": "da-n01-s07",
+          "text": "Det politiske indhold af regeringsgrundlaget â altsÃ¥ hvilken politik regeringen vil fÃ¸re â blev prÃ¦senteret kort efter pÃ¥ et pressemÃ¸de.",
+          "translation": "The political content of the coalition agreement â that is, which policies the government will pursue â was presented shortly after at a press conference.",
+          "words": [
+            {
+              "word": "regeringsgrundlaget",
+              "definition": "the coalition agreement / government platform",
+              "partOfSpeech": "noun, c. def.",
+              "grammar": "compound: regering + grundlag"
+            },
+            {
+              "word": "altså",
+              "definition": "that is / in other words",
+              "partOfSpeech": "adv.",
+              "grammar": "clarifying connector"
+            },
+            {
+              "word": "føre",
+              "definition": "to pursue / conduct (policy)",
+              "partOfSpeech": "verb (inf.)",
+              "grammar": "føre politik = fixed political collocation"
+            },
+            {
+              "word": "pressemøde",
+              "definition": "press conference",
+              "partOfSpeech": "noun, n.",
+              "grammar": "compound: presse + møde",
+              "crossRef": "German 'Pressekonferenz'"
+            }
+          ],
+          "grammarNote": "'altsÃ¥' here works as a clarifying aside ('that is to say'), restating a formal term in simpler words â a common move in Danish journalism when introducing political vocabulary like 'regeringsgrundlag'."
+        }
+      ]
+    }
+  ]
+}

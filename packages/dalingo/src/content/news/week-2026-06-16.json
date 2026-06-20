@@ -1,0 +1,587 @@
+{
+  "weekOf": "2026-06-16",
+  "articles": [
+    {
+      "id": "da-news-2026w25-01",
+      "title": "Solen skinner over Danmark",
+      "level": "A1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-06-16",
+        "topic": "Vejr"
+      },
+      "sentences": [
+        {
+          "id": "da-n01-s01",
+          "text": "Det er sommer i Danmark.",
+          "translation": "It is summer in Denmark.",
+          "words": [
+            {
+              "word": "sommer",
+              "definition": "summer",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en sommer · sommeren · from Germanic *sumaraz"
+            }
+          ]
+        },
+        {
+          "id": "da-n01-s02",
+          "text": "Solen skinner, og temperaturen er høj.",
+          "translation": "The sun is shining, and the temperature is high.",
+          "words": [
+            {
+              "word": "skinner",
+              "definition": "shines, is shining",
+              "partOfSpeech": "verb",
+              "grammar": "skinne (to shine) · present: skinner"
+            },
+            {
+              "word": "temperaturen",
+              "definition": "the temperature",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en temperatur · temperaturen (definite)"
+            },
+            {
+              "word": "høj",
+              "definition": "high, tall",
+              "partOfSpeech": "adj.",
+              "grammar": "høj · common gender; høj, høt, høje"
+            }
+          ]
+        },
+        {
+          "id": "da-n01-s03",
+          "text": "Mange mennesker tager til stranden.",
+          "translation": "Many people go to the beach.",
+          "words": [
+            {
+              "word": "mennesker",
+              "definition": "people, humans",
+              "partOfSpeech": "noun, n. pl.",
+              "grammar": "et menneske · mennesker (pl.) · lit. 'human'"
+            },
+            {
+              "word": "stranden",
+              "definition": "the beach",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en strand · stranden (definite) · common gender"
+            }
+          ]
+        },
+        {
+          "id": "da-n01-s04",
+          "text": "Vejret er godt hele ugen.",
+          "translation": "The weather is good all week.",
+          "words": [
+            {
+              "word": "vejret",
+              "definition": "the weather",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et vejr · vejret (definite) · neuter gender"
+            },
+            {
+              "word": "ugen",
+              "definition": "the week",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en uge · ugen (definite)"
+            }
+          ]
+        },
+        {
+          "id": "da-n01-s05",
+          "text": "Danmark er et skønt land om sommeren.",
+          "translation": "Denmark is a beautiful country in the summer.",
+          "words": [
+            {
+              "word": "skønt",
+              "definition": "beautiful, lovely",
+              "partOfSpeech": "adj.",
+              "grammar": "skøn · neuter: skønt · used here as predicate adj."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da-news-2026w25-02",
+      "title": "Nyt museum åbner i København",
+      "level": "A2",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-06-17",
+        "topic": "Kultur"
+      },
+      "sentences": [
+        {
+          "id": "da-n02-s01",
+          "text": "Et nyt museum åbner i København næste måned.",
+          "translation": "A new museum opens in Copenhagen next month.",
+          "words": [
+            {
+              "word": "museum",
+              "definition": "museum",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et museum · museet (def.) · from Latin"
+            },
+            {
+              "word": "åbner",
+              "definition": "opens",
+              "partOfSpeech": "verb",
+              "grammar": "åbne (to open) · present: åbner"
+            },
+            {
+              "word": "måned",
+              "definition": "month",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en måned · måneden (def.) · måneder (pl.)"
+            }
+          ]
+        },
+        {
+          "id": "da-n02-s02",
+          "text": "Museet fokuserer på dansk design og arkitektur.",
+          "translation": "The museum focuses on Danish design and architecture.",
+          "words": [
+            {
+              "word": "fokuserer",
+              "definition": "focuses",
+              "partOfSpeech": "verb",
+              "grammar": "fokusere (to focus) · present: fokuserer · borrowed from English"
+            },
+            {
+              "word": "arkitektur",
+              "definition": "architecture",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en arkitektur · from Latin architectura"
+            }
+          ]
+        },
+        {
+          "id": "da-n02-s03",
+          "text": "Der vil være udstillinger fra hele verden.",
+          "translation": "There will be exhibitions from all over the world.",
+          "words": [
+            {
+              "word": "udstillinger",
+              "definition": "exhibitions",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en udstilling · udstillinger (pl.) · from udstille (to exhibit)"
+            },
+            {
+              "word": "verden",
+              "definition": "the world",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en verden · verdenen (def.) · common gender"
+            }
+          ]
+        },
+        {
+          "id": "da-n02-s04",
+          "text": "Billetterne koster 150 kroner for voksne.",
+          "translation": "The tickets cost 150 kroner for adults.",
+          "words": [
+            {
+              "word": "billetterne",
+              "definition": "the tickets",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en billet · billetterne (def. pl.) · from French billet"
+            },
+            {
+              "word": "voksne",
+              "definition": "adults",
+              "partOfSpeech": "noun/adj. pl.",
+              "grammar": "voksen (adult, sing.) · voksne (pl.) · also adjective 'grown-up'"
+            }
+          ]
+        },
+        {
+          "id": "da-n02-s05",
+          "text": "Børn under 12 år kommer ind gratis.",
+          "translation": "Children under 12 years old enter for free.",
+          "words": [
+            {
+              "word": "børn",
+              "definition": "children",
+              "partOfSpeech": "noun, n. pl.",
+              "grammar": "et barn · børn (pl.) · irregular plural"
+            },
+            {
+              "word": "gratis",
+              "definition": "free, for free",
+              "partOfSpeech": "adv./adj.",
+              "grammar": "indeclinable · from Latin gratis 'freely'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da-news-2026w25-03",
+      "title": "Cykling er Danmarks sport nummer ét",
+      "level": "A2",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-06-18",
+        "topic": "Sport"
+      },
+      "sentences": [
+        {
+          "id": "da-n03-s01",
+          "text": "Danskerne elsker at cykle.",
+          "translation": "Danes love to cycle.",
+          "words": [
+            {
+              "word": "elsker",
+              "definition": "love",
+              "partOfSpeech": "verb",
+              "grammar": "elske (to love) · present: elsker"
+            },
+            {
+              "word": "cykle",
+              "definition": "to cycle, to ride a bike",
+              "partOfSpeech": "verb",
+              "grammar": "cykle (infinitive) · cykler (present)"
+            }
+          ]
+        },
+        {
+          "id": "da-n03-s02",
+          "text": "Over halvdelen af alle danskere cykler til arbejde.",
+          "translation": "Over half of all Danes cycle to work.",
+          "words": [
+            {
+              "word": "halvdelen",
+              "definition": "the half",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en halvdel · halvdelen (def.) · halvdel = half part"
+            },
+            {
+              "word": "arbejde",
+              "definition": "work",
+              "partOfSpeech": "noun, n. / verb",
+              "grammar": "et arbejde (noun) · arbejde (infinitive) · arbejder (present)"
+            }
+          ]
+        },
+        {
+          "id": "da-n03-s03",
+          "text": "København er en af verdens mest cykelfravenlige byer.",
+          "translation": "Copenhagen is one of the world's most bike-friendly cities.",
+          "words": [
+            {
+              "word": "cykelfravenlige",
+              "definition": "bike-friendly",
+              "partOfSpeech": "adj.",
+              "grammar": "cykel (bike) + venlig (friendly) → compound adj."
+            },
+            {
+              "word": "byer",
+              "definition": "cities",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en by · byer (pl.) · byen (def. sg.)"
+            }
+          ]
+        },
+        {
+          "id": "da-n03-s04",
+          "text": "Der er mange cykelstier i hele landet.",
+          "translation": "There are many bike paths throughout the country.",
+          "words": [
+            {
+              "word": "cykelstier",
+              "definition": "bike paths, cycle lanes",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en cykelsti · cykelstier (pl.) · cykel + sti (path)"
+            },
+            {
+              "word": "landet",
+              "definition": "the country",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et land · landet (def.) · neuter gender"
+            }
+          ]
+        },
+        {
+          "id": "da-n03-s05",
+          "text": "Cyklingen er god for miljøet og sundheden.",
+          "translation": "Cycling is good for the environment and health.",
+          "words": [
+            {
+              "word": "miljøet",
+              "definition": "the environment",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et miljø · miljøet (def.) · from French milieu"
+            },
+            {
+              "word": "sundheden",
+              "definition": "the health",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en sundhed · sundheden (def.) · sund (healthy) + -hed (suffix)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da-news-2026w25-04",
+      "title": "Danskerne spiser mere grøntsager",
+      "level": "B1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-06-19",
+        "topic": "Sundhed"
+      },
+      "sentences": [
+        {
+          "id": "da-n04-s01",
+          "text": "En ny undersøgelse viser, at danskerne spiser sundere end tidligere.",
+          "translation": "A new study shows that Danes eat healthier than before.",
+          "words": [
+            {
+              "word": "undersøgelse",
+              "definition": "study, survey, investigation",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en undersøgelse · under (under) + søge (to seek) + -else"
+            },
+            {
+              "word": "sundere",
+              "definition": "healthier",
+              "partOfSpeech": "adj. comparative",
+              "grammar": "sund → sundere (comparative) → sundest (superlative)"
+            },
+            {
+              "word": "tidligere",
+              "definition": "before, previously, earlier",
+              "partOfSpeech": "adv./adj.",
+              "grammar": "tidlig (early) → tidligere (comparative/adverb of time)"
+            }
+          ]
+        },
+        {
+          "id": "da-n04-s02",
+          "text": "Forbruget af grøntsager er steget med 20 procent på fem år.",
+          "translation": "The consumption of vegetables has increased by 20 percent over five years.",
+          "words": [
+            {
+              "word": "forbruget",
+              "definition": "the consumption",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et forbrug · forbruget (def.) · for- + bruge (to use)"
+            },
+            {
+              "word": "grøntsager",
+              "definition": "vegetables",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en grøntsag · grøntsager (pl.) · grøn (green) + sag (thing)"
+            },
+            {
+              "word": "steget",
+              "definition": "risen, increased",
+              "partOfSpeech": "past part.",
+              "grammar": "stige (to rise) · past participle: steget"
+            }
+          ]
+        },
+        {
+          "id": "da-n04-s03",
+          "text": "Flere danskere vælger plantebaserede måltider.",
+          "translation": "More Danes are choosing plant-based meals.",
+          "words": [
+            {
+              "word": "vælger",
+              "definition": "choose",
+              "partOfSpeech": "verb",
+              "grammar": "vælge (to choose) · present: vælger · past: valgte"
+            },
+            {
+              "word": "plantebaserede",
+              "definition": "plant-based",
+              "partOfSpeech": "adj.",
+              "grammar": "plante (plant) + basere (to base) + -de (adj. ending)"
+            },
+            {
+              "word": "måltider",
+              "definition": "meals",
+              "partOfSpeech": "noun, n. pl.",
+              "grammar": "et måltid · måltider (pl.) · mål (goal/measure) + tid (time)"
+            }
+          ]
+        },
+        {
+          "id": "da-n04-s04",
+          "text": "Eksperter mener, at denne tendens er positiv for folkesundheden.",
+          "translation": "Experts believe that this trend is positive for public health.",
+          "words": [
+            {
+              "word": "mener",
+              "definition": "believe, think, mean",
+              "partOfSpeech": "verb",
+              "grammar": "mene (to think/mean) · present: mener"
+            },
+            {
+              "word": "tendens",
+              "definition": "trend, tendency",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en tendens · tendensen (def.) · from Latin tendere"
+            },
+            {
+              "word": "folkesundheden",
+              "definition": "the public health",
+              "partOfSpeech": "noun, c.",
+              "grammar": "folk (people) + sundhed (health) → compound noun"
+            }
+          ]
+        },
+        {
+          "id": "da-n04-s05",
+          "text": "Regeringen vil støtte lokale landmænd, der producerer sunde fødevarer.",
+          "translation": "The government will support local farmers who produce healthy food.",
+          "words": [
+            {
+              "word": "støtte",
+              "definition": "to support",
+              "partOfSpeech": "verb",
+              "grammar": "støtte (inf.) · støtter (present) · støttede (past)"
+            },
+            {
+              "word": "landmænd",
+              "definition": "farmers",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en landmand · landmænd (pl.) · irregular plural with umlaut"
+            },
+            {
+              "word": "fødevarer",
+              "definition": "food, foodstuffs",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en fødevare · fødevarer (pl.) · føde (food) + vare (product)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da-news-2026w25-05",
+      "title": "Dansk film vinder pris i Cannes",
+      "level": "B1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-06-20",
+        "topic": "Film"
+      },
+      "sentences": [
+        {
+          "id": "da-n05-s01",
+          "text": "En dansk film har vundet en prestigefyldt pris på filmfestivalen i Cannes.",
+          "translation": "A Danish film has won a prestigious award at the film festival in Cannes.",
+          "words": [
+            {
+              "word": "vundet",
+              "definition": "won",
+              "partOfSpeech": "past part.",
+              "grammar": "vinde (to win) · past participle: vundet · irregular"
+            },
+            {
+              "word": "prestigefyldt",
+              "definition": "prestigious",
+              "partOfSpeech": "adj.",
+              "grammar": "prestige + fyldt (filled) → prestige-filled · neuter form"
+            },
+            {
+              "word": "filmfestivalen",
+              "definition": "the film festival",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en filmfestival · filmfestivalen (def.) · compound noun"
+            }
+          ]
+        },
+        {
+          "id": "da-n05-s02",
+          "text": "Filmen handler om en ung kvinde, der rejser rundt i Skandinavien.",
+          "translation": "The film is about a young woman who travels around Scandinavia.",
+          "words": [
+            {
+              "word": "handler",
+              "definition": "is about, deals with",
+              "partOfSpeech": "verb",
+              "grammar": "handle om (to be about) · handle (inf.) · handler (present)"
+            },
+            {
+              "word": "rejser",
+              "definition": "travels",
+              "partOfSpeech": "verb",
+              "grammar": "rejse (to travel) · present: rejser · rejste (past)"
+            }
+          ]
+        },
+        {
+          "id": "da-n05-s03",
+          "text": "Instruktøren siger, at filmen er inspireret af hans barndom i Jylland.",
+          "translation": "The director says that the film is inspired by his childhood in Jutland.",
+          "words": [
+            {
+              "word": "instruktøren",
+              "definition": "the director",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en instruktør · instruktøren (def.) · from French instructeur"
+            },
+            {
+              "word": "inspireret",
+              "definition": "inspired",
+              "partOfSpeech": "past part./adj.",
+              "grammar": "inspirere (to inspire) · past participle: inspireret"
+            },
+            {
+              "word": "barndom",
+              "definition": "childhood",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en barndom · barndommen (def.) · barn (child) + -dom (suffix)"
+            }
+          ]
+        },
+        {
+          "id": "da-n05-s04",
+          "text": "Mange danskere er stolte over succesen.",
+          "translation": "Many Danes are proud of the success.",
+          "words": [
+            {
+              "word": "stolte",
+              "definition": "proud",
+              "partOfSpeech": "adj. pl./def.",
+              "grammar": "stolt (proud) · stolte (pl./def. form) · stolthed (noun: pride)"
+            },
+            {
+              "word": "succesen",
+              "definition": "the success",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en succes · succesen (def.) · from French succès"
+            }
+          ]
+        },
+        {
+          "id": "da-n05-s05",
+          "text": "Filmen vises i danske biografer fra næste fredag.",
+          "translation": "The film will be shown in Danish cinemas from next Friday.",
+          "words": [
+            {
+              "word": "vises",
+              "definition": "is shown, is screened",
+              "partOfSpeech": "verb (passive)",
+              "grammar": "vise (to show) · passive: vises · -s passive construction"
+            },
+            {
+              "word": "biografer",
+              "definition": "cinemas, movie theaters",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en biograf · biografer (pl.) · from Greek biographos"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

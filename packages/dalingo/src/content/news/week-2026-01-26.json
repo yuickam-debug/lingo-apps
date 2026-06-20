@@ -1,0 +1,196 @@
+{
+  "weekOf": "2026-01-26",
+  "articles": [
+    {
+      "id": "da-news-2026w05-01",
+      "title": "Ny aftale skal gøre dansk forskning til flere virksomheder",
+      "level": "B1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-01-26",
+        "topic": "Forskning",
+        "adaptedFrom": "https://ufm.dk/aktuelt/pressemeddelelser/2026/januar/ny-aftale-baner-vejen-for-at-mere-forskning-kan-omsaettes-til-innovation-og-ivaerksaetteri/",
+        "originalAuthor": "Uddannelses- og Forskningsministeriet (pressemeddelelse)"
+      },
+      "sentences": [
+        {
+          "id": "da-n01-s01",
+          "text": "Regeringen har indgået en bred politisk aftale, der skal gøre det lettere at omsætte dansk forskning til nye virksomheder.",
+          "translation": "The government has made a broad political agreement that will make it easier to turn Danish research into new companies.",
+          "words": [
+            {
+              "word": "indgået",
+              "definition": "entered into / made",
+              "partOfSpeech": "verb (past part.)",
+              "grammar": "infinitive: indgå"
+            },
+            {
+              "word": "omsætte",
+              "definition": "to convert / turn into",
+              "partOfSpeech": "verb (inf.)",
+              "grammar": "",
+              "crossRef": "German 'umsetzen'"
+            },
+            {
+              "word": "virksomheder",
+              "definition": "companies",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "virksomhed (en) â virksomheder"
+            }
+          ],
+          "grammarNote": "'der' introduces a relative clause modifying 'aftale' (the agreement that...); 'gøre det lettere at + infinitive' is a fixed pattern for 'make it easier to'."
+        },
+        {
+          "id": "da-n01-s02",
+          "text": "Aftalen betyder, at universiteterne fremover skal spille en mere central rolle som drivkraft for innovation og iværksætteri.",
+          "translation": "The agreement means that universities will from now on play a more central role as a driving force for innovation and entrepreneurship.",
+          "words": [
+            {
+              "word": "fremover",
+              "definition": "from now on / going forward",
+              "partOfSpeech": "adv.",
+              "grammar": ""
+            },
+            {
+              "word": "drivkraft",
+              "definition": "driving force",
+              "partOfSpeech": "noun, c.",
+              "grammar": "compound: driv + kraft"
+            },
+            {
+              "word": "iværksætteri",
+              "definition": "entrepreneurship",
+              "partOfSpeech": "noun, n.",
+              "grammar": "iværksætter + -i",
+              "crossRef": "German 'Unternehmertum'"
+            }
+          ],
+          "grammarNote": "'fremover' (from now on) is a single-word time adverbial typical of formal/political Danish, placed right after the subject of the at-clause."
+        },
+        {
+          "id": "da-n01-s03",
+          "text": "Målet er, at flere gode idéer fra forskningsverdenen hurtigere bliver til konkrete løsninger og højteknologiske virksomheder.",
+          "translation": "The goal is for more good ideas from the research world to more quickly become concrete solutions and high-tech companies.",
+          "words": [
+            {
+              "word": "idéer",
+              "definition": "ideas",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "idÃ© (en) â idÃ©er",
+              "crossRef": "German 'Ideen'"
+            },
+            {
+              "word": "bliver til",
+              "definition": "becomes / turns into",
+              "partOfSpeech": "verb phrase",
+              "grammar": "blive + til"
+            },
+            {
+              "word": "højteknologiske",
+              "definition": "high-tech",
+              "partOfSpeech": "adj. (pl./def.)",
+              "grammar": "compound: høj + teknologiske"
+            }
+          ],
+          "grammarNote": "'MÃ¥let er, at...' uses an at-clause as the subject complement â note the word order inside stays subject-verb, unlike German's verb-final pattern."
+        },
+        {
+          "id": "da-n01-s04",
+          "text": "Uddannelses- og forskningsministeren siger, at Danmark skal være et af de bedste steder i verden at skabe innovation.",
+          "translation": "The minister for education and research says that Denmark should be one of the best places in the world to create innovation.",
+          "words": [
+            {
+              "word": "et af de bedste steder",
+              "definition": "one of the best places",
+              "partOfSpeech": "phrase",
+              "grammar": "superlative + 'af de' construction"
+            },
+            {
+              "word": "skabe",
+              "definition": "to create",
+              "partOfSpeech": "verb (inf.)",
+              "grammar": "",
+              "crossRef": "German 'schaffen'"
+            }
+          ],
+          "grammarNote": "'et af de bedste steder i verden at + infinitive' is a fixed superlative-comparison chunk â worth learning as a whole phrase rather than building word by word."
+        },
+        {
+          "id": "da-n01-s05",
+          "text": "Aftalen bygger på anbefalinger fra en taskforce, som i flere måneder har undersøgt, hvordan viden bedst kan overføres fra forskning til erhvervsliv.",
+          "translation": "The agreement builds on recommendations from a task force, which for several months has examined how knowledge can best be transferred from research to business.",
+          "words": [
+            {
+              "word": "anbefalinger",
+              "definition": "recommendations",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "from verb 'anbefale'"
+            },
+            {
+              "word": "undersøgt",
+              "definition": "examined / investigated",
+              "partOfSpeech": "verb (past part.)",
+              "grammar": "infinitive: undersøge"
+            },
+            {
+              "word": "overføres",
+              "definition": "is transferred",
+              "partOfSpeech": "verb (passive)",
+              "grammar": "infinitive: overføre"
+            }
+          ],
+          "grammarNote": "'som' here is the all-purpose relative pronoun referring back to 'taskforce'; inside that clause, a second embedded question-word clause ('hvordan...') functions as the object of 'undersøgt'."
+        },
+        {
+          "id": "da-n01-s06",
+          "text": "Erhvervsministeren kalder aftalen et svar på nogle af de udfordringer, som økonomen Mario Draghi har beskrevet i sin rapport om europæisk konkurrenceevne.",
+          "translation": "The minister for business calls the agreement a response to some of the challenges that economist Mario Draghi has described in his report on European competitiveness.",
+          "words": [
+            {
+              "word": "udfordringer",
+              "definition": "challenges",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "udfordring (en) â udfordringer",
+              "crossRef": "German 'Herausforderungen'"
+            },
+            {
+              "word": "konkurrenceevne",
+              "definition": "competitiveness",
+              "partOfSpeech": "noun, c.",
+              "grammar": "compound: konkurrence + evne",
+              "crossRef": "German 'Wettbewerbsfähigkeit'"
+            }
+          ],
+          "grammarNote": "'som' here is the object of 'beskrevet' (described), referring back to 'udfordringer' â a nested relative clause modifying the noun phrase right before it."
+        },
+        {
+          "id": "da-n01-s07",
+          "text": "Syv partier står bag aftalen, hvilket giver den et bredt flertal i Folketinget.",
+          "translation": "Seven parties stand behind the agreement, which gives it a broad majority in Parliament.",
+          "words": [
+            {
+              "word": "står bag",
+              "definition": "stand behind / support",
+              "partOfSpeech": "verb phrase",
+              "grammar": "stå + bag"
+            },
+            {
+              "word": "hvilket",
+              "definition": "which",
+              "partOfSpeech": "relative pronoun",
+              "grammar": "refers to a whole preceding clause, not a single noun"
+            },
+            {
+              "word": "flertal",
+              "definition": "majority",
+              "partOfSpeech": "noun, n.",
+              "grammar": ""
+            }
+          ],
+          "grammarNote": "'hvilket' refers back to the entire preceding clause (the fact that seven parties support it), not to one specific noun â different from 'som/der', which always attach to a particular noun."
+        }
+      ]
+    }
+  ]
+}

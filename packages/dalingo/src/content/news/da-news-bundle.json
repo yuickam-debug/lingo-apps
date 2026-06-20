@@ -1,0 +1,1710 @@
+{
+  "version": "1",
+  "weeks": [
+    {
+      "weekOf": "2026-01-12",
+      "articles": [
+        {
+          "id": "da-news-2026w03-01",
+          "title": "Ny forening skal styrke Innovation District Copenhagen",
+          "level": "B1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-01-14",
+            "topic": "Erhverv",
+            "adaptedFrom": "https://techsavvy.media/en/new-innovation-district-in-copenhagen-will-bring-researchers-entrepreneurs-and-businesses-together-in-a-close-ecosystem/",
+            "originalAuthor": "Rasmus Hørving-Mulberg, TechSavvy"
+          },
+          "sentences": [
+            {
+              "id": "da-n01-s01",
+              "text": "En ny forening skal sikre, at Innovation District Copenhagen kan udvikle sig som et internationalt kraftcenter for forskning og iværksætteri.",
+              "translation": "A new association will ensure that Innovation District Copenhagen can develop as an international powerhouse for research and entrepreneurship.",
+              "words": [
+                {
+                  "word": "forening",
+                  "definition": "association",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": ""
+                },
+                {
+                  "word": "kraftcenter",
+                  "definition": "powerhouse",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "compound: kraft + center"
+                },
+                {
+                  "word": "iværksætteri",
+                  "definition": "entrepreneurship",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "iværksætter + -i",
+                  "crossRef": "German 'Unternehmertum'"
+                }
+              ],
+              "grammarNote": "'skal sikre, at' uses 'skal' to express intended function or purpose ('is meant to ensure'), not obligation â the same pattern you saw with 'skal levere' in the energy article."
+            },
+            {
+              "id": "da-n01-s02",
+              "text": "Formålet er at samle forskere, læger, iværksættere og virksomheder i ét tæt økosystem omkring Københavns Universitet og Rigshospitalet.",
+              "translation": "The purpose is to gather researchers, doctors, entrepreneurs, and companies in one close ecosystem around the University of Copenhagen and Rigshospitalet.",
+              "words": [
+                {
+                  "word": "formålet",
+                  "definition": "the purpose",
+                  "partOfSpeech": "noun, c. def.",
+                  "grammar": "formål + -et"
+                },
+                {
+                  "word": "iværksættere",
+                  "definition": "entrepreneurs",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "ivÃ¦rksÃ¦tter (en) â ivÃ¦rksÃ¦ttere"
+                },
+                {
+                  "word": "økosystem",
+                  "definition": "ecosystem",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "",
+                  "crossRef": "German 'Ã–kosystem'"
+                }
+              ],
+              "grammarNote": "'FormÃ¥let er at + infinitive' â when the subject complement describes an action with the same implied subject as 'formÃ¥let', Danish uses 'at' + infinitive directly rather than a full at-clause with its own subject."
+            },
+            {
+              "id": "da-n01-s03",
+              "text": "Området skal især blive et internationalt centrum inden for life science og kvanteteknologi.",
+              "translation": "The area is meant to especially become an international center within life science and quantum technology.",
+              "words": [
+                {
+                  "word": "centrum",
+                  "definition": "center",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": ""
+                },
+                {
+                  "word": "inden for",
+                  "definition": "within",
+                  "partOfSpeech": "prep.",
+                  "grammar": "always two words in this sense"
+                },
+                {
+                  "word": "kvanteteknologi",
+                  "definition": "quantum technology",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "compound: kvante + teknologi",
+                  "crossRef": "German 'Quantentechnologie'"
+                }
+              ],
+              "grammarNote": "'inden for' (within) is always written as two words in this meaning â a small but high-frequency spelling distinction worth fixing early."
+            },
+            {
+              "id": "da-n01-s04",
+              "text": "Initiativet bygger videre på en politisk aftale, som staten, Københavns Kommune og universitetet indgik tidligere.",
+              "translation": "The initiative builds further on a political agreement that the state, the City of Copenhagen, and the university entered into earlier.",
+              "words": [
+                {
+                  "word": "bygger videre på",
+                  "definition": "builds further on",
+                  "partOfSpeech": "verb phrase",
+                  "grammar": "bygge + videre + på"
+                },
+                {
+                  "word": "indgik",
+                  "definition": "entered into",
+                  "partOfSpeech": "verb (past)",
+                  "grammar": "infinitive: indgå (same verb seen in the research-agreement article)"
+                },
+                {
+                  "word": "staten",
+                  "definition": "the state",
+                  "partOfSpeech": "noun, c. def.",
+                  "grammar": "stat + -en"
+                }
+              ],
+              "grammarNote": "'som' is the object of 'indgik' (entered into), referring back to 'aftale'; three coordinated subjects (staten, kommunen, universitetet) share that one verb."
+            },
+            {
+              "id": "da-n01-s05",
+              "text": "Tanken er, at flere forskningsbaserede virksomheder skal opstå, når forskere og iværksættere får lettere adgang til hinanden.",
+              "translation": "The idea is that more research-based companies should arise when researchers and entrepreneurs get easier access to each other.",
+              "words": [
+                {
+                  "word": "opstå",
+                  "definition": "to arise / emerge",
+                  "partOfSpeech": "verb (inf.)",
+                  "grammar": ""
+                },
+                {
+                  "word": "adgang",
+                  "definition": "access",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "",
+                  "crossRef": "German 'Zugang'"
+                },
+                {
+                  "word": "hinanden",
+                  "definition": "each other",
+                  "partOfSpeech": "pronoun",
+                  "grammar": ""
+                }
+              ],
+              "grammarNote": "'når' introduces a repeated/future condition ('whenever this happens'), in contrast to 'da', which is reserved for a single completed event in the past."
+            },
+            {
+              "id": "da-n01-s06",
+              "text": "Området har allerede tiltrukket investeringer og huser blandt andet et center for kunstig intelligens på universitetet.",
+              "translation": "The area has already attracted investments and houses, among other things, a center for artificial intelligence at the university.",
+              "words": [
+                {
+                  "word": "tiltrukket",
+                  "definition": "attracted",
+                  "partOfSpeech": "verb (past part.)",
+                  "grammar": "infinitive: tiltrække"
+                },
+                {
+                  "word": "huser",
+                  "definition": "houses (verb)",
+                  "partOfSpeech": "verb (pres.)",
+                  "grammar": "infinitive: huse"
+                },
+                {
+                  "word": "kunstig intelligens",
+                  "definition": "artificial intelligence",
+                  "partOfSpeech": "phrase",
+                  "grammar": "",
+                  "crossRef": "German 'künstliche Intelligenz'"
+                }
+              ],
+              "grammarNote": "'allerede' (already) sits right after 'har' â the standard position for sentence adverbs between the auxiliary and the past participle in present perfect."
+            },
+            {
+              "id": "da-n01-s07",
+              "text": "Med den nye organisering håber aktørerne at kunne udvikle distriktet langsigtet og bæredygtigt.",
+              "translation": "With the new organization, the stakeholders hope to be able to develop the district long-term and sustainably.",
+              "words": [
+                {
+                  "word": "organisering",
+                  "definition": "organization",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": ""
+                },
+                {
+                  "word": "aktørerne",
+                  "definition": "the stakeholders / actors",
+                  "partOfSpeech": "noun, c. pl. def.",
+                  "grammar": "aktÃ¸r (en) â aktÃ¸rer â aktÃ¸rerne"
+                },
+                {
+                  "word": "bæredygtigt",
+                  "definition": "sustainably",
+                  "partOfSpeech": "adv.",
+                  "grammar": "bæredygtig + -t"
+                }
+              ],
+              "grammarNote": "'hÃ¥ber at kunne udvikle' â 'hÃ¥ber at' takes a bare infinitive (no separate subject), since the one hoping and the one developing are the same: 'aktÃ¸rerne'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekOf": "2026-01-26",
+      "articles": [
+        {
+          "id": "da-news-2026w05-01",
+          "title": "Ny aftale skal gøre dansk forskning til flere virksomheder",
+          "level": "B1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-01-26",
+            "topic": "Forskning",
+            "adaptedFrom": "https://ufm.dk/aktuelt/pressemeddelelser/2026/januar/ny-aftale-baner-vejen-for-at-mere-forskning-kan-omsaettes-til-innovation-og-ivaerksaetteri/",
+            "originalAuthor": "Uddannelses- og Forskningsministeriet (pressemeddelelse)"
+          },
+          "sentences": [
+            {
+              "id": "da-n01-s01",
+              "text": "Regeringen har indgået en bred politisk aftale, der skal gøre det lettere at omsætte dansk forskning til nye virksomheder.",
+              "translation": "The government has made a broad political agreement that will make it easier to turn Danish research into new companies.",
+              "words": [
+                {
+                  "word": "indgået",
+                  "definition": "entered into / made",
+                  "partOfSpeech": "verb (past part.)",
+                  "grammar": "infinitive: indgå"
+                },
+                {
+                  "word": "omsætte",
+                  "definition": "to convert / turn into",
+                  "partOfSpeech": "verb (inf.)",
+                  "grammar": "",
+                  "crossRef": "German 'umsetzen'"
+                },
+                {
+                  "word": "virksomheder",
+                  "definition": "companies",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "virksomhed (en) â virksomheder"
+                }
+              ],
+              "grammarNote": "'der' introduces a relative clause modifying 'aftale' (the agreement that...); 'gøre det lettere at + infinitive' is a fixed pattern for 'make it easier to'."
+            },
+            {
+              "id": "da-n01-s02",
+              "text": "Aftalen betyder, at universiteterne fremover skal spille en mere central rolle som drivkraft for innovation og iværksætteri.",
+              "translation": "The agreement means that universities will from now on play a more central role as a driving force for innovation and entrepreneurship.",
+              "words": [
+                {
+                  "word": "fremover",
+                  "definition": "from now on / going forward",
+                  "partOfSpeech": "adv.",
+                  "grammar": ""
+                },
+                {
+                  "word": "drivkraft",
+                  "definition": "driving force",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "compound: driv + kraft"
+                },
+                {
+                  "word": "iværksætteri",
+                  "definition": "entrepreneurship",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "iværksætter + -i",
+                  "crossRef": "German 'Unternehmertum'"
+                }
+              ],
+              "grammarNote": "'fremover' (from now on) is a single-word time adverbial typical of formal/political Danish, placed right after the subject of the at-clause."
+            },
+            {
+              "id": "da-n01-s03",
+              "text": "Målet er, at flere gode idéer fra forskningsverdenen hurtigere bliver til konkrete løsninger og højteknologiske virksomheder.",
+              "translation": "The goal is for more good ideas from the research world to more quickly become concrete solutions and high-tech companies.",
+              "words": [
+                {
+                  "word": "idéer",
+                  "definition": "ideas",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "idÃ© (en) â idÃ©er",
+                  "crossRef": "German 'Ideen'"
+                },
+                {
+                  "word": "bliver til",
+                  "definition": "becomes / turns into",
+                  "partOfSpeech": "verb phrase",
+                  "grammar": "blive + til"
+                },
+                {
+                  "word": "højteknologiske",
+                  "definition": "high-tech",
+                  "partOfSpeech": "adj. (pl./def.)",
+                  "grammar": "compound: høj + teknologiske"
+                }
+              ],
+              "grammarNote": "'MÃ¥let er, at...' uses an at-clause as the subject complement â note the word order inside stays subject-verb, unlike German's verb-final pattern."
+            },
+            {
+              "id": "da-n01-s04",
+              "text": "Uddannelses- og forskningsministeren siger, at Danmark skal være et af de bedste steder i verden at skabe innovation.",
+              "translation": "The minister for education and research says that Denmark should be one of the best places in the world to create innovation.",
+              "words": [
+                {
+                  "word": "et af de bedste steder",
+                  "definition": "one of the best places",
+                  "partOfSpeech": "phrase",
+                  "grammar": "superlative + 'af de' construction"
+                },
+                {
+                  "word": "skabe",
+                  "definition": "to create",
+                  "partOfSpeech": "verb (inf.)",
+                  "grammar": "",
+                  "crossRef": "German 'schaffen'"
+                }
+              ],
+              "grammarNote": "'et af de bedste steder i verden at + infinitive' is a fixed superlative-comparison chunk â worth learning as a whole phrase rather than building word by word."
+            },
+            {
+              "id": "da-n01-s05",
+              "text": "Aftalen bygger på anbefalinger fra en taskforce, som i flere måneder har undersøgt, hvordan viden bedst kan overføres fra forskning til erhvervsliv.",
+              "translation": "The agreement builds on recommendations from a task force, which for several months has examined how knowledge can best be transferred from research to business.",
+              "words": [
+                {
+                  "word": "anbefalinger",
+                  "definition": "recommendations",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "from verb 'anbefale'"
+                },
+                {
+                  "word": "undersøgt",
+                  "definition": "examined / investigated",
+                  "partOfSpeech": "verb (past part.)",
+                  "grammar": "infinitive: undersøge"
+                },
+                {
+                  "word": "overføres",
+                  "definition": "is transferred",
+                  "partOfSpeech": "verb (passive)",
+                  "grammar": "infinitive: overføre"
+                }
+              ],
+              "grammarNote": "'som' here is the all-purpose relative pronoun referring back to 'taskforce'; inside that clause, a second embedded question-word clause ('hvordan...') functions as the object of 'undersøgt'."
+            },
+            {
+              "id": "da-n01-s06",
+              "text": "Erhvervsministeren kalder aftalen et svar på nogle af de udfordringer, som økonomen Mario Draghi har beskrevet i sin rapport om europæisk konkurrenceevne.",
+              "translation": "The minister for business calls the agreement a response to some of the challenges that economist Mario Draghi has described in his report on European competitiveness.",
+              "words": [
+                {
+                  "word": "udfordringer",
+                  "definition": "challenges",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "udfordring (en) â udfordringer",
+                  "crossRef": "German 'Herausforderungen'"
+                },
+                {
+                  "word": "konkurrenceevne",
+                  "definition": "competitiveness",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "compound: konkurrence + evne",
+                  "crossRef": "German 'Wettbewerbsfähigkeit'"
+                }
+              ],
+              "grammarNote": "'som' here is the object of 'beskrevet' (described), referring back to 'udfordringer' â a nested relative clause modifying the noun phrase right before it."
+            },
+            {
+              "id": "da-n01-s07",
+              "text": "Syv partier står bag aftalen, hvilket giver den et bredt flertal i Folketinget.",
+              "translation": "Seven parties stand behind the agreement, which gives it a broad majority in Parliament.",
+              "words": [
+                {
+                  "word": "står bag",
+                  "definition": "stand behind / support",
+                  "partOfSpeech": "verb phrase",
+                  "grammar": "stå + bag"
+                },
+                {
+                  "word": "hvilket",
+                  "definition": "which",
+                  "partOfSpeech": "relative pronoun",
+                  "grammar": "refers to a whole preceding clause, not a single noun"
+                },
+                {
+                  "word": "flertal",
+                  "definition": "majority",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": ""
+                }
+              ],
+              "grammarNote": "'hvilket' refers back to the entire preceding clause (the fact that seven parties support it), not to one specific noun â different from 'som/der', which always attach to a particular noun."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekOf": "2026-02-02",
+      "articles": [
+        {
+          "id": "da-news-2026w06-01",
+          "title": "Milliardaftale skal sikre stor energiø ved Bornholm",
+          "level": "B1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-02-04",
+            "topic": "Klima",
+            "adaptedFrom": "https://www.altinget.dk/klima/artikel/regeringen-faar-bred-opbakning-til-energioe-for-milliarder-det-her-er-en-stor-fuckfinger-til-trump-og-putin",
+            "originalAuthor": "Emma Sommer og Andreas Arp, Altinget"
+          },
+          "sentences": [
+            {
+              "id": "da-n01-s01",
+              "text": "Danmark har taget endnu et skridt mod at bygge en kÃ¦mpe energiÃ¸ i ÃstersÃ¸en ud for Bornholm.",
+              "translation": "Denmark has taken another step toward building a huge energy island in the Baltic Sea off Bornholm.",
+              "words": [
+                {
+                  "word": "skridt",
+                  "definition": "step",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "idiom: tage et skridt (take a step)"
+                },
+                {
+                  "word": "energiø",
+                  "definition": "energy island",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "compound: energi + ø",
+                  "crossRef": "German 'Energieinsel'"
+                },
+                {
+                  "word": "ÃstersÃ¸en",
+                  "definition": "the Baltic Sea",
+                  "partOfSpeech": "proper noun",
+                  "grammar": "definite form used as the standard name"
+                }
+              ],
+              "grammarNote": "'endnu et skridt' (yet another step) uses 'endnu' as an intensifier before 'et' â a different pattern from 'mere', and very common when describing gradual progress."
+            },
+            {
+              "id": "da-n01-s02",
+              "text": "Regeringen og et bredt flertal af partier i Folketinget har indgået en aftale om at finansiere projektet med over 40 milliarder kroner.",
+              "translation": "The government and a broad majority of parties in Parliament have made an agreement to finance the project with more than 40 billion kroner.",
+              "words": [
+                {
+                  "word": "flertal",
+                  "definition": "majority",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "compound: fler(e) + tal"
+                },
+                {
+                  "word": "indgået",
+                  "definition": "entered into / made (an agreement)",
+                  "partOfSpeech": "verb (past part.)",
+                  "grammar": "infinitive: indgå"
+                },
+                {
+                  "word": "finansiere",
+                  "definition": "to finance",
+                  "partOfSpeech": "verb (inf.)",
+                  "grammar": "",
+                  "crossRef": "German 'finanzieren'"
+                },
+                {
+                  "word": "milliarder",
+                  "definition": "billions",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "milliard (en) â milliarder"
+                }
+              ],
+              "grammarNote": "'indgået en aftale om at + infinitive' is a fixed political construction for 'made an agreement to'; the present perfect marks this as a recently completed formal act."
+            },
+            {
+              "id": "da-n01-s03",
+              "text": "Energiøen skal levere grøn strøm fra havvindmøller til både danske og tyske husstande.",
+              "translation": "The energy island will deliver green electricity from offshore wind turbines to both Danish and German households.",
+              "words": [
+                {
+                  "word": "strøm",
+                  "definition": "electricity / power",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": ""
+                },
+                {
+                  "word": "havvindmøller",
+                  "definition": "offshore wind turbines",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "compound: hav + vind + møller",
+                  "crossRef": "German 'Offshore-Windturbinen'"
+                },
+                {
+                  "word": "husstande",
+                  "definition": "households",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "compound: hus + stande"
+                }
+              ],
+              "grammarNote": "'skal levere' uses 'skal' to express a planned future function, not an obligation â a common B1 trap, since 'skal' usually maps to 'must' in English."
+            },
+            {
+              "id": "da-n01-s04",
+              "text": "Projektet forventes at få en kapacitet på tre gigawatt, når det står færdigt.",
+              "translation": "The project is expected to have a capacity of three gigawatts once it is finished.",
+              "words": [
+                {
+                  "word": "forventes",
+                  "definition": "is expected",
+                  "partOfSpeech": "verb (passive)",
+                  "grammar": "infinitive: forvente"
+                },
+                {
+                  "word": "kapacitet",
+                  "definition": "capacity",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "",
+                  "crossRef": "German 'Kapazität'"
+                },
+                {
+                  "word": "står færdigt",
+                  "definition": "is finished / stands complete",
+                  "partOfSpeech": "verb phrase",
+                  "grammar": "stå + færdig(t)"
+                }
+              ],
+              "grammarNote": "'når det står færdigt' uses 'når' for a future/repeated condition rather than 'da' (which is reserved for single past events); 'stå færdig' is an idiom meaning 'be finished'."
+            },
+            {
+              "id": "da-n01-s05",
+              "text": "Klima-, energi- og forsyningsministeren siger, at den brede opbakning viser, at Danmark kan gennemføre store grønne projekter sammen på tværs af partier.",
+              "translation": "The minister for climate, energy, and utilities says that the broad support shows that Danmark can carry out large green projects together across parties.",
+              "words": [
+                {
+                  "word": "opbakning",
+                  "definition": "support / backing",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": ""
+                },
+                {
+                  "word": "gennemføre",
+                  "definition": "to carry out / complete",
+                  "partOfSpeech": "verb (inf.)",
+                  "grammar": "gennem + føre"
+                },
+                {
+                  "word": "på tværs af",
+                  "definition": "across",
+                  "partOfSpeech": "prep.",
+                  "grammar": "fixed expression"
+                }
+              ],
+              "grammarNote": "Two 'at'-clauses nested inside each other ('siger, at... viser, at...') â common in B1+ reported speech when one claim is used to support another."
+            },
+            {
+              "id": "da-n01-s06",
+              "text": "Ifølge flere politikere styrker projektet også Europas energiuafhængighed i en tid med politisk usikkerhed.",
+              "translation": "According to several politicians, the project also strengthens Europe's energy independence at a time of political uncertainty.",
+              "words": [
+                {
+                  "word": "ifølge",
+                  "definition": "according to",
+                  "partOfSpeech": "prep.",
+                  "grammar": "triggers V2 word order when sentence-initial"
+                },
+                {
+                  "word": "energiuafhængighed",
+                  "definition": "energy independence",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "compound: energi + u-afhængig + -hed",
+                  "crossRef": "German 'Energieunabhängigkeit'"
+                },
+                {
+                  "word": "usikkerhed",
+                  "definition": "uncertainty",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "u- (negative prefix) + sikkerhed"
+                }
+              ],
+              "grammarNote": "'Ifølge flere politikere' is the first sentence element, so V2 still applies: the verb 'styrker' comes right after it, pushing the subject 'projektet' to third position."
+            },
+            {
+              "id": "da-n01-s07",
+              "text": "Efter flere års forhandlinger er det nu lykkedes at finde finansieringen, så det første spadestik kan komme tættere på.",
+              "translation": "After several years of negotiations, financing has now been found, so the first groundbreaking can come closer.",
+              "words": [
+                {
+                  "word": "lykkedes",
+                  "definition": "succeeded / managed to",
+                  "partOfSpeech": "verb (impersonal)",
+                  "grammar": "det lykkedes at + infinitive"
+                },
+                {
+                  "word": "finansieringen",
+                  "definition": "the financing",
+                  "partOfSpeech": "noun, c. def.",
+                  "grammar": "finansiering + -en"
+                },
+                {
+                  "word": "spadestik",
+                  "definition": "groundbreaking / first dig",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "compound idiom: spade + stik"
+                }
+              ],
+              "grammarNote": "'det lykkedes at + infinitive' is an impersonal construction meaning 'it succeeded in / they managed to' â useful for describing an achieved outcome without naming exactly who achieved it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekOf": "2026-05-18",
+      "articles": [
+        {
+          "id": "da-news-2026w21-01",
+          "title": "Danmarks førerposition er under pres",
+          "level": "B1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-05-18",
+            "topic": "Erhverv",
+            "adaptedFrom": "https://www.altinget.dk/erhverv/artikel/lektor-de-danske-foererpositioner-er-truet-og-vi-skal-handle-hurtigt-for-at-forsvare-dem",
+            "originalAuthor": "Stine Haakonsson, lektor, Copenhagen Business School"
+          },
+          "sentences": [
+            {
+              "id": "da-n01-s01",
+              "text": "Danmark har længe været førende inden for vindenergi og medicinalindustri, men nu er konkurrencen hårdere end nogensinde.",
+              "translation": "Denmark has long been a leader in wind energy and the pharmaceutical industry, but now the competition is tougher than ever.",
+              "words": [
+                {
+                  "word": "førende",
+                  "definition": "leading",
+                  "partOfSpeech": "adj.",
+                  "grammar": "present participle used as adjective · from verb 'fÃ¸re'",
+                  "crossRef": "German 'führend'"
+                },
+                {
+                  "word": "vindenergi",
+                  "definition": "wind energy",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "compound noun: vind + energi",
+                  "crossRef": "German 'Windenergie'"
+                },
+                {
+                  "word": "medicinalindustri",
+                  "definition": "pharmaceutical industry",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "compound noun: medicinal + industri"
+                },
+                {
+                  "word": "konkurrencen",
+                  "definition": "the competition",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "definite form: konkurrence + -n suffix (not a separate article)",
+                  "crossRef": "German 'Konkurrenz'"
+                },
+                {
+                  "word": "hårdere",
+                  "definition": "harder / tougher",
+                  "partOfSpeech": "adj.",
+                  "grammar": "comparative of 'hÃ¥rd' · -ere ending"
+                }
+              ],
+              "grammarNote": "'er hÃ¥rdere end nogensinde' uses the comparative + 'end nogensinde' (than ever) â a fixed B1 pattern for saying something has reached a new extreme."
+            },
+            {
+              "id": "da-n01-s02",
+              "text": "Ifølge en lektor fra Copenhagen Business School rykker Kina hurtigt frem og tager flere af verdens vigtigste patenter.",
+              "translation": "According to a lecturer from Copenhagen Business School, China is advancing quickly and taking more of the world's most important patents.",
+              "words": [
+                {
+                  "word": "ifølge",
+                  "definition": "according to",
+                  "partOfSpeech": "prep.",
+                  "grammar": "introduces reported claim · triggers V2 word order"
+                },
+                {
+                  "word": "lektor",
+                  "definition": "lecturer / senior researcher",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "Danish academic title, roughly between assistant and full professor",
+                  "crossRef": "German 'Lektor' (false-friend-adjacent: similar role, different ranking system)"
+                },
+                {
+                  "word": "rykker frem",
+                  "definition": "advances / moves forward",
+                  "partOfSpeech": "verb phrase",
+                  "grammar": "rykke + frem · used idiomatically for competitive advancement"
+                },
+                {
+                  "word": "patenter",
+                  "definition": "patents",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "patent (et) â patenter (plural)",
+                  "crossRef": "German 'Patente'"
+                }
+              ],
+              "grammarNote": "'IfÃ¸lge X, [verb] + subject' â when a sentence opens with 'ifÃ¸lge' (according to), the verb still comes second (V2 rule), so the subject 'Kina' is pushed after the verb."
+            },
+            {
+              "id": "da-n01-s03",
+              "text": "Samtidig er den globale orden blevet mere usikker, fordi handelskrige og politisk uro skaber problemer for forsyningskæderne.",
+              "translation": "At the same time, the global order has become more uncertain, because trade wars and political unrest create problems for supply chains.",
+              "words": [
+                {
+                  "word": "samtidig",
+                  "definition": "at the same time",
+                  "partOfSpeech": "adv.",
+                  "grammar": "sentence-initial connector"
+                },
+                {
+                  "word": "usikker",
+                  "definition": "uncertain",
+                  "partOfSpeech": "adj.",
+                  "grammar": "u- (negative prefix) + sikker"
+                },
+                {
+                  "word": "handelskrige",
+                  "definition": "trade wars",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "compound: handel + krig, plural -e",
+                  "crossRef": "German 'Handelskriege'"
+                },
+                {
+                  "word": "forsyningskæderne",
+                  "definition": "the supply chains",
+                  "partOfSpeech": "noun, c. pl. def.",
+                  "grammar": "forsyningskæde + -r (plural) + -ne (definite)",
+                  "crossRef": "German 'Lieferketten'"
+                }
+              ],
+              "grammarNote": "'fordi' introduces a subordinate clause and sends the verb to the end of its own clause-internal position relative to the subject â note 'skaber' stays second within its clause, since 'fordi'-clauses keep normal word order in Danish (unlike German)."
+            },
+            {
+              "id": "da-n01-s04",
+              "text": "Danske virksomheder er afhængige af resten af verden, og derfor rammer disse forandringer Danmark hårdt.",
+              "translation": "Danish companies are dependent on the rest of the world, and that's why these changes hit Denmark hard.",
+              "words": [
+                {
+                  "word": "virksomheder",
+                  "definition": "companies",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "virksomhed (en) â virksomheder"
+                },
+                {
+                  "word": "afhængige",
+                  "definition": "dependent",
+                  "partOfSpeech": "adj.",
+                  "grammar": "plural/definite form of 'afhÃ¦ngig' · always + af",
+                  "crossRef": "German 'abhängig (von)'"
+                },
+                {
+                  "word": "derfor",
+                  "definition": "therefore / that's why",
+                  "partOfSpeech": "adv.",
+                  "grammar": "triggers V2: 'derfor rammer...' verb comes right after"
+                },
+                {
+                  "word": "rammer",
+                  "definition": "hits / affects",
+                  "partOfSpeech": "verb (pres.)",
+                  "grammar": "infinitive: ramme"
+                }
+              ],
+              "grammarNote": "'afhÃ¦ngig af' always takes 'af' (of), not 'fra' â a fixed preposition pairing worth memorizing as a chunk."
+            },
+            {
+              "id": "da-n01-s05",
+              "text": "Lektoren mener, at virksomheder, forskere og politikere skal samarbejde tættere for at beskytte Danmarks styrkepositioner.",
+              "translation": "The lecturer believes that companies, researchers, and politicians need to work together more closely to protect Denmark's strong positions.",
+              "words": [
+                {
+                  "word": "mener",
+                  "definition": "believes / thinks",
+                  "partOfSpeech": "verb (pres.)",
+                  "grammar": "infinitive: mene"
+                },
+                {
+                  "word": "forskere",
+                  "definition": "researchers",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "forsker (en) â forskere",
+                  "crossRef": "German 'Forscher'"
+                },
+                {
+                  "word": "samarbejde",
+                  "definition": "to work together / collaboration",
+                  "partOfSpeech": "verb (inf.)",
+                  "grammar": "sam- (together) + arbejde (work)",
+                  "crossRef": "German 'zusammenarbeiten'"
+                },
+                {
+                  "word": "styrkepositioner",
+                  "definition": "positions of strength",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "compound: styrke + position"
+                }
+              ],
+              "grammarNote": "'mener, at...' introduces an at-clause (like English 'that'); 'for at + infinitive' expresses purpose ('in order to')."
+            },
+            {
+              "id": "da-n01-s06",
+              "text": "Hun foreslår en national strategi, der kan hjælpe Danmark med at navigere i en verden, hvor alliancer og markeder hele tiden ændrer sig.",
+              "translation": "She suggests a national strategy that can help Denmark navigate a world where alliances and markets are constantly changing.",
+              "words": [
+                {
+                  "word": "foreslår",
+                  "definition": "suggests",
+                  "partOfSpeech": "verb (pres.)",
+                  "grammar": "infinitive: foreslå"
+                },
+                {
+                  "word": "strategi",
+                  "definition": "strategy",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "",
+                  "crossRef": "German 'Strategie'"
+                },
+                {
+                  "word": "navigere",
+                  "definition": "to navigate",
+                  "partOfSpeech": "verb (inf.)",
+                  "grammar": "",
+                  "crossRef": "German 'navigieren'"
+                },
+                {
+                  "word": "alliancer",
+                  "definition": "alliances",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "alliance (n) â alliancer",
+                  "crossRef": "German 'Allianzen'"
+                },
+                {
+                  "word": "ændrer sig",
+                  "definition": "change(s)",
+                  "partOfSpeech": "reflexive verb",
+                  "grammar": "Ã¦ndre + sig · reflexive when describing self-driven change"
+                }
+              ],
+              "grammarNote": "Two relative clauses chained together: 'der' refers back to 'strategi' (subject of its clause), 'hvor' refers back to 'verden' (a place/context). This kind of stacked relative clause is typical of B1-B2 written Danish."
+            },
+            {
+              "id": "da-n01-s07",
+              "text": "Uden hurtig handling risikerer Danmark at miste sine førerpositioner inden for vigtige fremtidsteknologier.",
+              "translation": "Without quick action, Denmark risks losing its leading positions in important future technologies.",
+              "words": [
+                {
+                  "word": "uden",
+                  "definition": "without",
+                  "partOfSpeech": "prep.",
+                  "grammar": ""
+                },
+                {
+                  "word": "risikerer",
+                  "definition": "risks",
+                  "partOfSpeech": "verb (pres.)",
+                  "grammar": "risikere + at + infinitive"
+                },
+                {
+                  "word": "miste",
+                  "definition": "to lose",
+                  "partOfSpeech": "verb (inf.)",
+                  "grammar": ""
+                },
+                {
+                  "word": "sine",
+                  "definition": "its own / their own",
+                  "partOfSpeech": "pronoun",
+                  "grammar": "used when possessor = subject of clause"
+                },
+                {
+                  "word": "fremtidsteknologier",
+                  "definition": "future technologies",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "compound: fremtid + s + teknologi(er)",
+                  "crossRef": "German 'Zukunftstechnologien'"
+                }
+              ],
+              "grammarNote": "'risikere at + infinitiv' is a fixed construction for 'risk doing something'; 'sine' is the reflexive possessive, used because the thing owned (førerpositioner) belongs to the subject of the sentence (Danmark)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekOf": "2026-06-01",
+      "articles": [
+        {
+          "id": "da-news-2026w23-01",
+          "title": "Danmark får en ny regering",
+          "level": "B1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-06-01",
+            "topic": "Politik",
+            "adaptedFrom": "https://www.altinget.dk/artikel/danmark-faar-en-ny-regering",
+            "originalAuthor": "Daniel Bue Lauritzen, Altinget"
+          },
+          "sentences": [
+            {
+              "id": "da-n01-s01",
+              "text": "Efter et folketingsvalg i marts og over to måneders forhandlinger har Danmark fået en ny regering.",
+              "translation": "After a parliamentary election in March and more than two months of negotiations, Denmark has gotten a new government.",
+              "words": [
+                {
+                  "word": "folketingsvalg",
+                  "definition": "parliamentary election",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "compound: folketing + valg",
+                  "crossRef": "German 'Parlamentswahl'"
+                },
+                {
+                  "word": "forhandlinger",
+                  "definition": "negotiations",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "forhandling (en) â forhandlinger",
+                  "crossRef": "German 'Verhandlungen'"
+                },
+                {
+                  "word": "regering",
+                  "definition": "government",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "",
+                  "crossRef": "German 'Regierung'"
+                }
+              ],
+              "grammarNote": "'Efter X og Y har Danmark fÃ¥et...' â the present perfect ('har fÃ¥et') links the outcome to the present moment, while 'efter' sets up the time frame with two coordinated noun phrases before the main clause even starts."
+            },
+            {
+              "id": "da-n01-s02",
+              "text": "Statsminister Mette Frederiksen meddelte mandag aften, at hun kan danne regering sammen med SF, Moderaterne og Radikale Venstre.",
+              "translation": "Prime Minister Mette Frederiksen announced Monday evening that she can form a government together with SF, Moderaterne, and Radikale Venstre.",
+              "words": [
+                {
+                  "word": "meddelte",
+                  "definition": "announced",
+                  "partOfSpeech": "verb (past)",
+                  "grammar": "infinitive: meddele"
+                },
+                {
+                  "word": "danne",
+                  "definition": "to form",
+                  "partOfSpeech": "verb (inf.)",
+                  "grammar": "danne regering = fixed political expression"
+                },
+                {
+                  "word": "sammen med",
+                  "definition": "together with",
+                  "partOfSpeech": "prep.",
+                  "grammar": ""
+                }
+              ],
+              "grammarNote": "'meddelte, at...' introduces reported speech as an at-clause â Danish news writing rarely uses direct quotation marks for this kind of factual announcement."
+            },
+            {
+              "id": "da-n01-s03",
+              "text": "Forhandlingerne varede 71 dage og blev dermed de længste i Danmarks historie.",
+              "translation": "The negotiations lasted 71 days and thereby became the longest in Denmark's history.",
+              "words": [
+                {
+                  "word": "varede",
+                  "definition": "lasted",
+                  "partOfSpeech": "verb (past)",
+                  "grammar": "infinitive: vare"
+                },
+                {
+                  "word": "dermed",
+                  "definition": "thereby / with that",
+                  "partOfSpeech": "adv.",
+                  "grammar": "connects to previous sentence"
+                },
+                {
+                  "word": "længste",
+                  "definition": "longest",
+                  "partOfSpeech": "adj. (superlative)",
+                  "grammar": "lang â lÃ¦ngere â lÃ¦ngste"
+                },
+                {
+                  "word": "historie",
+                  "definition": "history",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "",
+                  "crossRef": "German 'Geschichte'"
+                }
+              ],
+              "grammarNote": "'blev de længste' uses passive-form 'blev' + a superlative adjective ('længste' from 'lang'); 'dermed' (thereby) signals that this is a consequence of the fact just stated."
+            },
+            {
+              "id": "da-n01-s04",
+              "text": "Valget i marts gav et meget uklart resultat, fordi 12 partier kom i Folketinget, og intet parti fik mere end 12 procent af stemmerne.",
+              "translation": "The election in March gave a very unclear result, because 12 parties entered Parliament, and no party got more than 12 percent of the votes.",
+              "words": [
+                {
+                  "word": "uklart",
+                  "definition": "unclear",
+                  "partOfSpeech": "adj. (neuter form)",
+                  "grammar": "uklar + -t agreeing with neuter 'resultat'"
+                },
+                {
+                  "word": "kom i",
+                  "definition": "entered / got into",
+                  "partOfSpeech": "verb phrase",
+                  "grammar": "komme + i, idiomatic for entering a parliament/institution"
+                },
+                {
+                  "word": "intet parti",
+                  "definition": "no party",
+                  "partOfSpeech": "pronoun",
+                  "grammar": "intet = neuter form of 'ingen'"
+                },
+                {
+                  "word": "stemmerne",
+                  "definition": "the votes",
+                  "partOfSpeech": "noun, c. pl. def.",
+                  "grammar": "stemme (n) â stemmer â stemmerne"
+                }
+              ],
+              "grammarNote": "'fordi' introduces the cause and keeps normal subject-verb word order inside its own clause (unlike German, which sends the verb to the end); 'mere end' is the standard Danish comparative pattern, like English 'more than'."
+            },
+            {
+              "id": "da-n01-s05",
+              "text": "Den nye regering har 21 ministre, og for første gang er der flere kvinder end mænd i en dansk regering.",
+              "translation": "The new government has 21 ministers, and for the first time there are more women than men in a Danish government.",
+              "words": [
+                {
+                  "word": "ministre",
+                  "definition": "ministers",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "minister (en) â ministre",
+                  "crossRef": "German 'Minister'"
+                },
+                {
+                  "word": "for første gang",
+                  "definition": "for the first time",
+                  "partOfSpeech": "adv.",
+                  "grammar": "fixed expression"
+                },
+                {
+                  "word": "kvinder",
+                  "definition": "women",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "kvinde (n) â kvinder"
+                }
+              ],
+              "grammarNote": "'for første gang' is a fixed time adverbial; even placed first in its clause, the V2 rule still applies, so the verb 'er' comes immediately after it."
+            },
+            {
+              "id": "da-n01-s06",
+              "text": "Kongen modtog den nye regering officielt på Amalienborg onsdag, hvor regeringen overtog magten fra den tidligere regering.",
+              "translation": "The King officially received the new government at Amalienborg on Wednesday, where the government took over power from the previous government.",
+              "words": [
+                {
+                  "word": "modtog",
+                  "definition": "received",
+                  "partOfSpeech": "verb (past)",
+                  "grammar": "infinitive: modtage"
+                },
+                {
+                  "word": "officielt",
+                  "definition": "officially",
+                  "partOfSpeech": "adv.",
+                  "grammar": "officiel + -t"
+                },
+                {
+                  "word": "overtog magten",
+                  "definition": "took over power",
+                  "partOfSpeech": "verb phrase",
+                  "grammar": "overtage + magt(en), fixed political idiom"
+                }
+              ],
+              "grammarNote": "'hvor' here introduces a relative clause referring back to a place ('Amalienborg'), the same pattern as English 'where' â different from 'der/som', which refer to people or things."
+            },
+            {
+              "id": "da-n01-s07",
+              "text": "Det politiske indhold af regeringsgrundlaget â altsÃ¥ hvilken politik regeringen vil fÃ¸re â blev prÃ¦senteret kort efter pÃ¥ et pressemÃ¸de.",
+              "translation": "The political content of the coalition agreement â that is, which policies the government will pursue â was presented shortly after at a press conference.",
+              "words": [
+                {
+                  "word": "regeringsgrundlaget",
+                  "definition": "the coalition agreement / government platform",
+                  "partOfSpeech": "noun, c. def.",
+                  "grammar": "compound: regering + grundlag"
+                },
+                {
+                  "word": "altså",
+                  "definition": "that is / in other words",
+                  "partOfSpeech": "adv.",
+                  "grammar": "clarifying connector"
+                },
+                {
+                  "word": "føre",
+                  "definition": "to pursue / conduct (policy)",
+                  "partOfSpeech": "verb (inf.)",
+                  "grammar": "føre politik = fixed political collocation"
+                },
+                {
+                  "word": "pressemøde",
+                  "definition": "press conference",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "compound: presse + møde",
+                  "crossRef": "German 'Pressekonferenz'"
+                }
+              ],
+              "grammarNote": "'altsÃ¥' here works as a clarifying aside ('that is to say'), restating a formal term in simpler words â a common move in Danish journalism when introducing political vocabulary like 'regeringsgrundlag'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekOf": "2026-06-16",
+      "articles": [
+        {
+          "id": "da-news-2026w25-01",
+          "title": "Solen skinner over Danmark",
+          "level": "A1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-06-16",
+            "topic": "Vejr"
+          },
+          "sentences": [
+            {
+              "id": "da-n01-s01",
+              "text": "Det er sommer i Danmark.",
+              "translation": "It is summer in Denmark.",
+              "words": [
+                {
+                  "word": "sommer",
+                  "definition": "summer",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en sommer · sommeren · from Germanic *sumaraz"
+                }
+              ]
+            },
+            {
+              "id": "da-n01-s02",
+              "text": "Solen skinner, og temperaturen er høj.",
+              "translation": "The sun is shining, and the temperature is high.",
+              "words": [
+                {
+                  "word": "skinner",
+                  "definition": "shines, is shining",
+                  "partOfSpeech": "verb",
+                  "grammar": "skinne (to shine) · present: skinner"
+                },
+                {
+                  "word": "temperaturen",
+                  "definition": "the temperature",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en temperatur · temperaturen (definite)"
+                },
+                {
+                  "word": "høj",
+                  "definition": "high, tall",
+                  "partOfSpeech": "adj.",
+                  "grammar": "høj · common gender; høj, høt, høje"
+                }
+              ]
+            },
+            {
+              "id": "da-n01-s03",
+              "text": "Mange mennesker tager til stranden.",
+              "translation": "Many people go to the beach.",
+              "words": [
+                {
+                  "word": "mennesker",
+                  "definition": "people, humans",
+                  "partOfSpeech": "noun, n. pl.",
+                  "grammar": "et menneske · mennesker (pl.) · lit. 'human'"
+                },
+                {
+                  "word": "stranden",
+                  "definition": "the beach",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en strand · stranden (definite) · common gender"
+                }
+              ]
+            },
+            {
+              "id": "da-n01-s04",
+              "text": "Vejret er godt hele ugen.",
+              "translation": "The weather is good all week.",
+              "words": [
+                {
+                  "word": "vejret",
+                  "definition": "the weather",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "et vejr · vejret (definite) · neuter gender"
+                },
+                {
+                  "word": "ugen",
+                  "definition": "the week",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en uge · ugen (definite)"
+                }
+              ]
+            },
+            {
+              "id": "da-n01-s05",
+              "text": "Danmark er et skønt land om sommeren.",
+              "translation": "Denmark is a beautiful country in the summer.",
+              "words": [
+                {
+                  "word": "skønt",
+                  "definition": "beautiful, lovely",
+                  "partOfSpeech": "adj.",
+                  "grammar": "skøn · neuter: skønt · used here as predicate adj."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "da-news-2026w25-02",
+          "title": "Nyt museum åbner i København",
+          "level": "A2",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-06-17",
+            "topic": "Kultur"
+          },
+          "sentences": [
+            {
+              "id": "da-n02-s01",
+              "text": "Et nyt museum åbner i København næste måned.",
+              "translation": "A new museum opens in Copenhagen next month.",
+              "words": [
+                {
+                  "word": "museum",
+                  "definition": "museum",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "et museum · museet (def.) · from Latin"
+                },
+                {
+                  "word": "åbner",
+                  "definition": "opens",
+                  "partOfSpeech": "verb",
+                  "grammar": "åbne (to open) · present: åbner"
+                },
+                {
+                  "word": "måned",
+                  "definition": "month",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en måned · måneden (def.) · måneder (pl.)"
+                }
+              ]
+            },
+            {
+              "id": "da-n02-s02",
+              "text": "Museet fokuserer på dansk design og arkitektur.",
+              "translation": "The museum focuses on Danish design and architecture.",
+              "words": [
+                {
+                  "word": "fokuserer",
+                  "definition": "focuses",
+                  "partOfSpeech": "verb",
+                  "grammar": "fokusere (to focus) · present: fokuserer · borrowed from English"
+                },
+                {
+                  "word": "arkitektur",
+                  "definition": "architecture",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en arkitektur · from Latin architectura"
+                }
+              ]
+            },
+            {
+              "id": "da-n02-s03",
+              "text": "Der vil være udstillinger fra hele verden.",
+              "translation": "There will be exhibitions from all over the world.",
+              "words": [
+                {
+                  "word": "udstillinger",
+                  "definition": "exhibitions",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "en udstilling · udstillinger (pl.) · from udstille (to exhibit)"
+                },
+                {
+                  "word": "verden",
+                  "definition": "the world",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en verden · verdenen (def.) · common gender"
+                }
+              ]
+            },
+            {
+              "id": "da-n02-s04",
+              "text": "Billetterne koster 150 kroner for voksne.",
+              "translation": "The tickets cost 150 kroner for adults.",
+              "words": [
+                {
+                  "word": "billetterne",
+                  "definition": "the tickets",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "en billet · billetterne (def. pl.) · from French billet"
+                },
+                {
+                  "word": "voksne",
+                  "definition": "adults",
+                  "partOfSpeech": "noun/adj. pl.",
+                  "grammar": "voksen (adult, sing.) · voksne (pl.) · also adjective 'grown-up'"
+                }
+              ]
+            },
+            {
+              "id": "da-n02-s05",
+              "text": "Børn under 12 år kommer ind gratis.",
+              "translation": "Children under 12 years old enter for free.",
+              "words": [
+                {
+                  "word": "børn",
+                  "definition": "children",
+                  "partOfSpeech": "noun, n. pl.",
+                  "grammar": "et barn · børn (pl.) · irregular plural"
+                },
+                {
+                  "word": "gratis",
+                  "definition": "free, for free",
+                  "partOfSpeech": "adv./adj.",
+                  "grammar": "indeclinable · from Latin gratis 'freely'"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "da-news-2026w25-03",
+          "title": "Cykling er Danmarks sport nummer ét",
+          "level": "A2",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-06-18",
+            "topic": "Sport"
+          },
+          "sentences": [
+            {
+              "id": "da-n03-s01",
+              "text": "Danskerne elsker at cykle.",
+              "translation": "Danes love to cycle.",
+              "words": [
+                {
+                  "word": "elsker",
+                  "definition": "love",
+                  "partOfSpeech": "verb",
+                  "grammar": "elske (to love) · present: elsker"
+                },
+                {
+                  "word": "cykle",
+                  "definition": "to cycle, to ride a bike",
+                  "partOfSpeech": "verb",
+                  "grammar": "cykle (infinitive) · cykler (present)"
+                }
+              ]
+            },
+            {
+              "id": "da-n03-s02",
+              "text": "Over halvdelen af alle danskere cykler til arbejde.",
+              "translation": "Over half of all Danes cycle to work.",
+              "words": [
+                {
+                  "word": "halvdelen",
+                  "definition": "the half",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en halvdel · halvdelen (def.) · halvdel = half part"
+                },
+                {
+                  "word": "arbejde",
+                  "definition": "work",
+                  "partOfSpeech": "noun, n. / verb",
+                  "grammar": "et arbejde (noun) · arbejde (infinitive) · arbejder (present)"
+                }
+              ]
+            },
+            {
+              "id": "da-n03-s03",
+              "text": "København er en af verdens mest cykelfravenlige byer.",
+              "translation": "Copenhagen is one of the world's most bike-friendly cities.",
+              "words": [
+                {
+                  "word": "cykelfravenlige",
+                  "definition": "bike-friendly",
+                  "partOfSpeech": "adj.",
+                  "grammar": "cykel (bike) + venlig (friendly) → compound adj."
+                },
+                {
+                  "word": "byer",
+                  "definition": "cities",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "en by · byer (pl.) · byen (def. sg.)"
+                }
+              ]
+            },
+            {
+              "id": "da-n03-s04",
+              "text": "Der er mange cykelstier i hele landet.",
+              "translation": "There are many bike paths throughout the country.",
+              "words": [
+                {
+                  "word": "cykelstier",
+                  "definition": "bike paths, cycle lanes",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "en cykelsti · cykelstier (pl.) · cykel + sti (path)"
+                },
+                {
+                  "word": "landet",
+                  "definition": "the country",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "et land · landet (def.) · neuter gender"
+                }
+              ]
+            },
+            {
+              "id": "da-n03-s05",
+              "text": "Cyklingen er god for miljøet og sundheden.",
+              "translation": "Cycling is good for the environment and health.",
+              "words": [
+                {
+                  "word": "miljøet",
+                  "definition": "the environment",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "et miljø · miljøet (def.) · from French milieu"
+                },
+                {
+                  "word": "sundheden",
+                  "definition": "the health",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en sundhed · sundheden (def.) · sund (healthy) + -hed (suffix)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "da-news-2026w25-04",
+          "title": "Danskerne spiser mere grøntsager",
+          "level": "B1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-06-19",
+            "topic": "Sundhed"
+          },
+          "sentences": [
+            {
+              "id": "da-n04-s01",
+              "text": "En ny undersøgelse viser, at danskerne spiser sundere end tidligere.",
+              "translation": "A new study shows that Danes eat healthier than before.",
+              "words": [
+                {
+                  "word": "undersøgelse",
+                  "definition": "study, survey, investigation",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en undersøgelse · under (under) + søge (to seek) + -else"
+                },
+                {
+                  "word": "sundere",
+                  "definition": "healthier",
+                  "partOfSpeech": "adj. comparative",
+                  "grammar": "sund → sundere (comparative) → sundest (superlative)"
+                },
+                {
+                  "word": "tidligere",
+                  "definition": "before, previously, earlier",
+                  "partOfSpeech": "adv./adj.",
+                  "grammar": "tidlig (early) → tidligere (comparative/adverb of time)"
+                }
+              ]
+            },
+            {
+              "id": "da-n04-s02",
+              "text": "Forbruget af grøntsager er steget med 20 procent på fem år.",
+              "translation": "The consumption of vegetables has increased by 20 percent over five years.",
+              "words": [
+                {
+                  "word": "forbruget",
+                  "definition": "the consumption",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "et forbrug · forbruget (def.) · for- + bruge (to use)"
+                },
+                {
+                  "word": "grøntsager",
+                  "definition": "vegetables",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "en grøntsag · grøntsager (pl.) · grøn (green) + sag (thing)"
+                },
+                {
+                  "word": "steget",
+                  "definition": "risen, increased",
+                  "partOfSpeech": "past part.",
+                  "grammar": "stige (to rise) · past participle: steget"
+                }
+              ]
+            },
+            {
+              "id": "da-n04-s03",
+              "text": "Flere danskere vælger plantebaserede måltider.",
+              "translation": "More Danes are choosing plant-based meals.",
+              "words": [
+                {
+                  "word": "vælger",
+                  "definition": "choose",
+                  "partOfSpeech": "verb",
+                  "grammar": "vælge (to choose) · present: vælger · past: valgte"
+                },
+                {
+                  "word": "plantebaserede",
+                  "definition": "plant-based",
+                  "partOfSpeech": "adj.",
+                  "grammar": "plante (plant) + basere (to base) + -de (adj. ending)"
+                },
+                {
+                  "word": "måltider",
+                  "definition": "meals",
+                  "partOfSpeech": "noun, n. pl.",
+                  "grammar": "et måltid · måltider (pl.) · mål (goal/measure) + tid (time)"
+                }
+              ]
+            },
+            {
+              "id": "da-n04-s04",
+              "text": "Eksperter mener, at denne tendens er positiv for folkesundheden.",
+              "translation": "Experts believe that this trend is positive for public health.",
+              "words": [
+                {
+                  "word": "mener",
+                  "definition": "believe, think, mean",
+                  "partOfSpeech": "verb",
+                  "grammar": "mene (to think/mean) · present: mener"
+                },
+                {
+                  "word": "tendens",
+                  "definition": "trend, tendency",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en tendens · tendensen (def.) · from Latin tendere"
+                },
+                {
+                  "word": "folkesundheden",
+                  "definition": "the public health",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "folk (people) + sundhed (health) → compound noun"
+                }
+              ]
+            },
+            {
+              "id": "da-n04-s05",
+              "text": "Regeringen vil støtte lokale landmænd, der producerer sunde fødevarer.",
+              "translation": "The government will support local farmers who produce healthy food.",
+              "words": [
+                {
+                  "word": "støtte",
+                  "definition": "to support",
+                  "partOfSpeech": "verb",
+                  "grammar": "støtte (inf.) · støtter (present) · støttede (past)"
+                },
+                {
+                  "word": "landmænd",
+                  "definition": "farmers",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "en landmand · landmænd (pl.) · irregular plural with umlaut"
+                },
+                {
+                  "word": "fødevarer",
+                  "definition": "food, foodstuffs",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "en fødevare · fødevarer (pl.) · føde (food) + vare (product)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "da-news-2026w25-05",
+          "title": "Dansk film vinder pris i Cannes",
+          "level": "B1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-06-20",
+            "topic": "Film"
+          },
+          "sentences": [
+            {
+              "id": "da-n05-s01",
+              "text": "En dansk film har vundet en prestigefyldt pris på filmfestivalen i Cannes.",
+              "translation": "A Danish film has won a prestigious award at the film festival in Cannes.",
+              "words": [
+                {
+                  "word": "vundet",
+                  "definition": "won",
+                  "partOfSpeech": "past part.",
+                  "grammar": "vinde (to win) · past participle: vundet · irregular"
+                },
+                {
+                  "word": "prestigefyldt",
+                  "definition": "prestigious",
+                  "partOfSpeech": "adj.",
+                  "grammar": "prestige + fyldt (filled) → prestige-filled · neuter form"
+                },
+                {
+                  "word": "filmfestivalen",
+                  "definition": "the film festival",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en filmfestival · filmfestivalen (def.) · compound noun"
+                }
+              ]
+            },
+            {
+              "id": "da-n05-s02",
+              "text": "Filmen handler om en ung kvinde, der rejser rundt i Skandinavien.",
+              "translation": "The film is about a young woman who travels around Scandinavia.",
+              "words": [
+                {
+                  "word": "handler",
+                  "definition": "is about, deals with",
+                  "partOfSpeech": "verb",
+                  "grammar": "handle om (to be about) · handle (inf.) · handler (present)"
+                },
+                {
+                  "word": "rejser",
+                  "definition": "travels",
+                  "partOfSpeech": "verb",
+                  "grammar": "rejse (to travel) · present: rejser · rejste (past)"
+                }
+              ]
+            },
+            {
+              "id": "da-n05-s03",
+              "text": "Instruktøren siger, at filmen er inspireret af hans barndom i Jylland.",
+              "translation": "The director says that the film is inspired by his childhood in Jutland.",
+              "words": [
+                {
+                  "word": "instruktøren",
+                  "definition": "the director",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en instruktør · instruktøren (def.) · from French instructeur"
+                },
+                {
+                  "word": "inspireret",
+                  "definition": "inspired",
+                  "partOfSpeech": "past part./adj.",
+                  "grammar": "inspirere (to inspire) · past participle: inspireret"
+                },
+                {
+                  "word": "barndom",
+                  "definition": "childhood",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en barndom · barndommen (def.) · barn (child) + -dom (suffix)"
+                }
+              ]
+            },
+            {
+              "id": "da-n05-s04",
+              "text": "Mange danskere er stolte over succesen.",
+              "translation": "Many Danes are proud of the success.",
+              "words": [
+                {
+                  "word": "stolte",
+                  "definition": "proud",
+                  "partOfSpeech": "adj. pl./def.",
+                  "grammar": "stolt (proud) · stolte (pl./def. form) · stolthed (noun: pride)"
+                },
+                {
+                  "word": "succesen",
+                  "definition": "the success",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en succes · succesen (def.) · from French succès"
+                }
+              ]
+            },
+            {
+              "id": "da-n05-s05",
+              "text": "Filmen vises i danske biografer fra næste fredag.",
+              "translation": "The film will be shown in Danish cinemas from next Friday.",
+              "words": [
+                {
+                  "word": "vises",
+                  "definition": "is shown, is screened",
+                  "partOfSpeech": "verb (passive)",
+                  "grammar": "vise (to show) · passive: vises · -s passive construction"
+                },
+                {
+                  "word": "biografer",
+                  "definition": "cinemas, movie theaters",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "en biograf · biografer (pl.) · from Greek biographos"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
