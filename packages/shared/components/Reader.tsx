@@ -1,4 +1,5 @@
 import { useCallback } from 'react';
+import { TextToSpeech } from '@capacitor-community/text-to-speech';
 import type { Story, WordDefinition, SavedWord } from '../types';
 import { SentenceCard } from './SentenceCard';
 import { CEFRBadge } from './CEFRBadge';
@@ -12,18 +13,21 @@ interface ReaderProps {
   savedWords: Record<string, SavedWord>;
   onSaveWord: (word: SavedWord) => void;
   onRemoveWord: (wordKey: string) => void;
+  onStartShadowing?: () => void;
 }
 
-export function Reader({ story, lang, savedWords, onSaveWord, onRemoveWord }: ReaderProps) {
+export function Reader({ story, lang, savedWords, onSaveWord, onRemoveWord, onStartShadowing }: ReaderProps) {
   const { activeWord, enrichedActiveWord, lookupCache, handleWordTap, dismissWord } = useWordTap(lang);
   const { toggleTranslation, isShown, hideTranslation } = useSentenceTranslation();
 
   const speak = useCallback(
     (text: string) => {
-      window.speechSynthesis.cancel();
-      const utt = new SpeechSynthesisUtterance(text);
-      utt.lang = lang === 'de' ? 'de-DE' : 'da-DK';
-      window.speechSynthesis.speak(utt);
+      const ttsLang = lang === 'de' ? 'de-DE' : 'da-DK';
+      TextToSpeech.stop()
+        .catch(() => {})
+        .finally(() => {
+          TextToSpeech.speak({ text, lang: ttsLang, rate: 1.0, pitch: 1.0, volume: 1.0 }).catch(() => {});
+        });
     },
     [lang]
   );
@@ -103,6 +107,28 @@ export function Reader({ story, lang, savedWords, onSaveWord, onRemoveWord }: Re
           />
         ))}
       </div>
+
+      {onStartShadowing && (
+        <div style={{ padding: '8px 20px 16px' }}>
+          <button
+            onClick={onStartShadowing}
+            style={{
+              width: '100%',
+              padding: '14px',
+              background: 'var(--accent)',
+              color: 'white',
+              border: 'none',
+              borderRadius: 'var(--radius)',
+              fontSize: '15px',
+              fontWeight: 700,
+              cursor: 'pointer',
+              letterSpacing: '0.01em',
+            }}
+          >
+            Shadow this story
+          </button>
+        </div>
+      )}
     </div>
   );
 }

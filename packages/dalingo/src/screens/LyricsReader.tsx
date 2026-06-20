@@ -1,4 +1,5 @@
 import type { Story, SavedWord, WordDefinition } from '@lingo/shared/types';
+import { TextToSpeech } from '@capacitor-community/text-to-speech';
 import { SentenceCard } from '@lingo/shared/components';
 import { useWordTap } from '@lingo/shared/hooks/useWordTap';
 import { useSentenceTranslation } from '@lingo/shared/hooks/useSentenceTranslation';
@@ -10,9 +11,10 @@ import { useCallback } from 'react';
 interface LyricsReaderProps {
   story: Story;
   onBack: () => void;
+  onStartShadowing?: () => void;
 }
 
-export function LyricsReader({ story, onBack }: LyricsReaderProps) {
+export function LyricsReader({ story, onBack, onStartShadowing }: LyricsReaderProps) {
   const { savedWords, saveWord, removeWord } = useApp();
   const { activeWord, enrichedActiveWord, lookupCache, handleWordTap, dismissWord } = useWordTap('da');
   const { toggleTranslation, isShown, hideTranslation } = useSentenceTranslation();
@@ -52,10 +54,11 @@ export function LyricsReader({ story, onBack }: LyricsReaderProps) {
   );
 
   const speak = useCallback((text: string) => {
-    window.speechSynthesis.cancel();
-    const utt = new SpeechSynthesisUtterance(text);
-    utt.lang = 'da-DK';
-    window.speechSynthesis.speak(utt);
+    TextToSpeech.stop()
+      .catch(() => {})
+      .finally(() => {
+        TextToSpeech.speak({ text, lang: 'da-DK', rate: 1.0, pitch: 1.0, volume: 1.0 }).catch(() => {});
+      });
   }, []);
 
   const stanzas = groupIntoStanzas(story.sentences, story.metadata?.stanzaBreaks);
@@ -112,6 +115,28 @@ export function LyricsReader({ story, onBack }: LyricsReaderProps) {
           </div>
         ))}
       </div>
+
+      {onStartShadowing && (
+        <div style={{ padding: '8px 20px 16px' }}>
+          <button
+            onClick={onStartShadowing}
+            style={{
+              width: '100%',
+              padding: '14px',
+              background: 'var(--accent)',
+              color: 'white',
+              border: 'none',
+              borderRadius: 'var(--radius)',
+              fontSize: '15px',
+              fontWeight: 700,
+              cursor: 'pointer',
+              letterSpacing: '0.01em',
+            }}
+          >
+            Shadow this story
+          </button>
+        </div>
+      )}
     </div>
   );
 }

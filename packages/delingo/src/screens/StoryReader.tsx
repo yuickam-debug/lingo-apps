@@ -5,9 +5,10 @@ import { useApp } from '../context/AppContext';
 interface StoryReaderProps {
   story: Story;
   onBack: () => void;
+  onStartShadowing?: () => void;
 }
 
-export function StoryReader({ story, onBack }: StoryReaderProps) {
+export function StoryReader({ story, onBack, onStartShadowing }: StoryReaderProps) {
   const { savedWords, saveWord, removeWord } = useApp();
   const grammarPoints = story.metadata?.grammarPoints ?? [];
 
@@ -24,6 +25,7 @@ export function StoryReader({ story, onBack }: StoryReaderProps) {
         savedWords={savedWords}
         onSaveWord={saveWord}
         onRemoveWord={removeWord}
+        onStartShadowing={onStartShadowing}
       />
 
       <GrammarSection points={grammarPoints} />

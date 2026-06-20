@@ -77,24 +77,48 @@ interface NewsDigestProps {
   onOpenReader: (story: Story) => void;
 }
 
+type SyncStatus = 'idle' | 'fetching' | 'synced' | 'cached' | 'error';
+
 export function NewsDigest({ onOpenReader }: NewsDigestProps) {
   const [weeks, setWeeks] = useState<WeekData[]>(getInitialWeeks);
   const [weekIndex, setWeekIndex] = useState<number>(() => getInitialWeeks().length - 1);
+  const [syncStatus, setSyncStatus] = useState<SyncStatus>('idle');
+  const [syncedAt, setSyncedAt] = useState<number | null>(null);
 
   useEffect(() => {
     const cached = readCache();
-    if (cached?.fresh) return;
+    if (cached?.fresh) {
+      console.log('[NewsDigest] Cache fresh, skipping fetch. Age:', Math.round((Date.now() - Number(localStorage.getItem(CACHE_TS_KEY))) / 1000), 's');
+      setSyncStatus('cached');
+      setSyncedAt(Number(localStorage.getItem(CACHE_TS_KEY)));
+      return;
+    }
+
+    console.log('[NewsDigest] Fetching bundle from GitHub…');
+    setSyncStatus('fetching');
 
     fetch(BUNDLE_URL)
-      .then(r => (r.ok ? r.json() : null))
+      .then(r => {
+        console.log('[NewsDigest] Fetch response:', r.status, r.ok);
+        return r.ok ? r.json() : Promise.reject(`HTTP ${r.status}`);
+      })
       .then((bundle: { weeks: WeekData[] } | null) => {
-        if (!bundle?.weeks?.length) return;
+        console.log('[NewsDigest] Bundle received, weeks:', bundle?.weeks?.length ?? 0);
+        if (!bundle?.weeks?.length) {
+          setSyncStatus('error');
+          return;
+        }
         writeCache(bundle.weeks);
         const merged = mergeWeeks(BUNDLED, bundle.weeks);
         setWeeks(merged);
         setWeekIndex(merged.length - 1);
+        setSyncStatus('synced');
+        setSyncedAt(Date.now());
       })
-      .catch(() => {});
+      .catch((err) => {
+        console.error('[NewsDigest] Fetch failed:', err);
+        setSyncStatus('error');
+      });
   }, []);
 
   const week = weeks[weekIndex];
@@ -108,6 +132,15 @@ export function NewsDigest({ onOpenReader }: NewsDigestProps) {
           {formatWeekHeader(week.weekOf)}
         </span>
       </div>
+
+      {syncStatus !== 'idle' && (
+        <div style={{ padding: '0 20px 8px', fontSize: '11px', color: 'var(--ink-2)', display: 'flex', alignItems: 'center', gap: '5px' }}>
+          {syncStatus === 'fetching' && <><span style={{ display: 'inline-block', width: 8, height: 8, borderRadius: '50%', background: 'var(--accent)', opacity: 0.6, animation: 'reviewPulse 1s ease-in-out infinite' }} />Aktualisierung…</>}
+          {syncStatus === 'synced' && <><span style={{ color: 'var(--accent)' }}>✓</span> Aktualisiert {syncedAt ? new Date(syncedAt).toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' }) : ''}</>}
+          {syncStatus === 'cached' && <><span>↺</span> Gecacht {syncedAt ? new Date(syncedAt).toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' }) : ''}</>}
+          {syncStatus === 'error' && <><span style={{ color: '#E53E3E' }}>✕</span> Aktualisierung fehlgeschlagen — Offline-Inhalte angezeigt</>}
+        </div>
+      )}
 
       <div className="news-week-nav">
         <button

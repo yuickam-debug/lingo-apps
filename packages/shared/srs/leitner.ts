@@ -113,6 +113,7 @@ export interface ClozeCard {
   clozeText: string;
   storyTitle: string;
   source: string;
+  options?: string[];
 }
 
 export function generateClozeCard(word: SavedWord): ClozeCard | null {

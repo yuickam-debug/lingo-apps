@@ -7,6 +7,8 @@ import { LyricsScreen } from './screens/LyricsScreen';
 import { LyricsReader } from './screens/LyricsReader';
 import { SavedWords } from './screens/SavedWords';
 import { Settings } from './screens/Settings';
+import { ShadowingPlayer } from '@lingo/shared/components/ShadowingPlayer';
+import { ReviewSession } from '@lingo/shared/components/ReviewSession';
 import type { Story, SavedWord, AppSettings } from '@lingo/shared/types';
 import {
   loadSavedWords,
@@ -27,6 +29,8 @@ export default function App() {
   const [screen, setScreen] = useState<Screen>('home');
   const [readerState, setReaderState] = useState<ReaderState | null>(null);
   const [lyricsReaderState, setLyricsReaderState] = useState<ReaderState | null>(null);
+  const [shadowingState, setShadowingState] = useState<Story | null>(null);
+  const [reviewOpen, setReviewOpen] = useState(false);
   const [savedWords, setSavedWords] = useState<Record<string, SavedWord>>(
     () => loadSavedWords('da')
   );
@@ -73,6 +77,9 @@ export default function App() {
     setLyricsReaderState(null);
   };
 
+  const openShadowing = (story: Story) => setShadowingState(story);
+  const closeShadowing = () => setShadowingState(null);
+
   return (
     <AppContext.Provider
       value={{
@@ -84,15 +91,35 @@ export default function App() {
       }}
     >
       <div className="app">
+        {reviewOpen && (
+          <ReviewSession onClose={() => setReviewOpen(false)} />
+        )}
+
+        {shadowingState && (
+          <ShadowingPlayer
+            story={shadowingState}
+            lang="da"
+            onClose={closeShadowing}
+          />
+        )}
+
         {readerState ? (
-          <StoryReader story={readerState.story} onBack={closeReader} />
+          <StoryReader
+            story={readerState.story}
+            onBack={closeReader}
+            onStartShadowing={() => openShadowing(readerState.story)}
+          />
         ) : lyricsReaderState ? (
-          <LyricsReader story={lyricsReaderState.story} onBack={closeLyricsReader} />
+          <LyricsReader
+            story={lyricsReaderState.story}
+            onBack={closeLyricsReader}
+            onStartShadowing={() => openShadowing(lyricsReaderState.story)}
+          />
         ) : (
           <>
             <div className="screen">
               {screen === 'home' && (
-                <Home onNavigate={setScreen} onOpenReader={openReader} />
+                <Home onNavigate={setScreen} onOpenReader={openReader} onStartReview={() => setReviewOpen(true)} />
               )}
               {screen === 'library' && (
                 <StoryLibrary
@@ -102,7 +129,7 @@ export default function App() {
               {screen === 'lyrics' && (
                 <LyricsScreen onOpenReader={(s) => openLyricsReader(s, 'lyrics')} />
               )}
-              {screen === 'saved' && <SavedWords />}
+              {screen === 'saved' && <SavedWords onStartReview={() => setReviewOpen(true)} />}
               {screen === 'settings' && <Settings />}
             </div>
 

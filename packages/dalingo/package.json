@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@capacitor-community/text-to-speech": "^8.0.0",
     "@lingo/shared": "*",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"

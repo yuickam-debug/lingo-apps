@@ -51,10 +51,16 @@ export function SavedWordsList({ savedWords, removeWord, allContent }: SavedWord
     const next = expanded === wordKey ? null : wordKey;
     setExpanded(next);
     if (next && !(next in contextCache)) {
-      setContextCache((prev) => ({
-        ...prev,
-        [next]: findContextSentences(next, allContent),
-      }));
+      const fromSearch = findContextSentences(next, allContent);
+      const results =
+        fromSearch.length > 0
+          ? fromSearch
+          : (savedWords[next]?.contexts ?? []).map((ctx) => ({
+              storyTitle: ctx.storyTitle,
+              sentenceText: ctx.sentenceText,
+              sentenceTranslation: '',
+            }));
+      setContextCache((prev) => ({ ...prev, [next]: results }));
     }
   };
 

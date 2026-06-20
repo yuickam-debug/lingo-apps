@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import type { Story } from '@lingo/shared/types';
-import { getWordsDueToday, getBoxCounts, getGraduatedCount } from '@lingo/shared/srs/leitner';
+import { getWordsDueToday, getBoxCounts, getGraduatedCount, getRetentionRate } from '@lingo/shared/srs/leitner';
 import { loadStories } from '@lingo/shared/content/contentService';
 import { useApp } from '../context/AppContext';
 import deStory001 from '../content/stories/de-story-001.json';
@@ -10,11 +10,12 @@ type Screen = 'home' | 'library' | 'news' | 'saved' | 'settings';
 interface HomeProps {
   onNavigate: (screen: Screen) => void;
   onOpenReader: (story: Story) => void;
+  onStartReview: () => void;
 }
 
 const BUNDLED: Story[] = [deStory001 as unknown as Story];
 
-export function Home({ onNavigate, onOpenReader }: HomeProps) {
+export function Home({ onNavigate, onOpenReader, onStartReview }: HomeProps) {
   const { savedWords } = useApp();
   const [featured, setFeatured] = useState<Story>(BUNDLED[0]);
 
@@ -23,6 +24,8 @@ export function Home({ onNavigate, onOpenReader }: HomeProps) {
   const graduated = getGraduatedCount(savedWords);
   const boxes = getBoxCounts(savedWords);
   const inReview = boxes[1] + boxes[2] + boxes[3];
+  const retentionRate = getRetentionRate(savedWords);
+  const hasReviewHistory = boxes[2] + boxes[3] + graduated > 0;
 
   useEffect(() => {
     loadStories('de', BUNDLED).then((stories) => {
@@ -32,20 +35,61 @@ export function Home({ onNavigate, onOpenReader }: HomeProps) {
 
   return (
     <div>
+      <style>{`
+        @keyframes reviewPulse {
+          0%, 100% { opacity: 1; }
+          50% { opacity: 0.85; }
+        }
+      `}</style>
+
       <div className="home-hero">
         <h1 className="home-greeting">Guten Morgen 👋</h1>
         <p className="home-subtitle">DELingo · German comprehensible input</p>
       </div>
 
       {dueCount > 0 && (
-        <button className="review-nudge" onClick={() => onNavigate('saved')}>
+        <button
+          className="review-nudge"
+          style={{ animation: 'reviewPulse 2s ease-in-out infinite' }}
+          onClick={onStartReview}
+        >
           <span className="nudge-icon">🧠</span>
           <div>
-            <div className="nudge-count">{dueCount} word{dueCount !== 1 ? 's' : ''} to review</div>
-            <div className="nudge-label">Tap to see your saved words</div>
+            <div className="nudge-count">Review · {dueCount} due</div>
+            <div className="nudge-label">Tap to start your review session</div>
           </div>
           <span className="nudge-arrow">›</span>
         </button>
+      )}
+
+      {hasReviewHistory && (
+        <div style={{ display: 'flex', gap: '8px', margin: '0 20px 12px' }}>
+          {[
+            { label: 'Learning',  value: boxes[1] + boxes[2] },
+            { label: 'Mastered',  value: graduated },
+            { label: 'Retention', value: `${retentionRate}%` },
+          ].map(({ label, value }) => (
+            <div
+              key={label}
+              style={{
+                flex: 1,
+                display: 'flex',
+                flexDirection: 'column',
+                alignItems: 'center',
+                padding: '10px 8px',
+                background: 'var(--border)',
+                borderRadius: 'var(--radius-sm)',
+              }}
+            >
+              <span style={{ fontSize: '18px', fontWeight: 700, color: 'var(--accent)', lineHeight: 1 }}>
+                {value}
+              </span>
+              <span style={{ fontSize: '11px', color: 'var(--ink-2)', textTransform: 'uppercase', letterSpacing: '0.04em', marginTop: '3px' }}>
+                {label}
+              </span>
+            </div>
+          ))}
+        </div>
       )}
 
       <div className="stats-row">

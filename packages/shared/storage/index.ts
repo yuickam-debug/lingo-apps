@@ -84,3 +84,58 @@ export function resetAllData(lang: Lang): void {
   localStorage.removeItem(KEYS.savedWords(lang));
   localStorage.removeItem(KEYS.settings(lang));
 }
+
+// ─── Generic write utility ───────────────────────────────────────
+// Exposes the private write() wrapper for callers (e.g. the hook)
+// that need to persist arbitrary keys without touching localStorage directly.
+
+export function storageSet<T>(key: string, value: T): void {
+  write(key, value);
+}
+
+// ─── Shadowing Streak ─────────────────────────────────────────────
+
+const STREAK_COUNT_KEY = 'shadowing_streak_count';
+const STREAK_DATE_KEY  = 'shadowing_streak_last_date';
+
+function todayISO(): string {
+  return new Date().toISOString().split('T')[0];
+}
+
+function yesterdayISO(): string {
+  const d = new Date();
+  d.setDate(d.getDate() - 1);
+  return d.toISOString().split('T')[0];
+}
+
+export function getShadowingStreak(): number {
+  const count    = read<number>(STREAK_COUNT_KEY) ?? 0;
+  const lastDate = read<string>(STREAK_DATE_KEY);
+
+  if (!lastDate) return 0;
+
+  const today     = todayISO();
+  const yesterday = yesterdayISO();
+
+  if (lastDate === today || lastDate === yesterday) return count;
+  return 0; // streak broken
+}
+
+export function recordShadowingSession(): void {
+  const count    = read<number>(STREAK_COUNT_KEY) ?? 0;
+  const lastDate = read<string>(STREAK_DATE_KEY);
+
+  const today     = todayISO();
+  const yesterday = yesterdayISO();
+
+  if (lastDate === today) return; // already recorded today
+
+  if (lastDate === yesterday) {
+    write(STREAK_COUNT_KEY, count + 1);
+    write(STREAK_DATE_KEY, today);
+  } else {
+    // streak broken or first session ever
+    write(STREAK_COUNT_KEY, 1);
+    write(STREAK_DATE_KEY, today);
+  }
+}

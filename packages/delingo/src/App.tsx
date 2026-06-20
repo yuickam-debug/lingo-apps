@@ -6,6 +6,8 @@ import { StoryReader } from './screens/StoryReader';
 import { NewsDigest } from './screens/NewsDigest';
 import { SavedWords } from './screens/SavedWords';
 import { Settings } from './screens/Settings';
+import { ShadowingPlayer } from '@lingo/shared/components/ShadowingPlayer';
+import { ReviewSession } from '@lingo/shared/components/ReviewSession';
 import type { Story, SavedWord, AppSettings } from '@lingo/shared/types';
 import {
   loadSavedWords,
@@ -25,6 +27,8 @@ interface ReaderState {
 export default function App() {
   const [screen, setScreen] = useState<Screen>('home');
   const [readerState, setReaderState] = useState<ReaderState | null>(null);
+  const [shadowingState, setShadowingState] = useState<Story | null>(null);
+  const [reviewOpen, setReviewOpen] = useState(false);
   const [savedWords, setSavedWords] = useState<Record<string, SavedWord>>(
     () => loadSavedWords('de')
   );
@@ -62,6 +66,9 @@ export default function App() {
     setReaderState(null);
   };
 
+  const openShadowing = (story: Story) => setShadowingState(story);
+  const closeShadowing = () => setShadowingState(null);
+
   return (
     <AppContext.Provider
       value={{
@@ -73,13 +80,29 @@ export default function App() {
       }}
     >
       <div className="app">
+        {reviewOpen && (
+          <ReviewSession onClose={() => setReviewOpen(false)} />
+        )}
+
+        {shadowingState && (
+          <ShadowingPlayer
+            story={shadowingState}
+            lang="de"
+            onClose={closeShadowing}
+          />
+        )}
+
         {readerState ? (
-          <StoryReader story={readerState.story} onBack={closeReader} />
+          <StoryReader
+            story={readerState.story}
+            onBack={closeReader}
+            onStartShadowing={() => openShadowing(readerState.story)}
+          />
         ) : (
           <>
             <div className="screen">
               {screen === 'home' && (
-                <Home onNavigate={setScreen} onOpenReader={openReader} />
+                <Home onNavigate={setScreen} onOpenReader={openReader} onStartReview={() => setReviewOpen(true)} />
               )}
               {screen === 'library' && (
                 <StoryLibrary onOpenReader={(s) => openReader(s, 'library')} />
@@ -87,7 +110,7 @@ export default function App() {
               {screen === 'news' && (
                 <NewsDigest onOpenReader={(s) => openReader(s, 'news')} />
               )}
-              {screen === 'saved' && <SavedWords />}
+              {screen === 'saved' && <SavedWords onStartReview={() => setReviewOpen(true)} />}
               {screen === 'settings' && <Settings />}
             </div>
 
