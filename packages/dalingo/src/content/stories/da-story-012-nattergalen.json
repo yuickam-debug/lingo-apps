@@ -1,0 +1,267 @@
+{
+  "id": "da-story-012-nattergalen",
+  "title": "Nattergalen",
+  "level": "B1",
+  "genre": "narrative",
+  "source": "story",
+  "sentences": [
+    {
+      "id": "da-story-012-nattergalen-s01",
+      "text": "I Kina boede der engang en kejser, hvis palads var det smukkeste i hele verden.",
+      "translation": "In China there once lived an emperor, whose palace was the most beautiful in the whole world.",
+      "words": [
+        {
+          "word": "hvis",
+          "definition": "whose",
+          "partOfSpeech": "pron.",
+          "grammar": "hvis (possessive relative pronoun) · different word from hvis = \"if\" — context distinguishes them"
+        },
+        {
+          "word": "palads",
+          "definition": "palace",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et palads · paladset (the palace) · paladser (plural)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-012-nattergalen-s02",
+      "text": "I skoven uden for paladset boede en lille, grå nattergal, som sang så smukt, at folk fra hele landet kom for at lytte.",
+      "translation": "In the forest outside the palace lived a small, grey nightingale, which sang so beautifully that people from the whole country came to listen.",
+      "words": [
+        {
+          "word": "nattergal",
+          "definition": "nightingale",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en nattergal · nattergalen (the nightingale) · nattergale (plural)"
+        },
+        {
+          "word": "så...at",
+          "definition": "so...that",
+          "partOfSpeech": "conj. pair",
+          "grammar": "så + adjective/adverb...at + clause = result construction, expressing degree and consequence"
+        }
+      ]
+    },
+    {
+      "id": "da-story-012-nattergalen-s03",
+      "text": "Da kejseren endelig hørte fuglens sang, blev han dybt bevæget og bad om, at den skulle bo ved hoffet.",
+      "translation": "When the emperor finally heard the bird's song, he was deeply moved and asked that it should live at the court.",
+      "words": [
+        {
+          "word": "fuglens",
+          "definition": "the bird's",
+          "partOfSpeech": "noun, c. (genitive)",
+          "grammar": "en fugl · fuglen (the bird) · fuglens (the bird's, genitive) · -s added directly to the definite form"
+        },
+        {
+          "word": "bevæget",
+          "definition": "moved (emotionally)",
+          "partOfSpeech": "adj.",
+          "grammar": "bevæget (common/neuter, same form) · past participle of bevæge, used as adjective · dybt bevæget = deeply moved"
+        }
+      ]
+    },
+    {
+      "id": "da-story-012-nattergalen-s04",
+      "text": "En dag fik kejseren en kunstig nattergal i gave, lavet af guld og dækket med ædelstene.",
+      "translation": "One day the emperor received an artificial nightingale as a gift, made of gold and covered with precious stones.",
+      "words": [
+        {
+          "word": "kunstig",
+          "definition": "artificial",
+          "partOfSpeech": "adj.",
+          "grammar": "kunstig (common) · kunstigt (neuter) · kunstige (pl./def.) · opposite of \"ægte\" (real/genuine)"
+        },
+        {
+          "word": "ædelstene",
+          "definition": "precious stones",
+          "partOfSpeech": "noun, c. pl.",
+          "grammar": "en ædelsten · ædelstenen (the precious stone) · ædelstene (plural) · compound: ædel (noble) + sten (stone)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-012-nattergalen-s05",
+      "text": "Den mekaniske fugl kunne kun synge én sang, men hoffet foretrak den, fordi den glimtede så flot.",
+      "translation": "The mechanical bird could only sing one song, but the court preferred it, because it glittered so finely.",
+      "words": [
+        {
+          "word": "foretrak",
+          "definition": "preferred",
+          "partOfSpeech": "verb",
+          "grammar": "foretrække (to prefer) · foretrak (past) · har foretrukket (perfect) · strong/irregular verb, takes direct object"
+        },
+        {
+          "word": "glimtede",
+          "definition": "glittered",
+          "partOfSpeech": "verb",
+          "grammar": "glimte (to glitter/sparkle) · glimtede (past) · har glimtet (perfect) · weak verb"
+        }
+      ]
+    },
+    {
+      "id": "da-story-012-nattergalen-s06",
+      "text": "Imens forsvandt den rigtige nattergal tilbage til skoven, ked af at være glemt.",
+      "translation": "Meanwhile, the real nightingale disappeared back to the forest, sad about being forgotten.",
+      "words": [
+        {
+          "word": "imens",
+          "definition": "meanwhile",
+          "partOfSpeech": "conj./adv.",
+          "grammar": "imens (while/meanwhile) · can open a sentence as a time connector between two parallel events"
+        },
+        {
+          "word": "forsvandt",
+          "definition": "disappeared",
+          "partOfSpeech": "verb",
+          "grammar": "forsvinde (to disappear) · forsvandt (past) · er forsvundet (perfect) · strong verb"
+        }
+      ]
+    },
+    {
+      "id": "da-story-012-nattergalen-s07",
+      "text": "Mange år senere blev kejseren alvorligt syg, og Døden satte sig på hans bryst.",
+      "translation": "Many years later the emperor became seriously ill, and Death sat down on his chest.",
+      "words": [
+        {
+          "word": "alvorligt",
+          "definition": "seriously",
+          "partOfSpeech": "adv.",
+          "grammar": "alvorlig (serious, adj.) · alvorligt (adverb/neuter form)"
+        },
+        {
+          "word": "bryst",
+          "definition": "chest",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et bryst · brystet (the chest) · bryster (plural)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-012-nattergalen-s08",
+      "text": "Den kunstige fugl kunne ikke synge, for ingen havde trukket dens fjeder op.",
+      "translation": "The artificial bird could not sing, because no one had wound up its spring.",
+      "words": [
+        {
+          "word": "havde trukket",
+          "definition": "had wound/pulled",
+          "partOfSpeech": "verb",
+          "grammar": "trække op (to wind up) · trak op (past) · havde trukket op (pluperfect) · action completed before another past moment"
+        },
+        {
+          "word": "dens",
+          "definition": "its",
+          "partOfSpeech": "pron.",
+          "grammar": "dens (possessive for en-words/common gender, non-personal) · dets (for et-words)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-012-nattergalen-s09",
+      "text": "Pludselig hørtes en sang udenfor vinduet: den rigtige nattergal var vendt tilbage.",
+      "translation": "Suddenly a song was heard outside the window: the real nightingale had returned.",
+      "words": [
+        {
+          "word": "hørtes",
+          "definition": "was heard",
+          "partOfSpeech": "verb",
+          "grammar": "høre (to hear) · hørtes (passive -s form, past) · alternative to \"blev hørt\""
+        },
+        {
+          "word": "var vendt tilbage",
+          "definition": "had returned",
+          "partOfSpeech": "verb",
+          "grammar": "vende tilbage (to return) · vendte tilbage (past) · var vendt tilbage (pluperfect, takes \"var\" not \"havde\")"
+        }
+      ]
+    },
+    {
+      "id": "da-story-012-nattergalen-s10",
+      "text": "Den sang om kirkegårde, hvor man kan hvile, og om livet, som er værd at leve.",
+      "translation": "It sang about churchyards, where one can rest, and about life, which is worth living.",
+      "words": [
+        {
+          "word": "hvor",
+          "definition": "where",
+          "partOfSpeech": "adv./conj.",
+          "grammar": "hvor (relative adverb, place) · introduces a clause describing a location"
+        },
+        {
+          "word": "værd",
+          "definition": "worth",
+          "partOfSpeech": "adj.",
+          "grammar": "værd (invariable) · være værd at + infinitive = to be worth doing"
+        }
+      ]
+    },
+    {
+      "id": "da-story-012-nattergalen-s11",
+      "text": "Døden blev bevæget af sangen og forsvandt langsomt ud i den kolde nat.",
+      "translation": "Death was moved by the song and slowly disappeared out into the cold night.",
+      "words": [
+        {
+          "word": "kolde",
+          "definition": "cold",
+          "partOfSpeech": "adj.",
+          "grammar": "kold (common) · koldt (neuter) · kolde (pl./def.)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-012-nattergalen-s12",
+      "text": "Kejseren blev rask igen, og fra da af bad han altid nattergalen om at blive hos ham som ven, ikke som fange.",
+      "translation": "The emperor became well again, and from then on he always asked the nightingale to stay with him as a friend, not as a prisoner.",
+      "words": [
+        {
+          "word": "fra da af",
+          "definition": "from then on",
+          "partOfSpeech": "phrase",
+          "grammar": "fra da af (fixed time expression) · marks a lasting change starting at a specific past moment"
+        },
+        {
+          "word": "fange",
+          "definition": "prisoner",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en fange · fangen (the prisoner) · fanger (plural)"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "genreDetail": "eventyr",
+    "adaptedFrom": "Adapted from H.C. Andersen (1843), simplified for B1 learners",
+    "grammarPoints": [
+      {
+        "rule": "Possessive relative pronoun \"hvis\" (whose)",
+        "exampleSentence": "...en kejser, hvis palads var det smukkeste i hele verden.",
+        "explanation": "Hvis as a relative pronoun means \"whose\" and links a noun back to something it possesses. It looks identical to the conditional hvis (\"if\") but is always followed by a noun, not a full new clause."
+      },
+      {
+        "rule": "Correlative result clauses: \"så...at\"",
+        "exampleSentence": "...en nattergal, som sang så smukt, at folk fra hele landet kom for at lytte.",
+        "explanation": "Så + adjective/adverb sets up a degree, and at + clause delivers the consequence — together they express \"so [X] that [Y happened]\"."
+      },
+      {
+        "rule": "Pluperfect (past-before-past)",
+        "exampleSentence": "Ingen havde trukket dens fjeder op. / Den rigtige nattergal var vendt tilbage.",
+        "explanation": "Har/havde or er/var (depending on the verb) + past participle marks an action completed before another point already in the past — one step further back than simple past."
+      },
+      {
+        "rule": "\"Blive\" + adjective/participle, fully extended",
+        "exampleSentence": "Døden blev bevæget af sangen.",
+        "explanation": "This set's recurring blive pattern now combines with af to show passive cause: \"became moved by\" — emotional change of state triggered by something external."
+      },
+      {
+        "rule": "Nested relative clauses",
+        "exampleSentence": "Den sang om kirkegårde, hvor man kan hvile, og om livet, som er værd at leve.",
+        "explanation": "Two separate relative clauses, each attached to its own noun (kirkegårde / livet), can sit side by side in one sentence — common in more literary Danish."
+      },
+      {
+        "rule": "Fixed time expression \"fra da af\"",
+        "exampleSentence": "Fra da af bad han altid nattergalen om at blive hos ham.",
+        "explanation": "This phrase means \"from that point onward\" and is used to mark a lasting change after a turning-point moment in a story."
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "id": "da-story-010-kejserens-nye-klaeder",
+  "title": "Kejserens nye klæder",
+  "level": "A2",
+  "genre": "narrative",
+  "source": "story",
+  "sentences": [
+    {
+      "id": "da-story-010-kejserens-nye-klaeder-s01",
+      "text": "Der var engang en kejser, som elskede smukt tøj mere end alt andet.",
+      "translation": "Once there was an emperor who loved beautiful clothes more than anything else.",
+      "words": [
+        {
+          "word": "kejser",
+          "definition": "emperor",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en kejser · kejseren (the emperor) · kejsere (plural)"
+        },
+        {
+          "word": "som",
+          "definition": "who, which, that",
+          "partOfSpeech": "pron.",
+          "grammar": "som (relative pronoun, subject or object) · invariable — same form for people and things"
+        }
+      ]
+    },
+    {
+      "id": "da-story-010-kejserens-nye-klaeder-s02",
+      "text": "En dag kom der to bedragere til byen.",
+      "translation": "One day two swindlers came to the town.",
+      "words": [
+        {
+          "word": "bedragere",
+          "definition": "swindlers",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en bedrager · bedrageren (the swindler) · bedragere (plural) · bedragerne (the swindlers)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-010-kejserens-nye-klaeder-s03",
+      "text": "De sagde, at de kunne væve det smukkeste stof i verden.",
+      "translation": "They said that they could weave the most beautiful fabric in the world.",
+      "words": [
+        {
+          "word": "væve",
+          "definition": "weave",
+          "partOfSpeech": "verb",
+          "grammar": "væve (to weave) · væver (present) · vævede (past) · har vævet (perfect)"
+        },
+        {
+          "word": "stof",
+          "definition": "fabric",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et stof · stoffet (the fabric) · stoffer (plural)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-010-kejserens-nye-klaeder-s04",
+      "text": "Stoffet var usynligt for alle dumme mennesker, sagde de.",
+      "translation": "The fabric was invisible to all stupid people, they said.",
+      "words": [
+        {
+          "word": "usynligt",
+          "definition": "invisible",
+          "partOfSpeech": "adj.",
+          "grammar": "usynlig (common) · usynligt (neuter) · usynlige (pl./def.) · u- = negative prefix, synlig = visible"
+        }
+      ]
+    },
+    {
+      "id": "da-story-010-kejserens-nye-klaeder-s05",
+      "text": "Kejseren betalte dem meget guld og bad dem væve med det samme.",
+      "translation": "The emperor paid them a lot of gold and asked them to weave at once.",
+      "words": [
+        {
+          "word": "bad",
+          "definition": "asked",
+          "partOfSpeech": "verb",
+          "grammar": "bede (to ask/request) · bad (past) · har bedt (perfect) · bede nogen gøre noget = ask someone to do something (no \"at\")"
+        },
+        {
+          "word": "guld",
+          "definition": "gold",
+          "partOfSpeech": "noun, n.",
+          "grammar": "guld (uncountable) · guldet (the gold)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-010-kejserens-nye-klaeder-s06",
+      "text": "Ministrene så ingenting, men de turde ikke sige det.",
+      "translation": "The ministers saw nothing, but they didn't dare say it.",
+      "words": [
+        {
+          "word": "turde",
+          "definition": "dared",
+          "partOfSpeech": "verb",
+          "grammar": "turde (modal: dare) · tør (present) · turde (past) · har turdet (perfect)"
+        },
+        {
+          "word": "ingenting",
+          "definition": "nothing",
+          "partOfSpeech": "pron.",
+          "grammar": "ingenting (nothing, emphatic) · stronger/more colloquial than \"intet\""
+        }
+      ]
+    },
+    {
+      "id": "da-story-010-kejserens-nye-klaeder-s07",
+      "text": "Alle var bange for at blive kaldt dumme, så de roste det smukke stof.",
+      "translation": "Everyone was afraid of being called stupid, so they praised the beautiful fabric.",
+      "words": [
+        {
+          "word": "bange for at",
+          "definition": "afraid of",
+          "partOfSpeech": "phrase",
+          "grammar": "være bange for at + infinitive = to be afraid of (doing) something"
+        },
+        {
+          "word": "roste",
+          "definition": "praised",
+          "partOfSpeech": "verb",
+          "grammar": "rose (to praise) · roste (past) · har rost (perfect) · weak verb"
+        }
+      ]
+    },
+    {
+      "id": "da-story-010-kejserens-nye-klaeder-s08",
+      "text": "Kejseren gik gennem byen i sit nye, usynlige tøj.",
+      "translation": "The emperor walked through the town in his new, invisible clothes.",
+      "words": [
+        {
+          "word": "gennem",
+          "definition": "through",
+          "partOfSpeech": "prep.",
+          "grammar": "gennem (through) · governs accusative-like position · gå gennem byen = walk through the town"
+        }
+      ]
+    },
+    {
+      "id": "da-story-010-kejserens-nye-klaeder-s09",
+      "text": "Folket klappede og råbte, fordi ingen turde sige sandheden.",
+      "translation": "The people clapped and shouted, because no one dared tell the truth.",
+      "words": [
+        {
+          "word": "fordi",
+          "definition": "because",
+          "partOfSpeech": "conj.",
+          "grammar": "fordi (subordinating) · introduces a clause where the verb stays after the subject, but the clause can't stand alone"
+        },
+        {
+          "word": "sandheden",
+          "definition": "the truth",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en sandhed · sandheden (the truth) · sandheder (plural)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-010-kejserens-nye-klaeder-s10",
+      "text": "Pludselig råbte et lille barn: \"Men han har jo ikke noget tøj på!\"",
+      "translation": "Suddenly a small child shouted: \"But he isn't wearing any clothes at all!\"",
+      "words": [
+        {
+          "word": "jo",
+          "definition": "after all, obviously",
+          "partOfSpeech": "particle",
+          "grammar": "jo (modal particle, untranslatable alone) · adds emphasis to something the speaker sees as self-evident"
+        },
+        {
+          "word": "barn",
+          "definition": "child",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et barn · barnet (the child) · børn (plural, irregular) · børnene (the children)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-010-kejserens-nye-klaeder-s11",
+      "text": "Hviskingen bredte sig, og snart sagde alle det samme.",
+      "translation": "The whisper spread, and soon everyone said the same thing.",
+      "words": [
+        {
+          "word": "bredte sig",
+          "definition": "spread",
+          "partOfSpeech": "verb",
+          "grammar": "brede sig (to spread, reflexive) · breder sig/bredte sig/har bredt sig · weak verb + reflexive pronoun"
+        }
+      ]
+    },
+    {
+      "id": "da-story-010-kejserens-nye-klaeder-s12",
+      "text": "Kejseren blev rød i ansigtet, men han fortsatte processionen med rank ryg.",
+      "translation": "The emperor turned red in the face, but he continued the procession with a straight back.",
+      "words": [
+        {
+          "word": "fortsatte",
+          "definition": "continued",
+          "partOfSpeech": "verb",
+          "grammar": "fortsætte (to continue) · fortsatte (past) · har fortsat (perfect) · weak verb"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "genreDetail": "eventyr",
+    "adaptedFrom": "Adapted from H.C. Andersen (1837), simplified for upper-A2 learners",
+    "grammarPoints": [
+      {
+        "rule": "Relative clause with subject \"som\"",
+        "exampleSentence": "...en kejser, som elskede smukt tøj...",
+        "explanation": "Som introduces a clause describing a noun, acting as the subject inside that clause. It's invariable — used for both people and things."
+      },
+      {
+        "rule": "Indirect (reported) speech with \"at\"",
+        "exampleSentence": "De sagde, at de kunne væve det smukkeste stof i verden.",
+        "explanation": "At introduces what someone said as a clause rather than a direct quote. The word order inside stays subject-verb, just like a normal statement."
+      },
+      {
+        "rule": "Bare infinitive after verbs of request: \"bede nogen gøre noget\"",
+        "exampleSentence": "Han bad dem væve med det samme.",
+        "explanation": "After bede (ask/request) + a person, the following verb is a bare infinitive with no at — unlike most other verb + infinitive constructions in Danish."
+      },
+      {
+        "rule": "Subordinating \"fordi\" (because)",
+        "exampleSentence": "Folket klappede, fordi ingen turde sige sandheden.",
+        "explanation": "Fordi introduces a subordinate clause, which cannot stand alone as a full sentence. Compare with the coordinating for from story 009, which can."
+      },
+      {
+        "rule": "The modal particle \"jo\"",
+        "exampleSentence": "Han har jo ikke noget tøj på!",
+        "explanation": "Jo has no direct English translation. It marks the statement as something the speaker believes is — or should be — obvious or already known to the listener."
+      },
+      {
+        "rule": "\"Blive\" + adjective, revisited",
+        "exampleSentence": "Kejseren blev rød i ansigtet.",
+        "explanation": "The blive + adjective pattern for change of state appears again here, reinforcing the construction first introduced with blev gift in story 008."
+      }
+    ]
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "version": "1",
+  "version": "2",
   "stories": [
     {
       "id": "da-story-001",
@@ -1003,6 +1003,1578 @@
           ]
         }
       ]
+    },
+    {
+      "id": "da-story-008-prinsessen-paa-aerten",
+      "title": "Prinsessen på ærten",
+      "level": "A1",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "da-story-008-prinsessen-paa-aerten-s01",
+          "text": "Der var engang en prins.",
+          "translation": "Once upon a time there was a prince.",
+          "words": [
+            {
+              "word": "var",
+              "definition": "was",
+              "partOfSpeech": "verb",
+              "grammar": "være (to be) · var (past) · har været (perfect) · \"Der var engang\" = once upon a time, the fairy-tale opening formula"
+            },
+            {
+              "word": "prins",
+              "definition": "prince",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en prins · prinsen (the prince) · prinser (plural) · prinserne (the princes)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-008-prinsessen-paa-aerten-s02",
+          "text": "Han ville gerne have en rigtig prinsesse.",
+          "translation": "He wanted to have a real princess.",
+          "words": [
+            {
+              "word": "ville",
+              "definition": "wanted to / would",
+              "partOfSpeech": "verb",
+              "grammar": "ville (modal: want to/would) · present: vil · ville gerne = would like to · modal verb, no \"at\" before the following infinitive"
+            },
+            {
+              "word": "rigtig",
+              "definition": "real, true",
+              "partOfSpeech": "adj.",
+              "grammar": "rigtig (common) · rigtigt (neuter) · rigtige (pl./def.) · en rigtig prinsesse = a true (genuine) princess, not just any princess"
+            }
+          ]
+        },
+        {
+          "id": "da-story-008-prinsessen-paa-aerten-s03",
+          "text": "Han rejste over hele verden, men han fandt ingen.",
+          "translation": "He traveled all over the world, but he found none.",
+          "words": [
+            {
+              "word": "rejste",
+              "definition": "traveled",
+              "partOfSpeech": "verb",
+              "grammar": "rejse (to travel) · rejste (past) · har rejst (perfect) · weak verb, regular -te ending"
+            },
+            {
+              "word": "ingen",
+              "definition": "no one, none",
+              "partOfSpeech": "pron.",
+              "grammar": "ingen (for en-words/persons) · intet (for et-words) · negative pronoun, replaces a noun + negation together"
+            }
+          ]
+        },
+        {
+          "id": "da-story-008-prinsessen-paa-aerten-s04",
+          "text": "En aften kom der en prinsesse til slottet.",
+          "translation": "One evening a princess came to the castle.",
+          "words": [
+            {
+              "word": "kom",
+              "definition": "came",
+              "partOfSpeech": "verb",
+              "grammar": "komme (to come) · kom (past) · er kommet (perfect) · strong verb, vowel change but no -te ending"
+            },
+            {
+              "word": "slottet",
+              "definition": "the castle",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et slot · slottet (the castle) · slotte (plural) · slottene (the castles)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-008-prinsessen-paa-aerten-s05",
+          "text": "Det regnede, og hun var meget våd.",
+          "translation": "It was raining, and she was very wet.",
+          "words": [
+            {
+              "word": "regnede",
+              "definition": "rained",
+              "partOfSpeech": "verb",
+              "grammar": "regne (to rain) · regnede (past) · har regnet (perfect) · weak verb"
+            },
+            {
+              "word": "våd",
+              "definition": "wet",
+              "partOfSpeech": "adj.",
+              "grammar": "våd (common) · vådt (neuter) · våde (pl./def.)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-008-prinsessen-paa-aerten-s06",
+          "text": "Dronningen sagde: \"Vi skal teste hende.\"",
+          "translation": "The queen said: \"We must test her.\"",
+          "words": [
+            {
+              "word": "skal",
+              "definition": "shall, must",
+              "partOfSpeech": "verb",
+              "grammar": "skulle (modal) · skal (present) · used for plans, decisions, and instructions · skal teste = is going to test"
+            },
+            {
+              "word": "dronningen",
+              "definition": "the queen",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en dronning · dronningen (the queen) · dronninger (plural)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-008-prinsessen-paa-aerten-s07",
+          "text": "Dronningen lagde en ært under tyve madrasser.",
+          "translation": "The queen put a pea under twenty mattresses.",
+          "words": [
+            {
+              "word": "tyve",
+              "definition": "twenty",
+              "partOfSpeech": "num.",
+              "grammar": "tyve (20) · cardinal number · combines directly with plural noun, e.g. tyve madrasser"
+            },
+            {
+              "word": "ært",
+              "definition": "pea",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en ært · ærten (the pea) · ærter (plural)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-008-prinsessen-paa-aerten-s08",
+          "text": "Prinsessen sov på sengen om natten.",
+          "translation": "The princess slept in the bed during the night.",
+          "words": [
+            {
+              "word": "sov",
+              "definition": "slept",
+              "partOfSpeech": "verb",
+              "grammar": "sove (to sleep) · sov (past) · har sovet (perfect) · strong verb"
+            },
+            {
+              "word": "natten",
+              "definition": "the night",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en nat · natten (the night) · om natten = during the night"
+            }
+          ]
+        },
+        {
+          "id": "da-story-008-prinsessen-paa-aerten-s09",
+          "text": "Om morgenen spurgte dronningen: \"Hvordan sov du?\"",
+          "translation": "In the morning the queen asked: \"How did you sleep?\"",
+          "words": [
+            {
+              "word": "spurgte",
+              "definition": "asked",
+              "partOfSpeech": "verb",
+              "grammar": "spørge (to ask) · spurgte (past) · har spurgt (perfect) · strong/irregular verb"
+            }
+          ]
+        },
+        {
+          "id": "da-story-008-prinsessen-paa-aerten-s10",
+          "text": "Prinsessen sagde: \"Jeg sov dårligt. Der var noget hårdt i sengen.\"",
+          "translation": "The princess said: \"I slept badly. There was something hard in the bed.\"",
+          "words": [
+            {
+              "word": "dårligt",
+              "definition": "badly",
+              "partOfSpeech": "adv.",
+              "grammar": "dårlig (bad, adj.) · dårligt (adverb / neuter form) · opposite of godt/godt"
+            },
+            {
+              "word": "hårdt",
+              "definition": "hard",
+              "partOfSpeech": "adj.",
+              "grammar": "hård (common) · hårdt (neuter) · hårde (pl./def.) · agrees with \"noget\" (neuter)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-008-prinsessen-paa-aerten-s11",
+          "text": "Nu vidste de, at hun var en rigtig prinsesse.",
+          "translation": "Now they knew that she was a real princess.",
+          "words": [
+            {
+              "word": "vidste",
+              "definition": "knew",
+              "partOfSpeech": "verb",
+              "grammar": "vide (to know - facts) · vidste (past) · har vidst (perfect) · irregular, do not confuse with \"kende\" (know a person/place)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-008-prinsessen-paa-aerten-s12",
+          "text": "Prinsen og prinsessen blev gift og levede lykkeligt.",
+          "translation": "The prince and the princess got married and lived happily.",
+          "words": [
+            {
+              "word": "blev",
+              "definition": "became",
+              "partOfSpeech": "verb",
+              "grammar": "blive (to become) · blev (past) · er blevet (perfect) · blive gift = to get married"
+            },
+            {
+              "word": "lykkeligt",
+              "definition": "happily",
+              "partOfSpeech": "adv.",
+              "grammar": "lykkelig (happy, adj.) · lykkeligt (adverb/neuter)"
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "genreDetail": "eventyr",
+        "adaptedFrom": "Adapted from H.C. Andersen (1835), simplified for A1 learners",
+        "grammarPoints": [
+          {
+            "rule": "\"Der var engang\" — the fairy-tale opener",
+            "exampleSentence": "Der var engang en prins.",
+            "explanation": "This fixed phrase always opens a Danish eventyr, just like \"once upon a time\" in English. It uses the past tense of være (var) and the dummy word der."
+          },
+          {
+            "rule": "Modal verb \"skal\" for plans and decisions",
+            "exampleSentence": "Vi skal teste hende.",
+            "explanation": "Skal expresses an intention or instruction, not just future time. It signals \"we are going to, as a decision\" — stronger and more deliberate than just predicting what will happen."
+          },
+          {
+            "rule": "Question word order: verb before subject",
+            "exampleSentence": "Hvordan sov du?",
+            "explanation": "After a question word (hvordan, hvad, hvor...), the verb comes immediately, then the subject. There is no extra \"do/did\" word like in English."
+          },
+          {
+            "rule": "Negative pronoun \"ingen\"",
+            "exampleSentence": "Han fandt ingen.",
+            "explanation": "Ingen replaces an entire noun phrase plus its negation — \"ingen prinsesse\" becomes just \"ingen\". Use intet instead for et-words."
+          },
+          {
+            "rule": "Numbers combine directly with plural nouns",
+            "exampleSentence": "Dronningen lagde en ært under tyve madrasser.",
+            "explanation": "Danish needs no linking word between a number and the noun it counts: tyve madrasser, not \"tyve af madrasser\"."
+          },
+          {
+            "rule": "\"Blive\" + adjective = to become",
+            "exampleSentence": "Prinsen og prinsessen blev gift.",
+            "explanation": "Blive describes a change of state, contrasted with være, which describes an existing state. Blive gift = to get married; være gift = to be married."
+          }
+        ]
+      }
+    },
+    {
+      "id": "da-story-009-klods-hans",
+      "title": "Klods-Hans",
+      "level": "A2",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "da-story-009-klods-hans-s01",
+          "text": "Der boede engang tre brødre på en gård.",
+          "translation": "Once there lived three brothers on a farm.",
+          "words": [
+            {
+              "word": "boede",
+              "definition": "lived",
+              "partOfSpeech": "verb",
+              "grammar": "bo (to live, reside) · boede (past) · har boet (perfect) · weak verb"
+            },
+            {
+              "word": "gård",
+              "definition": "farm",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en gård · gården (the farm) · gårde (plural) · gårdene (the farms)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-009-klods-hans-s02",
+          "text": "De to ældste brødre var meget kloge, men den yngste hed Klods-Hans.",
+          "translation": "The two oldest brothers were very clever, but the youngest was called Klods-Hans.",
+          "words": [
+            {
+              "word": "kloge",
+              "definition": "clever",
+              "partOfSpeech": "adj.",
+              "grammar": "klog (common) · klogt (neuter) · kloge (pl./def.) · superlative: klogest/klogeste"
+            },
+            {
+              "word": "hed",
+              "definition": "was called",
+              "partOfSpeech": "verb",
+              "grammar": "hedde (to be called/named) · hed (past) · har heddet (perfect) · irregular verb"
+            }
+          ]
+        },
+        {
+          "id": "da-story-009-klods-hans-s03",
+          "text": "Kongen havde en datter, og hun ville gerne giftes med en klog mand.",
+          "translation": "The king had a daughter, and she wanted to marry a clever man.",
+          "words": [
+            {
+              "word": "kongen",
+              "definition": "the king",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en konge · kongen (the king) · konger (plural)"
+            },
+            {
+              "word": "datter",
+              "definition": "daughter",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en datter · datteren (the daughter) · døtre (plural)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-009-klods-hans-s04",
+          "text": "De to kloge brødre red til slottet på flotte heste.",
+          "translation": "The two clever brothers rode to the castle on fine horses.",
+          "words": [
+            {
+              "word": "red",
+              "definition": "rode",
+              "partOfSpeech": "verb",
+              "grammar": "ride (to ride) · red (past) · har redet (perfect) · strong verb"
+            },
+            {
+              "word": "flotte",
+              "definition": "fine, nice",
+              "partOfSpeech": "adj.",
+              "grammar": "flot (common) · flot (neuter, irregular - no -t added) · flotte (pl./def.)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-009-klods-hans-s05",
+          "text": "Klods-Hans ville også af sted, så han satte sig på en gedebuk.",
+          "translation": "Klods-Hans also wanted to go, so he sat himself on a billy goat.",
+          "words": [
+            {
+              "word": "så",
+              "definition": "so, therefore",
+              "partOfSpeech": "conj.",
+              "grammar": "så (result conjunction) · coordinating, like \"og\"/\"men\" · normal word order continues after it"
+            },
+            {
+              "word": "satte sig",
+              "definition": "sat himself",
+              "partOfSpeech": "verb",
+              "grammar": "sætte sig (to sit down, reflexive) · satte (past) · har sat sig (perfect) · weak verb + reflexive pronoun"
+            }
+          ]
+        },
+        {
+          "id": "da-story-009-klods-hans-s06",
+          "text": "På vejen fandt han en død krage, en gammel træsko og noget mudder.",
+          "translation": "On the way he found a dead crow, an old wooden shoe, and some mud.",
+          "words": [
+            {
+              "word": "krage",
+              "definition": "crow",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en krage · kragen (the crow) · krager (plural)"
+            },
+            {
+              "word": "mudder",
+              "definition": "mud",
+              "partOfSpeech": "noun, n.",
+              "grammar": "mudder (uncountable, no plural) · mudderet (the mud)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-009-klods-hans-s07",
+          "text": "Han puttede alting i lommen, for det kunne måske bruges.",
+          "translation": "He put everything in his pocket, because it could perhaps be used.",
+          "words": [
+            {
+              "word": "for",
+              "definition": "because, for",
+              "partOfSpeech": "conj.",
+              "grammar": "for (causal, coordinating) · comma before it · followed by normal (not V2-inverted) word order"
+            },
+            {
+              "word": "bruges",
+              "definition": "be used",
+              "partOfSpeech": "verb",
+              "grammar": "bruge (to use) · bruges (passive -s form, present) · can be used"
+            }
+          ]
+        },
+        {
+          "id": "da-story-009-klods-hans-s08",
+          "text": "Da brødrene kom til prinsessen, kunne de ikke svare på hendes spørgsmål.",
+          "translation": "When the brothers arrived at the princess, they couldn't answer her questions.",
+          "words": [
+            {
+              "word": "da",
+              "definition": "when (past)",
+              "partOfSpeech": "conj.",
+              "grammar": "da (subordinating, only for past-time \"when\") · contrast with når (present/future \"when\")"
+            },
+            {
+              "word": "kunne",
+              "definition": "could",
+              "partOfSpeech": "verb",
+              "grammar": "kunne (modal: can/could) · kunne (past) · kunne ikke = couldn't"
+            }
+          ]
+        },
+        {
+          "id": "da-story-009-klods-hans-s09",
+          "text": "Klods-Hans svarede med kragen, træskoen og mudderet, og prinsessen lo højt.",
+          "translation": "Klods-Hans answered with the crow, the wooden shoe, and the mud, and the princess laughed loudly.",
+          "words": [
+            {
+              "word": "svarede",
+              "definition": "answered",
+              "partOfSpeech": "verb",
+              "grammar": "svare (to answer) · svarede (past) · har svaret (perfect) · weak verb"
+            },
+            {
+              "word": "lo",
+              "definition": "laughed",
+              "partOfSpeech": "verb",
+              "grammar": "le (to laugh) · lo (past) · har let (perfect) · strong verb"
+            }
+          ]
+        },
+        {
+          "id": "da-story-009-klods-hans-s10",
+          "text": "Hun sagde: \"Han er sjov, og jeg vil gifte mig med ham!\"",
+          "translation": "She said: \"He is funny, and I want to marry him!\"",
+          "words": [
+            {
+              "word": "sjov",
+              "definition": "funny",
+              "partOfSpeech": "adj.",
+              "grammar": "sjov (common) · sjovt (neuter) · sjove (pl./def.)"
+            },
+            {
+              "word": "gifte mig med",
+              "definition": "marry",
+              "partOfSpeech": "verb phrase",
+              "grammar": "gifte sig med (to marry someone, reflexive) · gifter/giftede/har giftet · always reflexive + med"
+            }
+          ]
+        },
+        {
+          "id": "da-story-009-klods-hans-s11",
+          "text": "Kongen blev overrasket, men han holdt sit ord.",
+          "translation": "The king was surprised, but he kept his word.",
+          "words": [
+            {
+              "word": "overrasket",
+              "definition": "surprised",
+              "partOfSpeech": "adj.",
+              "grammar": "overrasket (common/neuter, same form) · past participle used as adjective · blev overrasket = was surprised"
+            },
+            {
+              "word": "holdt",
+              "definition": "kept",
+              "partOfSpeech": "verb",
+              "grammar": "holde (to hold/keep) · holdt (past) · har holdt (perfect) · holde sit ord = to keep one's word"
+            }
+          ]
+        },
+        {
+          "id": "da-story-009-klods-hans-s12",
+          "text": "Klods-Hans og prinsessen blev gift, og han blev konge.",
+          "translation": "Klods-Hans and the princess got married, and he became king.",
+          "words": [
+            {
+              "word": "konge",
+              "definition": "king",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en konge · kongen (the king) · konger (plural)"
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "genreDetail": "eventyr",
+        "adaptedFrom": "Adapted from H.C. Andersen (1855), simplified for A2 learners",
+        "grammarPoints": [
+          {
+            "rule": "Coordinating conjunction \"så\" (so, therefore)",
+            "exampleSentence": "Han ville også af sted, så han satte sig på en gedebuk.",
+            "explanation": "Så links a cause to its result. Like other coordinating conjunctions (og, men, for), it doesn't change the word order of the clause that follows it."
+          },
+          {
+            "rule": "Coordinating \"for\" vs. subordinating \"fordi\"",
+            "exampleSentence": "Han puttede alting i lommen, for det kunne måske bruges.",
+            "explanation": "Both mean \"because\", but for keeps normal word order after the comma, while fordi (a subordinating conjunction) would push the verb to the end of its clause."
+          },
+          {
+            "rule": "\"Da\" as the past-time subordinating conjunction",
+            "exampleSentence": "Da brødrene kom til prinsessen, kunne de ikke svare.",
+            "explanation": "Da means \"when\" but only for a single completed event in the past. Når is used instead for repeated past events, or present/future \"when\"."
+          },
+          {
+            "rule": "V2 inversion after a subordinate clause",
+            "exampleSentence": "Da brødrene kom til prinsessen, kunne de ikke svare.",
+            "explanation": "When a sentence opens with a subordinate clause, the main clause verb must come immediately after the comma, before its own subject — Danish main clauses always keep the verb in second position overall."
+          },
+          {
+            "rule": "Modal verb \"kunne\" in the negative",
+            "exampleSentence": "De kunne ikke svare på hendes spørgsmål.",
+            "explanation": "Negation with ikke comes right after the modal verb (kunne), not after the main verb (svare), which stays in its infinitive form at the end."
+          },
+          {
+            "rule": "Reflexive possessive \"sit\" vs. \"hans\"",
+            "exampleSentence": "Han holdt sit ord.",
+            "explanation": "Sit/sin/sine refer back to the subject of the sentence (\"his own word\"). Hans would mean the word belonged to a different male person mentioned elsewhere."
+          }
+        ]
+      }
+    },
+    {
+      "id": "da-story-010-kejserens-nye-klaeder",
+      "title": "Kejserens nye klæder",
+      "level": "A2",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "da-story-010-kejserens-nye-klaeder-s01",
+          "text": "Der var engang en kejser, som elskede smukt tøj mere end alt andet.",
+          "translation": "Once there was an emperor who loved beautiful clothes more than anything else.",
+          "words": [
+            {
+              "word": "kejser",
+              "definition": "emperor",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en kejser · kejseren (the emperor) · kejsere (plural)"
+            },
+            {
+              "word": "som",
+              "definition": "who, which, that",
+              "partOfSpeech": "pron.",
+              "grammar": "som (relative pronoun, subject or object) · invariable — same form for people and things"
+            }
+          ]
+        },
+        {
+          "id": "da-story-010-kejserens-nye-klaeder-s02",
+          "text": "En dag kom der to bedragere til byen.",
+          "translation": "One day two swindlers came to the town.",
+          "words": [
+            {
+              "word": "bedragere",
+              "definition": "swindlers",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en bedrager · bedrageren (the swindler) · bedragere (plural) · bedragerne (the swindlers)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-010-kejserens-nye-klaeder-s03",
+          "text": "De sagde, at de kunne væve det smukkeste stof i verden.",
+          "translation": "They said that they could weave the most beautiful fabric in the world.",
+          "words": [
+            {
+              "word": "væve",
+              "definition": "weave",
+              "partOfSpeech": "verb",
+              "grammar": "væve (to weave) · væver (present) · vævede (past) · har vævet (perfect)"
+            },
+            {
+              "word": "stof",
+              "definition": "fabric",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et stof · stoffet (the fabric) · stoffer (plural)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-010-kejserens-nye-klaeder-s04",
+          "text": "Stoffet var usynligt for alle dumme mennesker, sagde de.",
+          "translation": "The fabric was invisible to all stupid people, they said.",
+          "words": [
+            {
+              "word": "usynligt",
+              "definition": "invisible",
+              "partOfSpeech": "adj.",
+              "grammar": "usynlig (common) · usynligt (neuter) · usynlige (pl./def.) · u- = negative prefix, synlig = visible"
+            }
+          ]
+        },
+        {
+          "id": "da-story-010-kejserens-nye-klaeder-s05",
+          "text": "Kejseren betalte dem meget guld og bad dem væve med det samme.",
+          "translation": "The emperor paid them a lot of gold and asked them to weave at once.",
+          "words": [
+            {
+              "word": "bad",
+              "definition": "asked",
+              "partOfSpeech": "verb",
+              "grammar": "bede (to ask/request) · bad (past) · har bedt (perfect) · bede nogen gøre noget = ask someone to do something (no \"at\")"
+            },
+            {
+              "word": "guld",
+              "definition": "gold",
+              "partOfSpeech": "noun, n.",
+              "grammar": "guld (uncountable) · guldet (the gold)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-010-kejserens-nye-klaeder-s06",
+          "text": "Ministrene så ingenting, men de turde ikke sige det.",
+          "translation": "The ministers saw nothing, but they didn't dare say it.",
+          "words": [
+            {
+              "word": "turde",
+              "definition": "dared",
+              "partOfSpeech": "verb",
+              "grammar": "turde (modal: dare) · tør (present) · turde (past) · har turdet (perfect)"
+            },
+            {
+              "word": "ingenting",
+              "definition": "nothing",
+              "partOfSpeech": "pron.",
+              "grammar": "ingenting (nothing, emphatic) · stronger/more colloquial than \"intet\""
+            }
+          ]
+        },
+        {
+          "id": "da-story-010-kejserens-nye-klaeder-s07",
+          "text": "Alle var bange for at blive kaldt dumme, så de roste det smukke stof.",
+          "translation": "Everyone was afraid of being called stupid, so they praised the beautiful fabric.",
+          "words": [
+            {
+              "word": "bange for at",
+              "definition": "afraid of",
+              "partOfSpeech": "phrase",
+              "grammar": "være bange for at + infinitive = to be afraid of (doing) something"
+            },
+            {
+              "word": "roste",
+              "definition": "praised",
+              "partOfSpeech": "verb",
+              "grammar": "rose (to praise) · roste (past) · har rost (perfect) · weak verb"
+            }
+          ]
+        },
+        {
+          "id": "da-story-010-kejserens-nye-klaeder-s08",
+          "text": "Kejseren gik gennem byen i sit nye, usynlige tøj.",
+          "translation": "The emperor walked through the town in his new, invisible clothes.",
+          "words": [
+            {
+              "word": "gennem",
+              "definition": "through",
+              "partOfSpeech": "prep.",
+              "grammar": "gennem (through) · governs accusative-like position · gå gennem byen = walk through the town"
+            }
+          ]
+        },
+        {
+          "id": "da-story-010-kejserens-nye-klaeder-s09",
+          "text": "Folket klappede og råbte, fordi ingen turde sige sandheden.",
+          "translation": "The people clapped and shouted, because no one dared tell the truth.",
+          "words": [
+            {
+              "word": "fordi",
+              "definition": "because",
+              "partOfSpeech": "conj.",
+              "grammar": "fordi (subordinating) · introduces a clause where the verb stays after the subject, but the clause can't stand alone"
+            },
+            {
+              "word": "sandheden",
+              "definition": "the truth",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en sandhed · sandheden (the truth) · sandheder (plural)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-010-kejserens-nye-klaeder-s10",
+          "text": "Pludselig råbte et lille barn: \"Men han har jo ikke noget tøj på!\"",
+          "translation": "Suddenly a small child shouted: \"But he isn't wearing any clothes at all!\"",
+          "words": [
+            {
+              "word": "jo",
+              "definition": "after all, obviously",
+              "partOfSpeech": "particle",
+              "grammar": "jo (modal particle, untranslatable alone) · adds emphasis to something the speaker sees as self-evident"
+            },
+            {
+              "word": "barn",
+              "definition": "child",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et barn · barnet (the child) · børn (plural, irregular) · børnene (the children)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-010-kejserens-nye-klaeder-s11",
+          "text": "Hviskingen bredte sig, og snart sagde alle det samme.",
+          "translation": "The whisper spread, and soon everyone said the same thing.",
+          "words": [
+            {
+              "word": "bredte sig",
+              "definition": "spread",
+              "partOfSpeech": "verb",
+              "grammar": "brede sig (to spread, reflexive) · breder sig/bredte sig/har bredt sig · weak verb + reflexive pronoun"
+            }
+          ]
+        },
+        {
+          "id": "da-story-010-kejserens-nye-klaeder-s12",
+          "text": "Kejseren blev rød i ansigtet, men han fortsatte processionen med rank ryg.",
+          "translation": "The emperor turned red in the face, but he continued the procession with a straight back.",
+          "words": [
+            {
+              "word": "fortsatte",
+              "definition": "continued",
+              "partOfSpeech": "verb",
+              "grammar": "fortsætte (to continue) · fortsatte (past) · har fortsat (perfect) · weak verb"
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "genreDetail": "eventyr",
+        "adaptedFrom": "Adapted from H.C. Andersen (1837), simplified for upper-A2 learners",
+        "grammarPoints": [
+          {
+            "rule": "Relative clause with subject \"som\"",
+            "exampleSentence": "...en kejser, som elskede smukt tøj...",
+            "explanation": "Som introduces a clause describing a noun, acting as the subject inside that clause. It's invariable — used for both people and things."
+          },
+          {
+            "rule": "Indirect (reported) speech with \"at\"",
+            "exampleSentence": "De sagde, at de kunne væve det smukkeste stof i verden.",
+            "explanation": "At introduces what someone said as a clause rather than a direct quote. The word order inside stays subject-verb, just like a normal statement."
+          },
+          {
+            "rule": "Bare infinitive after verbs of request: \"bede nogen gøre noget\"",
+            "exampleSentence": "Han bad dem væve med det samme.",
+            "explanation": "After bede (ask/request) + a person, the following verb is a bare infinitive with no at — unlike most other verb + infinitive constructions in Danish."
+          },
+          {
+            "rule": "Subordinating \"fordi\" (because)",
+            "exampleSentence": "Folket klappede, fordi ingen turde sige sandheden.",
+            "explanation": "Fordi introduces a subordinate clause, which cannot stand alone as a full sentence. Compare with the coordinating for from story 009, which can."
+          },
+          {
+            "rule": "The modal particle \"jo\"",
+            "exampleSentence": "Han har jo ikke noget tøj på!",
+            "explanation": "Jo has no direct English translation. It marks the statement as something the speaker believes is — or should be — obvious or already known to the listener."
+          },
+          {
+            "rule": "\"Blive\" + adjective, revisited",
+            "exampleSentence": "Kejseren blev rød i ansigtet.",
+            "explanation": "The blive + adjective pattern for change of state appears again here, reinforcing the construction first introduced with blev gift in story 008."
+          }
+        ]
+      }
+    },
+    {
+      "id": "da-story-011-holger-danske",
+      "title": "Holger Danske",
+      "level": "B1",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "da-story-011-holger-danske-s01",
+          "text": "Dybt under Kronborg Slot ligger en kæmpe kriger, som hedder Holger Danske.",
+          "translation": "Deep under Kronborg Castle lies a giant warrior, who is called Holger Danske.",
+          "words": [
+            {
+              "word": "kæmpe",
+              "definition": "giant",
+              "partOfSpeech": "noun, c. / adj.",
+              "grammar": "en kæmpe (a giant, noun) · kæmpe- (giant-, used as a prefix/adj.) · kæmpestor = gigantic"
+            },
+            {
+              "word": "kriger",
+              "definition": "warrior",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en kriger · krigeren (the warrior) · krigere (plural)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-011-holger-danske-s02",
+          "text": "Han har siddet der i mange hundrede år og sover tungt.",
+          "translation": "He has been sitting there for many hundred years and sleeps heavily.",
+          "words": [
+            {
+              "word": "har siddet",
+              "definition": "has sat / has been sitting",
+              "partOfSpeech": "verb",
+              "grammar": "sidde (to sit) · sad (past) · har siddet (perfect) · present perfect = action started in the past, continuing now"
+            }
+          ]
+        },
+        {
+          "id": "da-story-011-holger-danske-s03",
+          "text": "Hans skæg er vokset langt ned og har viklet sig om bordet foran ham.",
+          "translation": "His beard has grown long down and has wound itself around the table in front of him.",
+          "words": [
+            {
+              "word": "er vokset",
+              "definition": "has grown",
+              "partOfSpeech": "verb",
+              "grammar": "vokse (to grow) · voksede (past) · er vokset (perfect, takes \"er\" not \"har\") · motion/change-of-state verb"
+            },
+            {
+              "word": "skæg",
+              "definition": "beard",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et skæg · skægget (the beard) · skæg (plural, unchanged)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-011-holger-danske-s04",
+          "text": "Ifølge legenden vil Holger Danske vågne, hvis Danmark nogensinde er i stor fare.",
+          "translation": "According to the legend, Holger Danske will wake up if Denmark is ever in great danger.",
+          "words": [
+            {
+              "word": "ifølge",
+              "definition": "according to",
+              "partOfSpeech": "prep.",
+              "grammar": "ifølge + noun = according to · ifølge legenden = according to the legend"
+            },
+            {
+              "word": "hvis",
+              "definition": "if",
+              "partOfSpeech": "conj.",
+              "grammar": "hvis (conditional conjunction) · introduces a condition · followed by present tense for future possibility"
+            }
+          ]
+        },
+        {
+          "id": "da-story-011-holger-danske-s05",
+          "text": "Da han var ung, kæmpede han modigt for kongen og for landet.",
+          "translation": "When he was young, he fought bravely for the king and for the country.",
+          "words": [
+            {
+              "word": "kæmpede",
+              "definition": "fought",
+              "partOfSpeech": "verb",
+              "grammar": "kæmpe (to fight) · kæmpede (past) · har kæmpet (perfect) · weak verb"
+            },
+            {
+              "word": "modigt",
+              "definition": "bravely",
+              "partOfSpeech": "adv.",
+              "grammar": "modig (brave, adj.) · modigt (adverb/neuter form)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-011-holger-danske-s06",
+          "text": "Selvom han nu sover, holder han stadig sit sværd fast i hånden.",
+          "translation": "Even though he now sleeps, he still holds his sword firmly in his hand.",
+          "words": [
+            {
+              "word": "selvom",
+              "definition": "even though",
+              "partOfSpeech": "conj.",
+              "grammar": "selvom (subordinating, concessive) · admits one fact while contrasting with another"
+            },
+            {
+              "word": "sværd",
+              "definition": "sword",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et sværd · sværdet (the sword) · sværd (plural, unchanged)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-011-holger-danske-s07",
+          "text": "Mange børn har hørt historien om ham, når de besøgte slottet om sommeren.",
+          "translation": "Many children have heard the story about him, when they visited the castle in the summer.",
+          "words": [
+            {
+              "word": "når",
+              "definition": "when (repeated/general)",
+              "partOfSpeech": "conj.",
+              "grammar": "når (subordinating) · used for repeated or habitual events, in any tense — contrast with da for a single past event"
+            }
+          ]
+        },
+        {
+          "id": "da-story-011-holger-danske-s08",
+          "text": "Nogle siger, at man kan høre ham snorke dybt nede i kælderen.",
+          "translation": "Some say that you can hear him snore deep down in the cellar.",
+          "words": [
+            {
+              "word": "man",
+              "definition": "one, you (generic)",
+              "partOfSpeech": "pron.",
+              "grammar": "man (impersonal/generic subject pronoun) · used where English often says \"you\" or \"people\""
+            },
+            {
+              "word": "kælderen",
+              "definition": "the cellar",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en kælder · kælderen (the cellar) · kældre (plural)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-011-holger-danske-s09",
+          "text": "Under Anden Verdenskrig brugte den danske modstandsbevægelse hans navn som symbol på frihed.",
+          "translation": "During the Second World War, the Danish resistance movement used his name as a symbol of freedom.",
+          "words": [
+            {
+              "word": "modstandsbevægelse",
+              "definition": "resistance movement",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en modstandsbevægelse · modstandsbevægelsen (the resistance movement) · compound: modstand (resistance) + bevægelse (movement)"
+            },
+            {
+              "word": "frihed",
+              "definition": "freedom",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en frihed · friheden (the freedom)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-011-holger-danske-s10",
+          "text": "Statuen af Holger Danske, som man kan se i kælderen i dag, blev lavet af billedhuggeren H.P. Pedersen-Dan.",
+          "translation": "The statue of Holger Danske, which one can see in the cellar today, was made by the sculptor H.P. Pedersen-Dan.",
+          "words": [
+            {
+              "word": "som",
+              "definition": "which (object)",
+              "partOfSpeech": "pron.",
+              "grammar": "som (relative pronoun, here as object of \"se\") · can often be dropped in casual speech when used as object, but kept here"
+            },
+            {
+              "word": "blev lavet af",
+              "definition": "was made by",
+              "partOfSpeech": "verb phrase",
+              "grammar": "blive lavet af (passive: to be made by) · blive + past participle + af (agent) = standard Danish passive"
+            }
+          ]
+        },
+        {
+          "id": "da-story-011-holger-danske-s11",
+          "text": "Hvis du går ned ad de mørke trapper, kan du selv møde den sovende kæmpe.",
+          "translation": "If you go down the dark stairs, you can meet the sleeping giant yourself.",
+          "words": [
+            {
+              "word": "sovende",
+              "definition": "sleeping",
+              "partOfSpeech": "adj.",
+              "grammar": "sove (to sleep) → sovende (present participle/adjective) · -ende ending, like English -ing"
+            },
+            {
+              "word": "trapper",
+              "definition": "stairs",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en trappe · trappen (the stairs) · trapper (plural)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-011-holger-danske-s12",
+          "text": "Indtil da venter Holger Danske tålmodigt, klar til at forsvare Danmark igen.",
+          "translation": "Until then, Holger Danske waits patiently, ready to defend Danmark again.",
+          "words": [
+            {
+              "word": "tålmodigt",
+              "definition": "patiently",
+              "partOfSpeech": "adv.",
+              "grammar": "tålmodig (patient, adj.) · tålmodigt (adverb/neuter form)"
+            },
+            {
+              "word": "forsvare",
+              "definition": "defend",
+              "partOfSpeech": "verb",
+              "grammar": "forsvare (to defend) · forsvarer (present) · forsvarede (past) · har forsvaret (perfect)"
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "genreDetail": "folkesagn",
+        "adaptedFrom": "Danish national legend (Ogier the Dane), adapted for upper-A2/B1 learners",
+        "grammarPoints": [
+          {
+            "rule": "Conditional clauses with \"hvis\"",
+            "exampleSentence": "Holger Danske vil vågne, hvis Danmark nogensinde er i stor fare.",
+            "explanation": "Hvis introduces a condition. Danish typically uses present tense even when describing a future possibility — there's no separate future conditional form needed."
+          },
+          {
+            "rule": "Concessive clause with \"selvom\" (even though)",
+            "exampleSentence": "Selvom han nu sover, holder han stadig sit sværd fast.",
+            "explanation": "Selvom admits one fact while contrasting it with something unexpected. The subordinate clause can come first, with the main clause verb following directly after the comma."
+          },
+          {
+            "rule": "Present perfect for ongoing past-to-present states",
+            "exampleSentence": "Han har siddet der i mange hundrede år.",
+            "explanation": "Har/er + past participle describes something that started in the past and is still true now — distinct from simple past (sad), which would imply the sitting is finished."
+          },
+          {
+            "rule": "Passive voice: \"blive\" + past participle + \"af\"",
+            "exampleSentence": "Statuen blev lavet af billedhuggeren H.P. Pedersen-Dan.",
+            "explanation": "This is the standard way to form the passive in spoken/everyday Danish: blive + past participle, with af introducing who performed the action."
+          },
+          {
+            "rule": "\"Da\" vs. \"når\" for \"when\"",
+            "exampleSentence": "Da han var ung... / ...når de besøgte slottet om sommeren.",
+            "explanation": "Da is for a single, completed event in the past. Når is for repeated or habitual events (in any tense) and for present/future \"when\"."
+          },
+          {
+            "rule": "\"Ifølge\" + noun (according to)",
+            "exampleSentence": "Ifølge legenden vil Holger Danske vågne...",
+            "explanation": "Ifølge is a simple preposition for citing a source — legenden, eksperterne, avisen — followed directly by the noun, no extra connecting word needed."
+          }
+        ]
+      }
+    },
+    {
+      "id": "da-story-012-nattergalen",
+      "title": "Nattergalen",
+      "level": "B1",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "da-story-012-nattergalen-s01",
+          "text": "I Kina boede der engang en kejser, hvis palads var det smukkeste i hele verden.",
+          "translation": "In China there once lived an emperor, whose palace was the most beautiful in the whole world.",
+          "words": [
+            {
+              "word": "hvis",
+              "definition": "whose",
+              "partOfSpeech": "pron.",
+              "grammar": "hvis (possessive relative pronoun) · different word from hvis = \"if\" — context distinguishes them"
+            },
+            {
+              "word": "palads",
+              "definition": "palace",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et palads · paladset (the palace) · paladser (plural)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-012-nattergalen-s02",
+          "text": "I skoven uden for paladset boede en lille, grå nattergal, som sang så smukt, at folk fra hele landet kom for at lytte.",
+          "translation": "In the forest outside the palace lived a small, grey nightingale, which sang so beautifully that people from the whole country came to listen.",
+          "words": [
+            {
+              "word": "nattergal",
+              "definition": "nightingale",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en nattergal · nattergalen (the nightingale) · nattergale (plural)"
+            },
+            {
+              "word": "så...at",
+              "definition": "so...that",
+              "partOfSpeech": "conj. pair",
+              "grammar": "så + adjective/adverb...at + clause = result construction, expressing degree and consequence"
+            }
+          ]
+        },
+        {
+          "id": "da-story-012-nattergalen-s03",
+          "text": "Da kejseren endelig hørte fuglens sang, blev han dybt bevæget og bad om, at den skulle bo ved hoffet.",
+          "translation": "When the emperor finally heard the bird's song, he was deeply moved and asked that it should live at the court.",
+          "words": [
+            {
+              "word": "fuglens",
+              "definition": "the bird's",
+              "partOfSpeech": "noun, c. (genitive)",
+              "grammar": "en fugl · fuglen (the bird) · fuglens (the bird's, genitive) · -s added directly to the definite form"
+            },
+            {
+              "word": "bevæget",
+              "definition": "moved (emotionally)",
+              "partOfSpeech": "adj.",
+              "grammar": "bevæget (common/neuter, same form) · past participle of bevæge, used as adjective · dybt bevæget = deeply moved"
+            }
+          ]
+        },
+        {
+          "id": "da-story-012-nattergalen-s04",
+          "text": "En dag fik kejseren en kunstig nattergal i gave, lavet af guld og dækket med ædelstene.",
+          "translation": "One day the emperor received an artificial nightingale as a gift, made of gold and covered with precious stones.",
+          "words": [
+            {
+              "word": "kunstig",
+              "definition": "artificial",
+              "partOfSpeech": "adj.",
+              "grammar": "kunstig (common) · kunstigt (neuter) · kunstige (pl./def.) · opposite of \"ægte\" (real/genuine)"
+            },
+            {
+              "word": "ædelstene",
+              "definition": "precious stones",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en ædelsten · ædelstenen (the precious stone) · ædelstene (plural) · compound: ædel (noble) + sten (stone)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-012-nattergalen-s05",
+          "text": "Den mekaniske fugl kunne kun synge én sang, men hoffet foretrak den, fordi den glimtede så flot.",
+          "translation": "The mechanical bird could only sing one song, but the court preferred it, because it glittered so finely.",
+          "words": [
+            {
+              "word": "foretrak",
+              "definition": "preferred",
+              "partOfSpeech": "verb",
+              "grammar": "foretrække (to prefer) · foretrak (past) · har foretrukket (perfect) · strong/irregular verb, takes direct object"
+            },
+            {
+              "word": "glimtede",
+              "definition": "glittered",
+              "partOfSpeech": "verb",
+              "grammar": "glimte (to glitter/sparkle) · glimtede (past) · har glimtet (perfect) · weak verb"
+            }
+          ]
+        },
+        {
+          "id": "da-story-012-nattergalen-s06",
+          "text": "Imens forsvandt den rigtige nattergal tilbage til skoven, ked af at være glemt.",
+          "translation": "Meanwhile, the real nightingale disappeared back to the forest, sad about being forgotten.",
+          "words": [
+            {
+              "word": "imens",
+              "definition": "meanwhile",
+              "partOfSpeech": "conj./adv.",
+              "grammar": "imens (while/meanwhile) · can open a sentence as a time connector between two parallel events"
+            },
+            {
+              "word": "forsvandt",
+              "definition": "disappeared",
+              "partOfSpeech": "verb",
+              "grammar": "forsvinde (to disappear) · forsvandt (past) · er forsvundet (perfect) · strong verb"
+            }
+          ]
+        },
+        {
+          "id": "da-story-012-nattergalen-s07",
+          "text": "Mange år senere blev kejseren alvorligt syg, og Døden satte sig på hans bryst.",
+          "translation": "Many years later the emperor became seriously ill, and Death sat down on his chest.",
+          "words": [
+            {
+              "word": "alvorligt",
+              "definition": "seriously",
+              "partOfSpeech": "adv.",
+              "grammar": "alvorlig (serious, adj.) · alvorligt (adverb/neuter form)"
+            },
+            {
+              "word": "bryst",
+              "definition": "chest",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et bryst · brystet (the chest) · bryster (plural)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-012-nattergalen-s08",
+          "text": "Den kunstige fugl kunne ikke synge, for ingen havde trukket dens fjeder op.",
+          "translation": "The artificial bird could not sing, because no one had wound up its spring.",
+          "words": [
+            {
+              "word": "havde trukket",
+              "definition": "had wound/pulled",
+              "partOfSpeech": "verb",
+              "grammar": "trække op (to wind up) · trak op (past) · havde trukket op (pluperfect) · action completed before another past moment"
+            },
+            {
+              "word": "dens",
+              "definition": "its",
+              "partOfSpeech": "pron.",
+              "grammar": "dens (possessive for en-words/common gender, non-personal) · dets (for et-words)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-012-nattergalen-s09",
+          "text": "Pludselig hørtes en sang udenfor vinduet: den rigtige nattergal var vendt tilbage.",
+          "translation": "Suddenly a song was heard outside the window: the real nightingale had returned.",
+          "words": [
+            {
+              "word": "hørtes",
+              "definition": "was heard",
+              "partOfSpeech": "verb",
+              "grammar": "høre (to hear) · hørtes (passive -s form, past) · alternative to \"blev hørt\""
+            },
+            {
+              "word": "var vendt tilbage",
+              "definition": "had returned",
+              "partOfSpeech": "verb",
+              "grammar": "vende tilbage (to return) · vendte tilbage (past) · var vendt tilbage (pluperfect, takes \"var\" not \"havde\")"
+            }
+          ]
+        },
+        {
+          "id": "da-story-012-nattergalen-s10",
+          "text": "Den sang om kirkegårde, hvor man kan hvile, og om livet, som er værd at leve.",
+          "translation": "It sang about churchyards, where one can rest, and about life, which is worth living.",
+          "words": [
+            {
+              "word": "hvor",
+              "definition": "where",
+              "partOfSpeech": "adv./conj.",
+              "grammar": "hvor (relative adverb, place) · introduces a clause describing a location"
+            },
+            {
+              "word": "værd",
+              "definition": "worth",
+              "partOfSpeech": "adj.",
+              "grammar": "værd (invariable) · være værd at + infinitive = to be worth doing"
+            }
+          ]
+        },
+        {
+          "id": "da-story-012-nattergalen-s11",
+          "text": "Døden blev bevæget af sangen og forsvandt langsomt ud i den kolde nat.",
+          "translation": "Death was moved by the song and slowly disappeared out into the cold night.",
+          "words": [
+            {
+              "word": "kolde",
+              "definition": "cold",
+              "partOfSpeech": "adj.",
+              "grammar": "kold (common) · koldt (neuter) · kolde (pl./def.)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-012-nattergalen-s12",
+          "text": "Kejseren blev rask igen, og fra da af bad han altid nattergalen om at blive hos ham som ven, ikke som fange.",
+          "translation": "The emperor became well again, and from then on he always asked the nightingale to stay with him as a friend, not as a prisoner.",
+          "words": [
+            {
+              "word": "fra da af",
+              "definition": "from then on",
+              "partOfSpeech": "phrase",
+              "grammar": "fra da af (fixed time expression) · marks a lasting change starting at a specific past moment"
+            },
+            {
+              "word": "fange",
+              "definition": "prisoner",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en fange · fangen (the prisoner) · fanger (plural)"
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "genreDetail": "eventyr",
+        "adaptedFrom": "Adapted from H.C. Andersen (1843), simplified for B1 learners",
+        "grammarPoints": [
+          {
+            "rule": "Possessive relative pronoun \"hvis\" (whose)",
+            "exampleSentence": "...en kejser, hvis palads var det smukkeste i hele verden.",
+            "explanation": "Hvis as a relative pronoun means \"whose\" and links a noun back to something it possesses. It looks identical to the conditional hvis (\"if\") but is always followed by a noun, not a full new clause."
+          },
+          {
+            "rule": "Correlative result clauses: \"så...at\"",
+            "exampleSentence": "...en nattergal, som sang så smukt, at folk fra hele landet kom for at lytte.",
+            "explanation": "Så + adjective/adverb sets up a degree, and at + clause delivers the consequence — together they express \"so [X] that [Y happened]\"."
+          },
+          {
+            "rule": "Pluperfect (past-before-past)",
+            "exampleSentence": "Ingen havde trukket dens fjeder op. / Den rigtige nattergal var vendt tilbage.",
+            "explanation": "Har/havde or er/var (depending on the verb) + past participle marks an action completed before another point already in the past — one step further back than simple past."
+          },
+          {
+            "rule": "\"Blive\" + adjective/participle, fully extended",
+            "exampleSentence": "Døden blev bevæget af sangen.",
+            "explanation": "This set's recurring blive pattern now combines with af to show passive cause: \"became moved by\" — emotional change of state triggered by something external."
+          },
+          {
+            "rule": "Nested relative clauses",
+            "exampleSentence": "Den sang om kirkegårde, hvor man kan hvile, og om livet, som er værd at leve.",
+            "explanation": "Two separate relative clauses, each attached to its own noun (kirkegårde / livet), can sit side by side in one sentence — common in more literary Danish."
+          },
+          {
+            "rule": "Fixed time expression \"fra da af\"",
+            "exampleSentence": "Fra da af bad han altid nattergalen om at blive hos ham.",
+            "explanation": "This phrase means \"from that point onward\" and is used to mark a lasting change after a turning-point moment in a story."
+          }
+        ]
+      }
+    },
+    {
+      "id": "da-story-013-den-lille-havfrue",
+      "title": "Den lille havfrue",
+      "level": "B1",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "da-story-013-den-lille-havfrue-s01",
+          "text": "Dybt under havet, hvor vandet er blåere end himlen, lå havkongens smukke palads.",
+          "translation": "Deep under the sea, where the water is bluer than the sky, lay the sea king's beautiful palace.",
+          "words": [
+            {
+              "word": "blåere",
+              "definition": "bluer",
+              "partOfSpeech": "adj.",
+              "grammar": "blå (common/neuter, same form) · blåere (comparative) · blåest/blåeste (superlative) · blåere end = bluer than"
+            },
+            {
+              "word": "havkongens",
+              "definition": "the sea king's",
+              "partOfSpeech": "noun, c. (genitive)",
+              "grammar": "en havkonge · havkongen (the sea king) · havkongens (genitive: the sea king's) · compound: hav (sea) + konge (king)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-013-den-lille-havfrue-s02",
+          "text": "Hans yngste datter, den lille havfrue, drømte altid om verden over havets overflade.",
+          "translation": "His youngest daughter, the little mermaid, always dreamed about the world above the sea's surface.",
+          "words": [
+            {
+              "word": "havfrue",
+              "definition": "mermaid",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en havfrue · havfruen (the mermaid) · havfruer (plural) · compound: hav (sea) + frue (lady)"
+            },
+            {
+              "word": "overflade",
+              "definition": "surface",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en overflade · overfladen (the surface) · compound: over (above) + flade (flat surface)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-013-den-lille-havfrue-s03",
+          "text": "På sin femtende fødselsdag fik hun endelig lov til at svømme op og se solen for første gang.",
+          "translation": "On her fifteenth birthday she was finally allowed to swim up and see the sun for the first time.",
+          "words": [
+            {
+              "word": "fik lov til at",
+              "definition": "was allowed to",
+              "partOfSpeech": "phrase",
+              "grammar": "få lov til at + infinitive = to be allowed/given permission to do something"
+            },
+            {
+              "word": "solen",
+              "definition": "the sun",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en sol · solen (the sun)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-013-den-lille-havfrue-s04",
+          "text": "Hun så et skib, hvorpå en ung prins dansede og lo sammen med sine venner.",
+          "translation": "She saw a ship, on which a young prince danced and laughed together with his friends.",
+          "words": [
+            {
+              "word": "hvorpå",
+              "definition": "on which",
+              "partOfSpeech": "adv.",
+              "grammar": "hvorpå = hvor + på, formal relative adverb · written-register alternative to \"som ... på\""
+            },
+            {
+              "word": "sine",
+              "definition": "his (own)",
+              "partOfSpeech": "pron.",
+              "grammar": "sin/sit/sine (reflexive possessive, plural form) · refers back to the subject (prinsen) — \"his own friends\""
+            }
+          ]
+        },
+        {
+          "id": "da-story-013-den-lille-havfrue-s05",
+          "text": "Pludselig brød en voldsom storm løs, og skibet sank ned i de mørke bølger.",
+          "translation": "Suddenly a violent storm broke loose, and the ship sank down into the dark waves.",
+          "words": [
+            {
+              "word": "storm",
+              "definition": "storm",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en storm · stormen (the storm) · storme (plural)"
+            },
+            {
+              "word": "sank",
+              "definition": "sank",
+              "partOfSpeech": "verb",
+              "grammar": "synke (to sink) · sank (past) · er sunket (perfect) · strong verb"
+            }
+          ]
+        },
+        {
+          "id": "da-story-013-den-lille-havfrue-s06",
+          "text": "Den lille havfrue reddede prinsen og bar ham forsigtigt op på en sandstrand.",
+          "translation": "The little mermaid saved the prince and carried him carefully up onto a sandy beach.",
+          "words": [
+            {
+              "word": "bar",
+              "definition": "carried",
+              "partOfSpeech": "verb",
+              "grammar": "bære (to carry) · bar (past) · har båret (perfect) · strong verb"
+            },
+            {
+              "word": "forsigtigt",
+              "definition": "carefully",
+              "partOfSpeech": "adv.",
+              "grammar": "forsigtig (careful, adj.) · forsigtigt (adverb/neuter form)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-013-den-lille-havfrue-s07",
+          "text": "Fra det øjeblik kunne hun ikke holde op med at tænke på ham, selvom han aldrig fik hendes ansigt at se.",
+          "translation": "From that moment she couldn't stop thinking about him, even though he never got to see her face.",
+          "words": [
+            {
+              "word": "holde op med at",
+              "definition": "stop (doing)",
+              "partOfSpeech": "phrase",
+              "grammar": "holde op med at + infinitive = to stop doing something · fixed phrase, always with \"med\""
+            },
+            {
+              "word": "øjeblik",
+              "definition": "moment",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et øjeblik · øjeblikket (the moment) · compound: øje (eye) + blik (glance) — literally \"the blink of an eye\""
+            }
+          ]
+        },
+        {
+          "id": "da-story-013-den-lille-havfrue-s08",
+          "text": "For at blive menneske opsøgte hun havheksen, som boede mellem mørke, klæbrige tangskove.",
+          "translation": "To become human she sought out the sea witch, who lived among dark, sticky kelp forests.",
+          "words": [
+            {
+              "word": "for at",
+              "definition": "in order to",
+              "partOfSpeech": "conj.",
+              "grammar": "for at + infinitive = purpose clause (\"in order to\") · stronger than plain \"at\", which has no purpose meaning"
+            },
+            {
+              "word": "opsøgte",
+              "definition": "sought out",
+              "partOfSpeech": "verb",
+              "grammar": "opsøge (to seek out, visit deliberately) · opsøgte (past) · har opsøgt (perfect) · weak verb"
+            }
+          ]
+        },
+        {
+          "id": "da-story-013-den-lille-havfrue-s09",
+          "text": "Heksen tilbød hende et par ben, men kun hvis hun gav afkald på sin smukke stemme.",
+          "translation": "The witch offered her a pair of legs, but only if she gave up her beautiful voice.",
+          "words": [
+            {
+              "word": "ben",
+              "definition": "legs",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et ben · benet (the leg) · ben (plural, unchanged)"
+            },
+            {
+              "word": "stemme",
+              "definition": "voice",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en stemme · stemmen (the voice) · stemmer (plural)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-013-den-lille-havfrue-s10",
+          "text": "Hvert skridt, hun tog på land, føltes, som om hun trådte på skarpe knive.",
+          "translation": "Every step she took on land felt as if she stepped on sharp knives.",
+          "words": [
+            {
+              "word": "som om",
+              "definition": "as if",
+              "partOfSpeech": "conj.",
+              "grammar": "som om + clause = as if, introduces a hypothetical/comparative clause describing how something feels or seems"
+            },
+            {
+              "word": "skridt",
+              "definition": "step",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et skridt · skridtet (the step) · skridt (plural, unchanged)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-013-den-lille-havfrue-s11",
+          "text": "Selvom hun led i stilhed, kunne hun aldrig fortælle prinsen, at det var hende, der havde reddet ham.",
+          "translation": "Even though she suffered in silence, she could never tell the prince that it was she who had saved him.",
+          "words": [
+            {
+              "word": "led",
+              "definition": "suffered",
+              "partOfSpeech": "verb",
+              "grammar": "lide (to suffer) · led (past) · har lidt (perfect) · strong verb"
+            },
+            {
+              "word": "det var hende, der",
+              "definition": "it was she who",
+              "partOfSpeech": "phrase",
+              "grammar": "cleft construction: det var X, der/som ... = emphasizes X as the one who did something"
+            }
+          ]
+        },
+        {
+          "id": "da-story-013-den-lille-havfrue-s12",
+          "text": "Til sidst valgte hun at ofre sig selv frem for at skade den mand, hun elskede så højt.",
+          "translation": "In the end she chose to sacrifice herself rather than harm the man she loved so dearly.",
+          "words": [
+            {
+              "word": "frem for at",
+              "definition": "rather than",
+              "partOfSpeech": "conj.",
+              "grammar": "frem for at + infinitive = rather than (doing something), contrasts two possible actions"
+            },
+            {
+              "word": "ofre sig selv",
+              "definition": "sacrifice herself",
+              "partOfSpeech": "verb phrase",
+              "grammar": "ofre sig selv (to sacrifice oneself, reflexive) · ofrer/ofrede/har ofret + sig selv"
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "genreDetail": "eventyr",
+        "adaptedFrom": "Adapted excerpt from H.C. Andersen (1837), simplified for B1 learners",
+        "grammarPoints": [
+          {
+            "rule": "Comparative adjectives with -ere",
+            "exampleSentence": "...hvor vandet er blåere end himlen...",
+            "explanation": "Most Danish adjectives form the comparative by adding -ere (blå → blåere), paired with end (\"than\") to complete the comparison."
+          },
+          {
+            "rule": "Formal relative adverbs: \"hvorpå\", \"hvori\", etc.",
+            "exampleSentence": "Hun så et skib, hvorpå en ung prins dansede.",
+            "explanation": "Written Danish often fuses hvor + a preposition into one word (hvorpå = on which, hvori = in which). Spoken Danish usually prefers som ... på instead."
+          },
+          {
+            "rule": "Purpose clauses with \"for at\"",
+            "exampleSentence": "For at blive menneske opsøgte hun havheksen.",
+            "explanation": "For at + infinitive expresses purpose (\"in order to\"), distinguishing it from plain at, which has no purpose meaning on its own."
+          },
+          {
+            "rule": "\"Som om\" + hypothetical clause (as if)",
+            "exampleSentence": "Hvert skridt føltes, som om hun trådte på skarpe knive.",
+            "explanation": "Som om introduces a comparison to something not literally true — describing how something feels or seems, rather than what actually happened."
+          },
+          {
+            "rule": "Cleft sentences for emphasis: \"det var X, der/som...\"",
+            "exampleSentence": "Det var hende, der havde reddet ham.",
+            "explanation": "This construction splits a sentence to spotlight one element (hende) as the answer to an implied question — \"who saved him? It was she.\""
+          },
+          {
+            "rule": "\"Frem for at\" (rather than)",
+            "exampleSentence": "Hun valgte at ofre sig selv frem for at skade den mand, hun elskede.",
+            "explanation": "Frem for at + infinitive sets up a contrast between two possible actions, with the first one chosen over the second."
+          }
+        ]
+      }
     }
   ]
 }

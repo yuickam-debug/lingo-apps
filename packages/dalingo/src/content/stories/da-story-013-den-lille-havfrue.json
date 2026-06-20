@@ -1,0 +1,273 @@
+{
+  "id": "da-story-013-den-lille-havfrue",
+  "title": "Den lille havfrue",
+  "level": "B1",
+  "genre": "narrative",
+  "source": "story",
+  "sentences": [
+    {
+      "id": "da-story-013-den-lille-havfrue-s01",
+      "text": "Dybt under havet, hvor vandet er blåere end himlen, lå havkongens smukke palads.",
+      "translation": "Deep under the sea, where the water is bluer than the sky, lay the sea king's beautiful palace.",
+      "words": [
+        {
+          "word": "blåere",
+          "definition": "bluer",
+          "partOfSpeech": "adj.",
+          "grammar": "blå (common/neuter, same form) · blåere (comparative) · blåest/blåeste (superlative) · blåere end = bluer than"
+        },
+        {
+          "word": "havkongens",
+          "definition": "the sea king's",
+          "partOfSpeech": "noun, c. (genitive)",
+          "grammar": "en havkonge · havkongen (the sea king) · havkongens (genitive: the sea king's) · compound: hav (sea) + konge (king)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-013-den-lille-havfrue-s02",
+      "text": "Hans yngste datter, den lille havfrue, drømte altid om verden over havets overflade.",
+      "translation": "His youngest daughter, the little mermaid, always dreamed about the world above the sea's surface.",
+      "words": [
+        {
+          "word": "havfrue",
+          "definition": "mermaid",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en havfrue · havfruen (the mermaid) · havfruer (plural) · compound: hav (sea) + frue (lady)"
+        },
+        {
+          "word": "overflade",
+          "definition": "surface",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en overflade · overfladen (the surface) · compound: over (above) + flade (flat surface)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-013-den-lille-havfrue-s03",
+      "text": "På sin femtende fødselsdag fik hun endelig lov til at svømme op og se solen for første gang.",
+      "translation": "On her fifteenth birthday she was finally allowed to swim up and see the sun for the first time.",
+      "words": [
+        {
+          "word": "fik lov til at",
+          "definition": "was allowed to",
+          "partOfSpeech": "phrase",
+          "grammar": "få lov til at + infinitive = to be allowed/given permission to do something"
+        },
+        {
+          "word": "solen",
+          "definition": "the sun",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en sol · solen (the sun)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-013-den-lille-havfrue-s04",
+      "text": "Hun så et skib, hvorpå en ung prins dansede og lo sammen med sine venner.",
+      "translation": "She saw a ship, on which a young prince danced and laughed together with his friends.",
+      "words": [
+        {
+          "word": "hvorpå",
+          "definition": "on which",
+          "partOfSpeech": "adv.",
+          "grammar": "hvorpå = hvor + på, formal relative adverb · written-register alternative to \"som ... på\""
+        },
+        {
+          "word": "sine",
+          "definition": "his (own)",
+          "partOfSpeech": "pron.",
+          "grammar": "sin/sit/sine (reflexive possessive, plural form) · refers back to the subject (prinsen) — \"his own friends\""
+        }
+      ]
+    },
+    {
+      "id": "da-story-013-den-lille-havfrue-s05",
+      "text": "Pludselig brød en voldsom storm løs, og skibet sank ned i de mørke bølger.",
+      "translation": "Suddenly a violent storm broke loose, and the ship sank down into the dark waves.",
+      "words": [
+        {
+          "word": "storm",
+          "definition": "storm",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en storm · stormen (the storm) · storme (plural)"
+        },
+        {
+          "word": "sank",
+          "definition": "sank",
+          "partOfSpeech": "verb",
+          "grammar": "synke (to sink) · sank (past) · er sunket (perfect) · strong verb"
+        }
+      ]
+    },
+    {
+      "id": "da-story-013-den-lille-havfrue-s06",
+      "text": "Den lille havfrue reddede prinsen og bar ham forsigtigt op på en sandstrand.",
+      "translation": "The little mermaid saved the prince and carried him carefully up onto a sandy beach.",
+      "words": [
+        {
+          "word": "bar",
+          "definition": "carried",
+          "partOfSpeech": "verb",
+          "grammar": "bære (to carry) · bar (past) · har båret (perfect) · strong verb"
+        },
+        {
+          "word": "forsigtigt",
+          "definition": "carefully",
+          "partOfSpeech": "adv.",
+          "grammar": "forsigtig (careful, adj.) · forsigtigt (adverb/neuter form)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-013-den-lille-havfrue-s07",
+      "text": "Fra det øjeblik kunne hun ikke holde op med at tænke på ham, selvom han aldrig fik hendes ansigt at se.",
+      "translation": "From that moment she couldn't stop thinking about him, even though he never got to see her face.",
+      "words": [
+        {
+          "word": "holde op med at",
+          "definition": "stop (doing)",
+          "partOfSpeech": "phrase",
+          "grammar": "holde op med at + infinitive = to stop doing something · fixed phrase, always with \"med\""
+        },
+        {
+          "word": "øjeblik",
+          "definition": "moment",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et øjeblik · øjeblikket (the moment) · compound: øje (eye) + blik (glance) — literally \"the blink of an eye\""
+        }
+      ]
+    },
+    {
+      "id": "da-story-013-den-lille-havfrue-s08",
+      "text": "For at blive menneske opsøgte hun havheksen, som boede mellem mørke, klæbrige tangskove.",
+      "translation": "To become human she sought out the sea witch, who lived among dark, sticky kelp forests.",
+      "words": [
+        {
+          "word": "for at",
+          "definition": "in order to",
+          "partOfSpeech": "conj.",
+          "grammar": "for at + infinitive = purpose clause (\"in order to\") · stronger than plain \"at\", which has no purpose meaning"
+        },
+        {
+          "word": "opsøgte",
+          "definition": "sought out",
+          "partOfSpeech": "verb",
+          "grammar": "opsøge (to seek out, visit deliberately) · opsøgte (past) · har opsøgt (perfect) · weak verb"
+        }
+      ]
+    },
+    {
+      "id": "da-story-013-den-lille-havfrue-s09",
+      "text": "Heksen tilbød hende et par ben, men kun hvis hun gav afkald på sin smukke stemme.",
+      "translation": "The witch offered her a pair of legs, but only if she gave up her beautiful voice.",
+      "words": [
+        {
+          "word": "ben",
+          "definition": "legs",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et ben · benet (the leg) · ben (plural, unchanged)"
+        },
+        {
+          "word": "stemme",
+          "definition": "voice",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en stemme · stemmen (the voice) · stemmer (plural)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-013-den-lille-havfrue-s10",
+      "text": "Hvert skridt, hun tog på land, føltes, som om hun trådte på skarpe knive.",
+      "translation": "Every step she took on land felt as if she stepped on sharp knives.",
+      "words": [
+        {
+          "word": "som om",
+          "definition": "as if",
+          "partOfSpeech": "conj.",
+          "grammar": "som om + clause = as if, introduces a hypothetical/comparative clause describing how something feels or seems"
+        },
+        {
+          "word": "skridt",
+          "definition": "step",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et skridt · skridtet (the step) · skridt (plural, unchanged)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-013-den-lille-havfrue-s11",
+      "text": "Selvom hun led i stilhed, kunne hun aldrig fortælle prinsen, at det var hende, der havde reddet ham.",
+      "translation": "Even though she suffered in silence, she could never tell the prince that it was she who had saved him.",
+      "words": [
+        {
+          "word": "led",
+          "definition": "suffered",
+          "partOfSpeech": "verb",
+          "grammar": "lide (to suffer) · led (past) · har lidt (perfect) · strong verb"
+        },
+        {
+          "word": "det var hende, der",
+          "definition": "it was she who",
+          "partOfSpeech": "phrase",
+          "grammar": "cleft construction: det var X, der/som ... = emphasizes X as the one who did something"
+        }
+      ]
+    },
+    {
+      "id": "da-story-013-den-lille-havfrue-s12",
+      "text": "Til sidst valgte hun at ofre sig selv frem for at skade den mand, hun elskede så højt.",
+      "translation": "In the end she chose to sacrifice herself rather than harm the man she loved so dearly.",
+      "words": [
+        {
+          "word": "frem for at",
+          "definition": "rather than",
+          "partOfSpeech": "conj.",
+          "grammar": "frem for at + infinitive = rather than (doing something), contrasts two possible actions"
+        },
+        {
+          "word": "ofre sig selv",
+          "definition": "sacrifice herself",
+          "partOfSpeech": "verb phrase",
+          "grammar": "ofre sig selv (to sacrifice oneself, reflexive) · ofrer/ofrede/har ofret + sig selv"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "genreDetail": "eventyr",
+    "adaptedFrom": "Adapted excerpt from H.C. Andersen (1837), simplified for B1 learners",
+    "grammarPoints": [
+      {
+        "rule": "Comparative adjectives with -ere",
+        "exampleSentence": "...hvor vandet er blåere end himlen...",
+        "explanation": "Most Danish adjectives form the comparative by adding -ere (blå → blåere), paired with end (\"than\") to complete the comparison."
+      },
+      {
+        "rule": "Formal relative adverbs: \"hvorpå\", \"hvori\", etc.",
+        "exampleSentence": "Hun så et skib, hvorpå en ung prins dansede.",
+        "explanation": "Written Danish often fuses hvor + a preposition into one word (hvorpå = on which, hvori = in which). Spoken Danish usually prefers som ... på instead."
+      },
+      {
+        "rule": "Purpose clauses with \"for at\"",
+        "exampleSentence": "For at blive menneske opsøgte hun havheksen.",
+        "explanation": "For at + infinitive expresses purpose (\"in order to\"), distinguishing it from plain at, which has no purpose meaning on its own."
+      },
+      {
+        "rule": "\"Som om\" + hypothetical clause (as if)",
+        "exampleSentence": "Hvert skridt føltes, som om hun trådte på skarpe knive.",
+        "explanation": "Som om introduces a comparison to something not literally true — describing how something feels or seems, rather than what actually happened."
+      },
+      {
+        "rule": "Cleft sentences for emphasis: \"det var X, der/som...\"",
+        "exampleSentence": "Det var hende, der havde reddet ham.",
+        "explanation": "This construction splits a sentence to spotlight one element (hende) as the answer to an implied question — \"who saved him? It was she.\""
+      },
+      {
+        "rule": "\"Frem for at\" (rather than)",
+        "exampleSentence": "Hun valgte at ofre sig selv frem for at skade den mand, hun elskede.",
+        "explanation": "Frem for at + infinitive sets up a contrast between two possible actions, with the first one chosen over the second."
+      }
+    ]
+  }
+}

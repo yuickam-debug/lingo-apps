@@ -1,0 +1,267 @@
+{
+  "id": "da-story-009-klods-hans",
+  "title": "Klods-Hans",
+  "level": "A2",
+  "genre": "narrative",
+  "source": "story",
+  "sentences": [
+    {
+      "id": "da-story-009-klods-hans-s01",
+      "text": "Der boede engang tre brødre på en gård.",
+      "translation": "Once there lived three brothers on a farm.",
+      "words": [
+        {
+          "word": "boede",
+          "definition": "lived",
+          "partOfSpeech": "verb",
+          "grammar": "bo (to live, reside) · boede (past) · har boet (perfect) · weak verb"
+        },
+        {
+          "word": "gård",
+          "definition": "farm",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en gård · gården (the farm) · gårde (plural) · gårdene (the farms)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-009-klods-hans-s02",
+      "text": "De to ældste brødre var meget kloge, men den yngste hed Klods-Hans.",
+      "translation": "The two oldest brothers were very clever, but the youngest was called Klods-Hans.",
+      "words": [
+        {
+          "word": "kloge",
+          "definition": "clever",
+          "partOfSpeech": "adj.",
+          "grammar": "klog (common) · klogt (neuter) · kloge (pl./def.) · superlative: klogest/klogeste"
+        },
+        {
+          "word": "hed",
+          "definition": "was called",
+          "partOfSpeech": "verb",
+          "grammar": "hedde (to be called/named) · hed (past) · har heddet (perfect) · irregular verb"
+        }
+      ]
+    },
+    {
+      "id": "da-story-009-klods-hans-s03",
+      "text": "Kongen havde en datter, og hun ville gerne giftes med en klog mand.",
+      "translation": "The king had a daughter, and she wanted to marry a clever man.",
+      "words": [
+        {
+          "word": "kongen",
+          "definition": "the king",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en konge · kongen (the king) · konger (plural)"
+        },
+        {
+          "word": "datter",
+          "definition": "daughter",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en datter · datteren (the daughter) · døtre (plural)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-009-klods-hans-s04",
+      "text": "De to kloge brødre red til slottet på flotte heste.",
+      "translation": "The two clever brothers rode to the castle on fine horses.",
+      "words": [
+        {
+          "word": "red",
+          "definition": "rode",
+          "partOfSpeech": "verb",
+          "grammar": "ride (to ride) · red (past) · har redet (perfect) · strong verb"
+        },
+        {
+          "word": "flotte",
+          "definition": "fine, nice",
+          "partOfSpeech": "adj.",
+          "grammar": "flot (common) · flot (neuter, irregular - no -t added) · flotte (pl./def.)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-009-klods-hans-s05",
+      "text": "Klods-Hans ville også af sted, så han satte sig på en gedebuk.",
+      "translation": "Klods-Hans also wanted to go, so he sat himself on a billy goat.",
+      "words": [
+        {
+          "word": "så",
+          "definition": "so, therefore",
+          "partOfSpeech": "conj.",
+          "grammar": "så (result conjunction) · coordinating, like \"og\"/\"men\" · normal word order continues after it"
+        },
+        {
+          "word": "satte sig",
+          "definition": "sat himself",
+          "partOfSpeech": "verb",
+          "grammar": "sætte sig (to sit down, reflexive) · satte (past) · har sat sig (perfect) · weak verb + reflexive pronoun"
+        }
+      ]
+    },
+    {
+      "id": "da-story-009-klods-hans-s06",
+      "text": "På vejen fandt han en død krage, en gammel træsko og noget mudder.",
+      "translation": "On the way he found a dead crow, an old wooden shoe, and some mud.",
+      "words": [
+        {
+          "word": "krage",
+          "definition": "crow",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en krage · kragen (the crow) · krager (plural)"
+        },
+        {
+          "word": "mudder",
+          "definition": "mud",
+          "partOfSpeech": "noun, n.",
+          "grammar": "mudder (uncountable, no plural) · mudderet (the mud)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-009-klods-hans-s07",
+      "text": "Han puttede alting i lommen, for det kunne måske bruges.",
+      "translation": "He put everything in his pocket, because it could perhaps be used.",
+      "words": [
+        {
+          "word": "for",
+          "definition": "because, for",
+          "partOfSpeech": "conj.",
+          "grammar": "for (causal, coordinating) · comma before it · followed by normal (not V2-inverted) word order"
+        },
+        {
+          "word": "bruges",
+          "definition": "be used",
+          "partOfSpeech": "verb",
+          "grammar": "bruge (to use) · bruges (passive -s form, present) · can be used"
+        }
+      ]
+    },
+    {
+      "id": "da-story-009-klods-hans-s08",
+      "text": "Da brødrene kom til prinsessen, kunne de ikke svare på hendes spørgsmål.",
+      "translation": "When the brothers arrived at the princess, they couldn't answer her questions.",
+      "words": [
+        {
+          "word": "da",
+          "definition": "when (past)",
+          "partOfSpeech": "conj.",
+          "grammar": "da (subordinating, only for past-time \"when\") · contrast with når (present/future \"when\")"
+        },
+        {
+          "word": "kunne",
+          "definition": "could",
+          "partOfSpeech": "verb",
+          "grammar": "kunne (modal: can/could) · kunne (past) · kunne ikke = couldn't"
+        }
+      ]
+    },
+    {
+      "id": "da-story-009-klods-hans-s09",
+      "text": "Klods-Hans svarede med kragen, træskoen og mudderet, og prinsessen lo højt.",
+      "translation": "Klods-Hans answered with the crow, the wooden shoe, and the mud, and the princess laughed loudly.",
+      "words": [
+        {
+          "word": "svarede",
+          "definition": "answered",
+          "partOfSpeech": "verb",
+          "grammar": "svare (to answer) · svarede (past) · har svaret (perfect) · weak verb"
+        },
+        {
+          "word": "lo",
+          "definition": "laughed",
+          "partOfSpeech": "verb",
+          "grammar": "le (to laugh) · lo (past) · har let (perfect) · strong verb"
+        }
+      ]
+    },
+    {
+      "id": "da-story-009-klods-hans-s10",
+      "text": "Hun sagde: \"Han er sjov, og jeg vil gifte mig med ham!\"",
+      "translation": "She said: \"He is funny, and I want to marry him!\"",
+      "words": [
+        {
+          "word": "sjov",
+          "definition": "funny",
+          "partOfSpeech": "adj.",
+          "grammar": "sjov (common) · sjovt (neuter) · sjove (pl./def.)"
+        },
+        {
+          "word": "gifte mig med",
+          "definition": "marry",
+          "partOfSpeech": "verb phrase",
+          "grammar": "gifte sig med (to marry someone, reflexive) · gifter/giftede/har giftet · always reflexive + med"
+        }
+      ]
+    },
+    {
+      "id": "da-story-009-klods-hans-s11",
+      "text": "Kongen blev overrasket, men han holdt sit ord.",
+      "translation": "The king was surprised, but he kept his word.",
+      "words": [
+        {
+          "word": "overrasket",
+          "definition": "surprised",
+          "partOfSpeech": "adj.",
+          "grammar": "overrasket (common/neuter, same form) · past participle used as adjective · blev overrasket = was surprised"
+        },
+        {
+          "word": "holdt",
+          "definition": "kept",
+          "partOfSpeech": "verb",
+          "grammar": "holde (to hold/keep) · holdt (past) · har holdt (perfect) · holde sit ord = to keep one's word"
+        }
+      ]
+    },
+    {
+      "id": "da-story-009-klods-hans-s12",
+      "text": "Klods-Hans og prinsessen blev gift, og han blev konge.",
+      "translation": "Klods-Hans and the princess got married, and he became king.",
+      "words": [
+        {
+          "word": "konge",
+          "definition": "king",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en konge · kongen (the king) · konger (plural)"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "genreDetail": "eventyr",
+    "adaptedFrom": "Adapted from H.C. Andersen (1855), simplified for A2 learners",
+    "grammarPoints": [
+      {
+        "rule": "Coordinating conjunction \"så\" (so, therefore)",
+        "exampleSentence": "Han ville også af sted, så han satte sig på en gedebuk.",
+        "explanation": "Så links a cause to its result. Like other coordinating conjunctions (og, men, for), it doesn't change the word order of the clause that follows it."
+      },
+      {
+        "rule": "Coordinating \"for\" vs. subordinating \"fordi\"",
+        "exampleSentence": "Han puttede alting i lommen, for det kunne måske bruges.",
+        "explanation": "Both mean \"because\", but for keeps normal word order after the comma, while fordi (a subordinating conjunction) would push the verb to the end of its clause."
+      },
+      {
+        "rule": "\"Da\" as the past-time subordinating conjunction",
+        "exampleSentence": "Da brødrene kom til prinsessen, kunne de ikke svare.",
+        "explanation": "Da means \"when\" but only for a single completed event in the past. Når is used instead for repeated past events, or present/future \"when\"."
+      },
+      {
+        "rule": "V2 inversion after a subordinate clause",
+        "exampleSentence": "Da brødrene kom til prinsessen, kunne de ikke svare.",
+        "explanation": "When a sentence opens with a subordinate clause, the main clause verb must come immediately after the comma, before its own subject — Danish main clauses always keep the verb in second position overall."
+      },
+      {
+        "rule": "Modal verb \"kunne\" in the negative",
+        "exampleSentence": "De kunne ikke svare på hendes spørgsmål.",
+        "explanation": "Negation with ikke comes right after the modal verb (kunne), not after the main verb (svare), which stays in its infinitive form at the end."
+      },
+      {
+        "rule": "Reflexive possessive \"sit\" vs. \"hans\"",
+        "exampleSentence": "Han holdt sit ord.",
+        "explanation": "Sit/sin/sine refer back to the subject of the sentence (\"his own word\"). Hans would mean the word belonged to a different male person mentioned elsewhere."
+      }
+    ]
+  }
+}

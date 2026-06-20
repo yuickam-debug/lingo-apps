@@ -1,0 +1,261 @@
+{
+  "id": "da-story-011-holger-danske",
+  "title": "Holger Danske",
+  "level": "B1",
+  "genre": "narrative",
+  "source": "story",
+  "sentences": [
+    {
+      "id": "da-story-011-holger-danske-s01",
+      "text": "Dybt under Kronborg Slot ligger en kæmpe kriger, som hedder Holger Danske.",
+      "translation": "Deep under Kronborg Castle lies a giant warrior, who is called Holger Danske.",
+      "words": [
+        {
+          "word": "kæmpe",
+          "definition": "giant",
+          "partOfSpeech": "noun, c. / adj.",
+          "grammar": "en kæmpe (a giant, noun) · kæmpe- (giant-, used as a prefix/adj.) · kæmpestor = gigantic"
+        },
+        {
+          "word": "kriger",
+          "definition": "warrior",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en kriger · krigeren (the warrior) · krigere (plural)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-011-holger-danske-s02",
+      "text": "Han har siddet der i mange hundrede år og sover tungt.",
+      "translation": "He has been sitting there for many hundred years and sleeps heavily.",
+      "words": [
+        {
+          "word": "har siddet",
+          "definition": "has sat / has been sitting",
+          "partOfSpeech": "verb",
+          "grammar": "sidde (to sit) · sad (past) · har siddet (perfect) · present perfect = action started in the past, continuing now"
+        }
+      ]
+    },
+    {
+      "id": "da-story-011-holger-danske-s03",
+      "text": "Hans skæg er vokset langt ned og har viklet sig om bordet foran ham.",
+      "translation": "His beard has grown long down and has wound itself around the table in front of him.",
+      "words": [
+        {
+          "word": "er vokset",
+          "definition": "has grown",
+          "partOfSpeech": "verb",
+          "grammar": "vokse (to grow) · voksede (past) · er vokset (perfect, takes \"er\" not \"har\") · motion/change-of-state verb"
+        },
+        {
+          "word": "skæg",
+          "definition": "beard",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et skæg · skægget (the beard) · skæg (plural, unchanged)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-011-holger-danske-s04",
+      "text": "Ifølge legenden vil Holger Danske vågne, hvis Danmark nogensinde er i stor fare.",
+      "translation": "According to the legend, Holger Danske will wake up if Denmark is ever in great danger.",
+      "words": [
+        {
+          "word": "ifølge",
+          "definition": "according to",
+          "partOfSpeech": "prep.",
+          "grammar": "ifølge + noun = according to · ifølge legenden = according to the legend"
+        },
+        {
+          "word": "hvis",
+          "definition": "if",
+          "partOfSpeech": "conj.",
+          "grammar": "hvis (conditional conjunction) · introduces a condition · followed by present tense for future possibility"
+        }
+      ]
+    },
+    {
+      "id": "da-story-011-holger-danske-s05",
+      "text": "Da han var ung, kæmpede han modigt for kongen og for landet.",
+      "translation": "When he was young, he fought bravely for the king and for the country.",
+      "words": [
+        {
+          "word": "kæmpede",
+          "definition": "fought",
+          "partOfSpeech": "verb",
+          "grammar": "kæmpe (to fight) · kæmpede (past) · har kæmpet (perfect) · weak verb"
+        },
+        {
+          "word": "modigt",
+          "definition": "bravely",
+          "partOfSpeech": "adv.",
+          "grammar": "modig (brave, adj.) · modigt (adverb/neuter form)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-011-holger-danske-s06",
+      "text": "Selvom han nu sover, holder han stadig sit sværd fast i hånden.",
+      "translation": "Even though he now sleeps, he still holds his sword firmly in his hand.",
+      "words": [
+        {
+          "word": "selvom",
+          "definition": "even though",
+          "partOfSpeech": "conj.",
+          "grammar": "selvom (subordinating, concessive) · admits one fact while contrasting with another"
+        },
+        {
+          "word": "sværd",
+          "definition": "sword",
+          "partOfSpeech": "noun, n.",
+          "grammar": "et sværd · sværdet (the sword) · sværd (plural, unchanged)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-011-holger-danske-s07",
+      "text": "Mange børn har hørt historien om ham, når de besøgte slottet om sommeren.",
+      "translation": "Many children have heard the story about him, when they visited the castle in the summer.",
+      "words": [
+        {
+          "word": "når",
+          "definition": "when (repeated/general)",
+          "partOfSpeech": "conj.",
+          "grammar": "når (subordinating) · used for repeated or habitual events, in any tense — contrast with da for a single past event"
+        }
+      ]
+    },
+    {
+      "id": "da-story-011-holger-danske-s08",
+      "text": "Nogle siger, at man kan høre ham snorke dybt nede i kælderen.",
+      "translation": "Some say that you can hear him snore deep down in the cellar.",
+      "words": [
+        {
+          "word": "man",
+          "definition": "one, you (generic)",
+          "partOfSpeech": "pron.",
+          "grammar": "man (impersonal/generic subject pronoun) · used where English often says \"you\" or \"people\""
+        },
+        {
+          "word": "kælderen",
+          "definition": "the cellar",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en kælder · kælderen (the cellar) · kældre (plural)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-011-holger-danske-s09",
+      "text": "Under Anden Verdenskrig brugte den danske modstandsbevægelse hans navn som symbol på frihed.",
+      "translation": "During the Second World War, the Danish resistance movement used his name as a symbol of freedom.",
+      "words": [
+        {
+          "word": "modstandsbevægelse",
+          "definition": "resistance movement",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en modstandsbevægelse · modstandsbevægelsen (the resistance movement) · compound: modstand (resistance) + bevægelse (movement)"
+        },
+        {
+          "word": "frihed",
+          "definition": "freedom",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en frihed · friheden (the freedom)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-011-holger-danske-s10",
+      "text": "Statuen af Holger Danske, som man kan se i kælderen i dag, blev lavet af billedhuggeren H.P. Pedersen-Dan.",
+      "translation": "The statue of Holger Danske, which one can see in the cellar today, was made by the sculptor H.P. Pedersen-Dan.",
+      "words": [
+        {
+          "word": "som",
+          "definition": "which (object)",
+          "partOfSpeech": "pron.",
+          "grammar": "som (relative pronoun, here as object of \"se\") · can often be dropped in casual speech when used as object, but kept here"
+        },
+        {
+          "word": "blev lavet af",
+          "definition": "was made by",
+          "partOfSpeech": "verb phrase",
+          "grammar": "blive lavet af (passive: to be made by) · blive + past participle + af (agent) = standard Danish passive"
+        }
+      ]
+    },
+    {
+      "id": "da-story-011-holger-danske-s11",
+      "text": "Hvis du går ned ad de mørke trapper, kan du selv møde den sovende kæmpe.",
+      "translation": "If you go down the dark stairs, you can meet the sleeping giant yourself.",
+      "words": [
+        {
+          "word": "sovende",
+          "definition": "sleeping",
+          "partOfSpeech": "adj.",
+          "grammar": "sove (to sleep) → sovende (present participle/adjective) · -ende ending, like English -ing"
+        },
+        {
+          "word": "trapper",
+          "definition": "stairs",
+          "partOfSpeech": "noun, c.",
+          "grammar": "en trappe · trappen (the stairs) · trapper (plural)"
+        }
+      ]
+    },
+    {
+      "id": "da-story-011-holger-danske-s12",
+      "text": "Indtil da venter Holger Danske tålmodigt, klar til at forsvare Danmark igen.",
+      "translation": "Until then, Holger Danske waits patiently, ready to defend Danmark again.",
+      "words": [
+        {
+          "word": "tålmodigt",
+          "definition": "patiently",
+          "partOfSpeech": "adv.",
+          "grammar": "tålmodig (patient, adj.) · tålmodigt (adverb/neuter form)"
+        },
+        {
+          "word": "forsvare",
+          "definition": "defend",
+          "partOfSpeech": "verb",
+          "grammar": "forsvare (to defend) · forsvarer (present) · forsvarede (past) · har forsvaret (perfect)"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "genreDetail": "folkesagn",
+    "adaptedFrom": "Danish national legend (Ogier the Dane), adapted for upper-A2/B1 learners",
+    "grammarPoints": [
+      {
+        "rule": "Conditional clauses with \"hvis\"",
+        "exampleSentence": "Holger Danske vil vågne, hvis Danmark nogensinde er i stor fare.",
+        "explanation": "Hvis introduces a condition. Danish typically uses present tense even when describing a future possibility — there's no separate future conditional form needed."
+      },
+      {
+        "rule": "Concessive clause with \"selvom\" (even though)",
+        "exampleSentence": "Selvom han nu sover, holder han stadig sit sværd fast.",
+        "explanation": "Selvom admits one fact while contrasting it with something unexpected. The subordinate clause can come first, with the main clause verb following directly after the comma."
+      },
+      {
+        "rule": "Present perfect for ongoing past-to-present states",
+        "exampleSentence": "Han har siddet der i mange hundrede år.",
+        "explanation": "Har/er + past participle describes something that started in the past and is still true now — distinct from simple past (sad), which would imply the sitting is finished."
+      },
+      {
+        "rule": "Passive voice: \"blive\" + past participle + \"af\"",
+        "exampleSentence": "Statuen blev lavet af billedhuggeren H.P. Pedersen-Dan.",
+        "explanation": "This is the standard way to form the passive in spoken/everyday Danish: blive + past participle, with af introducing who performed the action."
+      },
+      {
+        "rule": "\"Da\" vs. \"når\" for \"when\"",
+        "exampleSentence": "Da han var ung... / ...når de besøgte slottet om sommeren.",
+        "explanation": "Da is for a single, completed event in the past. Når is for repeated or habitual events (in any tense) and for present/future \"when\"."
+      },
+      {
+        "rule": "\"Ifølge\" + noun (according to)",
+        "exampleSentence": "Ifølge legenden vil Holger Danske vågne...",
+        "explanation": "Ifølge is a simple preposition for citing a source — legenden, eksperterne, avisen — followed directly by the noun, no extra connecting word needed."
+      }
+    ]
+  }
+}
