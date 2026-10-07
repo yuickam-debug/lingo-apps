@@ -9,6 +9,8 @@ import daStory002 from '../content/stories/da-story-002-pippi-det-nye-hus.json';
 import daStory003 from '../content/stories/da-story-003-pippi-markedet.json';
 import daStory004 from '../content/stories/da-story-004-pippi-regnvejret.json';
 import daStory005 from '../content/stories/da-story-005-elverhoej-dansen.json';
+import daStory006 from '../content/stories/da-story-006-fyrtoejet.json';
+import daStory007 from '../content/stories/da-story-007-den-lille-pige-med-svovlstikkerne.json';
 
 const BUNDLED: Story[] = [
   daStory001 as unknown as Story,
@@ -16,6 +18,8 @@ const BUNDLED: Story[] = [
   daStory003 as unknown as Story,
   daStory004 as unknown as Story,
   daStory005 as unknown as Story,
+  daStory006 as unknown as Story,
+  daStory007 as unknown as Story,
 ];
 
 interface StoryLibraryProps {

@@ -2470,6 +2470,513 @@
           "explanation": "'Eines Tages' (one day / someday) is a genitive time expression → it uses the genitive case to express an indefinite point in time. Other common ones: eines Morgens (one morning), eines Abends (one evening). These are fixed phrases worth learning as chunks. The genitive is also used for possession (des Dorfes → of the village), making this story a good introduction to both genitive uses at A2."
         }
       ]
+    },
+    {
+      "id": "de-story-010-rotkaeppchen",
+      "title": "Rotkäppchen",
+      "level": "A1",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "de-story-010-rotkaeppchen-s01",
+          "text": "Es war einmal ein kleines Mädchen.",
+          "translation": "Once upon a time there was a little girl.",
+          "words": [
+            {
+              "word": "Es war einmal",
+              "definition": "once upon a time",
+              "partOfSpeech": "phrase",
+              "grammar": "fixed fairy-tale opener · war = Präteritum of sein"
+            },
+            {
+              "word": "Mädchen",
+              "definition": "girl",
+              "partOfSpeech": "noun, n.",
+              "grammar": "das Mädchen · one of the few neuter nouns for a female person"
+            }
+          ]
+        },
+        {
+          "id": "de-story-010-rotkaeppchen-s02",
+          "text": "Sie trug immer eine rote Kappe.",
+          "translation": "She always wore a red cap.",
+          "words": [
+            {
+              "word": "trug",
+              "definition": "wore (past)",
+              "partOfSpeech": "verb",
+              "grammar": "tragen · Präteritum · strong verb: tragen → trug"
+            },
+            {
+              "word": "Kappe",
+              "definition": "cap, hood",
+              "partOfSpeech": "noun, f.",
+              "grammar": "die Kappe · gives the character her name"
+            }
+          ]
+        },
+        {
+          "id": "de-story-010-rotkaeppchen-s03",
+          "text": "Deshalb nannten alle sie Rotkäppchen.",
+          "translation": "That's why everyone called her Little Red Riding Hood.",
+          "words": [
+            {
+              "word": "Deshalb",
+              "definition": "that's why, therefore",
+              "partOfSpeech": "adv.",
+              "grammar": "connecting adverb · triggers inverted word order: Deshalb nannten (verb before subject)"
+            },
+            {
+              "word": "nannten",
+              "definition": "called, named (past)",
+              "partOfSpeech": "verb",
+              "grammar": "nennen · Präteritum · irregular: nennen → nannten"
+            }
+          ]
+        },
+        {
+          "id": "de-story-010-rotkaeppchen-s04",
+          "text": "Eines Tages sagte die Mutter: \"Bring der Großmutter einen Kuchen.\"",
+          "translation": "One day the mother said: \"Bring grandmother a cake.\"",
+          "words": [
+            {
+              "word": "Eines Tages",
+              "definition": "one day",
+              "partOfSpeech": "phrase",
+              "grammar": "genitive time expression · fixed phrase, worth learning as a chunk"
+            },
+            {
+              "word": "Bring",
+              "definition": "bring (command)",
+              "partOfSpeech": "verb",
+              "grammar": "bringen · imperative (du-form) · der Großmutter = dative (recipient), einen Kuchen = accusative (object)"
+            }
+          ]
+        },
+        {
+          "id": "de-story-010-rotkaeppchen-s05",
+          "text": "Rotkäppchen ging allein durch den Wald.",
+          "translation": "Little Red Riding Hood walked alone through the forest.",
+          "words": [
+            {
+              "word": "allein",
+              "definition": "alone",
+              "partOfSpeech": "adv.",
+              "grammar": "manner adverb, modifies ging"
+            },
+            {
+              "word": "durch den Wald",
+              "definition": "through the forest",
+              "partOfSpeech": "prep. phrase",
+              "grammar": "durch + accusative (movement through) · der Wald → den Wald"
+            }
+          ]
+        },
+        {
+          "id": "de-story-010-rotkaeppchen-s06",
+          "text": "Im Wald traf sie einen Wolf.",
+          "translation": "In the forest she met a wolf.",
+          "words": [
+            {
+              "word": "traf",
+              "definition": "met (past)",
+              "partOfSpeech": "verb",
+              "grammar": "treffen · Präteritum · strong verb: treffen → traf"
+            },
+            {
+              "word": "Wolf",
+              "definition": "wolf",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Wolf · accusative after traf: einen Wolf"
+            }
+          ]
+        },
+        {
+          "id": "de-story-010-rotkaeppchen-s07",
+          "text": "Der Wolf fragte: \"Wohin gehst du?\"",
+          "translation": "The wolf asked: \"Where are you going?\"",
+          "words": [
+            {
+              "word": "Wohin gehst du?",
+              "definition": "where are you going?",
+              "partOfSpeech": "phrase",
+              "grammar": "question word (wohin) directly followed by the verb, then the subject · no extra 'do' word, unlike English"
+            }
+          ]
+        },
+        {
+          "id": "de-story-010-rotkaeppchen-s08",
+          "text": "Rotkäppchen erzählte ihm alles.",
+          "translation": "Little Red Riding Hood told him everything.",
+          "words": [
+            {
+              "word": "erzählte",
+              "definition": "told (past)",
+              "partOfSpeech": "verb",
+              "grammar": "erzählen · Präteritum · regular weak verb: -te ending"
+            },
+            {
+              "word": "alles",
+              "definition": "everything",
+              "partOfSpeech": "pron.",
+              "grammar": "indefinite pronoun · accusative, direct object of erzählte"
+            }
+          ]
+        },
+        {
+          "id": "de-story-010-rotkaeppchen-s09",
+          "text": "Der Wolf lief schnell zum Haus der Großmutter.",
+          "translation": "The wolf ran quickly to grandmother's house.",
+          "words": [
+            {
+              "word": "lief",
+              "definition": "ran (past)",
+              "partOfSpeech": "verb",
+              "grammar": "laufen · Präteritum · strong verb: laufen → lief"
+            },
+            {
+              "word": "zum Haus der Großmutter",
+              "definition": "to grandmother's house",
+              "partOfSpeech": "phrase",
+              "grammar": "zu + dem → zum · der Großmutter = genitive, showing possession (grandmother's)"
+            }
+          ]
+        },
+        {
+          "id": "de-story-010-rotkaeppchen-s10",
+          "text": "Als Rotkäppchen ankam, sagte sie: \"Großmutter, du hast so große Augen!\"",
+          "translation": "When Little Red Riding Hood arrived, she said: \"Grandmother, what big eyes you have!\"",
+          "words": [
+            {
+              "word": "Als →¦ ankam",
+              "definition": "when →¦ arrived",
+              "partOfSpeech": "conjunction + verb",
+              "grammar": "als = subordinating conjunction for a single past event · sends the verb to the end of its clause: 'Als Rotkäppchen ankam'"
+            },
+            {
+              "word": "große Augen",
+              "definition": "big eyes",
+              "partOfSpeech": "noun phrase",
+              "grammar": "das Auge · plural: Augen · große = strong adjective ending (no article before it here)"
+            }
+          ]
+        },
+        {
+          "id": "de-story-010-rotkaeppchen-s11",
+          "text": "Zum Glück kam ein Jäger und rettete beide.",
+          "translation": "Luckily a hunter came and rescued both of them.",
+          "words": [
+            {
+              "word": "Zum Glück",
+              "definition": "luckily, fortunately",
+              "partOfSpeech": "phrase",
+              "grammar": "fixed adverbial phrase · zu + dem Glück (the luck) → zum Glück"
+            },
+            {
+              "word": "rettete",
+              "definition": "rescued (past)",
+              "partOfSpeech": "verb",
+              "grammar": "retten · Präteritum · regular weak verb"
+            },
+            {
+              "word": "beide",
+              "definition": "both",
+              "partOfSpeech": "pron.",
+              "grammar": "refers back to Rotkäppchen and the Großmutter · accusative, object of rettete"
+            }
+          ]
+        },
+        {
+          "id": "de-story-010-rotkaeppchen-s12",
+          "text": "Am Ende waren alle froh und aßen den Kuchen zusammen.",
+          "translation": "In the end everyone was happy and ate the cake together.",
+          "words": [
+            {
+              "word": "Am Ende",
+              "definition": "in the end",
+              "partOfSpeech": "phrase",
+              "grammar": "an + dem → am · fixed time expression"
+            },
+            {
+              "word": "froh",
+              "definition": "happy, glad",
+              "partOfSpeech": "adj.",
+              "grammar": "predicate adjective after waren · no ending needed in this position"
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "grammarPoints": [
+          {
+            "rule": "Präteritum in fairy-tale narration",
+            "exampleSentence": "Es war einmal ein kleines Mädchen. Sie trug immer eine rote Kappe.",
+            "explanation": "German fairy tales are almost always told in the Präteritum (simple past), even though everyday spoken German prefers the Perfekt. Recognising common strong-verb forms like war, trug, traf, lief and kam is a key reading skill, even at A1 — you don't need to produce them yet, just recognise them."
+          },
+          {
+            "rule": "'Als' for a single past event",
+            "exampleSentence": "Als Rotkäppchen ankam, sagte sie: \"Großmutter, du hast so große Augen!\"",
+            "explanation": "'Als' introduces a subordinate clause describing one specific past event — here, the moment she arrived. The verb moves to the end of the als-clause (ankam). This is different from 'wenn', which is used for repeated or future events."
+          }
+        ]
+      }
+    },
+    {
+      "id": "de-story-011-bremer-stadtmusikanten",
+      "title": "Die Bremer Stadtmusikanten",
+      "level": "A2",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "de-story-011-bremer-stadtmusikanten-s01",
+          "text": "Ein alter Esel hatte lange für seinen Bauern gearbeitet.",
+          "translation": "An old donkey had worked for his farmer for a long time.",
+          "words": [
+            {
+              "word": "Esel",
+              "definition": "donkey",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Esel"
+            },
+            {
+              "word": "hatte →¦ gearbeitet",
+              "definition": "had worked (past perfect)",
+              "partOfSpeech": "verb phrase",
+              "grammar": "arbeiten · Plusquamperfekt: hatte + gearbeitet · marks an action completed before the next part of the story"
+            }
+          ]
+        },
+        {
+          "id": "de-story-011-bremer-stadtmusikanten-s02",
+          "text": "Jetzt war er zu schwach zum Arbeiten, und der Bauer wollte ihn nicht mehr füttern.",
+          "translation": "Now he was too weak to work, and the farmer no longer wanted to feed him.",
+          "words": [
+            {
+              "word": "schwach",
+              "definition": "weak",
+              "partOfSpeech": "adj.",
+              "grammar": "predicate adjective after war · opposite: stark (strong)"
+            },
+            {
+              "word": "füttern",
+              "definition": "to feed (an animal)",
+              "partOfSpeech": "verb",
+              "grammar": "füttern · used for feeding animals · for people, use 'ernähren' or simply 'essen geben'"
+            }
+          ]
+        },
+        {
+          "id": "de-story-011-bremer-stadtmusikanten-s03",
+          "text": "Der Esel beschloss, nach Bremen zu gehen und Musikant zu werden.",
+          "translation": "The donkey decided to go to Bremen and become a musician.",
+          "words": [
+            {
+              "word": "beschloss",
+              "definition": "decided (past)",
+              "partOfSpeech": "verb",
+              "grammar": "beschließen · Präteritum · strong verb: beschließen → beschloss"
+            },
+            {
+              "word": "zu gehen →¦ zu werden",
+              "definition": "to go →¦ to become",
+              "partOfSpeech": "verb phrase",
+              "grammar": "zu + infinitive after beschließen · two parallel zu-infinitives joined by 'und'"
+            }
+          ]
+        },
+        {
+          "id": "de-story-011-bremer-stadtmusikanten-s04",
+          "text": "Auf dem Weg traf er einen alten Hund, eine alte Katze und einen alten Hahn.",
+          "translation": "On the way he met an old dog, an old cat and an old rooster.",
+          "words": [
+            {
+              "word": "traf",
+              "definition": "met (past)",
+              "partOfSpeech": "verb",
+              "grammar": "treffen · Präteritum · strong verb"
+            },
+            {
+              "word": "Hahn",
+              "definition": "rooster",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Hahn · plural: Hähne"
+            }
+          ]
+        },
+        {
+          "id": "de-story-011-bremer-stadtmusikanten-s05",
+          "text": "Alle vier Tiere hatten das gleiche Problem: Sie waren zu alt für ihre Besitzer.",
+          "translation": "All four animals had the same problem: they were too old for their owners.",
+          "words": [
+            {
+              "word": "Besitzer",
+              "definition": "owner",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Besitzer · same form in singular and plural"
+            },
+            {
+              "word": "das gleiche Problem",
+              "definition": "the same problem",
+              "partOfSpeech": "noun phrase",
+              "grammar": "gleich + e (weak ending after das) · gleich = same, identical"
+            }
+          ]
+        },
+        {
+          "id": "de-story-011-bremer-stadtmusikanten-s06",
+          "text": "Zusammen wanderten sie durch den dunklen Wald nach Bremen.",
+          "translation": "Together they wandered through the dark forest towards Bremen.",
+          "words": [
+            {
+              "word": "wanderten",
+              "definition": "wandered (past)",
+              "partOfSpeech": "verb",
+              "grammar": "wandern · Präteritum · regular weak verb"
+            },
+            {
+              "word": "dunklen",
+              "definition": "dark",
+              "partOfSpeech": "adj.",
+              "grammar": "dunkel → dunklen · weak adjective ending (accusative, after den) · the -e- drops before -en"
+            }
+          ]
+        },
+        {
+          "id": "de-story-011-bremer-stadtmusikanten-s07",
+          "text": "Am Abend sahen sie Licht in einem kleinen Haus.",
+          "translation": "In the evening they saw light in a small house.",
+          "words": [
+            {
+              "word": "sahen",
+              "definition": "saw (past)",
+              "partOfSpeech": "verb",
+              "grammar": "sehen · Präteritum · strong verb: sehen → sahen"
+            },
+            {
+              "word": "Licht",
+              "definition": "light",
+              "partOfSpeech": "noun, n.",
+              "grammar": "das Licht · no article here, used generally"
+            }
+          ]
+        },
+        {
+          "id": "de-story-011-bremer-stadtmusikanten-s08",
+          "text": "In dem Haus saßen Räuber und aßen gutes Essen.",
+          "translation": "In the house sat robbers, eating good food.",
+          "words": [
+            {
+              "word": "Räuber",
+              "definition": "robber",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Räuber · same form in plural"
+            },
+            {
+              "word": "saßen",
+              "definition": "sat, were sitting (past)",
+              "partOfSpeech": "verb",
+              "grammar": "sitzen · Präteritum · strong verb: sitzen → saßen"
+            }
+          ]
+        },
+        {
+          "id": "de-story-011-bremer-stadtmusikanten-s09",
+          "text": "Die Tiere stellten sich aufeinander: der Esel unten, dann der Hund, die Katze und der Hahn.",
+          "translation": "The animals stacked themselves on top of each other: the donkey at the bottom, then the dog, the cat and the rooster.",
+          "words": [
+            {
+              "word": "stellten sich",
+              "definition": "positioned themselves, stacked up",
+              "partOfSpeech": "verb",
+              "grammar": "sich stellen · reflexive verb · Präteritum: stellten"
+            },
+            {
+              "word": "aufeinander",
+              "definition": "on top of each other",
+              "partOfSpeech": "adv.",
+              "grammar": "auf + einander · reciprocal compound adverb"
+            }
+          ]
+        },
+        {
+          "id": "de-story-011-bremer-stadtmusikanten-s10",
+          "text": "Zusammen machten sie einen lauten Lärm durch das Fenster.",
+          "translation": "Together they made a loud noise through the window.",
+          "words": [
+            {
+              "word": "Lärm",
+              "definition": "noise",
+              "partOfSpeech": "noun, m.",
+              "grammar": "der Lärm · uncountable, no plural in this sense"
+            },
+            {
+              "word": "lauten",
+              "definition": "loud",
+              "partOfSpeech": "adj.",
+              "grammar": "laut → lauten · weak ending after einen (accusative)"
+            }
+          ]
+        },
+        {
+          "id": "de-story-011-bremer-stadtmusikanten-s11",
+          "text": "Die Räuber hatten große Angst und liefen sofort weg.",
+          "translation": "The robbers were very scared and ran away immediately.",
+          "words": [
+            {
+              "word": "hatten →¦ Angst",
+              "definition": "were scared, were afraid",
+              "partOfSpeech": "phrase",
+              "grammar": "Angst haben = to be afraid (fixed expression with haben, not sein) · große Angst = very scared, the adjective sits between the two parts"
+            },
+            {
+              "word": "liefen →¦ weg",
+              "definition": "ran away (past)",
+              "partOfSpeech": "verb",
+              "grammar": "weglaufen · separable verb · Präteritum: liefen (laufen → liefen) · weg goes to the end"
+            }
+          ]
+        },
+        {
+          "id": "de-story-011-bremer-stadtmusikanten-s12",
+          "text": "Die vier Tiere blieben im Haus und lebten dort glücklich zusammen.",
+          "translation": "The four animals stayed in the house and lived there happily together.",
+          "words": [
+            {
+              "word": "blieben",
+              "definition": "stayed, remained (past)",
+              "partOfSpeech": "verb",
+              "grammar": "bleiben · Präteritum · strong verb: bleiben → blieben"
+            },
+            {
+              "word": "glücklich",
+              "definition": "happy",
+              "partOfSpeech": "adj.",
+              "grammar": "manner adverb here, modifies lebten · same form as the adjective"
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "grammarPoints": [
+          {
+            "rule": "Plusquamperfekt → the 'earlier past'",
+            "exampleSentence": "Ein alter Esel hatte lange für seinen Bauern gearbeitet.",
+            "explanation": "The Plusquamperfekt (hatte/war + past participle) describes something that happened before the main past-tense storyline begins. Here, the donkey's years of work happened before the point where the story picks up — exactly like English 'had worked'."
+          },
+          {
+            "rule": "Separable verbs in the Präteritum",
+            "exampleSentence": "Die Räuber liefen sofort weg.",
+            "explanation": "Separable verbs like weglaufen (to run away) split apart in a main clause: the conjugated verb (liefen) stays near the front, and the prefix (weg) moves to the very end of the clause. This pattern applies in every tense, not just the Präteritum."
+          },
+          {
+            "rule": "Fixed expression: 'Angst haben'",
+            "exampleSentence": "Die Räuber hatten große Angst.",
+            "explanation": "German uses 'haben' (not 'sein') with Angst: 'Angst haben' = to be afraid, literally 'to have fear'. This is one of several emotion expressions that pair with haben rather than sein — also compare 'Hunger haben' (to be hungry) and 'Durst haben' (to be thirsty)."
+          }
+        ]
+      }
     }
   ]
 }

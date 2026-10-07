@@ -1005,6 +1005,522 @@
       ]
     },
     {
+      "id": "da-story-006-fyrtoejet",
+      "title": "Fyrtøjet",
+      "level": "A1",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "da-story-006-fyrtoejet-s01",
+          "text": "Der var engang en soldat, som kom hjem fra krigen.",
+          "translation": "Once upon a time there was a soldier who came home from the war.",
+          "words": [
+            {
+              "word": "soldat",
+              "definition": "a soldier",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en soldat · soldaten (the soldier) · soldater (plural)"
+            },
+            {
+              "word": "krigen",
+              "definition": "the war",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en krig · krigen (the war) · fra krigen = from the war"
+            }
+          ]
+        },
+        {
+          "id": "da-story-006-fyrtoejet-s02",
+          "text": "På vejen mødte han en gammel heks.",
+          "translation": "On the way he met an old witch.",
+          "words": [
+            {
+              "word": "mødte",
+              "definition": "met",
+              "partOfSpeech": "verb",
+              "grammar": "møde (to meet) · mødte (past) · har mødt (perfect) · weak verb"
+            },
+            {
+              "word": "heks",
+              "definition": "a witch",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en heks · heksen (the witch) · hekse (plural)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-006-fyrtoejet-s03",
+          "text": "Heksen sagde: \"Gå ned i træet, og hent mit fyrtøj.\"",
+          "translation": "The witch said: \"Climb down into the tree, and fetch my tinderbox.\"",
+          "words": [
+            {
+              "word": "hent",
+              "definition": "fetch, go get",
+              "partOfSpeech": "verb",
+              "grammar": "hente (to fetch) · imperative: hent · hente noget = to go and get something"
+            },
+            {
+              "word": "fyrtøj",
+              "definition": "tinderbox",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et fyrtøj · fyrtøjet (the tinderbox) · an old tool for lighting fire"
+            }
+          ]
+        },
+        {
+          "id": "da-story-006-fyrtoejet-s04",
+          "text": "Soldaten gik ned og fandt mange guldmønter.",
+          "translation": "The soldier climbed down and found many gold coins.",
+          "words": [
+            {
+              "word": "fandt",
+              "definition": "found",
+              "partOfSpeech": "verb",
+              "grammar": "finde (to find) · fandt (past) · har fundet (perfect) · strong verb"
+            },
+            {
+              "word": "guldmønter",
+              "definition": "gold coins",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en guldmønt · guldmønter (plural) · compound: guld (gold) + mønt (coin)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-006-fyrtoejet-s05",
+          "text": "Han tog guldet og fyrtøjet med op.",
+          "translation": "He took the gold and the tinderbox up with him.",
+          "words": [
+            {
+              "word": "tog",
+              "definition": "took",
+              "partOfSpeech": "verb",
+              "grammar": "tage (to take) · tog (past) · har taget (perfect) · strong verb"
+            },
+            {
+              "word": "med op",
+              "definition": "up with (him)",
+              "partOfSpeech": "adv.",
+              "grammar": "med = along, with · op = up · together: brought it up with him"
+            }
+          ]
+        },
+        {
+          "id": "da-story-006-fyrtoejet-s06",
+          "text": "Men heksen ville ikke sige, hvorfor fyrtøjet var vigtigt.",
+          "translation": "But the witch would not say why the tinderbox was important.",
+          "words": [
+            {
+              "word": "ville",
+              "definition": "wanted to, would",
+              "partOfSpeech": "verb",
+              "grammar": "ville (modal: want to/would) · present: vil · ville ikke = refused to"
+            },
+            {
+              "word": "vigtigt",
+              "definition": "important",
+              "partOfSpeech": "adj.",
+              "grammar": "vigtig (common) · vigtigt (neuter) · agrees with fyrtøjet (et-word)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-006-fyrtoejet-s07",
+          "text": "Soldaten blev vred og gik videre med fyrtøjet.",
+          "translation": "The soldier became angry and went on with the tinderbox.",
+          "words": [
+            {
+              "word": "blev",
+              "definition": "became",
+              "partOfSpeech": "verb",
+              "grammar": "blive (to become) · blev (past) · er blevet (perfect) · blev vred = became angry"
+            },
+            {
+              "word": "vred",
+              "definition": "angry",
+              "partOfSpeech": "adj.",
+              "grammar": "vred (common) · vredt (neuter) · vrede (pl./def.)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-006-fyrtoejet-s08",
+          "text": "I byen levede han som en rig mand.",
+          "translation": "In the town he lived like a rich man.",
+          "words": [
+            {
+              "word": "levede",
+              "definition": "lived",
+              "partOfSpeech": "verb",
+              "grammar": "leve (to live) · levede (past) · har levet (perfect) · weak verb"
+            },
+            {
+              "word": "rig",
+              "definition": "rich",
+              "partOfSpeech": "adj.",
+              "grammar": "rig (common) · rigt (neuter) · rige (pl./def.)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-006-fyrtoejet-s09",
+          "text": "En dag slog han på fyrtøjet, og en stor hund kom frem.",
+          "translation": "One day he struck the tinderbox, and a big dog appeared.",
+          "words": [
+            {
+              "word": "slog",
+              "definition": "struck, hit",
+              "partOfSpeech": "verb",
+              "grammar": "slå (to strike) · slog (past) · har slået (perfect) · strong verb"
+            },
+            {
+              "word": "kom frem",
+              "definition": "appeared, came forth",
+              "partOfSpeech": "verb",
+              "grammar": "komme frem = to come forward / appear · komme (past: kom) + frem (forward)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-006-fyrtoejet-s10",
+          "text": "Hunden kunne give ham alt, hvad han ønskede.",
+          "translation": "The dog could give him anything he wished for.",
+          "words": [
+            {
+              "word": "kunne",
+              "definition": "could",
+              "partOfSpeech": "verb",
+              "grammar": "kunne (modal: can) · past of kan · kunne give = could give"
+            },
+            {
+              "word": "ønskede",
+              "definition": "wished",
+              "partOfSpeech": "verb",
+              "grammar": "ønske (to wish) · ønskede (past) · har ønsket (perfect) · weak verb"
+            }
+          ]
+        },
+        {
+          "id": "da-story-006-fyrtoejet-s11",
+          "text": "Soldaten brugte hunden til at møde en smuk prinsesse.",
+          "translation": "The soldier used the dog to meet a beautiful princess.",
+          "words": [
+            {
+              "word": "brugte",
+              "definition": "used",
+              "partOfSpeech": "verb",
+              "grammar": "bruge (to use) · brugte (past) · har brugt (perfect) · weak verb"
+            },
+            {
+              "word": "smuk",
+              "definition": "beautiful",
+              "partOfSpeech": "adj.",
+              "grammar": "smuk (common) · smukt (neuter) · smukke (pl./def.)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-006-fyrtoejet-s12",
+          "text": "De blev gift, og soldaten blev konge.",
+          "translation": "They got married, and the soldier became king.",
+          "words": [
+            {
+              "word": "blev gift",
+              "definition": "got married",
+              "partOfSpeech": "phrase",
+              "grammar": "blive gift = to get married · være gift = to be married · blive signals the change of state"
+            },
+            {
+              "word": "konge",
+              "definition": "king",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en konge · kongen (the king) · konger (plural)"
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "genreDetail": "eventyr",
+        "adaptedFrom": "Adapted from H.C. Andersen, Fyrtøjet (1835), simplified for A1 learners",
+        "grammarPoints": [
+          {
+            "rule": "\"Der var engang\" — the fairy-tale opener",
+            "exampleSentence": "Der var engang en soldat, som kom hjem fra krigen.",
+            "explanation": "Just like \"Prinsessen på ærten\", this story opens with the fixed phrase \"Der var engang\" (once upon a time), using the past tense of være (var) and the dummy subject der."
+          },
+          {
+            "rule": "\"Blive\" + adjective/noun = to become",
+            "exampleSentence": "Soldaten blev vred. / Soldaten blev konge.",
+            "explanation": "Blive marks a change of state — going from not-angry to angry, or from soldier to king. Compare være, which describes an existing state without any change."
+          },
+          {
+            "rule": "Modal verb \"kunne\" for past ability",
+            "exampleSentence": "Hunden kunne give ham alt, hvad han ønskede.",
+            "explanation": "Kunne is the past tense of kan (can) and expresses what someone was able to do. Like other modal verbs, it is followed directly by an infinitive with no \"at\": kunne give, not kunne at give."
+          }
+        ]
+      }
+    },
+    {
+      "id": "da-story-007-den-lille-pige-med-svovlstikkerne",
+      "title": "Den lille pige med svovlstikkerne",
+      "level": "A1",
+      "genre": "narrative",
+      "source": "story",
+      "sentences": [
+        {
+          "id": "da-story-007-den-lille-pige-med-svovlstikkerne-s01",
+          "text": "Det var koldt, og sneen faldt over byen.",
+          "translation": "It was cold, and the snow fell over the town.",
+          "words": [
+            {
+              "word": "sneen",
+              "definition": "the snow",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en sne · sneen (the snow) · uncountable"
+            },
+            {
+              "word": "faldt",
+              "definition": "fell",
+              "partOfSpeech": "verb",
+              "grammar": "falde (to fall) · faldt (past) · er faldet (perfect) · strong verb"
+            }
+          ]
+        },
+        {
+          "id": "da-story-007-den-lille-pige-med-svovlstikkerne-s02",
+          "text": "En lille pige gik alene på gaden.",
+          "translation": "A little girl walked alone on the street.",
+          "words": [
+            {
+              "word": "alene",
+              "definition": "alone",
+              "partOfSpeech": "adv.",
+              "grammar": "alene = alone · manner adverb, modifies gik"
+            },
+            {
+              "word": "gaden",
+              "definition": "the street",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en gade · gaden (the street) · gader (plural)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-007-den-lille-pige-med-svovlstikkerne-s03",
+          "text": "Hun havde ingen sko, og hendes fødder var meget kolde.",
+          "translation": "She had no shoes, and her feet were very cold.",
+          "words": [
+            {
+              "word": "fødder",
+              "definition": "feet",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en fod · fødder (plural, irregular) · fødderne (the feet)"
+            },
+            {
+              "word": "kolde",
+              "definition": "cold (plural)",
+              "partOfSpeech": "adj.",
+              "grammar": "kold (common sg.) · koldt (neuter sg.) · kolde (pl./def.)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-007-den-lille-pige-med-svovlstikkerne-s04",
+          "text": "Pigen solgte svovlstikker, men ingen ville købe dem.",
+          "translation": "The girl sold matches, but no one wanted to buy them.",
+          "words": [
+            {
+              "word": "svovlstikker",
+              "definition": "matches",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en svovlstik · svovlstikker (plural) · old-fashioned word for matches"
+            },
+            {
+              "word": "ville",
+              "definition": "wanted to",
+              "partOfSpeech": "verb",
+              "grammar": "ville (modal: want to/would) · ville ikke / ingen ville = no one wanted to"
+            }
+          ]
+        },
+        {
+          "id": "da-story-007-den-lille-pige-med-svovlstikkerne-s05",
+          "text": "Hun var bange for at gå hjem uden penge.",
+          "translation": "She was afraid to go home without money.",
+          "words": [
+            {
+              "word": "bange for",
+              "definition": "afraid of",
+              "partOfSpeech": "phrase",
+              "grammar": "være bange for + at-infinitive = to be afraid to (do something)"
+            },
+            {
+              "word": "uden",
+              "definition": "without",
+              "partOfSpeech": "prep.",
+              "grammar": "uden penge = without money · opposite of med (with)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-007-den-lille-pige-med-svovlstikkerne-s06",
+          "text": "Til sidst satte hun sig ned i et hjørne.",
+          "translation": "Finally she sat herself down in a corner.",
+          "words": [
+            {
+              "word": "Til sidst",
+              "definition": "finally, at last",
+              "partOfSpeech": "phrase",
+              "grammar": "fixed adverbial phrase · til (to) + sidst (last)"
+            },
+            {
+              "word": "hjørne",
+              "definition": "corner",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et hjørne · hjørnet (the corner)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-007-den-lille-pige-med-svovlstikkerne-s07",
+          "text": "Hun tændte en svovlstik for at blive varm.",
+          "translation": "She lit a match to get warm.",
+          "words": [
+            {
+              "word": "tændte",
+              "definition": "lit",
+              "partOfSpeech": "verb",
+              "grammar": "tænde (to light) · tændte (past) · har tændt (perfect) · weak verb"
+            },
+            {
+              "word": "for at blive varm",
+              "definition": "in order to get warm",
+              "partOfSpeech": "phrase",
+              "grammar": "for at + infinitive = in order to · blive varm = to become warm (change of state)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-007-den-lille-pige-med-svovlstikkerne-s08",
+          "text": "I lyset så hun en varm kakkelovn.",
+          "translation": "In the light she saw a warm stove.",
+          "words": [
+            {
+              "word": "kakkelovn",
+              "definition": "tiled stove",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en kakkelovn · a traditional Danish wood-burning stove"
+            },
+            {
+              "word": "så",
+              "definition": "saw",
+              "partOfSpeech": "verb",
+              "grammar": "se (to see) · så (past) · har set (perfect) · strong verb"
+            }
+          ]
+        },
+        {
+          "id": "da-story-007-den-lille-pige-med-svovlstikkerne-s09",
+          "text": "Hun tændte flere svovlstikker og så smukke billeder.",
+          "translation": "She lit more matches and saw beautiful pictures.",
+          "words": [
+            {
+              "word": "flere",
+              "definition": "more, several",
+              "partOfSpeech": "adj.",
+              "grammar": "flere = comparative of mange (many) · used for both common and neuter plural"
+            },
+            {
+              "word": "billeder",
+              "definition": "pictures",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et billede · billeder (plural)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-007-den-lille-pige-med-svovlstikkerne-s10",
+          "text": "I det sidste lys så hun sin bedstemor, som hun elskede meget.",
+          "translation": "In the last light she saw her grandmother, whom she loved very much.",
+          "words": [
+            {
+              "word": "elskede",
+              "definition": "loved",
+              "partOfSpeech": "verb",
+              "grammar": "elske (to love) · elskede (past) · har elsket (perfect) · weak verb"
+            },
+            {
+              "word": "bedstemor",
+              "definition": "grandmother",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en bedstemor · bedstemoren/bedstemoderen (the grandmother)"
+            }
+          ]
+        },
+        {
+          "id": "da-story-007-den-lille-pige-med-svovlstikkerne-s11",
+          "text": "Bedstemoren tog hende blidt i hånden.",
+          "translation": "Her grandmother gently took her by the hand.",
+          "words": [
+            {
+              "word": "blidt",
+              "definition": "gently",
+              "partOfSpeech": "adv.",
+              "grammar": "blid (gentle, adj.) · blidt (adverb/neuter form)"
+            },
+            {
+              "word": "hånden",
+              "definition": "the hand",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en hånd · hånden (the hand) · i hånden = by the hand"
+            }
+          ]
+        },
+        {
+          "id": "da-story-007-den-lille-pige-med-svovlstikkerne-s12",
+          "text": "Om morgenen fandt folk den lille pige med et smil på læberne.",
+          "translation": "In the morning people found the little girl with a smile on her lips.",
+          "words": [
+            {
+              "word": "smil",
+              "definition": "smile",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et smil · smilet (the smile) · på læberne = on her lips"
+            },
+            {
+              "word": "læberne",
+              "definition": "the lips",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en læbe · læber (plural) · læberne (the lips, def. pl.)"
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "genreDetail": "eventyr",
+        "adaptedFrom": "Adapted from H.C. Andersen, Den lille pige med svovlstikkerne (1845), simplified for A1 learners",
+        "grammarPoints": [
+          {
+            "rule": "Weather and state expressions with \"det\"",
+            "exampleSentence": "Det var koldt, og sneen faldt over byen.",
+            "explanation": "Danish uses the dummy subject \"det\" for weather and general states, similar to English \"it\" in \"it was cold\". The adjective after være takes the neuter form (koldt), since det is grammatically neuter."
+          },
+          {
+            "rule": "\"For at\" + infinitive = in order to",
+            "exampleSentence": "Hun tændte en svovlstik for at blive varm.",
+            "explanation": "\"For at\" introduces the purpose of an action, followed directly by an infinitive verb. It answers the question \"why?\": she lit the match — why? — for at blive varm (in order to get warm)."
+          },
+          {
+            "rule": "Modal verb \"ville\" in the past",
+            "exampleSentence": "Ingen ville købe dem.",
+            "explanation": "Ville is the past tense of vil (will/want to) and is used here to mean \"wanted to\". Combined with ingen (no one), \"ingen ville\" means \"no one wanted to\" — the modal is followed directly by an infinitive, with no \"at\"."
+          }
+        ]
+      }
+    },
+    {
       "id": "da-story-008-prinsessen-paa-aerten",
       "title": "Prinsessen på ærten",
       "level": "A1",

@@ -1,0 +1,251 @@
+{
+  "id": "de-story-010-rotkaeppchen",
+  "title": "Rotkäppchen",
+  "level": "A1",
+  "genre": "narrative",
+  "source": "story",
+  "sentences": [
+    {
+      "id": "de-story-010-rotkaeppchen-s01",
+      "text": "Es war einmal ein kleines Mädchen.",
+      "translation": "Once upon a time there was a little girl.",
+      "words": [
+        {
+          "word": "Es war einmal",
+          "definition": "once upon a time",
+          "partOfSpeech": "phrase",
+          "grammar": "fixed fairy-tale opener · war = Präteritum of sein"
+        },
+        {
+          "word": "Mädchen",
+          "definition": "girl",
+          "partOfSpeech": "noun, n.",
+          "grammar": "das Mädchen · one of the few neuter nouns for a female person"
+        }
+      ]
+    },
+    {
+      "id": "de-story-010-rotkaeppchen-s02",
+      "text": "Sie trug immer eine rote Kappe.",
+      "translation": "She always wore a red cap.",
+      "words": [
+        {
+          "word": "trug",
+          "definition": "wore (past)",
+          "partOfSpeech": "verb",
+          "grammar": "tragen · Präteritum · strong verb: tragen → trug"
+        },
+        {
+          "word": "Kappe",
+          "definition": "cap, hood",
+          "partOfSpeech": "noun, f.",
+          "grammar": "die Kappe · gives the character her name"
+        }
+      ]
+    },
+    {
+      "id": "de-story-010-rotkaeppchen-s03",
+      "text": "Deshalb nannten alle sie Rotkäppchen.",
+      "translation": "That's why everyone called her Little Red Riding Hood.",
+      "words": [
+        {
+          "word": "Deshalb",
+          "definition": "that's why, therefore",
+          "partOfSpeech": "adv.",
+          "grammar": "connecting adverb · triggers inverted word order: Deshalb nannten (verb before subject)"
+        },
+        {
+          "word": "nannten",
+          "definition": "called, named (past)",
+          "partOfSpeech": "verb",
+          "grammar": "nennen · Präteritum · irregular: nennen → nannten"
+        }
+      ]
+    },
+    {
+      "id": "de-story-010-rotkaeppchen-s04",
+      "text": "Eines Tages sagte die Mutter: \"Bring der Großmutter einen Kuchen.\"",
+      "translation": "One day the mother said: \"Bring grandmother a cake.\"",
+      "words": [
+        {
+          "word": "Eines Tages",
+          "definition": "one day",
+          "partOfSpeech": "phrase",
+          "grammar": "genitive time expression · fixed phrase, worth learning as a chunk"
+        },
+        {
+          "word": "Bring",
+          "definition": "bring (command)",
+          "partOfSpeech": "verb",
+          "grammar": "bringen · imperative (du-form) · der Großmutter = dative (recipient), einen Kuchen = accusative (object)"
+        }
+      ]
+    },
+    {
+      "id": "de-story-010-rotkaeppchen-s05",
+      "text": "Rotkäppchen ging allein durch den Wald.",
+      "translation": "Little Red Riding Hood walked alone through the forest.",
+      "words": [
+        {
+          "word": "allein",
+          "definition": "alone",
+          "partOfSpeech": "adv.",
+          "grammar": "manner adverb, modifies ging"
+        },
+        {
+          "word": "durch den Wald",
+          "definition": "through the forest",
+          "partOfSpeech": "prep. phrase",
+          "grammar": "durch + accusative (movement through) · der Wald → den Wald"
+        }
+      ]
+    },
+    {
+      "id": "de-story-010-rotkaeppchen-s06",
+      "text": "Im Wald traf sie einen Wolf.",
+      "translation": "In the forest she met a wolf.",
+      "words": [
+        {
+          "word": "traf",
+          "definition": "met (past)",
+          "partOfSpeech": "verb",
+          "grammar": "treffen · Präteritum · strong verb: treffen → traf"
+        },
+        {
+          "word": "Wolf",
+          "definition": "wolf",
+          "partOfSpeech": "noun, m.",
+          "grammar": "der Wolf · accusative after traf: einen Wolf"
+        }
+      ]
+    },
+    {
+      "id": "de-story-010-rotkaeppchen-s07",
+      "text": "Der Wolf fragte: \"Wohin gehst du?\"",
+      "translation": "The wolf asked: \"Where are you going?\"",
+      "words": [
+        {
+          "word": "Wohin gehst du?",
+          "definition": "where are you going?",
+          "partOfSpeech": "phrase",
+          "grammar": "question word (wohin) directly followed by the verb, then the subject · no extra 'do' word, unlike English"
+        }
+      ]
+    },
+    {
+      "id": "de-story-010-rotkaeppchen-s08",
+      "text": "Rotkäppchen erzählte ihm alles.",
+      "translation": "Little Red Riding Hood told him everything.",
+      "words": [
+        {
+          "word": "erzählte",
+          "definition": "told (past)",
+          "partOfSpeech": "verb",
+          "grammar": "erzählen · Präteritum · regular weak verb: -te ending"
+        },
+        {
+          "word": "alles",
+          "definition": "everything",
+          "partOfSpeech": "pron.",
+          "grammar": "indefinite pronoun · accusative, direct object of erzählte"
+        }
+      ]
+    },
+    {
+      "id": "de-story-010-rotkaeppchen-s09",
+      "text": "Der Wolf lief schnell zum Haus der Großmutter.",
+      "translation": "The wolf ran quickly to grandmother's house.",
+      "words": [
+        {
+          "word": "lief",
+          "definition": "ran (past)",
+          "partOfSpeech": "verb",
+          "grammar": "laufen · Präteritum · strong verb: laufen → lief"
+        },
+        {
+          "word": "zum Haus der Großmutter",
+          "definition": "to grandmother's house",
+          "partOfSpeech": "phrase",
+          "grammar": "zu + dem → zum · der Großmutter = genitive, showing possession (grandmother's)"
+        }
+      ]
+    },
+    {
+      "id": "de-story-010-rotkaeppchen-s10",
+      "text": "Als Rotkäppchen ankam, sagte sie: \"Großmutter, du hast so große Augen!\"",
+      "translation": "When Little Red Riding Hood arrived, she said: \"Grandmother, what big eyes you have!\"",
+      "words": [
+        {
+          "word": "Als →¦ ankam",
+          "definition": "when →¦ arrived",
+          "partOfSpeech": "conjunction + verb",
+          "grammar": "als = subordinating conjunction for a single past event · sends the verb to the end of its clause: 'Als Rotkäppchen ankam'"
+        },
+        {
+          "word": "große Augen",
+          "definition": "big eyes",
+          "partOfSpeech": "noun phrase",
+          "grammar": "das Auge · plural: Augen · große = strong adjective ending (no article before it here)"
+        }
+      ]
+    },
+    {
+      "id": "de-story-010-rotkaeppchen-s11",
+      "text": "Zum Glück kam ein Jäger und rettete beide.",
+      "translation": "Luckily a hunter came and rescued both of them.",
+      "words": [
+        {
+          "word": "Zum Glück",
+          "definition": "luckily, fortunately",
+          "partOfSpeech": "phrase",
+          "grammar": "fixed adverbial phrase · zu + dem Glück (the luck) → zum Glück"
+        },
+        {
+          "word": "rettete",
+          "definition": "rescued (past)",
+          "partOfSpeech": "verb",
+          "grammar": "retten · Präteritum · regular weak verb"
+        },
+        {
+          "word": "beide",
+          "definition": "both",
+          "partOfSpeech": "pron.",
+          "grammar": "refers back to Rotkäppchen and the Großmutter · accusative, object of rettete"
+        }
+      ]
+    },
+    {
+      "id": "de-story-010-rotkaeppchen-s12",
+      "text": "Am Ende waren alle froh und aßen den Kuchen zusammen.",
+      "translation": "In the end everyone was happy and ate the cake together.",
+      "words": [
+        {
+          "word": "Am Ende",
+          "definition": "in the end",
+          "partOfSpeech": "phrase",
+          "grammar": "an + dem → am · fixed time expression"
+        },
+        {
+          "word": "froh",
+          "definition": "happy, glad",
+          "partOfSpeech": "adj.",
+          "grammar": "predicate adjective after waren · no ending needed in this position"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "grammarPoints": [
+      {
+        "rule": "Präteritum in fairy-tale narration",
+        "exampleSentence": "Es war einmal ein kleines Mädchen. Sie trug immer eine rote Kappe.",
+        "explanation": "German fairy tales are almost always told in the Präteritum (simple past), even though everyday spoken German prefers the Perfekt. Recognising common strong-verb forms like war, trug, traf, lief and kam is a key reading skill, even at A1 — you don't need to produce them yet, just recognise them."
+      },
+      {
+        "rule": "'Als' for a single past event",
+        "exampleSentence": "Als Rotkäppchen ankam, sagte sie: \"Großmutter, du hast so große Augen!\"",
+        "explanation": "'Als' introduces a subordinate clause describing one specific past event — here, the moment she arrived. The verb moves to the end of the als-clause (ankam). This is different from 'wenn', which is used for repeated or future events."
+      }
+    ]
+  }
+}

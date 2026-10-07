@@ -1,0 +1,256 @@
+{
+  "id": "de-story-011-bremer-stadtmusikanten",
+  "title": "Die Bremer Stadtmusikanten",
+  "level": "A2",
+  "genre": "narrative",
+  "source": "story",
+  "sentences": [
+    {
+      "id": "de-story-011-bremer-stadtmusikanten-s01",
+      "text": "Ein alter Esel hatte lange für seinen Bauern gearbeitet.",
+      "translation": "An old donkey had worked for his farmer for a long time.",
+      "words": [
+        {
+          "word": "Esel",
+          "definition": "donkey",
+          "partOfSpeech": "noun, m.",
+          "grammar": "der Esel"
+        },
+        {
+          "word": "hatte →¦ gearbeitet",
+          "definition": "had worked (past perfect)",
+          "partOfSpeech": "verb phrase",
+          "grammar": "arbeiten · Plusquamperfekt: hatte + gearbeitet · marks an action completed before the next part of the story"
+        }
+      ]
+    },
+    {
+      "id": "de-story-011-bremer-stadtmusikanten-s02",
+      "text": "Jetzt war er zu schwach zum Arbeiten, und der Bauer wollte ihn nicht mehr füttern.",
+      "translation": "Now he was too weak to work, and the farmer no longer wanted to feed him.",
+      "words": [
+        {
+          "word": "schwach",
+          "definition": "weak",
+          "partOfSpeech": "adj.",
+          "grammar": "predicate adjective after war · opposite: stark (strong)"
+        },
+        {
+          "word": "füttern",
+          "definition": "to feed (an animal)",
+          "partOfSpeech": "verb",
+          "grammar": "füttern · used for feeding animals · for people, use 'ernähren' or simply 'essen geben'"
+        }
+      ]
+    },
+    {
+      "id": "de-story-011-bremer-stadtmusikanten-s03",
+      "text": "Der Esel beschloss, nach Bremen zu gehen und Musikant zu werden.",
+      "translation": "The donkey decided to go to Bremen and become a musician.",
+      "words": [
+        {
+          "word": "beschloss",
+          "definition": "decided (past)",
+          "partOfSpeech": "verb",
+          "grammar": "beschließen · Präteritum · strong verb: beschließen → beschloss"
+        },
+        {
+          "word": "zu gehen →¦ zu werden",
+          "definition": "to go →¦ to become",
+          "partOfSpeech": "verb phrase",
+          "grammar": "zu + infinitive after beschließen · two parallel zu-infinitives joined by 'und'"
+        }
+      ]
+    },
+    {
+      "id": "de-story-011-bremer-stadtmusikanten-s04",
+      "text": "Auf dem Weg traf er einen alten Hund, eine alte Katze und einen alten Hahn.",
+      "translation": "On the way he met an old dog, an old cat and an old rooster.",
+      "words": [
+        {
+          "word": "traf",
+          "definition": "met (past)",
+          "partOfSpeech": "verb",
+          "grammar": "treffen · Präteritum · strong verb"
+        },
+        {
+          "word": "Hahn",
+          "definition": "rooster",
+          "partOfSpeech": "noun, m.",
+          "grammar": "der Hahn · plural: Hähne"
+        }
+      ]
+    },
+    {
+      "id": "de-story-011-bremer-stadtmusikanten-s05",
+      "text": "Alle vier Tiere hatten das gleiche Problem: Sie waren zu alt für ihre Besitzer.",
+      "translation": "All four animals had the same problem: they were too old for their owners.",
+      "words": [
+        {
+          "word": "Besitzer",
+          "definition": "owner",
+          "partOfSpeech": "noun, m.",
+          "grammar": "der Besitzer · same form in singular and plural"
+        },
+        {
+          "word": "das gleiche Problem",
+          "definition": "the same problem",
+          "partOfSpeech": "noun phrase",
+          "grammar": "gleich + e (weak ending after das) · gleich = same, identical"
+        }
+      ]
+    },
+    {
+      "id": "de-story-011-bremer-stadtmusikanten-s06",
+      "text": "Zusammen wanderten sie durch den dunklen Wald nach Bremen.",
+      "translation": "Together they wandered through the dark forest towards Bremen.",
+      "words": [
+        {
+          "word": "wanderten",
+          "definition": "wandered (past)",
+          "partOfSpeech": "verb",
+          "grammar": "wandern · Präteritum · regular weak verb"
+        },
+        {
+          "word": "dunklen",
+          "definition": "dark",
+          "partOfSpeech": "adj.",
+          "grammar": "dunkel → dunklen · weak adjective ending (accusative, after den) · the -e- drops before -en"
+        }
+      ]
+    },
+    {
+      "id": "de-story-011-bremer-stadtmusikanten-s07",
+      "text": "Am Abend sahen sie Licht in einem kleinen Haus.",
+      "translation": "In the evening they saw light in a small house.",
+      "words": [
+        {
+          "word": "sahen",
+          "definition": "saw (past)",
+          "partOfSpeech": "verb",
+          "grammar": "sehen · Präteritum · strong verb: sehen → sahen"
+        },
+        {
+          "word": "Licht",
+          "definition": "light",
+          "partOfSpeech": "noun, n.",
+          "grammar": "das Licht · no article here, used generally"
+        }
+      ]
+    },
+    {
+      "id": "de-story-011-bremer-stadtmusikanten-s08",
+      "text": "In dem Haus saßen Räuber und aßen gutes Essen.",
+      "translation": "In the house sat robbers, eating good food.",
+      "words": [
+        {
+          "word": "Räuber",
+          "definition": "robber",
+          "partOfSpeech": "noun, m.",
+          "grammar": "der Räuber · same form in plural"
+        },
+        {
+          "word": "saßen",
+          "definition": "sat, were sitting (past)",
+          "partOfSpeech": "verb",
+          "grammar": "sitzen · Präteritum · strong verb: sitzen → saßen"
+        }
+      ]
+    },
+    {
+      "id": "de-story-011-bremer-stadtmusikanten-s09",
+      "text": "Die Tiere stellten sich aufeinander: der Esel unten, dann der Hund, die Katze und der Hahn.",
+      "translation": "The animals stacked themselves on top of each other: the donkey at the bottom, then the dog, the cat and the rooster.",
+      "words": [
+        {
+          "word": "stellten sich",
+          "definition": "positioned themselves, stacked up",
+          "partOfSpeech": "verb",
+          "grammar": "sich stellen · reflexive verb · Präteritum: stellten"
+        },
+        {
+          "word": "aufeinander",
+          "definition": "on top of each other",
+          "partOfSpeech": "adv.",
+          "grammar": "auf + einander · reciprocal compound adverb"
+        }
+      ]
+    },
+    {
+      "id": "de-story-011-bremer-stadtmusikanten-s10",
+      "text": "Zusammen machten sie einen lauten Lärm durch das Fenster.",
+      "translation": "Together they made a loud noise through the window.",
+      "words": [
+        {
+          "word": "Lärm",
+          "definition": "noise",
+          "partOfSpeech": "noun, m.",
+          "grammar": "der Lärm · uncountable, no plural in this sense"
+        },
+        {
+          "word": "lauten",
+          "definition": "loud",
+          "partOfSpeech": "adj.",
+          "grammar": "laut → lauten · weak ending after einen (accusative)"
+        }
+      ]
+    },
+    {
+      "id": "de-story-011-bremer-stadtmusikanten-s11",
+      "text": "Die Räuber hatten große Angst und liefen sofort weg.",
+      "translation": "The robbers were very scared and ran away immediately.",
+      "words": [
+        {
+          "word": "hatten →¦ Angst",
+          "definition": "were scared, were afraid",
+          "partOfSpeech": "phrase",
+          "grammar": "Angst haben = to be afraid (fixed expression with haben, not sein) · große Angst = very scared, the adjective sits between the two parts"
+        },
+        {
+          "word": "liefen →¦ weg",
+          "definition": "ran away (past)",
+          "partOfSpeech": "verb",
+          "grammar": "weglaufen · separable verb · Präteritum: liefen (laufen → liefen) · weg goes to the end"
+        }
+      ]
+    },
+    {
+      "id": "de-story-011-bremer-stadtmusikanten-s12",
+      "text": "Die vier Tiere blieben im Haus und lebten dort glücklich zusammen.",
+      "translation": "The four animals stayed in the house and lived there happily together.",
+      "words": [
+        {
+          "word": "blieben",
+          "definition": "stayed, remained (past)",
+          "partOfSpeech": "verb",
+          "grammar": "bleiben · Präteritum · strong verb: bleiben → blieben"
+        },
+        {
+          "word": "glücklich",
+          "definition": "happy",
+          "partOfSpeech": "adj.",
+          "grammar": "manner adverb here, modifies lebten · same form as the adjective"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "grammarPoints": [
+      {
+        "rule": "Plusquamperfekt → the 'earlier past'",
+        "exampleSentence": "Ein alter Esel hatte lange für seinen Bauern gearbeitet.",
+        "explanation": "The Plusquamperfekt (hatte/war + past participle) describes something that happened before the main past-tense storyline begins. Here, the donkey's years of work happened before the point where the story picks up — exactly like English 'had worked'."
+      },
+      {
+        "rule": "Separable verbs in the Präteritum",
+        "exampleSentence": "Die Räuber liefen sofort weg.",
+        "explanation": "Separable verbs like weglaufen (to run away) split apart in a main clause: the conjugated verb (liefen) stays near the front, and the prefix (weg) moves to the very end of the clause. This pattern applies in every tense, not just the Präteritum."
+      },
+      {
+        "rule": "Fixed expression: 'Angst haben'",
+        "exampleSentence": "Die Räuber hatten große Angst.",
+        "explanation": "German uses 'haben' (not 'sein') with Angst: 'Angst haben' = to be afraid, literally 'to have fear'. This is one of several emotion expressions that pair with haben rather than sein — also compare 'Hunger haben' (to be hungry) and 'Durst haben' (to be thirsty)."
+      }
+    ]
+  }
+}
