@@ -1,0 +1,251 @@
+{
+  "weekOf": "2026-10-05",
+  "articles": [
+    {
+      "id": "de-news-2026-10-05-01",
+      "title": "Der Herbst beginnt in Deutschland",
+      "level": "A1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "topic": "Wetter"
+      },
+      "sentences": [
+        {
+          "id": "s1",
+          "text": "Der Herbst beginnt in Deutschland.",
+          "translation": "Autumn is beginning in Germany.",
+          "grammarNote": "Same pattern as 'Der Sommer beginnt' — subject + verb + location. 'der Herbst' (autumn) is masculine.",
+          "words": [
+            { "word": "Herbst", "definition": "autumn, fall", "partOfSpeech": "noun", "grammar": "der Herbst · Nominativ · Singular" }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Die Blätter werden bunt und fallen von den Bäumen.",
+          "translation": "The leaves turn colorful and fall from the trees.",
+          "grammarNote": "'werden' + adjective = to become/turn: 'werden bunt' = turn colorful. 'von + Dativ' shows origin: 'von den Bäumen' = from the trees.",
+          "words": [
+            { "word": "Blätter", "definition": "leaves", "partOfSpeech": "noun", "grammar": "das Blatt · Nominativ · Plural · Umlaut-Plural" },
+            { "word": "werden", "definition": "become, turn", "partOfSpeech": "verb", "grammar": "werden · Präsens · 3. Person Plural" },
+            { "word": "Bäumen", "definition": "trees", "partOfSpeech": "noun", "grammar": "der Baum · Dativ · Plural" }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Die Temperaturen fallen langsam.",
+          "translation": "Temperatures are slowly falling.",
+          "grammarNote": "'fallen' (to fall) is a strong verb but regular in the plural Präsens: sie fallen. 'langsam' (slowly) has the same form as the adjective.",
+          "words": [
+            { "word": "fallen", "definition": "fall, drop", "partOfSpeech": "verb", "grammar": "fallen · Präsens · 3. Person Plural" },
+            { "word": "langsam", "definition": "slowly", "partOfSpeech": "adverb", "grammar": "langsam · unverändert als Adverb" }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "Viele Menschen tragen jetzt eine warme Jacke.",
+          "translation": "Many people now wear a warm jacket.",
+          "grammarNote": "'tragen' is a strong verb: du/er/sie/es trägt, but wir/sie tragen (no change in plural). 'eine warme Jacke' is Akkusativ, weak ending after 'eine'.",
+          "words": [
+            { "word": "tragen", "definition": "wear, carry", "partOfSpeech": "verb", "grammar": "tragen · Präsens · 3. Person Plural" },
+            { "word": "Jacke", "definition": "jacket", "partOfSpeech": "noun", "grammar": "die Jacke · Akkusativ · Singular" }
+          ]
+        },
+        {
+          "id": "s5",
+          "text": "Der Herbst ist für viele die schönste Jahreszeit.",
+          "translation": "Autumn is, for many, the most beautiful season.",
+          "grammarNote": "Superlative with 'der/die/das + -ste': 'die schönste' = the most beautiful. 'für viele' = for many (people), Akkusativ after 'für'.",
+          "words": [
+            { "word": "schönste", "definition": "most beautiful", "partOfSpeech": "adjective", "grammar": "schön → schönste · Superlativ · Nominativ · Singular · Femininum" },
+            { "word": "Jahreszeit", "definition": "season", "partOfSpeech": "noun", "grammar": "die Jahreszeit · compound: Jahr (year) + Zeit (time)" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-news-2026-10-05-02",
+      "title": "Das Oktoberfest in München lockt Millionen Besucher",
+      "level": "A1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "topic": "Kultur"
+      },
+      "sentences": [
+        {
+          "id": "s1",
+          "text": "Das Oktoberfest in München hat begonnen.",
+          "translation": "The Oktoberfest in Munich has begun.",
+          "grammarNote": "Perfekt tense: 'hat' + past participle 'begonnen' at the end. 'beginnen' is a strong verb with an irregular past participle.",
+          "words": [
+            { "word": "hat →¦ begonnen", "definition": "has begun", "partOfSpeech": "verb", "grammar": "beginnen · Perfekt · hat + begonnen · unregelmäßiges Partizip II" }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Millionen Besucher kommen jedes Jahr nach München.",
+          "translation": "Millions of visitors come to Munich every year.",
+          "grammarNote": "'nach + Stadt' = to a city (direction). 'Millionen Besucher' needs no article or linking word before the noun, like other numbers.",
+          "words": [
+            { "word": "Besucher", "definition": "visitors", "partOfSpeech": "noun", "grammar": "der Besucher · Nominativ · Plural · same form singular/plural" },
+            { "word": "nach", "definition": "to (a place)", "partOfSpeech": "preposition", "grammar": "nach · mit Dativ · Richtung zu Städten" }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Die Besucher trinken Bier und essen Brezeln.",
+          "translation": "The visitors drink beer and eat pretzels.",
+          "grammarNote": "Two verbs joined by 'und' — no change in word order since 'und' is a coordinating conjunction. 'Bier' and 'Brezeln' are direct objects (Akkusativ) with no article.",
+          "words": [
+            { "word": "Bier", "definition": "beer", "partOfSpeech": "noun", "grammar": "das Bier · Akkusativ · uncountable" },
+            { "word": "Brezeln", "definition": "pretzels", "partOfSpeech": "noun", "grammar": "die Brezel · Akkusativ · Plural" }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "Viele Besucher tragen traditionelle Kleidung.",
+          "translation": "Many visitors wear traditional clothing.",
+          "grammarNote": "'traditionelle Kleidung' is Akkusativ, strong plural ending since there's no article before 'traditionelle'; 'Kleidung' is uncountable and used generally here.",
+          "words": [
+            { "word": "traditionelle", "definition": "traditional", "partOfSpeech": "adjective", "grammar": "traditionell → traditionelle · Akkusativ · starke Endung" },
+            { "word": "Kleidung", "definition": "clothing", "partOfSpeech": "noun", "grammar": "die Kleidung · uncountable, singular only" }
+          ]
+        },
+        {
+          "id": "s5",
+          "text": "Das Fest dauert bis Anfang Oktober.",
+          "translation": "The festival lasts until early October.",
+          "grammarNote": "'bis + time expression' = until. 'Anfang Oktober' (early October) is a fixed time phrase with no preposition needed before the month.",
+          "words": [
+            { "word": "dauert", "definition": "lasts", "partOfSpeech": "verb", "grammar": "dauern · Präsens · 3. Person Singular" },
+            { "word": "Anfang", "definition": "beginning, early", "partOfSpeech": "noun", "grammar": "der Anfang · used adverbially before month names: Anfang Oktober" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-news-2026-10-05-03",
+      "title": "Tausende laufen beim Berlin-Marathon",
+      "level": "A1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "topic": "Sport"
+      },
+      "sentences": [
+        {
+          "id": "s1",
+          "text": "Jedes Jahr findet der Berlin-Marathon statt.",
+          "translation": "Every year, the Berlin Marathon takes place.",
+          "grammarNote": "Separable verb 'stattfinden': the prefix 'statt' goes to the end of the clause. 'Jedes Jahr' at the start triggers inversion.",
+          "words": [
+            { "word": "findet →¦ statt", "definition": "takes place", "partOfSpeech": "verb", "grammar": "stattfinden · trennbar · Präsens · 3. Person Singular" }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Über vierzigtausend Läufer nehmen teil.",
+          "translation": "Over forty thousand runners take part.",
+          "grammarNote": "'über' here means 'more than', not location. 'teilnehmen' is separable: 'teil' goes to the end of the clause.",
+          "words": [
+            { "word": "Läufer", "definition": "runners", "partOfSpeech": "noun", "grammar": "der Läufer · Nominativ · Plural · same form singular/plural" },
+            { "word": "nehmen →¦ teil", "definition": "take part", "partOfSpeech": "verb", "grammar": "teilnehmen · trennbar · Präsens · 3. Person Plural" }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Die Strecke führt durch die ganze Stadt.",
+          "translation": "The route leads through the whole city.",
+          "grammarNote": "'durch + Akkusativ' = through (movement across). 'die ganze Stadt' = the whole city, 'ganze' takes a weak ending after 'die'.",
+          "words": [
+            { "word": "Strecke", "definition": "route, distance", "partOfSpeech": "noun", "grammar": "die Strecke · Nominativ · Singular" },
+            { "word": "führt", "definition": "leads", "partOfSpeech": "verb", "grammar": "führen · Präsens · 3. Person Singular" }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "Viele Zuschauer stehen am Straßenrand und jubeln.",
+          "translation": "Many spectators stand at the roadside and cheer.",
+          "grammarNote": "'am Straßenrand' = 'an dem Straßenrand', contracted, Dativ for location. 'jubeln' (to cheer) is a regular weak verb.",
+          "words": [
+            { "word": "Zuschauer", "definition": "spectators", "partOfSpeech": "noun", "grammar": "der Zuschauer · Nominativ · Plural · same form singular/plural" },
+            { "word": "jubeln", "definition": "cheer", "partOfSpeech": "verb", "grammar": "jubeln · Präsens · 3. Person Plural" }
+          ]
+        },
+        {
+          "id": "s5",
+          "text": "Der Sieger läuft die Strecke in etwas mehr als zwei Stunden.",
+          "translation": "The winner runs the route in just over two hours.",
+          "grammarNote": "'in + Dativ' for a time duration: 'in zwei Stunden' = in two hours. 'etwas mehr als' = a little more than, a fixed comparison phrase.",
+          "words": [
+            { "word": "Sieger", "definition": "winner", "partOfSpeech": "noun", "grammar": "der Sieger · Nominativ · Singular" },
+            { "word": "Stunden", "definition": "hours", "partOfSpeech": "noun", "grammar": "die Stunde · Dativ · Plural" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-news-2026-10-05-04",
+      "title": "Elektroauto-Verkäufe steigen in Deutschland",
+      "level": "A1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "topic": "Technologie"
+      },
+      "sentences": [
+        {
+          "id": "s1",
+          "text": "Immer mehr Deutsche kaufen ein Elektroauto.",
+          "translation": "More and more Germans are buying an electric car.",
+          "grammarNote": "'immer mehr' = more and more, a fixed intensifying phrase. 'ein Elektroauto' is Akkusativ, direct object of 'kaufen'.",
+          "words": [
+            { "word": "Elektroauto", "definition": "electric car", "partOfSpeech": "noun", "grammar": "das Elektroauto · compound: Elektro + Auto" }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Die Verkäufe sind in diesem Jahr stark gestiegen.",
+          "translation": "Sales have risen sharply this year.",
+          "grammarNote": "Perfekt with 'sein' (not 'haben') because 'steigen' describes a change of state. 'stark' modifies 'gestiegen' like an adverb.",
+          "words": [
+            { "word": "Verkäufe", "definition": "sales", "partOfSpeech": "noun", "grammar": "der Verkauf · Nominativ · Plural · Umlaut-Plural" },
+            { "word": "sind →¦ gestiegen", "definition": "have risen", "partOfSpeech": "verb", "grammar": "steigen · Perfekt · sind + gestiegen" }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Ein Elektroauto braucht keine Tankstelle.",
+          "translation": "An electric car doesn't need a gas station.",
+          "grammarNote": "'keine' negates the indefinite article before a feminine noun: 'keine Tankstelle' = no gas station.",
+          "words": [
+            { "word": "braucht", "definition": "needs", "partOfSpeech": "verb", "grammar": "brauchen · Präsens · 3. Person Singular" },
+            { "word": "Tankstelle", "definition": "gas station", "partOfSpeech": "noun", "grammar": "die Tankstelle · Akkusativ · Singular" }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "Die Regierung unterstützt den Kauf mit Geld.",
+          "translation": "The government supports the purchase with money.",
+          "grammarNote": "'mit + Dativ' = with (a means). 'den Kauf' is Akkusativ, the direct object of 'unterstützt'.",
+          "words": [
+            { "word": "Regierung", "definition": "government", "partOfSpeech": "noun", "grammar": "die Regierung · Nominativ · Singular" },
+            { "word": "unterstützt", "definition": "supports", "partOfSpeech": "verb", "grammar": "unterstützen · Präsens · 3. Person Singular" }
+          ]
+        },
+        {
+          "id": "s5",
+          "text": "Experten erwarten noch mehr Elektroautos auf den Straßen.",
+          "translation": "Experts expect even more electric cars on the roads.",
+          "grammarNote": "'noch mehr' = even more, intensifying 'mehr'. 'auf + Dativ' for location: 'auf den Straßen' = on the roads.",
+          "words": [
+            { "word": "Experten", "definition": "experts", "partOfSpeech": "noun", "grammar": "der Experte · Nominativ · Plural" },
+            { "word": "erwarten", "definition": "expect", "partOfSpeech": "verb", "grammar": "erwarten · Präsens · 3. Person Plural" },
+            { "word": "Straßen", "definition": "roads, streets", "partOfSpeech": "noun", "grammar": "die Straße · Dativ · Plural" }
+          ]
+        }
+      ]
+    }
+  ]
+}

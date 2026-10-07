@@ -6,6 +6,8 @@ import week20260414 from '../content/news/week-2026-04-14.json';
 import week20260420 from '../content/news/week-2026-04-20.json';
 import week20260421 from '../content/news/week-2026-04-21.json';
 import week20260525 from '../content/news/week-2026-05-25.json';
+import week20260601 from '../content/news/week-2026-06-01.json';
+import week20261005 from '../content/news/week-2026-10-05.json';
 
 interface WeekData {
   weekOf: string;
@@ -23,6 +25,8 @@ const BUNDLED: WeekData[] = [
   week20260420 as unknown as WeekData,
   week20260421 as unknown as WeekData,
   week20260525 as unknown as WeekData,
+  week20260601 as unknown as WeekData,
+  week20261005 as unknown as WeekData,
 ];
 
 function mergeWeeks(base: WeekData[], remote: WeekData[]): WeekData[] {

@@ -1,0 +1,389 @@
+{
+  "weekOf": "2026-10-05",
+  "articles": [
+    {
+      "id": "da-news-2026w41-01",
+      "title": "Efteråret kommer til Danmark",
+      "level": "A1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-10-05",
+        "topic": "Vejr"
+      },
+      "sentences": [
+        {
+          "id": "da-n01-s01",
+          "text": "Efteråret er kommet til Danmark.",
+          "translation": "Autumn has come to Denmark.",
+          "words": [
+            {
+              "word": "efteråret",
+              "definition": "the autumn, the fall",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et efterår · efteråret (def.) · efter (after) + år (year)"
+            }
+          ]
+        },
+        {
+          "id": "da-n01-s02",
+          "text": "Bladene bliver gule og røde.",
+          "translation": "The leaves are turning yellow and red.",
+          "words": [
+            {
+              "word": "bladene",
+              "definition": "the leaves",
+              "partOfSpeech": "noun, n. pl.",
+              "grammar": "et blad · blade (pl.) · bladene (def. pl.)"
+            },
+            {
+              "word": "bliver",
+              "definition": "becomes, turns",
+              "partOfSpeech": "verb",
+              "grammar": "blive (to become) · present: bliver"
+            }
+          ]
+        },
+        {
+          "id": "da-n01-s03",
+          "text": "Temperaturen falder langsomt hver dag.",
+          "translation": "The temperature drops slowly every day.",
+          "words": [
+            {
+              "word": "falder",
+              "definition": "falls, drops",
+              "partOfSpeech": "verb",
+              "grammar": "falde (to fall) · present: falder"
+            },
+            {
+              "word": "langsomt",
+              "definition": "slowly",
+              "partOfSpeech": "adv.",
+              "grammar": "langsom (slow, adj.) · langsomt (adverb/neuter form)"
+            }
+          ]
+        },
+        {
+          "id": "da-n01-s04",
+          "text": "Mange danskere tager en varm jakke på.",
+          "translation": "Many Danes put on a warm jacket.",
+          "words": [
+            {
+              "word": "jakke",
+              "definition": "jacket",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en jakke · jakken (def.) · tage på = to put on"
+            }
+          ]
+        },
+        {
+          "id": "da-n01-s05",
+          "text": "For mange er efteråret en hyggelig tid.",
+          "translation": "For many, autumn is a cozy time.",
+          "words": [
+            {
+              "word": "hyggelig",
+              "definition": "cozy, pleasant",
+              "partOfSpeech": "adj.",
+              "grammar": "hyggelig (common) · hyggeligt (neuter) · hyggelige (pl./def.) · key Danish cultural concept"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da-news-2026w41-02",
+      "title": "Danmark sætter ny rekord for vindenergi",
+      "level": "A2",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-10-06",
+        "topic": "Miljø"
+      },
+      "sentences": [
+        {
+          "id": "da-n02-s01",
+          "text": "Danmark har sat en ny rekord for vindenergi.",
+          "translation": "Denmark has set a new record for wind energy.",
+          "words": [
+            {
+              "word": "vindenergi",
+              "definition": "wind energy",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en vindenergi · vind (wind) + energi (energy)"
+            },
+            {
+              "word": "rekord",
+              "definition": "record",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en rekord · rekorden (def.) · sætte en rekord = to set a record"
+            }
+          ]
+        },
+        {
+          "id": "da-n02-s02",
+          "text": "Vindmøllerne producerede over halvdelen af landets strøm i september.",
+          "translation": "The wind turbines produced over half of the country's electricity in September.",
+          "words": [
+            {
+              "word": "vindmøllerne",
+              "definition": "the wind turbines",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en vindmølle · vindmøllerne (def. pl.) · vind (wind) + mølle (mill)"
+            },
+            {
+              "word": "strøm",
+              "definition": "electricity, power",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en strøm · strømmen (def.) · also means 'current, stream'"
+            }
+          ]
+        },
+        {
+          "id": "da-n02-s03",
+          "text": "Blæsende vejr i hele landet hjalp produktionen.",
+          "translation": "Windy weather across the whole country helped production.",
+          "words": [
+            {
+              "word": "blæsende",
+              "definition": "windy",
+              "partOfSpeech": "adj.",
+              "grammar": "blæse (to blow) · present participle: blæsende, used as adjective"
+            },
+            {
+              "word": "produktionen",
+              "definition": "the production",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en produktion · produktionen (def.)"
+            }
+          ]
+        },
+        {
+          "id": "da-n02-s04",
+          "text": "Regeringen vil bygge flere vindmøller i havet.",
+          "translation": "The government wants to build more wind turbines at sea.",
+          "words": [
+            {
+              "word": "havet",
+              "definition": "the sea",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et hav · havet (def.) · i havet = at sea, offshore"
+            }
+          ]
+        },
+        {
+          "id": "da-n02-s05",
+          "text": "Målet er, at Danmark bliver uafhængig af olie og gas.",
+          "translation": "The goal is for Denmark to become independent of oil and gas.",
+          "words": [
+            {
+              "word": "uafhængig",
+              "definition": "independent",
+              "partOfSpeech": "adj.",
+              "grammar": "u- (negation prefix) + afhængig (dependent) → uafhængig"
+            },
+            {
+              "word": "olie",
+              "definition": "oil",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en olie · olien (def.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da-news-2026w41-03",
+      "title": "Danske virksomheder eksporterer mere end nogensinde",
+      "level": "B1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-10-07",
+        "topic": "Økonomi"
+      },
+      "sentences": [
+        {
+          "id": "da-n03-s01",
+          "text": "Danske virksomheder har eksporteret mere end nogensinde før i år.",
+          "translation": "Danish companies have exported more than ever before this year.",
+          "words": [
+            {
+              "word": "eksporteret",
+              "definition": "exported",
+              "partOfSpeech": "past part.",
+              "grammar": "eksportere (to export) · past participle: eksporteret"
+            },
+            {
+              "word": "nogensinde",
+              "definition": "ever",
+              "partOfSpeech": "adv.",
+              "grammar": "nogensinde = at any time, used in comparisons · mere end nogensinde = more than ever"
+            }
+          ]
+        },
+        {
+          "id": "da-n03-s02",
+          "text": "Medicin og teknologi er de største eksportvarer.",
+          "translation": "Medicine and technology are the biggest export goods.",
+          "words": [
+            {
+              "word": "eksportvarer",
+              "definition": "export goods",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en eksportvare · eksport (export) + vare (good/product)"
+            }
+          ]
+        },
+        {
+          "id": "da-n03-s03",
+          "text": "Eksperter forklarer væksten med en stærk global efterspørgsel.",
+          "translation": "Experts explain the growth with strong global demand.",
+          "words": [
+            {
+              "word": "væksten",
+              "definition": "the growth",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en vækst · væksten (def.) · from vokse (to grow)"
+            },
+            {
+              "word": "efterspørgsel",
+              "definition": "demand",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en efterspørgsel · efter (after) + spørge (to ask)"
+            }
+          ]
+        },
+        {
+          "id": "da-n03-s04",
+          "text": "Flere danske virksomheder åbner nu kontorer i udlandet.",
+          "translation": "More Danish companies are now opening offices abroad.",
+          "words": [
+            {
+              "word": "kontorer",
+              "definition": "offices",
+              "partOfSpeech": "noun, n. pl.",
+              "grammar": "et kontor · kontorer (pl.)"
+            }
+          ]
+        },
+        {
+          "id": "da-n03-s05",
+          "text": "Økonomer forventer, at eksporten fortsætter med at stige næste år.",
+          "translation": "Economists expect exports to continue rising next year.",
+          "words": [
+            {
+              "word": "økonomer",
+              "definition": "economists",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en økonom · økonomer (pl.)"
+            },
+            {
+              "word": "fortsætter",
+              "definition": "continues",
+              "partOfSpeech": "verb",
+              "grammar": "fortsætte (to continue) · present: fortsætter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da-news-2026w41-04",
+      "title": "Bogmessen åbner i København",
+      "level": "A2",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-10-08",
+        "topic": "Kultur"
+      },
+      "sentences": [
+        {
+          "id": "da-n04-s01",
+          "text": "Bogmessen i København åbner i denne weekend.",
+          "translation": "The book fair in Copenhagen opens this weekend.",
+          "words": [
+            {
+              "word": "bogmessen",
+              "definition": "the book fair",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en bogmesse · bog (book) + messe (fair)"
+            }
+          ]
+        },
+        {
+          "id": "da-n04-s02",
+          "text": "Hundredvis af forfattere deltager i år.",
+          "translation": "Hundreds of authors are taking part this year.",
+          "words": [
+            {
+              "word": "forfattere",
+              "definition": "authors, writers",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en forfatter · forfattere (pl.)"
+            },
+            {
+              "word": "deltager",
+              "definition": "participates, takes part",
+              "partOfSpeech": "verb",
+              "grammar": "deltage (to participate) · present: deltager"
+            }
+          ]
+        },
+        {
+          "id": "da-n04-s03",
+          "text": "Besøgende kan møde deres favoritforfattere og få en bog signeret.",
+          "translation": "Visitors can meet their favorite authors and get a book signed.",
+          "words": [
+            {
+              "word": "besøgende",
+              "definition": "visitors",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "besøge (to visit) · present participle used as noun: besøgende"
+            },
+            {
+              "word": "signeret",
+              "definition": "signed",
+              "partOfSpeech": "past part.",
+              "grammar": "signere (to sign) · past participle: signeret"
+            }
+          ]
+        },
+        {
+          "id": "da-n04-s04",
+          "text": "Messen har også oplæsninger og foredrag for børn.",
+          "translation": "The fair also has readings and lectures for children.",
+          "words": [
+            {
+              "word": "oplæsninger",
+              "definition": "readings",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en oplæsning · oplæsninger (pl.) · op + læse (read)"
+            },
+            {
+              "word": "foredrag",
+              "definition": "lectures, talks",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et foredrag · same form singular and plural"
+            }
+          ]
+        },
+        {
+          "id": "da-n04-s05",
+          "text": "Billetter kan købes online eller ved indgangen.",
+          "translation": "Tickets can be bought online or at the entrance.",
+          "words": [
+            {
+              "word": "indgangen",
+              "definition": "the entrance",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en indgang · indgangen (def.) · ind (in) + gang (way/corridor)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

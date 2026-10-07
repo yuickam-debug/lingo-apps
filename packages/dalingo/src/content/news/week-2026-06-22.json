@@ -1,0 +1,407 @@
+{
+  "weekOf": "2026-06-22",
+  "articles": [
+    {
+      "id": "da-news-2026w26-01",
+      "title": "Ny borgmester i Aarhus",
+      "level": "A1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-06-22",
+        "topic": "Politik"
+      },
+      "sentences": [
+        {
+          "id": "da-n01-s01",
+          "text": "Aarhus har fået en ny borgmester.",
+          "translation": "Aarhus has gotten a new mayor.",
+          "words": [
+            {
+              "word": "borgmester",
+              "definition": "mayor",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en borgmester · borgmesteren (def.) · borgmestre (pl.)"
+            }
+          ]
+        },
+        {
+          "id": "da-n01-s02",
+          "text": "Hun er den første kvindelige borgmester i byen.",
+          "translation": "She is the first female mayor in the city.",
+          "words": [
+            {
+              "word": "kvindelige",
+              "definition": "female",
+              "partOfSpeech": "adj.",
+              "grammar": "kvindelig (common/neuter) · kvindelige (pl./def.)"
+            }
+          ]
+        },
+        {
+          "id": "da-n01-s03",
+          "text": "Mange borgere er glade for valget.",
+          "translation": "Many citizens are happy about the election.",
+          "words": [
+            {
+              "word": "borgere",
+              "definition": "citizens",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en borger · borgere (pl.) · borgerne (def. pl.)"
+            },
+            {
+              "word": "valget",
+              "definition": "the election",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et valg · valget (def.)"
+            }
+          ]
+        },
+        {
+          "id": "da-n01-s04",
+          "text": "Hun vil arbejde for bedre skoler og mere grøn transport.",
+          "translation": "She wants to work for better schools and more green transport.",
+          "words": [
+            {
+              "word": "transport",
+              "definition": "transport",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en transport · transporten (def.)"
+            }
+          ]
+        },
+        {
+          "id": "da-n01-s05",
+          "text": "Den nye borgmester starter i sit embede i august.",
+          "translation": "The new mayor starts her term in August.",
+          "words": [
+            {
+              "word": "embede",
+              "definition": "office, post",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et embede · embedet (def.) · formal word for an official position"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da-news-2026w26-02",
+      "title": "Dansk robot hjælper på hospitaler",
+      "level": "A2",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-06-23",
+        "topic": "Teknologi"
+      },
+      "sentences": [
+        {
+          "id": "da-n02-s01",
+          "text": "Et dansk firma har udviklet en ny robot til hospitaler.",
+          "translation": "A Danish company has developed a new robot for hospitals.",
+          "words": [
+            {
+              "word": "firma",
+              "definition": "company",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et firma · firmaet (def.) · firmaer (pl.)"
+            },
+            {
+              "word": "udviklet",
+              "definition": "developed",
+              "partOfSpeech": "past part.",
+              "grammar": "udvikle (to develop) · past participle: udviklet"
+            }
+          ]
+        },
+        {
+          "id": "da-n02-s02",
+          "text": "Robotten kan transportere medicin mellem afdelinger.",
+          "translation": "The robot can transport medicine between departments.",
+          "words": [
+            {
+              "word": "medicin",
+              "definition": "medicine",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en medicin · medicinen (def.) · uncountable"
+            },
+            {
+              "word": "afdelinger",
+              "definition": "departments",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en afdeling · afdelinger (pl.)"
+            }
+          ]
+        },
+        {
+          "id": "da-n02-s03",
+          "text": "Personalet får mere tid til patienterne.",
+          "translation": "The staff gets more time for the patients.",
+          "words": [
+            {
+              "word": "personalet",
+              "definition": "the staff",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et personale · personalet (def.) · collective noun"
+            },
+            {
+              "word": "patienterne",
+              "definition": "the patients",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en patient · patienterne (def. pl.)"
+            }
+          ]
+        },
+        {
+          "id": "da-n02-s04",
+          "text": "Flere hospitaler i Danmark vil teste robotten i år.",
+          "translation": "Several hospitals in Denmark will test the robot this year.",
+          "words": [
+            {
+              "word": "teste",
+              "definition": "to test",
+              "partOfSpeech": "verb",
+              "grammar": "teste (inf.) · tester (present) · testede (past)"
+            }
+          ]
+        },
+        {
+          "id": "da-n02-s05",
+          "text": "Firmaet forventer at sælge robotten til udlandet også.",
+          "translation": "The company expects to also sell the robot abroad.",
+          "words": [
+            {
+              "word": "forventer",
+              "definition": "expects",
+              "partOfSpeech": "verb",
+              "grammar": "forvente (to expect) · present: forventer"
+            },
+            {
+              "word": "udlandet",
+              "definition": "abroad, foreign countries",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et udland · udlandet (def.) · ud (out) + land (country)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da-news-2026w26-03",
+      "title": "Danmark til VM i håndbold",
+      "level": "A2",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-06-24",
+        "topic": "Sport"
+      },
+      "sentences": [
+        {
+          "id": "da-n03-s01",
+          "text": "Det danske håndboldlandshold har kvalificeret sig til VM.",
+          "translation": "The Danish handball national team has qualified for the World Championship.",
+          "words": [
+            {
+              "word": "håndboldlandshold",
+              "definition": "handball national team",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et landshold · compound: hånd + bold + lands + hold"
+            },
+            {
+              "word": "kvalificeret",
+              "definition": "qualified",
+              "partOfSpeech": "past part.",
+              "grammar": "kvalificere sig (to qualify) · past participle: kvalificeret"
+            }
+          ]
+        },
+        {
+          "id": "da-n03-s02",
+          "text": "Spillerne vandt den sidste kamp med stor margin.",
+          "translation": "The players won the last match by a large margin.",
+          "words": [
+            {
+              "word": "spillerne",
+              "definition": "the players",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en spiller · spillerne (def. pl.)"
+            },
+            {
+              "word": "vandt",
+              "definition": "won",
+              "partOfSpeech": "verb",
+              "grammar": "vinde (to win) · vandt (past) · har vundet (perfect)"
+            }
+          ]
+        },
+        {
+          "id": "da-n03-s03",
+          "text": "Træneren er meget tilfreds med holdets udvikling.",
+          "translation": "The coach is very satisfied with the team's development.",
+          "words": [
+            {
+              "word": "træneren",
+              "definition": "the coach",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en træner · træneren (def.)"
+            },
+            {
+              "word": "tilfreds",
+              "definition": "satisfied",
+              "partOfSpeech": "adj.",
+              "grammar": "tilfreds (common/neuter) · tilfredse (pl./def.)"
+            }
+          ]
+        },
+        {
+          "id": "da-n03-s04",
+          "text": "Mesterskabet finder sted i januar næste år.",
+          "translation": "The championship takes place in January next year.",
+          "words": [
+            {
+              "word": "mesterskabet",
+              "definition": "the championship",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et mesterskab · mesterskabet (def.)"
+            },
+            {
+              "word": "finder sted",
+              "definition": "takes place",
+              "partOfSpeech": "phrase",
+              "grammar": "finde sted = to take place, fixed expression"
+            }
+          ]
+        },
+        {
+          "id": "da-n03-s05",
+          "text": "Danske fans glæder sig allerede til turneringen.",
+          "translation": "Danish fans are already looking forward to the tournament.",
+          "words": [
+            {
+              "word": "glæder sig",
+              "definition": "looks forward (to), is happy",
+              "partOfSpeech": "verb",
+              "grammar": "glæde sig til = to look forward to · reflexive verb"
+            },
+            {
+              "word": "turneringen",
+              "definition": "the tournament",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en turnering · turneringen (def.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da-news-2026w26-04",
+      "title": "Flere unge vælger erhvervsuddannelser",
+      "level": "B1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "publishedDate": "2026-06-25",
+        "topic": "Uddannelse"
+      },
+      "sentences": [
+        {
+          "id": "da-n04-s01",
+          "text": "En ny rapport viser, at flere unge vælger en erhvervsuddannelse frem for gymnasiet.",
+          "translation": "A new report shows that more young people are choosing a vocational education over the gymnasium (upper secondary school).",
+          "words": [
+            {
+              "word": "erhvervsuddannelse",
+              "definition": "vocational education",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en erhvervsuddannelse · erhverv (trade/business) + uddannelse (education)"
+            },
+            {
+              "word": "frem for",
+              "definition": "rather than, instead of",
+              "partOfSpeech": "prep.",
+              "grammar": "frem for = in preference to, fixed phrase"
+            }
+          ]
+        },
+        {
+          "id": "da-n04-s02",
+          "text": "Antallet af elever på erhvervsskoler er steget med 15 procent.",
+          "translation": "The number of students at vocational schools has increased by 15 percent.",
+          "words": [
+            {
+              "word": "antallet",
+              "definition": "the number",
+              "partOfSpeech": "noun, n.",
+              "grammar": "et antal · antallet (def.)"
+            },
+            {
+              "word": "elever",
+              "definition": "students, pupils",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en elev · elever (pl.)"
+            }
+          ]
+        },
+        {
+          "id": "da-n04-s03",
+          "text": "Mange unge ønsker en praktisk uddannelse med et job bagefter.",
+          "translation": "Many young people want a practical education with a job afterwards.",
+          "words": [
+            {
+              "word": "ønsker",
+              "definition": "wish, desire",
+              "partOfSpeech": "verb",
+              "grammar": "ønske (to wish) · present: ønsker"
+            },
+            {
+              "word": "bagefter",
+              "definition": "afterwards",
+              "partOfSpeech": "adv.",
+              "grammar": "bagefter = after that, afterwards"
+            }
+          ]
+        },
+        {
+          "id": "da-n04-s04",
+          "text": "Virksomhederne mangler stadig faglært arbejdskraft.",
+          "translation": "Companies still lack skilled labor.",
+          "words": [
+            {
+              "word": "virksomhederne",
+              "definition": "the companies",
+              "partOfSpeech": "noun, c. pl.",
+              "grammar": "en virksomhed · virksomhederne (def. pl.)"
+            },
+            {
+              "word": "faglært",
+              "definition": "skilled, trained",
+              "partOfSpeech": "adj.",
+              "grammar": "fag (trade) + lært (learned) → compound adj."
+            },
+            {
+              "word": "arbejdskraft",
+              "definition": "labor, workforce",
+              "partOfSpeech": "noun, c.",
+              "grammar": "en arbejdskraft · arbejde (work) + kraft (force)"
+            }
+          ]
+        },
+        {
+          "id": "da-n04-s05",
+          "text": "Regeringen vil investere flere penge i erhvervsuddannelserne.",
+          "translation": "The government will invest more money in vocational education.",
+          "words": [
+            {
+              "word": "investere",
+              "definition": "to invest",
+              "partOfSpeech": "verb",
+              "grammar": "investere (inf.) · investerer (present) · investerede (past)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

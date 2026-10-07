@@ -1,0 +1,262 @@
+{
+  "weekOf": "2026-06-01",
+  "articles": [
+    {
+      "id": "de-news-2026-06-01-01",
+      "title": "Sommer beginnt mit viel Sonne",
+      "level": "A1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "topic": "Wetter"
+      },
+      "sentences": [
+        {
+          "id": "s1",
+          "text": "Der Sommer beginnt in Deutschland.",
+          "translation": "Summer is beginning in Germany.",
+          "grammarNote": "Subject–verb–location word order: subject (Der Sommer) + verb (beginnt) + place (in Deutschland). 'beginnen' (to begin) is regular in the Präsens: er/sie/es beginnt.",
+          "words": [
+            { "word": "Sommer", "definition": "summer", "partOfSpeech": "noun", "grammar": "der Sommer · Nominativ · Singular" },
+            { "word": "beginnt", "definition": "begins", "partOfSpeech": "verb", "grammar": "beginnen · Präsens · 3. Person Singular" }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Die Temperaturen steigen auf 30 Grad.",
+          "translation": "Temperatures are rising to 30 degrees.",
+          "grammarNote": "'steigen auf + Akkusativ' = to rise to (a value). Numbers combined with 'Grad' need no article: '30 Grad', not 'die 30 Grad'.",
+          "words": [
+            { "word": "Temperaturen", "definition": "temperatures", "partOfSpeech": "noun", "grammar": "die Temperatur · Nominativ · Plural" },
+            { "word": "steigen", "definition": "rise, climb", "partOfSpeech": "verb", "grammar": "steigen · Präsens · 3. Person Plural" },
+            { "word": "Grad", "definition": "degrees", "partOfSpeech": "noun", "grammar": "das Grad · same form singular and plural after numbers" }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Viele Menschen gehen ins Schwimmbad.",
+          "translation": "Many people go to the swimming pool.",
+          "grammarNote": "'ins' = 'in das', contracted — Akkusativ, used for movement into a place. 'gehen' (to go) is regular here in the plural: sie gehen.",
+          "words": [
+            { "word": "Menschen", "definition": "people", "partOfSpeech": "noun", "grammar": "der Mensch · Nominativ · Plural" },
+            { "word": "ins", "definition": "into the (contracted)", "partOfSpeech": "preposition", "grammar": "in + das → ins · Akkusativ · Bewegung" },
+            { "word": "Schwimmbad", "definition": "swimming pool", "partOfSpeech": "noun", "grammar": "das Schwimmbad · compound: schwimmen (to swim) + Bad (bath)" }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "Die Sonne scheint fast jeden Tag.",
+          "translation": "The sun shines almost every day.",
+          "grammarNote": "'jeden Tag' (every day) is a time expression in Akkusativ with no preposition. 'scheinen' (to shine) is a strong verb: sie scheint (singular).",
+          "words": [
+            { "word": "scheint", "definition": "shines", "partOfSpeech": "verb", "grammar": "scheinen · Präsens · 3. Person Singular" },
+            { "word": "fast", "definition": "almost", "partOfSpeech": "adverb", "grammar": "fast · Gradadverb" },
+            { "word": "jeden Tag", "definition": "every day", "partOfSpeech": "adverb", "grammar": "jeden · Akkusativ · Zeitangabe ohne Präposition" }
+          ]
+        },
+        {
+          "id": "s5",
+          "text": "Das Wetter bleibt warm bis zum Wochenende.",
+          "translation": "The weather stays warm until the weekend.",
+          "grammarNote": "'bleiben' (to stay) + adjective describes an ongoing state — 'bleibt warm' takes no ending on the predicate adjective. 'bis zum Wochenende' = until the weekend, a fixed combination with Dativ.",
+          "words": [
+            { "word": "bleibt", "definition": "stays, remains", "partOfSpeech": "verb", "grammar": "bleiben · Präsens · 3. Person Singular" },
+            { "word": "bis zum", "definition": "until the", "partOfSpeech": "preposition", "grammar": "bis zu + dem → bis zum · Dativ" },
+            { "word": "Wochenende", "definition": "weekend", "partOfSpeech": "noun", "grammar": "das Wochenende · compound: Woche (week) + Ende (end)" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-news-2026-06-01-02",
+      "title": "Immer mehr Deutsche essen vegetarisch",
+      "level": "A1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "topic": "Gesundheit"
+      },
+      "sentences": [
+        {
+          "id": "s1",
+          "text": "Viele Deutsche essen weniger Fleisch.",
+          "translation": "Many Germans eat less meat.",
+          "grammarNote": "'weniger' (less) is the comparative of 'wenig' and stays unchanged before a noun. 'essen' (to eat) has no vowel change in the plural: wir/sie essen.",
+          "words": [
+            { "word": "Deutsche", "definition": "Germans", "partOfSpeech": "noun", "grammar": "der/die Deutsche · Nominativ · Plural · adjective used as a noun" },
+            { "word": "weniger", "definition": "less", "partOfSpeech": "adjective", "grammar": "wenig · Komparativ · unveränderlich vor Nomen" },
+            { "word": "Fleisch", "definition": "meat", "partOfSpeech": "noun", "grammar": "das Fleisch · Akkusativ · uncountable" }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Eine neue Studie zeigt: Jeder fünfte Mensch isst vegetarisch.",
+          "translation": "A new study shows: every fifth person eats vegetarian.",
+          "grammarNote": "The colon introduces the study's finding, like in English. 'Jeder fünfte' = 'every fifth' — the ordinal number 'fünfte' takes a weak ending after 'jeder'. 'isst' is the irregular du/er-form of 'essen'.",
+          "words": [
+            { "word": "Studie", "definition": "study", "partOfSpeech": "noun", "grammar": "die Studie · Nominativ · Singular" },
+            { "word": "zeigt", "definition": "shows", "partOfSpeech": "verb", "grammar": "zeigen · Präsens · 3. Person Singular" },
+            { "word": "fünfte", "definition": "fifth", "partOfSpeech": "adjective", "grammar": "fünf → fünfte · Ordinalzahl · schwache Endung nach jeder" }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Die Zahl wächst jedes Jahr.",
+          "translation": "The number grows every year.",
+          "grammarNote": "'wachsen' (to grow) is a strong verb with a vowel change: er/sie/es wächst. 'jedes Jahr' is another Akkusativ time expression without a preposition.",
+          "words": [
+            { "word": "Zahl", "definition": "number", "partOfSpeech": "noun", "grammar": "die Zahl · Nominativ · Singular" },
+            { "word": "wächst", "definition": "grows", "partOfSpeech": "verb", "grammar": "wachsen · Präsens · 3. Person Singular · Vokalwechsel a→ä" }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "Ärzte sagen: Gemüse ist gesund für das Herz.",
+          "translation": "Doctors say: vegetables are healthy for the heart.",
+          "grammarNote": "'für + Akkusativ' = for (the benefit of). The predicative adjective 'gesund' after 'ist' takes no ending.",
+          "words": [
+            { "word": "Ärzte", "definition": "doctors", "partOfSpeech": "noun", "grammar": "der Arzt · Nominativ · Plural · Umlaut-Plural" },
+            { "word": "Gemüse", "definition": "vegetables", "partOfSpeech": "noun", "grammar": "das Gemüse · uncountable, singular form used for the whole category" },
+            { "word": "Herz", "definition": "heart", "partOfSpeech": "noun", "grammar": "das Herz · Akkusativ · irregular neuter noun" }
+          ]
+        },
+        {
+          "id": "s5",
+          "text": "Supermärkte verkaufen mehr pflanzliche Produkte.",
+          "translation": "Supermarkets sell more plant-based products.",
+          "grammarNote": "'mehr' (more), like 'weniger', is invariable. 'pflanzliche' takes a strong plural ending in Akkusativ since there's no article before 'mehr'.",
+          "words": [
+            { "word": "verkaufen", "definition": "sell", "partOfSpeech": "verb", "grammar": "verkaufen · Präsens · 3. Person Plural" },
+            { "word": "pflanzliche", "definition": "plant-based", "partOfSpeech": "adjective", "grammar": "pflanzlich → pflanzliche · Akkusativ · Plural · starke Endung" },
+            { "word": "Produkte", "definition": "products", "partOfSpeech": "noun", "grammar": "das Produkt · Akkusativ · Plural" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-news-2026-06-01-03",
+      "title": "Neue App hilft bei der Zugfahrt",
+      "level": "A1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "topic": "Technologie"
+      },
+      "sentences": [
+        {
+          "id": "s1",
+          "text": "Die Deutsche Bahn hat eine neue App.",
+          "translation": "Deutsche Bahn has a new app.",
+          "grammarNote": "'haben' + Akkusativ object: 'eine neue App'. 'Die Deutsche Bahn' (German Rail) still takes 'die' because 'Bahn' is a feminine noun.",
+          "words": [
+            { "word": "Bahn", "definition": "railway (company)", "partOfSpeech": "noun", "grammar": "die Bahn · Nominativ · Singular" },
+            { "word": "App", "definition": "app", "partOfSpeech": "noun", "grammar": "die App · Akkusativ · Singular · Anglizismus" }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Die App zeigt Verspätungen in Echtzeit.",
+          "translation": "The app shows delays in real time.",
+          "grammarNote": "'in Echtzeit' (in real time) is a fixed adverbial phrase, Dativ after 'in' for a manner/state. 'Verspätungen' is the plural of 'die Verspätung'.",
+          "words": [
+            { "word": "Verspätungen", "definition": "delays", "partOfSpeech": "noun", "grammar": "die Verspätung · Akkusativ · Plural" },
+            { "word": "Echtzeit", "definition": "real time", "partOfSpeech": "noun", "grammar": "die Echtzeit · compound: echt (real) + Zeit (time)" }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Reisende können den nächsten Zug einfach finden.",
+          "translation": "Travelers can easily find the next train.",
+          "grammarNote": "Modal verb 'können' (can) + infinitive at the end ('finden'). 'den nächsten Zug' is Akkusativ, the direct object of finden — 'nächsten' takes a weak ending after 'den'.",
+          "words": [
+            { "word": "Reisende", "definition": "travelers", "partOfSpeech": "noun", "grammar": "der/die Reisende · Nominativ · Plural · adjective used as a noun" },
+            { "word": "können", "definition": "can", "partOfSpeech": "verb", "grammar": "können · Präsens · 3. Person Plural · Modalverb" },
+            { "word": "einfach", "definition": "easily, simply", "partOfSpeech": "adverb", "grammar": "einfach · Modaladverb" }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "Die App ist kostenlos für alle.",
+          "translation": "The app is free for everyone.",
+          "grammarNote": "Predicative adjective 'kostenlos' after 'ist' takes no ending. 'für alle' = for everyone, Akkusativ after 'für'.",
+          "words": [
+            { "word": "kostenlos", "definition": "free of charge", "partOfSpeech": "adjective", "grammar": "kostenlos · Prädikativ · keine Endung nach sein" },
+            { "word": "alle", "definition": "everyone, all", "partOfSpeech": "pronoun", "grammar": "alle · Indefinitpronomen · Akkusativ nach für" }
+          ]
+        },
+        {
+          "id": "s5",
+          "text": "Viele Nutzer finden die App sehr praktisch.",
+          "translation": "Many users find the app very practical.",
+          "grammarNote": "Here 'finden' means 'to consider (something to be)', not 'to locate' — a common double meaning. 'sehr' intensifies 'praktisch'.",
+          "words": [
+            { "word": "Nutzer", "definition": "users", "partOfSpeech": "noun", "grammar": "der Nutzer · Nominativ · Plural · same form singular/plural" },
+            { "word": "praktisch", "definition": "practical", "partOfSpeech": "adjective", "grammar": "praktisch · prädikativ verwendet nach finden" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-news-2026-06-01-04",
+      "title": "Rock am Ring: Tausende Fans feiern Musik",
+      "level": "A1",
+      "genre": "news",
+      "source": "news",
+      "metadata": {
+        "topic": "Kultur"
+      },
+      "sentences": [
+        {
+          "id": "s1",
+          "text": "Rock am Ring ist ein großes Musikfestival.",
+          "translation": "Rock am Ring is a big music festival.",
+          "grammarNote": "Simple definition sentence: name + ist + indefinite article + adjective + noun. 'großes' takes the strong neuter ending after 'ein' (das Festival).",
+          "words": [
+            { "word": "großes", "definition": "big, large", "partOfSpeech": "adjective", "grammar": "groß → großes · Nominativ · Singular · Neutrum · nach ein" },
+            { "word": "Musikfestival", "definition": "music festival", "partOfSpeech": "noun", "grammar": "das Musikfestival · compound: Musik + Festival" }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Jedes Jahr kommen tausende Fans aus ganz Deutschland.",
+          "translation": "Every year, thousands of fans come from all over Germany.",
+          "grammarNote": "The time expression 'Jedes Jahr' starts the sentence, triggering inversion: verb (kommen) before subject (tausende Fans). 'aus ganz Deutschland' = from all over Germany.",
+          "words": [
+            { "word": "tausende", "definition": "thousands", "partOfSpeech": "noun", "grammar": "tausend → tausende · Nominativ · Plural · lowercase when used loosely as 'thousands of'" },
+            { "word": "ganz", "definition": "whole, all of", "partOfSpeech": "adjective", "grammar": "ganz · unveränderlich vor Ländernamen" }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Viele berühmte Bands spielen auf der Bühne.",
+          "translation": "Many famous bands play on the stage.",
+          "grammarNote": "'auf + Dativ' for location (being on a surface). 'berühmte' is a strong plural adjective ending since there's no article before 'viele'.",
+          "words": [
+            { "word": "berühmte", "definition": "famous", "partOfSpeech": "adjective", "grammar": "berühmt → berühmte · Nominativ · Plural · starke Endung" },
+            { "word": "Bühne", "definition": "stage", "partOfSpeech": "noun", "grammar": "die Bühne · Dativ · Singular" }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "Das Festival dauert drei Tage.",
+          "translation": "The festival lasts three days.",
+          "grammarNote": "'dauern' (to last) takes a direct time-length object in Akkusativ with no preposition: 'dauert drei Tage'.",
+          "words": [
+            { "word": "dauert", "definition": "lasts", "partOfSpeech": "verb", "grammar": "dauern · Präsens · 3. Person Singular" },
+            { "word": "Tage", "definition": "days", "partOfSpeech": "noun", "grammar": "der Tag · Akkusativ · Plural" }
+          ]
+        },
+        {
+          "id": "s5",
+          "text": "Die Fans campen zusammen auf einer großen Wiese.",
+          "translation": "The fans camp together on a big meadow.",
+          "grammarNote": "'campen' is a borrowed English verb, conjugated regularly: sie campen. 'auf einer großen Wiese' is Dativ after 'auf' (location) — 'großen' takes the weak ending after 'einer'.",
+          "words": [
+            { "word": "campen", "definition": "to camp", "partOfSpeech": "verb", "grammar": "campen · Präsens · 3. Person Plural · Anglizismus" },
+            { "word": "Wiese", "definition": "meadow", "partOfSpeech": "noun", "grammar": "die Wiese · Dativ · Singular" }
+          ]
+        }
+      ]
+    }
+  ]
+}

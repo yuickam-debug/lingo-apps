@@ -3,6 +3,8 @@ import type { Story } from '@lingo/shared/types';
 import { CEFRBadge } from '@lingo/shared/components';
 
 import week20260616 from '../content/news/week-2026-06-16.json';
+import week20260622 from '../content/news/week-2026-06-22.json';
+import week20261005 from '../content/news/week-2026-10-05.json';
 
 interface WeekData {
   weekOf: string;
@@ -15,7 +17,11 @@ const CACHE_KEY = 'lingo_news_da_v1';
 const CACHE_TS_KEY = 'lingo_news_da_v1_ts';
 const CACHE_TTL = 60 * 60 * 1000;
 
-const BUNDLED: WeekData[] = [week20260616 as unknown as WeekData];
+const BUNDLED: WeekData[] = [
+  week20260616 as unknown as WeekData,
+  week20260622 as unknown as WeekData,
+  week20261005 as unknown as WeekData,
+];
 
 function mergeWeeks(base: WeekData[], remote: WeekData[]): WeekData[] {
   const map = new Map<string, WeekData>();
