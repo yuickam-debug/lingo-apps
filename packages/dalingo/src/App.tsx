@@ -81,6 +81,13 @@ export default function App() {
   const openShadowing = (story: Story) => setShadowingState(story);
   const closeShadowing = () => setShadowingState(null);
 
+  const closeReview = () => {
+    setReviewOpen(false);
+    // ReviewSession writes SRS progress straight to storage, bypassing this
+    // component's state — reload so due/mastered counts reflect it.
+    setSavedWords(loadSavedWords('da'));
+  };
+
   return (
     <AppContext.Provider
       value={{
@@ -93,7 +100,7 @@ export default function App() {
     >
       <div className="app">
         {reviewOpen && (
-          <ReviewSession onClose={() => setReviewOpen(false)} />
+          <ReviewSession onClose={closeReview} />
         )}
 
         {shadowingState && (

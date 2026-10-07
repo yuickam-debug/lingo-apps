@@ -36,6 +36,11 @@ function shuffle<T>(arr: T[]): T[] {
 
 const LANGS: Lang[] = ['de', 'da'];
 
+// Cap how many cards land in one sitting so a large backlog doesn't feel
+// overwhelming. The most overdue words are prioritized so the backlog
+// still shrinks from the oldest end first.
+const MAX_SESSION_SIZE = 10;
+
 function buildSession(): SessionEntry[] {
   const allWords: Record<string, SavedWord> = {};
   const wordLang: Record<string, Lang> = {};
@@ -48,7 +53,10 @@ function buildSession(): SessionEntry[] {
     }
   }
 
-  const due = shuffle(getWordsDueToday(allWords));
+  const dueByAge = getWordsDueToday(allWords).sort((a, b) =>
+    a.srsState.nextReviewDate.localeCompare(b.srsState.nextReviewDate),
+  );
+  const due = shuffle(dueByAge.slice(0, MAX_SESSION_SIZE));
 
   const entries: SessionEntry[] = [];
   for (const word of due) {
