@@ -138,7 +138,7 @@ npm run dev
 - [x] Wire saved words to localStorage (persist across restarts)
 
 **Week 2 — Content Pipeline & Contextual Vocabulary**
-- [ ] Author 10+ stories per language in JSON format (DALingo has 11; DELingo has 9 — one short, and DALingo is missing stories 006/007)
+- [x] Author 10+ stories per language in JSON format (DELingo: 11, DALingo: 13 — the 006/007 gap is now filled)
 - [x] Author 5 news articles for DELingo week 1
 - [x] Build `<NewsDigest>` screen (DELingo) — built for both apps
 - [x] Build `<LyricsReader>` screen (DALingo)

@@ -39,3 +39,33 @@ setup), then read through CLAUDE.md, README.md, CONTENT_GUIDE.md, and every file
 **Not started:** nothing — all four weeks have working code behind them. The only
 remaining gap is finishing the Week 2 content (more stories, filling out news weeks),
 which is authoring work, not coding.
+
+## 2026-10-07 — Fixed the review-progress bug, added 4 stories, installed to phone
+You reported that review-card progress felt stuck at Box 1. I tested the actual
+Leitner/storage code directly and it was correct — the real bug was in the UI:
+`App.tsx`'s old `onClose` handler for the Review screen only hid the overlay, it
+never reloaded `savedWords` from storage afterward. Since `ReviewSession` writes
+straight to localStorage, bypassing React state, Home and Saved Words kept showing
+stale box counts until a full app restart — looked exactly like "nothing is
+progressing" even though the data was fine underneath. There was already an
+uncommitted fix for this sitting in the working tree (not written by me this
+session); I verified it was correct and committed it (`2fc391d`).
+
+Also added 4 new stories and committed them (`95ff46e`):
+- DELingo: Rotkäppchen (A1), Die Bremer Stadtmusikanten (A2) — now 11 stories.
+- DALingo: Fyrtøjet (A1), Den lille pige med svovlstikkerne (A1) — fills the
+  006/007 numbering gap, now 13 stories.
+
+Both apps were built and installed directly to your Pixel 9 over USB (adb),
+bypassing Android Studio's UI entirely. Along the way, found this machine only
+had a Java JRE, not a full JDK — installed a portable Temurin JDK 21 to
+`~/.local/jdks/` (no root needed, kept in place per your request) so Android
+builds work from the command line going forward.
+
+**What to test on the phone:** in both apps, save a couple of words, do a short
+review session, then check Saved Words — the Box 1/2/3 counts should now update
+immediately instead of staying frozen. Also check the Story Library for the new
+titles.
+
+**Unfinished:** DELingo's news coverage is still thin for several weeks (noted in
+the entry above) — still unconfirmed whether that's intentional.
