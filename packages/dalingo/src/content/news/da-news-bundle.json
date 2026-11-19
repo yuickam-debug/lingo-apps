@@ -2501,6 +2501,521 @@
           ]
         }
       ]
+    },
+    {
+      "weekOf": "2026-11-16",
+      "articles": [
+        {
+          "id": "da-news-2026w47-01",
+          "title": "Dagene bliver korte i Danmark",
+          "level": "A1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-11-16",
+            "topic": "Vejr"
+          },
+          "sentences": [
+            {
+              "id": "da-n01-s01",
+              "text": "Dagene bliver korte i november.",
+              "translation": "The days are getting short in November.",
+              "words": [
+                {
+                  "word": "Dagene",
+                  "definition": "the days",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "en dag · definite plural: dagene"
+                },
+                {
+                  "word": "bliver",
+                  "definition": "become, get",
+                  "partOfSpeech": "verb",
+                  "grammar": "blive · present: bliver"
+                }
+              ]
+            },
+            {
+              "id": "da-n01-s02",
+              "text": "Solen går ned klokken fire.",
+              "translation": "The sun sets at four o'clock.",
+              "words": [
+                {
+                  "word": "Solen",
+                  "definition": "the sun",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en sol · definite: solen"
+                },
+                {
+                  "word": "går ned",
+                  "definition": "sets, goes down",
+                  "partOfSpeech": "verb",
+                  "grammar": "gå ned · present: går ned"
+                },
+                {
+                  "word": "klokken",
+                  "definition": "o'clock",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en klokke · klokken fire = four o'clock"
+                }
+              ]
+            },
+            {
+              "id": "da-n01-s03",
+              "text": "Det er koldt og ofte gråt.",
+              "translation": "It is cold and often grey.",
+              "words": [
+                {
+                  "word": "koldt",
+                  "definition": "cold",
+                  "partOfSpeech": "adj.",
+                  "grammar": "kold · neuter form with 'det': koldt"
+                },
+                {
+                  "word": "gråt",
+                  "definition": "grey",
+                  "partOfSpeech": "adj.",
+                  "grammar": "grå · neuter form: gråt"
+                }
+              ]
+            },
+            {
+              "id": "da-n01-s04",
+              "text": "Mange tænder lys om aftenen.",
+              "translation": "Many people light candles in the evening.",
+              "words": [
+                {
+                  "word": "tænder",
+                  "definition": "light (a candle)",
+                  "partOfSpeech": "verb",
+                  "grammar": "tænde · present: tænder"
+                },
+                {
+                  "word": "lys",
+                  "definition": "candles, lights",
+                  "partOfSpeech": "noun, n. pl.",
+                  "grammar": "et lys · plural: lys (no ending)"
+                },
+                {
+                  "word": "om aftenen",
+                  "definition": "in the evening",
+                  "partOfSpeech": "adv.",
+                  "grammar": "om + definite noun = regular time: om aftenen"
+                }
+              ]
+            },
+            {
+              "id": "da-n01-s05",
+              "text": "Snart kommer vinteren.",
+              "translation": "Soon winter is coming.",
+              "words": [
+                {
+                  "word": "Snart",
+                  "definition": "soon",
+                  "partOfSpeech": "adv.",
+                  "grammar": "snart · first in the sentence → verb comes second"
+                },
+                {
+                  "word": "vinteren",
+                  "definition": "the winter",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en vinter · definite: vinteren"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "da-news-2026w47-02",
+          "title": "Hygge i den mørke tid",
+          "level": "A2",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-11-17",
+            "topic": "Livsstil"
+          },
+          "sentences": [
+            {
+              "id": "da-n02-s01",
+              "text": "Når det er mørkt udenfor, hygger danskerne sig indenfor.",
+              "translation": "When it is dark outside, Danes get cosy indoors.",
+              "words": [
+                {
+                  "word": "mørkt",
+                  "definition": "dark",
+                  "partOfSpeech": "adj.",
+                  "grammar": "mørk · neuter form with 'det': mørkt"
+                },
+                {
+                  "word": "hygger",
+                  "definition": "get cosy",
+                  "partOfSpeech": "verb",
+                  "grammar": "hygge sig · present: hygger sig · reflexive"
+                },
+                {
+                  "word": "indenfor",
+                  "definition": "indoors, inside",
+                  "partOfSpeech": "adv.",
+                  "grammar": "indenfor ↔ udenfor (outside)"
+                }
+              ]
+            },
+            {
+              "id": "da-n02-s02",
+              "text": "De drikker kaffe og spiser kage med familie og venner.",
+              "translation": "They drink coffee and eat cake with family and friends.",
+              "words": [
+                {
+                  "word": "kage",
+                  "definition": "cake",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en kage · no article = cake in general"
+                },
+                {
+                  "word": "venner",
+                  "definition": "friends",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "en ven · plural: venner"
+                }
+              ]
+            },
+            {
+              "id": "da-n02-s03",
+              "text": "Mange spiller brætspil eller læser en god bog.",
+              "translation": "Many play board games or read a good book.",
+              "words": [
+                {
+                  "word": "brætspil",
+                  "definition": "board games",
+                  "partOfSpeech": "noun, n. pl.",
+                  "grammar": "et brætspil · bræt (board) + spil (game) · plural: brætspil"
+                },
+                {
+                  "word": "bog",
+                  "definition": "book",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en bog · plural: bøger"
+                }
+              ]
+            },
+            {
+              "id": "da-n02-s04",
+              "text": "Ordet \"hygge\" er svært at oversætte til engelsk.",
+              "translation": "The word \"hygge\" is hard to translate into English.",
+              "words": [
+                {
+                  "word": "Ordet",
+                  "definition": "the word",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "et ord · definite: ordet"
+                },
+                {
+                  "word": "svært",
+                  "definition": "difficult",
+                  "partOfSpeech": "adj.",
+                  "grammar": "svær · neuter form: svært · svært at + infinitive"
+                },
+                {
+                  "word": "oversætte",
+                  "definition": "translate",
+                  "partOfSpeech": "verb",
+                  "grammar": "oversætte · infinitive after 'at'"
+                }
+              ]
+            },
+            {
+              "id": "da-n02-s05",
+              "text": "Det betyder noget i stil med en varm og tryg stemning.",
+              "translation": "It means something like a warm and safe atmosphere.",
+              "words": [
+                {
+                  "word": "i stil med",
+                  "definition": "something like",
+                  "partOfSpeech": "phrase",
+                  "grammar": "i stil med = along the lines of"
+                },
+                {
+                  "word": "tryg",
+                  "definition": "safe, secure",
+                  "partOfSpeech": "adj.",
+                  "grammar": "tryg · common gender, no ending"
+                },
+                {
+                  "word": "stemning",
+                  "definition": "atmosphere, mood",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en stemning · plural: stemninger"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "da-news-2026w47-03",
+          "title": "Mørket kan påvirke humøret",
+          "level": "B1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-11-18",
+            "topic": "Sundhed"
+          },
+          "sentences": [
+            {
+              "id": "da-n03-s01",
+              "text": "Om vinteren får danskerne meget mindre dagslys end om sommeren.",
+              "translation": "In winter Danes get much less daylight than in summer.",
+              "words": [
+                {
+                  "word": "mindre",
+                  "definition": "less",
+                  "partOfSpeech": "adj.",
+                  "grammar": "lidt → mindre → mindst · comparative"
+                },
+                {
+                  "word": "dagslys",
+                  "definition": "daylight",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "et dagslys · dag (day) + lys (light)"
+                }
+              ]
+            },
+            {
+              "id": "da-n03-s02",
+              "text": "For nogle mennesker kan det påvirke både søvn og humør.",
+              "translation": "For some people it can affect both sleep and mood.",
+              "words": [
+                {
+                  "word": "påvirke",
+                  "definition": "affect, influence",
+                  "partOfSpeech": "verb",
+                  "grammar": "påvirke · infinitive after modal 'kan'"
+                },
+                {
+                  "word": "søvn",
+                  "definition": "sleep",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en søvn · usually no article"
+                },
+                {
+                  "word": "humør",
+                  "definition": "mood",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "et humør · godt/dårligt humør = good/bad mood"
+                }
+              ]
+            },
+            {
+              "id": "da-n03-s03",
+              "text": "Lægerne anbefaler at gå en tur udenfor, mens det er lyst.",
+              "translation": "Doctors recommend going for a walk outside while it is light.",
+              "words": [
+                {
+                  "word": "anbefaler",
+                  "definition": "recommend",
+                  "partOfSpeech": "verb",
+                  "grammar": "anbefale · present: anbefaler"
+                },
+                {
+                  "word": "gå en tur",
+                  "definition": "go for a walk",
+                  "partOfSpeech": "phrase",
+                  "grammar": "gå en tur = take a walk"
+                },
+                {
+                  "word": "mens",
+                  "definition": "while",
+                  "partOfSpeech": "conj.",
+                  "grammar": "mens · subordinating conjunction"
+                },
+                {
+                  "word": "lyst",
+                  "definition": "light (not dark)",
+                  "partOfSpeech": "adj.",
+                  "grammar": "lys · neuter form with 'det': lyst"
+                }
+              ]
+            },
+            {
+              "id": "da-n03-s04",
+              "text": "Det kan også være en god idé at tage D-vitamin i de mørke måneder.",
+              "translation": "It can also be a good idea to take vitamin D in the dark months.",
+              "words": [
+                {
+                  "word": "D-vitamin",
+                  "definition": "vitamin D",
+                  "partOfSpeech": "noun, n.",
+                  "grammar": "et D-vitamin · letter comes first in Danish"
+                },
+                {
+                  "word": "mørke",
+                  "definition": "dark",
+                  "partOfSpeech": "adj.",
+                  "grammar": "mørk · definite/plural form after 'de': mørke"
+                },
+                {
+                  "word": "måneder",
+                  "definition": "months",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "en måned · plural: måneder"
+                }
+              ]
+            },
+            {
+              "id": "da-n03-s05",
+              "text": "Hvis man føler sig trist i lang tid, bør man tale med sin læge.",
+              "translation": "If you feel sad for a long time, you should talk to your doctor.",
+              "words": [
+                {
+                  "word": "føler sig",
+                  "definition": "feel",
+                  "partOfSpeech": "verb",
+                  "grammar": "føle sig · reflexive · man føler sig = one feels"
+                },
+                {
+                  "word": "bør",
+                  "definition": "should, ought to",
+                  "partOfSpeech": "verb",
+                  "grammar": "burde · present: bør · modal verb"
+                },
+                {
+                  "word": "sin",
+                  "definition": "one's own",
+                  "partOfSpeech": "pron.",
+                  "grammar": "sin · reflexive possessive, refers back to the subject 'man'"
+                },
+                {
+                  "word": "læge",
+                  "definition": "doctor",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en læge · plural: læger"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "da-news-2026w47-04",
+          "title": "Julemarkederne åbner",
+          "level": "A2",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "publishedDate": "2026-11-19",
+            "topic": "Kultur"
+          },
+          "sentences": [
+            {
+              "id": "da-n04-s01",
+              "text": "I midten af november åbner de første julemarkeder.",
+              "translation": "In mid-November the first Christmas markets open.",
+              "words": [
+                {
+                  "word": "midten",
+                  "definition": "the middle",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en midte · definite: midten · i midten af = in the middle of"
+                },
+                {
+                  "word": "julemarkeder",
+                  "definition": "Christmas markets",
+                  "partOfSpeech": "noun, n. pl.",
+                  "grammar": "et julemarked · jul (Christmas) + marked (market)"
+                }
+              ]
+            },
+            {
+              "id": "da-n04-s02",
+              "text": "Tivoli i København er pyntet med tusindvis af lys.",
+              "translation": "Tivoli in Copenhagen is decorated with thousands of lights.",
+              "words": [
+                {
+                  "word": "pyntet",
+                  "definition": "decorated",
+                  "partOfSpeech": "past part.",
+                  "grammar": "pynte (to decorate) · past participle: pyntet"
+                },
+                {
+                  "word": "tusindvis af",
+                  "definition": "thousands of",
+                  "partOfSpeech": "phrase",
+                  "grammar": "tusind (thousand) + -vis · tusindvis af = thousands of"
+                }
+              ]
+            },
+            {
+              "id": "da-n04-s03",
+              "text": "Man kan købe gløgg og æbleskiver i små boder.",
+              "translation": "You can buy mulled wine and æbleskiver at small stalls.",
+              "words": [
+                {
+                  "word": "gløgg",
+                  "definition": "mulled wine",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en gløgg · Danish Christmas drink"
+                },
+                {
+                  "word": "æbleskiver",
+                  "definition": "round Danish pancake balls",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "en æbleskive · æble (apple) + skive (slice)"
+                },
+                {
+                  "word": "boder",
+                  "definition": "stalls",
+                  "partOfSpeech": "noun, c. pl.",
+                  "grammar": "en bod · plural: boder"
+                }
+              ]
+            },
+            {
+              "id": "da-n04-s04",
+              "text": "Mange børn glæder sig allerede til jul.",
+              "translation": "Many children are already looking forward to Christmas.",
+              "words": [
+                {
+                  "word": "børn",
+                  "definition": "children",
+                  "partOfSpeech": "noun, n. pl.",
+                  "grammar": "et barn · irregular plural: børn"
+                },
+                {
+                  "word": "glæder sig",
+                  "definition": "look forward",
+                  "partOfSpeech": "verb",
+                  "grammar": "glæde sig til = look forward to · reflexive"
+                },
+                {
+                  "word": "allerede",
+                  "definition": "already",
+                  "partOfSpeech": "adv.",
+                  "grammar": "allerede"
+                }
+              ]
+            },
+            {
+              "id": "da-n04-s05",
+              "text": "Det er kun lidt over en måned til juleaften.",
+              "translation": "It is only a little over a month until Christmas Eve.",
+              "words": [
+                {
+                  "word": "kun",
+                  "definition": "only",
+                  "partOfSpeech": "adv.",
+                  "grammar": "kun"
+                },
+                {
+                  "word": "juleaften",
+                  "definition": "Christmas Eve",
+                  "partOfSpeech": "noun, c.",
+                  "grammar": "en juleaften · 24 December, when Danes celebrate Christmas"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -5,6 +5,7 @@ import { CEFRBadge } from '@lingo/shared/components';
 import week20260616 from '../content/news/week-2026-06-16.json';
 import week20260622 from '../content/news/week-2026-06-22.json';
 import week20261005 from '../content/news/week-2026-10-05.json';
+import week20261116 from '../content/news/week-2026-11-16.json';
 
 interface WeekData {
   weekOf: string;
@@ -21,6 +22,7 @@ const BUNDLED: WeekData[] = [
   week20260616 as unknown as WeekData,
   week20260622 as unknown as WeekData,
   week20261005 as unknown as WeekData,
+  week20261116 as unknown as WeekData,
 ];
 
 function mergeWeeks(base: WeekData[], remote: WeekData[]): WeekData[] {

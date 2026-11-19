@@ -2758,6 +2758,489 @@
           ]
         }
       ]
+    },
+    {
+      "weekOf": "2026-11-16",
+      "articles": [
+        {
+          "id": "de-news-2026-11-16-01",
+          "title": "Der Winter kommt nach Deutschland",
+          "level": "A1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "topic": "Wetter"
+          },
+          "sentences": [
+            {
+              "id": "s1",
+              "text": "Im November wird es in Deutschland kalt.",
+              "translation": "In November it gets cold in Germany.",
+              "grammarNote": "'es wird kalt' = it gets cold: impersonal 'es' + 'werden' + adjective. 'im' = 'in dem', used with months.",
+              "words": [
+                {
+                  "word": "wird",
+                  "definition": "becomes, gets",
+                  "partOfSpeech": "verb",
+                  "grammar": "werden · Präsens · 3. Person Singular"
+                },
+                {
+                  "word": "kalt",
+                  "definition": "cold",
+                  "partOfSpeech": "adjective",
+                  "grammar": "kalt · prädikativ, keine Endung"
+                }
+              ]
+            },
+            {
+              "id": "s2",
+              "text": "Am Morgen ist es oft neblig und grau.",
+              "translation": "In the morning it is often foggy and grey.",
+              "grammarNote": "Time phrase first, so the verb 'ist' comes second and 'es' moves after it. 'am' = 'an dem' (Dativ).",
+              "words": [
+                {
+                  "word": "Morgen",
+                  "definition": "morning",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Morgen · Dativ · Singular · 'am Morgen'"
+                },
+                {
+                  "word": "neblig",
+                  "definition": "foggy",
+                  "partOfSpeech": "adjective",
+                  "grammar": "neblig · from der Nebel (fog)"
+                }
+              ]
+            },
+            {
+              "id": "s3",
+              "text": "Die Tage werden kürzer.",
+              "translation": "The days are getting shorter.",
+              "grammarNote": "Comparative = adjective + '-er'; short adjectives often add an Umlaut: kurz → kürzer.",
+              "words": [
+                {
+                  "word": "Tage",
+                  "definition": "days",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Tag · Nominativ · Plural"
+                },
+                {
+                  "word": "kürzer",
+                  "definition": "shorter",
+                  "partOfSpeech": "adjective",
+                  "grammar": "kurz → kürzer · Komparativ"
+                }
+              ]
+            },
+            {
+              "id": "s4",
+              "text": "In den Bergen fällt schon der erste Schnee.",
+              "translation": "The first snow is already falling in the mountains.",
+              "grammarNote": "Verb-second rule: the place phrase comes first, so the subject 'der erste Schnee' goes after the verb.",
+              "words": [
+                {
+                  "word": "Bergen",
+                  "definition": "mountains",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Berg · Dativ · Plural · 'in' + Dativ (wo?)"
+                },
+                {
+                  "word": "Schnee",
+                  "definition": "snow",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Schnee · Nominativ · Singular"
+                },
+                {
+                  "word": "fällt",
+                  "definition": "falls",
+                  "partOfSpeech": "verb",
+                  "grammar": "fallen · Präsens · 3. Person Singular · a → ä"
+                }
+              ]
+            },
+            {
+              "id": "s5",
+              "text": "Viele Menschen trinken jetzt gern einen heißen Tee.",
+              "translation": "Many people now like to drink a hot tea.",
+              "grammarNote": "'gern' + verb = to like doing something. 'einen heißen Tee' is masculine Akkusativ: einen + -en.",
+              "words": [
+                {
+                  "word": "gern",
+                  "definition": "gladly, like to",
+                  "partOfSpeech": "adverb",
+                  "grammar": "gern · verb + gern = etwas gern tun"
+                },
+                {
+                  "word": "Tee",
+                  "definition": "tea",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Tee · Akkusativ · Singular"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026-11-16-02",
+          "title": "Kinder feiern Sankt Martin",
+          "level": "A1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "topic": "Kultur"
+          },
+          "sentences": [
+            {
+              "id": "s1",
+              "text": "Am 11. November feiern viele Kinder Sankt Martin.",
+              "translation": "On November 11, many children celebrate St. Martin's Day.",
+              "grammarNote": "Dates use 'am' + ordinal number: 'am elften November'. The verb 'feiern' stays in second position.",
+              "words": [
+                {
+                  "word": "feiern",
+                  "definition": "celebrate",
+                  "partOfSpeech": "verb",
+                  "grammar": "feiern · Präsens · 3. Person Plural"
+                }
+              ]
+            },
+            {
+              "id": "s2",
+              "text": "Sie laufen am Abend mit bunten Laternen durch die Straßen.",
+              "translation": "In the evening they walk through the streets with colorful lanterns.",
+              "grammarNote": "'mit' always takes Dativ (mit bunten Laternen); 'durch' always takes Akkusativ (durch die Straßen).",
+              "words": [
+                {
+                  "word": "Laternen",
+                  "definition": "lanterns",
+                  "partOfSpeech": "noun",
+                  "grammar": "die Laterne · Dativ · Plural"
+                },
+                {
+                  "word": "bunten",
+                  "definition": "colorful",
+                  "partOfSpeech": "adjective",
+                  "grammar": "bunt · Dativ Plural · -en"
+                },
+                {
+                  "word": "Straßen",
+                  "definition": "streets",
+                  "partOfSpeech": "noun",
+                  "grammar": "die Straße · Akkusativ · Plural"
+                }
+              ]
+            },
+            {
+              "id": "s3",
+              "text": "Die Kinder singen zusammen Lieder.",
+              "translation": "The children sing songs together.",
+              "grammarNote": "Many neuter nouns form the plural with '-er': das Lied → die Lieder.",
+              "words": [
+                {
+                  "word": "singen",
+                  "definition": "sing",
+                  "partOfSpeech": "verb",
+                  "grammar": "singen · Präsens · 3. Person Plural"
+                },
+                {
+                  "word": "Lieder",
+                  "definition": "songs",
+                  "partOfSpeech": "noun",
+                  "grammar": "das Lied · Akkusativ · Plural"
+                }
+              ]
+            },
+            {
+              "id": "s4",
+              "text": "Sankt Martin hat seinen Mantel mit einem armen Mann geteilt.",
+              "translation": "St. Martin shared his coat with a poor man.",
+              "grammarNote": "Perfekt: 'hat' + past participle 'geteilt' at the end. 'seinen Mantel' is masculine Akkusativ.",
+              "words": [
+                {
+                  "word": "Mantel",
+                  "definition": "coat, cloak",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Mantel · Akkusativ · Singular"
+                },
+                {
+                  "word": "armen",
+                  "definition": "poor",
+                  "partOfSpeech": "adjective",
+                  "grammar": "arm · Dativ · Singular · Maskulinum"
+                },
+                {
+                  "word": "geteilt",
+                  "definition": "shared",
+                  "partOfSpeech": "verb",
+                  "grammar": "teilen · Partizip II"
+                }
+              ]
+            },
+            {
+              "id": "s5",
+              "text": "Danach essen viele Familien eine Martinsgans.",
+              "translation": "Afterwards many families eat a St. Martin's goose.",
+              "grammarNote": "Compound noun: Martin + s + Gans. The last part decides the gender: die Gans → die Martinsgans.",
+              "words": [
+                {
+                  "word": "Danach",
+                  "definition": "afterwards",
+                  "partOfSpeech": "adverb",
+                  "grammar": "danach · unverändert"
+                },
+                {
+                  "word": "Martinsgans",
+                  "definition": "St. Martin's goose",
+                  "partOfSpeech": "noun",
+                  "grammar": "die Martinsgans · Akkusativ · compound: Martin + Gans (goose)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026-11-16-03",
+          "title": "Bald öffnen die Weihnachtsmärkte",
+          "level": "A1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "topic": "Fest"
+          },
+          "sentences": [
+            {
+              "id": "s1",
+              "text": "Ende November öffnen in Deutschland die Weihnachtsmärkte.",
+              "translation": "At the end of November the Christmas markets open in Germany.",
+              "grammarNote": "Time phrase 'Ende November' (no preposition needed) comes first, so the subject comes after the verb.",
+              "words": [
+                {
+                  "word": "Weihnachtsmärkte",
+                  "definition": "Christmas markets",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Weihnachtsmarkt · Nominativ · Plural · Weihnachten + Markt"
+                },
+                {
+                  "word": "öffnen",
+                  "definition": "open",
+                  "partOfSpeech": "verb",
+                  "grammar": "öffnen · Präsens · 3. Person Plural"
+                }
+              ]
+            },
+            {
+              "id": "s2",
+              "text": "Es gibt kleine Häuser aus Holz mit vielen Lichtern.",
+              "translation": "There are small wooden huts with lots of lights.",
+              "grammarNote": "'es gibt' + Akkusativ = there is/are. 'aus Holz' = made of wood ('aus' + Dativ).",
+              "words": [
+                {
+                  "word": "Häuser",
+                  "definition": "houses, huts",
+                  "partOfSpeech": "noun",
+                  "grammar": "das Haus · Akkusativ · Plural · Umlaut + -er"
+                },
+                {
+                  "word": "Holz",
+                  "definition": "wood",
+                  "partOfSpeech": "noun",
+                  "grammar": "das Holz · Dativ · Singular"
+                },
+                {
+                  "word": "Lichtern",
+                  "definition": "lights",
+                  "partOfSpeech": "noun",
+                  "grammar": "das Licht · Dativ · Plural · -n in Dativ Plural"
+                }
+              ]
+            },
+            {
+              "id": "s3",
+              "text": "Die Leute trinken Glühwein und essen Lebkuchen.",
+              "translation": "People drink mulled wine and eat gingerbread.",
+              "grammarNote": "No article for things in general: 'Glühwein trinken' = drink (some) mulled wine.",
+              "words": [
+                {
+                  "word": "Glühwein",
+                  "definition": "mulled wine",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Glühwein · glühen (glow) + Wein (wine)"
+                },
+                {
+                  "word": "Lebkuchen",
+                  "definition": "gingerbread",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Lebkuchen · Plural: die Lebkuchen"
+                }
+              ]
+            },
+            {
+              "id": "s4",
+              "text": "Der Markt in Nürnberg ist sehr bekannt.",
+              "translation": "The market in Nuremberg is very famous.",
+              "grammarNote": "'sein' + adjective: the adjective after 'ist' takes no ending.",
+              "words": [
+                {
+                  "word": "Markt",
+                  "definition": "market",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Markt · Nominativ · Singular"
+                },
+                {
+                  "word": "bekannt",
+                  "definition": "well-known, famous",
+                  "partOfSpeech": "adjective",
+                  "grammar": "bekannt · prädikativ, keine Endung"
+                }
+              ]
+            },
+            {
+              "id": "s5",
+              "text": "Viele Menschen kaufen hier ihre ersten Geschenke.",
+              "translation": "Many people buy their first presents here.",
+              "grammarNote": "'ihre' = their (plural possessive). 'ersten' has a weak ending after the possessive in the plural.",
+              "words": [
+                {
+                  "word": "kaufen",
+                  "definition": "buy",
+                  "partOfSpeech": "verb",
+                  "grammar": "kaufen · Präsens · 3. Person Plural"
+                },
+                {
+                  "word": "Geschenke",
+                  "definition": "presents, gifts",
+                  "partOfSpeech": "noun",
+                  "grammar": "das Geschenk · Akkusativ · Plural"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "de-news-2026-11-16-04",
+          "title": "Erkältungszeit: Viele Menschen sind krank",
+          "level": "A1",
+          "genre": "news",
+          "source": "news",
+          "metadata": {
+            "topic": "Gesundheit"
+          },
+          "sentences": [
+            {
+              "id": "s1",
+              "text": "Im Herbst und im Winter sind viele Menschen erkältet.",
+              "translation": "In autumn and winter many people have a cold.",
+              "grammarNote": "'erkältet sein' = to have a cold. The participle of 'sich erkälten' is used like an adjective.",
+              "words": [
+                {
+                  "word": "erkältet",
+                  "definition": "have a cold",
+                  "partOfSpeech": "adjective",
+                  "grammar": "sich erkälten → erkältet · Partizip II als Adjektiv"
+                }
+              ]
+            },
+            {
+              "id": "s2",
+              "text": "Sie haben Schnupfen, Husten oder Halsschmerzen.",
+              "translation": "They have a runny nose, a cough or a sore throat.",
+              "grammarNote": "Illnesses with 'haben' often need no article. 'Halsschmerzen' is almost always plural.",
+              "words": [
+                {
+                  "word": "Schnupfen",
+                  "definition": "runny nose, sniffles",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Schnupfen · Akkusativ · Singular"
+                },
+                {
+                  "word": "Husten",
+                  "definition": "cough",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Husten · Akkusativ · Singular"
+                },
+                {
+                  "word": "Halsschmerzen",
+                  "definition": "sore throat",
+                  "partOfSpeech": "noun",
+                  "grammar": "die Halsschmerzen · Plural · Hals (throat) + Schmerzen (pains)"
+                }
+              ]
+            },
+            {
+              "id": "s3",
+              "text": "Ärzte sagen: „Waschen Sie sich oft die Hände!“",
+              "translation": "Doctors say: \"Wash your hands often!\"",
+              "grammarNote": "Polite imperative: verb first + 'Sie'. Body parts use 'sich' + definite article, not 'Ihre'.",
+              "words": [
+                {
+                  "word": "Ärzte",
+                  "definition": "doctors",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Arzt · Nominativ · Plural · Umlaut + -e"
+                },
+                {
+                  "word": "Waschen",
+                  "definition": "wash",
+                  "partOfSpeech": "verb",
+                  "grammar": "waschen · Imperativ · Sie-Form"
+                },
+                {
+                  "word": "Hände",
+                  "definition": "hands",
+                  "partOfSpeech": "noun",
+                  "grammar": "die Hand · Akkusativ · Plural"
+                }
+              ]
+            },
+            {
+              "id": "s4",
+              "text": "Wer krank ist, soll zu Hause bleiben.",
+              "translation": "Anyone who is sick should stay at home.",
+              "grammarNote": "'wer' = whoever; in the 'wer' clause the verb goes to the end. Modal 'soll' + infinitive 'bleiben' at the end.",
+              "words": [
+                {
+                  "word": "soll",
+                  "definition": "should",
+                  "partOfSpeech": "verb",
+                  "grammar": "sollen · Präsens · 3. Person Singular · Modalverb"
+                },
+                {
+                  "word": "zu Hause",
+                  "definition": "at home",
+                  "partOfSpeech": "adverb",
+                  "grammar": "zu Hause · fixed phrase (wo?)"
+                },
+                {
+                  "word": "bleiben",
+                  "definition": "stay",
+                  "partOfSpeech": "verb",
+                  "grammar": "bleiben · Infinitiv"
+                }
+              ]
+            },
+            {
+              "id": "s5",
+              "text": "Viel Schlaf und warmer Tee helfen auch.",
+              "translation": "Lots of sleep and warm tea also help.",
+              "grammarNote": "No article → the adjective shows the case: 'warmer Tee' = masculine Nominativ, strong ending '-er'.",
+              "words": [
+                {
+                  "word": "Schlaf",
+                  "definition": "sleep",
+                  "partOfSpeech": "noun",
+                  "grammar": "der Schlaf · Nominativ · Singular"
+                },
+                {
+                  "word": "helfen",
+                  "definition": "help",
+                  "partOfSpeech": "verb",
+                  "grammar": "helfen · Präsens · 3. Person Plural"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
